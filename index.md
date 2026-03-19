@@ -22,7 +22,6 @@ Das Fundament unserer Rezepte ist die Förderung der kulinarischen Körperintell
 „Kurt kocht“ ist eine Einladung, die Küche als Labor für das eigene Wohlbefinden zu entdecken. Wir setzen auf Präzision in der Vorbereitung und Leidenschaft im Moment des Essens.
 
 ---
-*Wir wünschen viel Freude beim Entdecken und Genießen!*
 
 ### Inhaltsverzeichnis – Die Rezepte
 
