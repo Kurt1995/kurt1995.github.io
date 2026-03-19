@@ -23,4 +23,5 @@ Das Fundament unserer Rezepte ist die Förderung der kulinarischen Körperintell
 
 ---
 *Wir wünschen viel Freude beim Entdecken und Genießen!*
+
 **Kontakt & Rückmeldungen:** [Kurt1995@mail.de](mailto:Kurt1995@mail.de)
