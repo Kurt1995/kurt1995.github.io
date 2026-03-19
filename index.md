@@ -24,4 +24,26 @@ Das Fundament unserer Rezepte ist die Förderung der kulinarischen Körperintell
 ---
 *Wir wünschen viel Freude beim Entdecken und Genießen!*
 
+### Inhaltsverzeichnis – Die Rezepte
+
+*Hier entsteht sukzessive die digitale Bibliothek des „Kurt kocht“ Systems. Die Rezepte werden nacheinander freigeschaltet und verlinkt.*
+
+1.  **Dinkelpenne in Tomate**
+2.  **Zucchini Pasta**
+3.  **Bunte Pilzpfanne**
+4.  **Brokkoli Pfanne**
+5.  **Deftige Kartoffelsuppe**
+6.  **Opa Salat**
+7.  **Zucchini Paprika mit Leber**
+8.  **Gehaltvolle Zucchini-Paprika Creme**
+9.  **Nudeln in Winter-Tomate**
+10. **Blumenkohl Pfanne**
+11. **Paprika mit Frischkäse**
+12. **Dicke Rippe**
+
+*Hinweis: Weitere Rezepte sind in Arbeit.*
+
+---
+*Wir wünschen viel Freude beim Entdecken und Genießen!*
+
 **Kontakt & Rückmeldungen:** [Kurt1995@mail.de](mailto:Kurt1995@mail.de)
