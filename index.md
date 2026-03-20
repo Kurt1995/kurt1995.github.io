@@ -10,7 +10,7 @@
 
 [02 - Zucchini Pasta](02-zucchini-pasta.md)
 
-**Bunte Pilzpfanne**
+[03 - Bunte Pilzpfanne](03-bunte-pilzpfanne.md)
 
 **Brokkoli Pfanne**
 
