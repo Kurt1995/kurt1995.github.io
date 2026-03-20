@@ -27,7 +27,7 @@ Dieses Rezept ist ein Paradebeispiel für „Volume Eating“ – eine große Po
 
 ### 2. Zubereitung am Verzehrtag
 1. **Anbraten:** 5 Esslöffel Olivenöl in einer Wok-Pfanne erhitzen.
-2. **Pilze:** Die Champignons in die Pfanne geben und bei geschlossenem Deckel (Vorsicht, sie „hopsen“!) für 3–5 Minuten scharf anbraten.
+2. **Pilze:** Die Champignons in die Pfanne geben und bei geschlossenem Deckel (Vorsicht, sie „hopsen“) für 3–5 Minuten scharf anbraten.
 3. **Kombinieren:** Den aufgetauten Brokkoli und die Vollkornpenne hinzugeben.
 4. **Würzen:** Alles mit einigen Spritzern Teriyaki-Sauce und Fondor würzen.
 5. **Garen:** Auf mittlerer Flamme für 7–10 Minuten braten bzw. garen; dabei mehrmals umrühren.
