@@ -1,4 +1,4 @@
-# Kurt kocht (03) – Bunte Pilzpfanne
+# Kurt kocht – Bunte Pilzpfanne
 
 Dieses Gericht besticht durch seine effiziente Vorratsküche und die kurze Zubereitungszeit am Verzehrtag. Es ist eine gehaltvolle Mahlzeit, die besonders durch den Mix aus tierischem Eiweiß und pflanzlichen Proteinen punktet.
 
