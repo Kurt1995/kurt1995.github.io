@@ -4,7 +4,7 @@
 
 ---
 
-*Hier entsteht sukzessive die digitale Bibliothek des „Kurt kocht“ Systems. Die Rezepte werden nacheinander freigeschaltet und verlinkt.*
+*Hier entsteht sukzessive die digitale Bibliothek des „Kurt kocht“ Systems. Die Rezepte werden freigeschaltet und verlinkt.*
 
 [01 - Dinkelpenne in Tomate](01-dinkelpenne.md)
 
@@ -12,7 +12,7 @@
 
 **Bunte Pilzpfanne**
 
-4**Brokkoli Pfanne**
+**Brokkoli Pfanne**
 
 **Deftige Kartoffelsuppe**
 
