@@ -4,7 +4,7 @@
 
 ---
 
-*Hier entsteht sukzessive die digitale Bibliothek des „Kurt kocht“ Systems. Die Rezepte werden freigeschaltet und verlinkt.*
+*Hier entsteht sukzessive die digitale Bibliothek des „Kurt kocht“ Systems. Die Rezepte werden eingebunden und verlinkt.*
 
 [01 - Dinkelpenne in Tomate](01-dinkelpenne.md)
 
