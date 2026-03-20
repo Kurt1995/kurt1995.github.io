@@ -5,7 +5,7 @@ Dieses Rezept ist ein echtes Kraftpaket für den Körper, besonders durch die cl
 ![Zutaten für Dinkelpenne in Tomate](assets/penneintomate1.jpg)
 
 ## Zutaten
-* 125 g (ungekocht) Dinkelpenne
+* 125 g (1/4 Packung) Dinkelpenne
 * 600-700 ml Tomatenpüree
 * 1 Dose Champignons (geschnitten)
 * 2 Eier
@@ -33,14 +33,13 @@ Dieses Rezept ist ein echtes Kraftpaket für den Körper, besonders durch die cl
 
 ![Fertig serviert](assets/penneintomate2.jpg)
 
-
 ## Energiewert der Mahlzeit
 * **Brennwert:** ca. 785 kcal (3.285 kJ)
 * **Eiweiß:** ca. 34 g
 * **Kohlenhydrate:** ca. 92 g
 * **Fett:** ca. 28 g
 
-## Warum dieses Gericht punktet
+## GEMINIS Gesundheits-Check - Warum dieses Gericht punktet
 * **Lycopin-Boost:** Durch das Aufkochen wird die Zellstruktur der Tomaten aufgebrochen, wodurch das Lycopin für den Körper verfügbar wird.
 * **Vitaminschonend:** Die Methode, die Sauce nach dem Aufkochen nur bei ca. 60°C warmzuhalten, schont hitzeempfindliche Vitamine.
 * **Dinkel-Power:** Dinkel liefert mehr Mineralstoffe wie Magnesium und Eisen als moderner Weizen.
