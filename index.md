@@ -28,8 +28,8 @@ Das Fundament unserer Rezepte ist die Förderung der kulinarischen Körperintell
 *Hier entsteht sukzessive die digitale Bibliothek des „Kurt kocht“ Systems. Die Rezepte werden nacheinander freigeschaltet und verlinkt.*
 
 [01 - Dinkelpenne in Tomate](01-dinkelpenne.md)
-2.  **Zucchini Pasta**
-3.  **Bunte Pilzpfanne**
+1.  **Zucchini Pasta**
+2.  **Bunte Pilzpfanne**
 4.  **Brokkoli Pfanne**
 5.  **Deftige Kartoffelsuppe**
 6.  **Opa Salat**
