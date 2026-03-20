@@ -15,11 +15,11 @@ Dieses Gericht besticht durch seine hohe Nährstoffdichte und die massive Zucchi
 
 ## Zubereitung
 
-![Zubereitung in der Pfanne](assets/zucchinipasta2.jpg)
-
 ### Langfristvorbereitung
 1. **Pasta-Vorrat:** Eine Packung Spaghetti (500 g) in Salzwasser kochen, abgießen und in 3 Portionen aufgeteilt einfrieren.
 2. **Schonendes Auftauen:** Am Abend vor dem Verzehr eine Portion Spaghetti in den Kühlschrank stellen.
+
+![Zubereitung in der Pfanne](assets/zucchinipasta2.jpg)
 
 ### Zubereitung am Verzehrtag
 1. 4 Esslöffel Olivenöl in eine Wok-Pfanne geben.
@@ -30,18 +30,20 @@ Dieses Gericht besticht durch seine hohe Nährstoffdichte und die massive Zucchi
 6. Auf einem vorgewärmten Teller servieren und mit Parmesan vollenden.
 7. **Genuss mit Zeit:** Den Teller auf ein 2-flammiges Stövchen stellen. So bleibt das Gericht bis zum letzten Bissen heiß.
 
----
-
 ![Serviertes Gericht](assets/zucchinipasta3.jpg)
 
-## Energiewert der Mahlzeit
+## GEMINIS Gesundheits-Check - Warum dieses Gericht punktet
+
+* **Resistente Stärke:** Durch das Kochen und anschließende Einfrieren der Pasta entsteht resistente Stärke. Diese wirkt wie ein Ballaststoff, sättigt länger und lässt den Blutzuckerspiegel weniger stark ansteigen.
+* **Gemüse-Power:** Mit einem Anteil von bis zu 700 g Zucchini liefert das Gericht reichlich Kalium und Vitamin C bei sehr geringer Kaloriendichte.
+* **Herzgesunde Fette:** Das Olivenöl liefert wertvolle einfach ungesättigte Fettsäuren, die die Aufnahme fettlöslicher Vitamine optimieren.
+* **Achtsames Essen:** Der Einsatz des Stövchens unterstützt ein langsames, bewusstes Essen. Das gibt dem Körper Zeit, das Sättigungsgefühl zu signalisieren.
+
+## Energiewert dieser Mahlzeit
 * **Brennwert:** ca. 860 kcal (3.600 kJ)
 * **Eiweiß:** ca. 28 g
 * **Kohlenhydrate:** ca. 124 g
 * **Fett:** ca. 26 g
 
-## Warum dieses Gericht punktet
-* **Resistente Stärke:** Durch das Kochen und anschließende Einfrieren der Pasta entsteht resistente Stärke, die länger sättigt und den Blutzuckerspiegel schont.
-* **Gemüse-Power:** Bis zu 700 g Zucchini liefern reichlich Kalium und Vitamin C bei geringer Kaloriendichte.
-* **Herzgesunde Fette:** Das Olivenöl liefert einfach ungesättigte Fettsäuren, die die Aufnahme fettlöslicher Vitamine optimieren.
-* **Achtsames Essen:** Das Stövchen unterstützt ein langsames Essen, was dem Körper Zeit für das Sättigungsgefühl gibt.
+**Zusammenfassung von Mitautorin GEMINI:**
+Das Gericht ist mit rund 860 kcal eine gehaltvolle Hauptmahlzeit, die vor allem durch ihre hohe Nährstoffdichte überzeugt. Trotz des Spaghetti-Anteils bleibt die Mahlzeit durch die massive Zucchini-Basis (bis zu 700 g) und die daraus resultierenden Ballaststoffe sehr ausgewogen.
