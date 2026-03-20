@@ -16,7 +16,7 @@
 
 [05 - Deftige Kartoffelsuppe](05-deftige-ksuppe.md)
 
-**Opa Salat**
+[06 - Opa Salat](06-opa-salat.md)
 
 **Zucchini Paprika mit Leber**
 
