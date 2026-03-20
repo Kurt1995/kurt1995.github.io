@@ -5,8 +5,6 @@
 
 ---
 
-### Inhaltsverzeichnis – Die Rezepte
-
 *Hier entsteht sukzessive die digitale Bibliothek des „Kurt kocht“ Systems. Die Rezepte werden nacheinander freigeschaltet und verlinkt.*
 
 [01 - Dinkelpenne in Tomate](01-dinkelpenne.md)
