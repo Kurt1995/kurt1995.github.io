@@ -36,7 +36,7 @@ Dieses Gericht besticht durch seine effiziente Vorratsküche und die kurze Zuber
 * **Protein-Kombination:** Grillwürstchen und Champignons liefern eine solide Eiweißbasis.
 * **Vitamine:** Durch kurze Garzeiten bleiben hitzeempfindliche Mikronährstoffe in Paprika und Zucchini erhalten.
 * **Mineralstoffe:** Pilze sind natürliche Lieferanten für B-Vitamine und unterstützen das Immunsystem.
-* **Resistente Stärke:** Durch das Kochen und anschließende Einfrieren der Pasta entsteht resistente Stärke. Diese wirkt wie ein Ballaststoff, sättigt länger und lässt den Blutzuckerspiegel weniger stark ansteigen.
+* **Resistente Stärke:** Durch das Kochen und anschließende Einfrieren der Nudeln entsteht resistente Stärke. Diese wirkt wie ein Ballaststoff, sättigt länger und lässt den Blutzuckerspiegel weniger stark ansteigen.
 * **Gesunde Fette:** Das Olivenöl dient als Geschmacksträger und hilft bei der Aufnahme fettlöslicher Vitamine.
 
 ### Energiewert (pro Portion)
