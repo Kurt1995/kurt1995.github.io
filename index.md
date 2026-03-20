@@ -1,5 +1,4 @@
-# Kurt kocht
-## Kulinarische Körperintelligenz & System-Effizienz
+# Kurt kocht - Kulinarische Körperintelligenz & System-Effizienz
 
 > **„Kurt kocht“ verkörpert kulinarische Körperintelligenz: Nährstoffreiche Riesenportionen treffen auf gezielte Biochemie. Ob resistente Stärke, Sulforaphan-Power oder das präzise Fett-Signal für das Bauchhirn – hier steuert der Körper die Sättigung intuitiv selbst. Pragmatische Würze und Volume Eating mit System sorgen für ein nachhaltiges Wohlgefühl.**
 
