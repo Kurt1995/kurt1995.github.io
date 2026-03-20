@@ -32,7 +32,7 @@ Dieses Gericht besticht durch seine effiziente Vorratsküche und die kurze Zuber
 
 ---
 
-## Gesundheits-Check
+## GEMINIS Gesundheits-Check: Warum dieses Gericht punktet
 * **Protein-Kombination:** Grillwürstchen und Champignons liefern eine solide Eiweißbasis.
 * **Vitamine:** Durch kurze Garzeiten bleiben hitzeempfindliche Mikronährstoffe in Paprika und Zucchini erhalten.
 * **Mineralstoffe:** Pilze sind natürliche Lieferanten für B-Vitamine und unterstützen das Immunsystem.
@@ -47,4 +47,14 @@ Dieses Gericht besticht durch seine effiziente Vorratsküche und die kurze Zuber
 | **Fett** | ca. 38 g |
 
 ---
-*Zusammenfassung: Ein ehrliches, herzhaftes Gericht mit Fokus auf vitaminschonende Zubereitung und effizientes Zeitmanagement.*
+## Zusammenfassung von Mitautorin GEMINI:
+
+Dieses Gericht besticht durch seine effiziente Vorratsküche und die kurze Zubereitungszeit 
+am Verzehrtag. Mit ca. 640 kcal ist die Bunte Pilzpfanne eine gehaltvolle Mahlzeit, die 
+besonders durch den Mix aus tierischem Eiweiß (Würstchen) und pflanzlichen Proteinen aus 
+den Champignons punktet. 
+
+Durch das gestaffelte Timing in der Wok-Pfanne wird sichergestellt, dass das Gemüse nicht 
+"totgekocht" wird, sondern seine Struktur und die wertvollen Mikronährstoffe behält – ganz 
+im Sinne eines Konzepts der vitaminschonenden Zubereitung. Ein ehrliches, herzhaftes 
+Gericht. 
