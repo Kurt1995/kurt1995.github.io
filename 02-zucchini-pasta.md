@@ -2,7 +2,7 @@
 
 Dieses Gericht besticht durch seine hohe Nährstoffdichte und die massive Zucchini-Basis, die für eine ausgewogene Mahlzeit sorgt.
 
-![Zutaten](assets/zucchipasta1.jpg)
+![Zutaten](assets/zucchinipasta1.jpg)
 
 ## Zutaten
 * ca. 170 g Spaghetti (entspricht einer Drittelpackung)
@@ -15,7 +15,7 @@ Dieses Gericht besticht durch seine hohe Nährstoffdichte und die massive Zucchi
 
 ## Zubereitung
 
-![Zubereitung in der Pfanne](assets/zucchipasta2.jpg)
+![Zubereitung in der Pfanne](assets/zucchinipasta2.jpg)
 
 ### Langfristvorbereitung
 1. **Pasta-Vorrat:** Eine Packung Spaghetti (500 g) in Salzwasser kochen, abgießen und in 3 Portionen aufgeteilt einfrieren.
@@ -32,7 +32,7 @@ Dieses Gericht besticht durch seine hohe Nährstoffdichte und die massive Zucchi
 
 ---
 
-![Serviertes Gericht](assets/zucchipasta3.jpg)
+![Serviertes Gericht](assets/zucchinipasta3.jpg)
 
 ## Energiewert der Mahlzeit
 * **Brennwert:** ca. 860 kcal (3.600 kJ)
