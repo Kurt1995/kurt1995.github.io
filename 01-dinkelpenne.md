@@ -1,4 +1,4 @@
-# Kurt kocht (01) - Dinkelpenne in Tomate
+# Kurt kocht - Dinkelpenne in Tomate
 
 Dieses Rezept ist ein echtes Kraftpaket für den Körper, besonders durch die clevere Kombination der Zutaten und die schonende Zubereitung.
 
