@@ -9,16 +9,17 @@
 [01 - Dinkelpenne in Tomate](01-dinkelpenne.md)
 
 [02 - Zucchini Pasta](02-zucchini-pasta.md)
-1.  **Bunte Pilzpfanne**
-4.  **Brokkoli Pfanne**
-5.  **Deftige Kartoffelsuppe**
-6.  **Opa Salat**
-7.  **Zucchini Paprika mit Leber**
-8.  **Gehaltvolle Zucchini-Paprika Creme**
-9.  **Nudeln in Winter-Tomate**
-10. **Blumenkohl Pfanne**
-11. **Paprika mit Frischkäse**
-12. **Dicke Rippe**
+
+**Bunte Pilzpfanne**
+4**Brokkoli Pfanne**
+**Deftige Kartoffelsuppe**
+**Opa Salat**
+**Zucchini Paprika mit Leber**
+**Gehaltvolle Zucchini-Paprika Creme**
+**Nudeln in Winter-Tomate**
+**Blumenkohl Pfanne**
+**Paprika mit Frischkäse**
+**Dicke Rippe**
 
 *Hinweis: Weitere Rezepte sind in Arbeit.*
 
