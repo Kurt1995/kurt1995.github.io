@@ -1,4 +1,4 @@
-# Kurt kocht (02) - Zucchini-Pasta
+# Kurt kocht - Zucchini-Pasta
 
 Dieses Gericht besticht durch seine hohe Nährstoffdichte und die massive Zucchini-Basis, die für eine ausgewogene Mahlzeit sorgt.
 
