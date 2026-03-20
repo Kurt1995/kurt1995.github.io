@@ -12,7 +12,7 @@
 
 [03 - Bunte Pilzpfanne](03-bunte-pilzpfanne.md)
 
-**Brokkoli Pfanne**
+[04 - Brokkol Pfanne](04-brokkolipfanne.md)
 
 **Deftige Kartoffelsuppe**
 
