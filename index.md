@@ -14,7 +14,7 @@
 
 [04 - Brokkol Pfanne](04-brokkolipfanne.md)
 
-**Deftige Kartoffelsuppe**
+[05 - Deftige Kartoffelsuppe](05-deftige-ksuppe.md)
 
 **Opa Salat**
 
