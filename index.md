@@ -54,3 +54,24 @@ Das Fundament unserer Rezepte ist die Förderung der kulinarischen Körperintell
 *Wir wünschen viel Freude beim Entdecken und Genießen!*
 
 **Kontakt & Rückmeldungen:** [Kurt1995@mail.de](mailto:Kurt1995@mail.de)
+
+---
+---
+
+# Impressum
+
+---
+
+### Inhaltliche Mitwirkung
+Dieses Kochbuch ist ein Gemeinschaftsprojekt. Die Rezepte und Inhalte wurden erstellt von:
+
+* **[Kurt]**: Konzeption, Zubereitung und Fotografie.
+* **KI-Modell Perplexity**: Mitautorin für Gesundheits-Checks und Nährwertanalysen
+* **KI-Modell Gemini**: Mitautorin für Strukturierung, wissenschaftliche Aufarbeitung und Gesundheits-Checks
+
+---
+
+### Haftungsausschluss (Disclaimer)
+Die auf dieser Webseite bereitgestellten Informationen, insbesondere die durch die Mitautorinnen Perplexity und Gemini erstellten Gesundheits-Checks und Nährwertangaben, dienen der allgemeinen Information. 
+
+Die berechneten Werte (Kalorien, Eiweiß, Kohlenhydrate, Fett) sind Schätzwerte und können je nach verwendeten Produkten und genauer Zubereitung variieren. Die medizinischen und ernährungsphysiologischen Hinweise ersetzen keine fachliche Beratung. Die Umsetzung der Rezepte erfolgt auf eigene Verantwortung.
