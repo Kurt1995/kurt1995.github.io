@@ -18,11 +18,11 @@
 
 [06 - Opa Salat](06-opa-salat.md)
 
-**Zucchini Paprika mit Leber**
-
-**Gehaltvolle Zucchini-Paprika Creme**
+[07 - Zucchini Paprika mit Leber](07-zupaleber.md)
 
 **Nudeln in Winter-Tomate**
+
+**Gehaltvolle Zucchini-Paprika Creme**
 
 **Blumenkohl Pfanne**
 
