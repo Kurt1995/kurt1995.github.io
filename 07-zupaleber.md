@@ -17,7 +17,7 @@ Dieses Gericht kombiniert nährstoffreiche Geflügelleber mit frischem Gemüse u
 
 ## Zubereitung
 
-### Vorbereitung
+### Langfristvorbereitung
 1. Die Vollkornpenne vorkochen, portionieren und einfrieren.
 2. Am Vorabend Penne und Leber schonend im Kühlschrank auftauen lassen.
 
@@ -32,12 +32,13 @@ Dieses Gericht kombiniert nährstoffreiche Geflügelleber mit frischem Gemüse u
 
 ---
 
-## Gesundheits-Check & Nährwerte
-Das Rezept punktet durch eine hohe Bioverfügbarkeit der Mikronährstoffe.
+## Perplexity‘s Gesundheits-Check: Warum dieses Gericht punktet
 
-* **Vitamin-A-Bombe**: Geflügelleber, Zucchini und Paprika liefern reichlich Vitamin A und Beta-Carotin für das Immunsystem und die Sehkraft.
+* **Vitamin-A-Bombe**:  Geflügelleber ist reich an Vitamin A, Eisen und B12 für Blutbildung und Energie. Zucchini und Paprika liefern Beta-Carotin, das sich im Körper zu Vitamin A umwandelt – zusammen ein starkes Duo für 
+Immunsystem und Sehkraft.
+* **Vitaminschonend:**: Das kurze Aufkochen und Pürieren der Gemüse erhält hitzeempfindliche Vitamine wie C aus Paprika und K aus Zucchini, während die niedrige Garstufe B-Vitamine schont.
 * **Eisen-Power**: Die Leber bietet hochbioverfügbares Eisen gegen Müdigkeit.
-* **Vitaminschonend**: Kurzes Aufkochen und Pürieren schützt hitzeempfindliche Vitamine wie C, K und B-Vitamine.
+* **Leber-Power mit Eisen**: Die Leber bietet hochbioverfügbares Eisen und Zink für Immunabwehr.
 * **Fettlöslicher Boost**: Die Margarine unterstützt die Aufnahme der Vitamine A und E.
 
 | Nährwert | ca. Angabe pro Portion |
@@ -46,3 +47,8 @@ Das Rezept punktet durch eine hohe Bioverfügbarkeit der Mikronährstoffe.
 | **Eiweiß** | 55–65 g |
 | **Kohlenhydrate** | 70–80 g |
 | **Fett** | 35–45 g |
+
+---
+
+## Zusammenfassung von Mitautorin Perplexity:
+Mit 850–950 kcal ist das Gericht eine proteinstarke Hauptmahlzeit (55–65 g Eiweiß aus Leber und Penne). Die Gemüse-Leber-Kombo maximiert Mikronährstoffe bei bester Bioverfügbarkeit – perfekte Balance aus Sättigung, Vitalstoffen und Geschmack.
