@@ -20,7 +20,7 @@
 
 [07 - Zucchini Paprika mit Leber](07-zupaleber.md)
 
-**Nudeln in Winter-Tomate**
+[08 - Nudeln in Winter-Tomate](08-nudelinwt.md)
 
 **Gehaltvolle Zucchini-Paprika Creme**
 
