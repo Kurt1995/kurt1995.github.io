@@ -2,6 +2,8 @@
 
 Dieses Gericht kombiniert nährstoffreiche Geflügelleber mit frischem Gemüse und Vollkornpasta zu einer vitalstoffreichen Hauptmahlzeit.
 
+![Zutaten Übersicht](assets/zupaleber1.jpg)
+
 ## Zutaten
 * **Zucchini**: ca. 500 g
 * **Rote Paprika**: ca. 250 g
