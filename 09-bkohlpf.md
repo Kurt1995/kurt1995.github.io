@@ -1,1 +1,50 @@
-s
+# Blumenkohl Pfanne
+
+Diese Pfanne ist ein ideales Beispiel für intelligentes Meal-Prep. Durch das Blanchieren und Einfrieren des Blumenkohls werden die Pflanzenfasern mürbe, während der Biss erhalten bleibt. Zudem nutzt das Gericht den Effekt der Retrogradation bei der Pasta für eine langanhaltende Sättigung.
+
+![Bild: Zutaten Blumenkohl Pfanne](assets/09bluhmenkohlpfanne1.jpg)
+
+## Zutaten
+* **Blumenkohl**: 1/2 Kopf (ca. 600–700 g)
+* **Gemüsezwiebel**: 1/2 Stück (ca. 150 g)
+* **Vollkornpenne**: 1/4 Packung (125 g, vorgekocht)
+* **Fleisch**: Ca. 100 g Dicke Rippe (Grill-Rest)
+* **Pilze**: 1 Dose geschnittene Champignons
+* **Öl**: 5 Esslöffel Olivenöl
+* **Gewürze**: Fondor, schwarzer Pfeffer, evtl. ein wenig Salz
+
+---
+
+## Zubereitung
+
+### Langfristvorbereitung
+1. **Blumenkohl**: Putzen, in Röschen (inkl. Stiele) schneiden und 3 Minuten in ungesalzenem Wasser blanchieren.
+2. **Zwiebeln**: In Streifen schneiden, ebenfalls blanchieren. Beides zusammen abkühlen lassen und einfrieren.
+3. **Pasta**: Das Blanchierwasser salzen, die Penne darin vorkochen und portionsweise einfrieren.
+4. **Fleisch**: Den Grill-Rest der Dicken Rippe würfeln und ebenfalls einfrieren.
+
+![Bild: Zutaten Blumenkohl Pfanne](assets/09bluhmenkohlpfanne2.jpg)
+
+### Zubereitung am Verzehrtag
+1. **Auftauen**: Alle vorbereiteten Zutaten am Vorabend im Kühlschrank schonend auftauen lassen.
+2. **Anschwitzen**: Olivenöl im Wok erhitzen. Die abgetropften Pilze und die Blumenkohl-Zwiebel-Mischung ca. 5 Minuten bei mittlerer Hitze schmoren (häufig wenden).
+3. **Würzen**: Kräftig mit Fondor und schwarzem Pfeffer abschmecken.
+4. **Finalisieren**: Nudeln und Fleisch hinzufügen und weitere 5 Minuten unter mehrmaligem Wenden durchgaren.
+5. **Servieren**: Direkt vom Feuer nehmen und idealerweise auf einem Stövchen servieren, um ein schnelles Abkühlen zu vermeiden.
+
+![Bild: Zutaten Blumenkohl Pfanne](assets/09bluhmenkohlpfanne3.jpg)
+
+## Gesundheits-Check & Nährwerte
+Die Kombination aus Vollkorn und ballaststoffreichem Gemüse sorgt für eine optimale Energiebereitstellung.
+
+* **Vitamin-Spektrum**: Blumenkohl liefert reichlich Vitamin C und Folsäure (B9), während Champignons wertvolle B-Vitamine (B2, B3) beisteuern.
+* **Resistente Stärke**: Durch das Vorkochen und Einfrieren der Penne entsteht resistente Stärke, die den Blutzuckerspiegel stabilisiert und präbiotisch wirkt.
+* **Optimale Aufnahme**: Das hochwertige Olivenöl macht fettlösliche Vitamine (wie Vitamin K) für den Körper bioverfügbar.
+* **Nachhaltigkeit**: Die Verwendung von Grill-Resten fördert eine ressourcenschonende und herzhafte Küche.
+
+| Nährwert | Geschätzte Werte pro Portion |
+| :--- | :--- |
+| **Brennwert** | ca. 920 kcal (3.850 kJ) |
+| **Eiweiß** | ca. 36 g |
+| **Kohlenhydrate** | ca. 82 g |
+| **Fett** | ca. 48 g |
