@@ -13,6 +13,7 @@ Diese wärmende, tomatenbetonte Hauptmahlzeit bietet eine solide Proteinbasis un
 * **Fett**: 30–40 g Margarine
 * **Kräuter & Gewürze**: Schnittlauch, Petersilie, Paprika (rosenscharf) und schwarzer Pfeffer
 
+
 ![Zutaten Übersicht](assets/08nudelinwt2.jpg)
 
 ## Zubereitung
