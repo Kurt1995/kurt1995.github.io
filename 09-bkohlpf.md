@@ -20,7 +20,7 @@ Diese Pfanne ist ein ideales Beispiel für intelligentes Meal-Prep. Durch das Bl
 ### Langfristvorbereitung
 1. **Blumenkohl**: Putzen, in Röschen (inkl. Stiele) schneiden und 3 Minuten in ungesalzenem Wasser blanchieren.
 2. **Zwiebeln**: In Streifen schneiden, ebenfalls blanchieren. Beides zusammen abkühlen lassen und einfrieren.
-3. **Pasta**: Das Blanchierwasser salzen, die Penne darin vorkochen und portionsweise einfrieren.
+3. **Pasta**: Das Blanchierwasser salzen, eine Packung Penne darin vorkochen und portionsweise einfrieren.
 4. **Fleisch**: Den Grill-Rest der Dicken Rippe würfeln und ebenfalls einfrieren.
 
 ![Bild: Zutaten Blumenkohl Pfanne](assets/09bluhmenkohlpfanne2.jpg)
