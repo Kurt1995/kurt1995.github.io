@@ -46,6 +46,7 @@ Dieses Gericht besticht durch seine effiziente Vorratsküche und die kurze Zuber
 * **Fett:** ca. 38 g 
 
 ---
+
 ## Zusammenfassung von Mitautorin GEMINI:
 
 Dieses Gericht besticht durch seine effiziente Vorratsküche und die kurze Zubereitungszeit 
