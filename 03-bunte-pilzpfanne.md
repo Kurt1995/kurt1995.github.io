@@ -40,12 +40,10 @@ Dieses Gericht besticht durch seine effiziente Vorratsküche und die kurze Zuber
 * **Gesunde Fette:** Das Olivenöl dient als Geschmacksträger und hilft bei der Aufnahme fettlöslicher Vitamine.
 
 ### Energiewert (pro Portion)
-| Parameter | Wert |
-| :--- | :--- |
-| **Brennwert** | ca. 640 kcal |
-| **Eiweiß** | ca. 26 g |
-| **Kohlenhydrate** | ca. 45 g |
-| **Fett** | ca. 38 g |
+* **Brennwert:** ca. 640 kcal 
+* **Eiweiß:** ca. 26 g 
+* **Kohlenhydrate:** ca. 45 g 
+* **Fett:** ca. 38 g 
 
 ---
 ## Zusammenfassung von Mitautorin GEMINI:
