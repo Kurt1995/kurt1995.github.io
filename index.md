@@ -18,7 +18,7 @@
 
 [06 - Opa Salat](06-opa-salat.md)
 
-[07 - Zucchini Paprika mit Leber](07-zupaleber.md)
+[07 - Zucchini-Paprika Creme mit Leber](07-zupaleber.md)
 
 [08 - Nudeln in Winter-Tomate](08-nudelinwt.md)
 
