@@ -37,7 +37,6 @@ Dieses Gericht kombiniert nährstoffreiche Geflügelleber mit frischem Gemüse u
 * **Vitamin-A-Bombe**:  Geflügelleber ist reich an Vitamin A, Eisen und B12 für Blutbildung und Energie. Zucchini und Paprika liefern Beta-Carotin, das sich im Körper zu Vitamin A umwandelt – zusammen ein starkes Duo für 
 Immunsystem und Sehkraft.
 * **Vitaminschonend:**: Das kurze Aufkochen und Pürieren der Gemüse erhält hitzeempfindliche Vitamine wie C aus Paprika und K aus Zucchini, während die niedrige Garstufe B-Vitamine schont.
-* **Eisen-Power**: Die Leber bietet hochbioverfügbares Eisen gegen Müdigkeit.
 * **Leber-Power mit Eisen**: Die Leber bietet hochbioverfügbares Eisen und Zink für Immunabwehr.
 * **Fettlöslicher Boost**: Die Margarine unterstützt die Aufnahme der Vitamine A und E.
 
