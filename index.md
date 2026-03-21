@@ -22,9 +22,9 @@
 
 [08 - Nudeln in Winter-Tomate](08-nudelinwt.md)
 
-**Gehaltvolle Zucchini-Paprika Creme**
-
 **Blumenkohl Pfanne**
+
+**Gehaltvolle Zucchini-Paprika Creme**
 
 **Paprika mit Frischkäse**
 
