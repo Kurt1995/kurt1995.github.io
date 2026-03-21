@@ -4,6 +4,7 @@ Dieses Gericht kombiniert nährstoffreiche Geflügelleber mit frischem Gemüse u
 
 ![Zutaten Übersicht](assets/zupaleber1.jpg)
 
+
 ## Zutaten
 * **Zucchini**: ca. 500 g
 * **Rote Paprika**: ca. 250 g
