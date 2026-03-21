@@ -1,4 +1,4 @@
-# Blumenkohl Pfanne
+# Kurt kocht - Blumenkohl Pfanne
 
 Diese Pfanne ist ein ideales Beispiel für intelligentes Meal-Prep. Durch das Blanchieren und Einfrieren des Blumenkohls werden die Pflanzenfasern mürbe, während der Biss erhalten bleibt. Zudem nutzt das Gericht den Effekt der Retrogradation bei der Pasta für eine langanhaltende Sättigung.
 
