@@ -56,7 +56,6 @@ Das Fundament unserer Rezepte ist die Förderung der kulinarischen Körperintell
 **Kontakt & Rückmeldungen:** [Kurt1995@mail.de](mailto:Kurt1995@mail.de)
 
 ---
----
 
 # Impressum
 
