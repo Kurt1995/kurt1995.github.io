@@ -62,7 +62,7 @@ Das Fundament unserer Rezepte ist die Förderung der kulinarischen Körperintell
 ### Inhaltliche Mitwirkung
 Dieses Kochbuch ist ein Gemeinschaftsprojekt. Die Rezepte und Inhalte wurden erstellt von:
 
-* **[Kurt]**: Konzeption, Zubereitung und Fotografie.
+* **[Kurt]**: Konzeption, Zubereitung und Fotografie
 * **KI-Modell Perplexity**: Mitautorin für Gesundheits-Checks und Nährwertanalysen
 * **KI-Modell Gemini**: Mitautorin für Strukturierung, wissenschaftliche Aufarbeitung und Gesundheits-Checks
 
