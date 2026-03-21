@@ -1,4 +1,4 @@
-# Zucchini Paprika mit Leber
+# Kurt kocht - Zucchini-Paprika Creme mit Leber
 
 Dieses Gericht kombiniert nährstoffreiche Geflügelleber mit frischem Gemüse und Vollkornpasta zu einer vitalstoffreichen Hauptmahlzeit.
 
