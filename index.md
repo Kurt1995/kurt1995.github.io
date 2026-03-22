@@ -10,7 +10,7 @@ Eine kulinarische Strategie für Menschen, die bewusst essen und trotzdem richti
 
 *Hier entsteht sukzessive die digitale Bibliothek des „Kurt kocht“ Systems. Die Rezepte werden eingebunden und verlinkt.*
 
-| Guten| Appetit |
+| Guten | Appetit |
 | :--- | :--- |
 | 01 - [Dinkelpenne in Tomate](01-dinkelpenne.md) | 02 - [Zucchini Pasta](02-zucchini-pasta.md) |
 | 03 - [Bunte Pilzpfanne](03-bunte-pilzpfanne.md) | 04 - [Brokkoli Pfanne](04-brokkolipfanne.md) |
