@@ -44,3 +44,6 @@ Dieses Rezept ist ein echtes Kraftpaket für den Körper, besonders durch die cl
 * **Vitaminschonend:** Die Methode, die Sauce nach dem Aufkochen nur bei ca. 60°C warmzuhalten, schont hitzeempfindliche Vitamine.
 * **Dinkel-Power:** Dinkel liefert mehr Mineralstoffe wie Magnesium und Eisen als moderner Weizen.
 * **Fett & Lycopin:** Die Margarine stellt sicher, dass der Körper das fettlösliche Lycopin optimal aufnehmen kann.
+
+---
+[← Zurück zur Übersicht](index.md)
