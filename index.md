@@ -13,7 +13,7 @@ Eine kulinarische Strategie für Menschen, die bewusst essen und trotzdem richti
 | | |
 | :--- | :--- |
 | 01 - [Dinkelpenne in Tomate](01-dinkelpenne.md) | 02 - [Zucchini Pasta](02-zucchini-pasta.md) |
-| 03 - [Bunte Pilzpfanne](03-bunte-pilzpfanne.md) | 04 - [Brokkol Pfanne](04-brokkolipfanne.md) |
+| 03 - [Bunte Pilzpfanne](03-bunte-pilzpfanne.md) | 04 - [Brokkoli Pfanne](04-brokkolipfanne.md) |
 | 05 - [Deftige Kartoffelsuppe](05-deftige-ksuppe.md) | 06 - [Opa Salat](06-opa-salat.md) |
 | 07 - [Zucchini-Paprika Creme mit Leber](07-zupaleber.md) | 08 - [Nudeln in Winter-Tomate](08-nudelinwt.md) |
 | 09 - [Blumenkohl Pfanne](09-bkohlpf.md) | 10 - Gehaltvolle Zucchini-Paprika Creme |
