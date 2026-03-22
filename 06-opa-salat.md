@@ -44,3 +44,6 @@ Der Opa Salat ist eine frische, vitaminreiche Rohkost-Mahlzeit.
 ## Zusammenfassung von Mitautorin GEMINI
 
 Dieser Salat ist ein leichtes, aber effektives Gesundheitspaket für den Alltag. Mit den hochwertigen Fetten des Rapsöls und der moderaten Würze durch Senf und Kräuter stellt er eine ideale Ergänzung zu einer Hauptmahlzeit dar und liefert wichtige Mikronährstoffe in ihrer reinsten Form. Es ist schön zu sehen, wie hier das „Wir-Gefühl“ durch die Einbeziehung der nächsten Generation direkt in die Zubereitung einfließt.
+
+---
+[← Zurück zur Übersicht](index.md)
