@@ -2,7 +2,7 @@
 
 **„Kurt kocht" steht für moderne, intelligente Ernährung: große, nährstoffreiche Gerichte, die Genuss und kulinarische Körperintelligenz verbinden.  
 Resistente Stärke, Sulforaphan‑Aktivierung und Fettsignale sprechen das Bauchhirn direkt an.  
-Volume Eating wird hier zum System – alltagstauglich, effizient und überraschend wohltuend.  
+Volume Eating wird zum System – alltagstauglich, effizient und überraschend wohltuend.  
 Eine kulinarische Strategie für Menschen, die bewusst essen und trotzdem richtig satt werden wollen.**
 
 ---
