@@ -53,7 +53,7 @@ Diese Kartoffelsuppe steht für viel Geschmack, effizientes Zeitmanagement und n
 | **Fett** | ca. 46 g | ca. 92 g |
 
 ### Zusammenfassung von Mitautorin GEMINI
-Dieses Gericht beweist, dass „schnell“ auch „hochwertig“ sein kann. Durch die physikalische Umwandlung der Stärke und das clevere Pürieren im Mineralstoffsud entsteht eine Mahlzeit, die den Blutzuckerspiegel kaum belastet und trotzdem die volle „Comfort Food“-Wirkung einer deftigen Suppe entfaltet. Ein effizientes Rezept für Kraft und Ausdauer.
+Dieses Gericht beweist, dass „schnell“ auch „hochwertig“ sein kann. Durch die physikalische Umwandlung der Stärke und das clevere Pürieren im Mineralstoffsud entsteht eine Mahlzeit, die den Blutzuckerspiegel kaum belastet und trotzdem die volle „Comfort Food“-Wirkung einer deftigen Suppe entfaltet. Ein effizientes Rezept für Kraft und Ausdauer.  Tipp: Reste schmecken am Abend auch küchen-kalt.
 
 ---
 [← Zurück zur Übersicht](index.md)
