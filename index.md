@@ -58,3 +58,5 @@ Dieses Kochbuch ist ein Gemeinschaftsprojekt. Die Rezepte und Inhalte wurden ers
 ### Haftungsausschluss (Disclaimer)
 Die auf dieser Webseite bereitgestellten Informationen, insbesondere die durch die Mitautorinnen Perplexity und Gemini erstellten Gesundheits-Checks und Nährwertangaben, dienen der allgemeinen Information.  
 Die berechneten Werte (Kalorien, Eiweiß, Kohlenhydrate, Fett) sind Schätzwerte und können je nach verwendeten Produkten und genauer Zubereitung variieren. Die medizinischen und ernährungsphysiologischen Hinweise ersetzen keine fachliche Beratung. Die Umsetzung der Rezepte erfolgt auf eigene Verantwortung.
+---
+[← Zurück zur Übersicht](index.md)
