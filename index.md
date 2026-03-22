@@ -1,6 +1,7 @@
 # Kurt kocht - Kulinarische Körperintelligenz & System-Effizienz
 
-**„Kurt kocht" steht für moderne, intelligente Ernährung: große, nährstoffreiche Gerichte, die Genuss und kulinarische Körperintelligenz verbinden.  
+**„Kurt kocht" steht für nährstoffreiche Gerichte, die Genuss und kulinarische Körperintelligenz verbinden.  
+Gemüse ist unsere Hauptkomponente, keine vernachlässigbare Beilage.  
 Resistente Stärke, Sulforaphan‑Aktivierung und Fettsignale sprechen das Bauchhirn an.  
 Volume Eating wird zum System – alltagstauglich, effizient und überraschend wohltuend.  
 Eine kulinarische Strategie für Menschen, die bewusst essen und trotzdem richtig satt werden wollen.**
@@ -39,13 +40,13 @@ Eine kulinarische Strategie für Menschen, die bewusst essen und trotzdem richti
 
 ### Kochen mit Verstand, Bauchgefühl und System
 
-Willkommen bei **„Kurt kocht“** – einem Projekt, das zeigt, wie moderne Ernährungswissenschaft und die pure Freude am Genuss Hand in Hand gehen. In einer Welt voller komplizierter Diätpläne setzen wir auf ein grundlegendes Konzept: **Intuitives Essen**. Es geht darum, die Verbindung zum eigenen Körper herzustellen und auf seine Signale zu hören.
-
-Das Fundament unserer Rezepte ist die Förderung der kulinarischen Körperintelligenz. Wir betrachten Lebensmittel nicht nur als Energielieferanten, sondern als komplexe Informationsträger für unseren Organismus. Jedes Gericht ist so konzipiert, dass es die Kommunikation zwischen unserem **enterischen Nervensystem** – dem „Bauchhirn“ – und dem Gehirn harmonisiert.
+Willkommen bei **„Kurt kocht“** – einem Projekt, das zeigt, wie moderne Ernährungswissenschaft und die pure Freude am Genuss Hand in Hand gehen. In einer Welt voller komplizierter Diätpläne setzen wir auf ein grundlegendes Konzept: **Intuitives Essen**. Es geht darum, die Verbindung zum eigenen Körper herzustellen und auf seine Signale zu hören.  
+Das Fundament unserer Rezepte ist die kulinarische Körperintelligenz. Wir betrachten Lebensmittel nicht nur als Energielieferanten, sondern als komplexe Informationsträger für unseren Organismus.  
+Jedes Gericht ist so konzipiert, dass es die Kommunikation zwischen unserem **enterischen Nervensystem** – dem „Bauchhirn“ – und dem Gehirn harmonisiert.
 
 #### Unser System im Überblick:
 
-* **Im Zentrum: Gemüse und ein pragmatisches Zutaten-System.** Fast jedes Gericht basiert auf einer üppigen Portion Gemüse – als Hauptkomponente, nicht als Beilage. Unsere Zutaten sind bewusst einfach gewählt: keine modischen Superfoods, sondern alltagsverfügbare Basics mit klarem ernährungsphysiologischem Wert.
+* **Im Zentrum: Gemüse und ein pragmatisches Zutaten-System.** Fast jedes Gericht basiert auf einer üppigen Portion Gemüse – als Hauptkomponente. Unsere Zutaten sind bewusst einfach gewählt: keine modischen Superfoods, sondern alltagsverfügbare Basics mit klarem ernährungsphysiologischem Wert.
 * **Einfachheit in der Würze:** Wir haben keine Scheu vor bewährten Küchenhelfern. Ob Brühwürfel, Fondor oder Teriyaki-Sauce – wir nutzen diese gezielt für das „Umami“.
 * **Die Logik der Resistenten Stärke:** Durch gezielte thermische Prozesse (wie das Einfrieren von Pasta) verändern wir deren Struktur. Resistente Stärke füttert das Mikrobiom und hält den Blutzuckerspiegel stabil.
 * **Thermische Nährstoff-Optimierung:** Zellstrukturen werden gezielt aufgebrochen, um Antioxidantien wie Lycopin verfügbar zu machen, während hitzeempfindliche Vitamine durch kluge Zubereitung geschützt werden.
