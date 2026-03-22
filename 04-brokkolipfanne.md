@@ -67,3 +67,6 @@ Für eine noch sämigere Textur und ein gesteigertes Sättigungsgefühl können 
 Nährwert-Hinweis: 
 Durch die zwei Eier (ca. 150-180 kcal zusätzlich) wandert die Mahlzeit nun in den Bereich von gut 1.000 kcal. Das ist für ein „Volume Eating“-Gericht mit 500 g Brokkoli immer noch eine exzellente Bilanz für eine Hauptmahlzeit, die lange satt hält. 
  
+
+---
+[← Zurück zur Übersicht](index.md)
