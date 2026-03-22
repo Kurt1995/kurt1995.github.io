@@ -1,10 +1,6 @@
-# Kurt kocht - Kulinarische Körperintelligenz & System-Effizienz
+# Kurt kocht – Eine Alltagsküche mit System
 
-**„Kurt kocht" steht für nährstoffreiche Gerichte, die Genuss und kulinarische Körperintelligenz verbinden.  
-Gemüse ist unsere Hauptkomponente, keine vernachlässigbare Beilage.  
-Resistente Stärke, Sulforaphan‑Aktivierung und Fettsignale sprechen das Bauchhirn an.  
-Volume Eating wird zum System – alltagstauglich, effizient und überraschend wohltuend.  
-Eine kulinarische Strategie für Menschen, die bewusst essen und trotzdem richtig satt werden wollen.**
+**Für Menschen, die eine einfache, gemüsebasierte Küche wollen – orientiert am Bauchhirn und den Prinzipien des Volume Eating.**
 
 ---
 
