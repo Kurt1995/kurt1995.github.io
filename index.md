@@ -25,7 +25,7 @@ Eine kulinarische Strategie für Menschen, die bewusst essen und trotzdem richti
 
 ### Kochen mit Verstand, Bauchgefühl und System
 
-Willkommen bei **„Kurt kocht“** – einem Projekt, das zeigt, wie moderne Ernährungswissenschaft und die pure Freude am Genuss Hand in Hand gehen. In einer Welt voller komplizierter Diätpläne setzen wir auf ein grundlegendes Konzept: **Intuitives Essen**. Es geht darum, die Verbindung zum eigenen Körper herzustellen und auf seine Signale zu hören.  
+Willkommen bei **„Kurt kocht“** – einem Projekt, das zeigt, wie moderne Ernährungswissenschaft und die Freude am Genuss Hand in Hand gehen. In einer Welt voller komplizierter Diätpläne setzen wir auf ein grundlegendes Konzept: **Intuitives Essen**. Es geht darum, die Verbindung zum eigenen Körper herzustellen und auf seine Signale zu hören.  
 Das Fundament unserer Rezepte ist die kulinarische Körperintelligenz. Wir betrachten Lebensmittel nicht nur als Energielieferanten, sondern als komplexe Informationsträger für unseren Organismus.  
 Jedes Gericht ist so konzipiert, dass es die Kommunikation zwischen unserem **enterischen Nervensystem** – dem „Bauchhirn“ – und dem Gehirn harmonisiert.
 
