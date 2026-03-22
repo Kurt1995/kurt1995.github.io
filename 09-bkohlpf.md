@@ -59,3 +59,6 @@ Die gezielte Vorbereitung des Blumenkohls durch Blanchieren und Einfrieren sorgt
 dass die Pflanzenfasern mürbe werden, während der Biss erhalten bleibt.  
 Das „Stövchen-Prinzip“ vermeidet ein schnelles Abkühlen der Speise und unterstützt ein 
 langsames, gesundes Essen. 
+
+---
+[← Zurück zur Übersicht](index.md)
