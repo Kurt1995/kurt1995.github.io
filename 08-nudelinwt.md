@@ -51,3 +51,6 @@ Das Gericht nutzt im Winter Dosentomaten für besonders verfügbares Lycopin und
 ---
 ## Zusammenfassung von Mitautorin Perplexity 
 Dieses Gericht ist eine wärmende, tomatenbetonte Hauptmahlzeit mit solider Proteinbasis, sättigenden Kohlenhydraten und Bonus durch resistente Stärke für Blutzucker und Darm. Dosentomaten bieten hier besonders verfügbares Lycopin und stabile Vitamine – ein kluger Wintergriff. Durch Wahl der Pasta (Dinkel vs. Vollkorn) und die Menge an Margarine lässt es sich flexibel an Energiebedarf und Gesundheitsziele anpassen – viel Geschmack bei minimalem Aufwand in der Küche. 
+
+---
+[← Zurück zur Übersicht](index.md)
