@@ -47,3 +47,6 @@ Dieses Gericht besticht durch seine hohe Nährstoffdichte und die massive Zucchi
 
 **Zusammenfassung von Mitautorin GEMINI:**
 Das Gericht ist mit rund 860 kcal eine gehaltvolle Hauptmahlzeit, die vor allem durch ihre hohe Nährstoffdichte überzeugt. Trotz des Spaghetti-Anteils bleibt die Mahlzeit durch die massive Zucchini-Basis (bis zu 700 g) und die daraus resultierenden Ballaststoffe sehr ausgewogen.
+
+---
+[← Zurück zur Übersicht](index.md)
