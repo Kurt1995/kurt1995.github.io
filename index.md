@@ -1,6 +1,6 @@
 # Kurt kocht - Kulinarische Körperintelligenz & System-Effizienz
 
-**„Kurt kocht" steht für moderne, intelligente Ernährung: große, nährstoffreiche Gerichte, die Genuss, Wissenschaft und kulinarische Körperintelligenz verbinden.  
+**„Kurt kocht" steht für moderne, intelligente Ernährung: große, nährstoffreiche Gerichte, die Genuss und kulinarische Körperintelligenz verbinden.  
 Resistente Stärke, Sulforaphan‑Aktivierung und gezielte Fettsignale sprechen das Bauchhirn direkt an.  
 Volume Eating wird hier zum System – alltagstauglich, effizient und überraschend wohltuend.  
 Eine kulinarische Strategie für Menschen, die bewusst essen und trotzdem richtig satt werden wollen.**
