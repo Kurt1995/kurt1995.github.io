@@ -58,3 +58,6 @@ Durch das gestaffelte Timing in der Wok-Pfanne wird sichergestellt, dass das Gem
 "totgekocht" wird, sondern seine Struktur und die wertvollen Mikronährstoffe behält – ganz 
 im Sinne eines Konzepts der vitaminschonenden Zubereitung. Ein ehrliches, herzhaftes 
 Gericht. 
+
+---
+[← Zurück zur Übersicht](index.md)
