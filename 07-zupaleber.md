@@ -51,3 +51,6 @@ Immunsystem und Sehkraft.
 
 ## Zusammenfassung von Mitautorin Perplexity:
 Mit 850–950 kcal ist das Gericht eine proteinstarke Hauptmahlzeit (55–65 g Eiweiß aus Leber und Penne). Die Gemüse-Leber-Kombo maximiert Mikronährstoffe bei bester Bioverfügbarkeit – perfekte Balance aus Sättigung, Vitalstoffen und Geschmack.
+
+---
+[← Zurück zur Übersicht](index.md)
