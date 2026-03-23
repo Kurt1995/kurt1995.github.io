@@ -18,7 +18,8 @@
 ## GEMINIS Gesundheits-Check: Warum dieser Snack punktet
 Dieses kleine Rezept ist ein Kraftpaket für das Immunsystem. Durch die Kombination aus wasserreichem Gemüse und hochwertigen Milchfetten wird eine optimale Nährstoffdichte bei moderater Kalorienzufuhr erreicht.
 
-* **Vitamin-C-Synergie**: Die rote Paprika liefert eine extrem hohe Dosis Vitamin C, das in der Rohkost-Variante vollständig erhalten bleibt. Der Kräuter-Frischkäse stellt sicher, dass die fettlöslichen Vitamine optimal resorbiert werden.
+* **Vitamin-C-Synergie**: Die rote Paprika liefert eine extrem hohe Dosis Vitamin C, das in der Rohkost-Variante vollständig erhalten bleibt. Der Kräuter-Frischkäse dient dabei nicht nur als 
+Geschmacksträger, sondern stellt sicher, dass die fettlöslichen Vitamine der Paprika optimal resorbiert werden.
 * **Antioxidative Kapazität**: Die Carotinoide in der Paprika wirken als Radikalfänger und werden durch die Lipide im Frischkäse biologisch verfügbar gemacht.
 * **Glykämische Stabilität**: Da der Snack kaum einfache Kohlenhydrate enthält, bleibt der Blutzuckerspiegel stabil, was Insulinspitzen am Abend verhindert.
 * **Feuchtigkeits-Bilanz**: Der hohe Wassergehalt der Paprika trägt zur Hydratation bei und entlastet den Stoffwechsel.
