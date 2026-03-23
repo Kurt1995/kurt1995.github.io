@@ -4,7 +4,7 @@
 
 ---
 
-*Hier entsteht sukzessive die digitale Bibliothek des „Kurt kocht“ Systems. Die Rezepte werden eingebunden und verlinkt.*
+*Hier entsteht sukzessive die digitale Bibliothek des „Kurt kocht“ Systems. Die Rezepte werden eingebunden und verlinkt. Tipp: Handy quer, dann passen die Seiten besser.*
 
 | Viel Erfolg beim Kochen | und Guten Appetit |
 | :--- | :--- |
