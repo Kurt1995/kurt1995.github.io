@@ -1,4 +1,4 @@
-# Kurt kocht: Dicke Rippe „Grill-Filets"
+# Kurt kocht - Dicke Rippe „Grill-Filets"
 
 ![Dicke Rippe Vorbereitung](assets/12-dickerippe1.jpg)
 
