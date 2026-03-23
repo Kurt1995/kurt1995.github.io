@@ -1,6 +1,6 @@
 # Kurt kocht: Dicke Rippe „Grill-Filets"
 
-![Dicke Rippe Vorbereitung](12-dickerippe1.jpg)
+![Dicke Rippe Vorbereitung](assets/12-dickerippe1.jpg)
 
 ## Zutaten
 * **400-500 g Dicke Rippe (Brustspitze)**, mit Knochen
@@ -14,7 +14,7 @@
 2. **Filetierung**: Den massiven Fleischdeckel in ca. 1,5 - 2 cm dicke Scheiben („Filets") schneiden.
 3. **Würzen**: Salz erst nach dem Grillvorgang hinzufügen.
 
-![Dicke Rippe Filets und Knochen](12-dickerippe2.jpg)
+![Dicke Rippe Filets und Knochen](assets/12-dickerippe2.jpg)
 
 ## Garen am Grill
 1. **Temperatur**: Den Elektrogrill auf eine hohe Stufe vorheizen.
@@ -22,7 +22,7 @@
 3. **Die Knochen**: Parallel dazu grillen. Sie benötigen eine längere Verweildauer, um am Kern vollständig durchzugaren.
 4. **Anrichten**: Das Fleisch kurz ruhen lassen und zusammen mit dem frisch zubereiteten Opa Salat servieren.
 
-![Grillvorgang](12-dickerippe3.jpg)
+![Grillvorgang](assets/12-dickerippe3.jpg)
 
 ---
 
