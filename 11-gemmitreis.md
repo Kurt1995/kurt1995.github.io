@@ -13,8 +13,8 @@
 
 ### Zubereitung
 
-| | | |
-| :--- | :---: | ---: |
+| Zubereitung | | Fertiges Gericht im Wok |
+| :---: | :---: | :---: |
 | ![Zubereitung Schritt 1](assets/11-gpfannereis2.jpg) | &nbsp; | ![Fertiges Gericht im Wok](assets/11-gpfannereis3.jpg) |
 
 #### 1. Das Hähnchen (Sanftes Garen)
