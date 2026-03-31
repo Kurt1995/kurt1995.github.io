@@ -13,7 +13,7 @@
 | 05 - [Deftige Kartoffelsuppe](05-deftige-ksuppe.md) | 06 - [Opa Salat](06-opa-salat.md) |
 | 07 - [Zucchini-Paprika Creme mit Leber](07-zupaleber.md) | 08 - [Nudeln in Winter-Tomate](08-nudelinwt.md) |
 | 09 - [Blumenkohl Pfanne](09-bkohlpf.md) | 10 - Gehaltvolle Zucchini-Paprika Creme |
-| 11 - [Gemüsepfanne mit Reis](11-paprika-snack.md) | 12 - [Dicke Rippe](12-dickerippe.md) |
+| 11 - [Gemüsepfanne mit Reis](11-gemmitreis.md) | 12 - [Dicke Rippe](12-dickerippe.md) |
 | 20 - [Paprika mit Frischkäse](20-paprika-snack.md) |  |
 |  |  |
 
