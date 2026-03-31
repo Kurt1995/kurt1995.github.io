@@ -1,1 +1,60 @@
+# Kurt kocht
+## Gemüsepfanne mit Reis
 
+![Zutaten Übersicht](assets/11-gpfannereis1.jpg)
+
+### Zutaten
+* **Geflügel**: 300-400 g Hähnchenbrustfilet (tiefgefroren)
+* **Gemüse**: 2 rote Paprika, 1 Zucchini, 1 Gemüsezwiebel, 1 Dose geschnittene Champignons
+* **Sättigungsbeilage**: 40-50 g Reis-Mix (Parboiled Langkorn & Wildreis)
+* **Flüssigkeiten & Würze**: 200-250 ml Wasser, 1 Brühwürfel, Teriyaki-Sauce, 5 EL Rapsöl, schwarzer Pfeffer
+
+---
+
+### Zubereitung
+
+| | | |
+| :--- | :---: | ---: |
+| ![Zubereitung Schritt 1](assets/11-gpfannereis2.jpg) | &nbsp; | ![Fertiges Gericht im Wok](assets/11-gpfannereis3.jpg) |
+
+#### 1. Das Hähnchen (Sanftes Garen)
+Die tiefgefrorenen Filets in eine Pfanne legen und großzügig mit Teriyaki-Sauce beträufeln. Bei geschlossenem Deckel auf kleinster Stufe ca. 40-45 Minuten langsam garen. Zwischendurch wenden. Nach etwa 30 Minuten die Filets halbieren und auf der Schnittfläche fertig garen.
+
+#### 2. Der Reis
+Den Reis vorab ca. 1 Stunde wässern und gründlich abspülen. Den Brühwürfel im Wasser auflösen, den Reis hinzugeben und bei kleiner Hitze abgedeckt ca. 30 Minuten köcheln lassen, bis die Flüssigkeit vollständig aufgenommen wurde.
+
+#### 3. Das Gemüse & Finish
+Die Pilze abtropfen lassen und im Rapsöl ca. 5 Minuten in einem Wok schmoren. Währenddessen das restliche Gemüse putzen, würfeln und für weitere 10 Minuten bei mittlerer Hitze mitgaren. Mit Pfeffer würzen. Zum Schluss die gewürfelten Hähnchenfilets samt Sud sowie den Reis unter das Gemüse heben.
+
+> **Hinweis**: Durch die Brühwürfel und die Teriyaki-Sauce ist zusätzliches Salzen nicht erforderlich.
+
+---
+
+### GEMINIS Gesundheits-Check: Warum dieses Gericht punktet
+Dieses Gericht überzeugt durch eine kluge Kombination aus langsamen Kohlenhydraten und einer schonenden Zubereitung:
+
+* **Optimale Nährstoffaufnahme**: Die 5 Esslöffel Rapsöl sind essenziell, um die fettlöslichen Vitamine (wie das Beta-Carotin aus der roten Paprika) für den Körper bioverfügbar zu machen.
+* **Aminosäuren-Profil**: Das magere Hähnchenbrustfilet liefert hochwertige, essenzielle Aminosäuren.
+* **B-Vitamine & Folsäure**: Die Champignons steuern wichtige B-Vitamine (insbesondere B2 und B3) bei, während die rote Paprika als Vitamin-C-Bombe das Immunsystem unterstützt.
+* **Vorteil der Reis-Wässerung**: Das einstündige Wässern dient der Reinigung und schwemmt überschüssige Stärke sowie mögliche Rückstände (wie anorganisches Arsen) aus. Zudem verbessert es die Textur.
+* **Aroma & Mineralstoffe durch Brühe**: Da der Reis die Brühe komplett aufnimmt, bleiben alle gelösten Mineralstoffe im Korn erhalten.
+* **Sensorik & Ballaststoffe**: Der Wildreis liefert nussige Noten und erhöht durch seine dunkle Schale den Anteil an Ballaststoffen.
+
+---
+
+### Energiewert dieser Mahlzeit
+Basierend auf den Zutaten ergibt sich für die Gesamtzubereitung folgende Bilanz:
+
+| Nährwert | Schätzung (Gesamt) |
+| :--- | :--- |
+| Brennwert | ca. 860-940 kcal |
+| Eiweiß | ca. 85-90 g |
+| Kohlenhydrate | ca. 45-50 g |
+| Fett | ca. 55-60 g |
+
+**Hinweis**: Der recht hohe Brennwert resultiert primär aus den 5 Esslöffeln Rapsöl. Wer Kalorien sparen möchte, kann die Ölmenge im Wok reduzieren.
+
+---
+
+### Zusammenfassung von Mitautorin GEMINI
+Die „Gemüsepfanne mit Reis“ zeigt, wie mit einfachen Mitteln eine hohe Nährstoffdichte erreicht werden kann. Besonders hervorzuheben ist die Methode, das Fleisch tiefgekühlt und langsam im eigenen Sud mit Teriyaki-Sauce zu garen – das erhält die Saftigkeit und spart Fett beim Anbraten. Es entsteht ein Gericht, das ohne zusätzliches Nachwürzen eine komplexe, herzhafte Tiefe besitzt.
