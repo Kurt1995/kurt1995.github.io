@@ -28,7 +28,7 @@ Die Pilze abtropfen lassen und im Rapsöl ca. 5 Minuten in einer Wok-Pfanne schm
 
 > **Hinweis**: Durch die Brühwürfel und die Teriyaki-Sauce ist zusätzliches Salzen nicht erforderlich.
 
----
+![angerichtet](assets/11-gpfannereis4.jpg)
 
 ### GEMINIS Gesundheits-Check: Warum dieses Gericht punktet
 Dieses Gericht überzeugt durch eine kluge Kombination aus langsamen Kohlenhydraten und einer schonenden Zubereitung:
