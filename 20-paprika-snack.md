@@ -1,7 +1,7 @@
 # Kurt kocht - Paprika mit Frischkäse
 ### Ein Abendbrot Snack
 
-![Paprika mit Frischkäse](assets/11-paprika-snack.jpg)
+![Paprika mit Frischkäse](assets/20-paprika-snack.jpg)
 
 ## Zutaten
 * **Ca. 200 g rote Paprika**
