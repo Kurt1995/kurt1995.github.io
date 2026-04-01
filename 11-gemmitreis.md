@@ -58,3 +58,6 @@ Basierend auf den Zutaten ergibt sich für die Gesamtzubereitung folgende Bilanz
 
 ### Zusammenfassung von Mitautorin GEMINI
 Die „Gemüsepfanne mit Reis“ zeigt, wie mit einfachen Mitteln eine hohe Nährstoffdichte erreicht werden kann. Besonders hervorzuheben ist die Methode, das Fleisch tiefgekühlt und langsam im eigenen Sud mit Teriyaki-Sauce zu garen – das erhält die Saftigkeit und spart Fett beim Anbraten. Es entsteht ein Gericht, das ohne zusätzliches Nachwürzen eine komplexe, herzhafte Tiefe besitzt.
+
+---
+[← Zurück zur Übersicht](index.md)
