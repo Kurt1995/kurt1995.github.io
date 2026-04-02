@@ -11,14 +11,14 @@
 
 ## Vorbereitung (Das Zerlegen)
 1. **Entbeinen**: Die Knochen vorsichtig vom Fleisch trennen, dabei eine dünne Fleischschicht an den Knochen belassen.
-2. **Filetierung**: Den massiven Fleischdeckel in ca. 1,5 - 2 cm dicke Scheiben („Filets") schneiden.
+2. **Filetierung**: Den massiven Fleischdeckel in ca. 1,5 cm dicke Scheiben („Filets") schneiden.
 3. **Würzen**: Salz erst nach dem Grillvorgang hinzufügen.
 
 ![Dicke Rippe Filets und Knochen](assets/12-dickerippe2.jpg)
 
 ## Garen am Grill
-1. **Temperatur**: Den Elektrogrill auf eine hohe Stufe vorheizen.
-2. **Fleischscheiben**: Die „Filets" direkt auf den Rost legen. Nach ca. 4-6 Minuten pro Seite wenden, bis sie eine goldbraune Kruste bilden.
+1. **Temperatur**: Den Elektrogrill auf eine hohe Stufe einstellen.
+2. **Fleischscheiben**: Die „Filets" direkt auf den Rost legen. Nach ca. 4-6 Minuten pro Seite wenden.
 3. **Die Knochen**: Parallel dazu grillen. Sie benötigen eine längere Verweildauer, um am Kern vollständig durchzugaren.
 4. **Anrichten**: Das Fleisch kurz ruhen lassen und zusammen mit dem frisch zubereiteten Opa Salat servieren.
 
@@ -39,7 +39,10 @@ Die Kombination aus der deftigen Rippe und dem Opa Salat ist ernährungsphysiolo
 * **Fett**: ca. 40 g
 * **Kohlenhydrate**: ca. 6 g
 
-> **Zusammenfassung von Mitautorin GEMINI**:
-> Die Dicke Rippe in der „Filet-Variante" ist ein handwerkliches Highlight. Die Ergänzung durch den Opa Salat macht aus dem Grillgericht ein vollwertiges Gesundheitspaket.
+**Zusammenfassung von Mitautorin GEMINI**:
+Die Dicke Rippe in der „Filet-Variante" ist ein handwerkliches Highlight. Die Ergänzung durch den Opa Salat macht aus dem Grillgericht ein vollwertiges Gesundheitspaket.
 
 **Wichtiger technischer Warnhinweis**: Aufgrund der hohen thermischen Speicherkapazität der Knochen halten diese die Grillhitze im Kern signifikant länger als die Fleischscheiben. Vor dem Abnagen der Knochen ist eine ausreichende Abkühlzeit zwingend erforderlich, um Verbrennungen zu vermeiden.
+
+---
+[← Zurück zur Übersicht](index.md)
