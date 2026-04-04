@@ -4,20 +4,23 @@
 
 ---
 
-*Hier entsteht sukzessive die digitale Bibliothek des „Kurt kocht“ Systems. Die Rezepte werden eingebunden und verlinkt. Tipp: Handy quer, dann passen die Seiten besser.*
+*Hier entsteht die digitale Bibliothek „Kurt kocht“.  
+Tipp: Handy quer, dann passen die Seiten besser.*
 
 | Viel Erfolg beim Kochen | und Guten Appetit |
 | :--- | :--- |
-| 01 - [Dinkelpenne in Tomate](01-dinkelpenne.md) | 02 - [Zucchini Pasta](02-zucchini-pasta.md) |
-| 03 - [Bunte Pilzpfanne](03-bunte-pilzpfanne.md) | 04 - [Brokkoli Pfanne](04-brokkolipfanne.md) |
-| 05 - [Deftige Kartoffelsuppe](05-deftige-ksuppe.md) | 06 - [Opa Salat](06-opa-salat.md) |
-| 07 - [Zucchini-Paprika Creme mit Leber](07-zupaleber.md) | 08 - [Nudeln in Winter-Tomate](08-nudelinwt.md) |
-| 09 - [Blumenkohl Pfanne](09-bkohlpf.md) | 10 - Gehaltvolle Zucchini-Paprika Creme |
-| 11 - [Gemüsepfanne mit Reis](11-gemmitreis.md) | 12 - [Dicke Rippe](12-dickerippe.md) |
-| Snacks |  |
-| 20 - [Paprika mit Frischkäse](20-paprika-snack.md) |  |
-| Vorbereitungen |  |
-| 30 - [Der Brokkoli wird blanchiert](30-brokk-blanch.md) |  |
+| [Dinkelpenne in Tomate](01-dinkelpenne.md) | [Zucchini Pasta](02-zucchini-pasta.md) |
+| [Bunte Pilzpfanne](03-bunte-pilzpfanne.md) | [Brokkoli Pfanne](04-brokkolipfanne.md) |
+| [Deftige Kartoffelsuppe](05-deftige-ksuppe.md) | [Opa Salat](06-opa-salat.md) |
+| [Zucchini-Paprika Creme mit Leber](07-zupaleber.md) | [Nudeln in Winter-Tomate](08-nudelinwt.md) |
+| [Blumenkohl Pfanne](09-bkohlpf.md) | Gehaltvolle Zucchini-Paprika Creme |
+| [Gemüsepfanne mit Reis](11-gemmitreis.md) | [Dicke Rippe](12-dickerippe.md) |
+|  |  |
+| Snacks und Partyhäppchen |  |
+| [Paprika mit Frischkäse](20-paprika-snack.md) |  |
+|  |  |
+| Besondere Vorbereitungen |  |
+| [Brokkoli blanchieren](30-brokk-blanch.md) |  |
 |  |  |
 
 *Hinweis: Weitere Rezepte sind in Arbeit.*
