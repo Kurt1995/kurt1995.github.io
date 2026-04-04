@@ -1,8 +1,9 @@
-# Kurt kocht (30) - Gemüsevorbereitung Brokkoli
+# Kurt kocht - Gemüsevorbereitung Brokkoli
 
-![30-brokkblanch1.jpg] ![30-brokkblanch2.jpg]
+| Vor dem Blanchieren | | Sekunden später |
+| :---: | :---: | :---: |
+| ![Vorbereitung Schritt 1](assets/30-brokkblanch1.jpg) | &nbsp; | ![Vorbereitung Schritt 2](assets/30-brokkblanch2.jpg) |
 
-**Gemüsevorbereitung - Brokkoli**
 **Optimale Vorbereitung durch Blanchieren und Einfrieren**
 
 * Den Brokkoli putzen und in Röschen zerteilen.
