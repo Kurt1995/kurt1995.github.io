@@ -10,7 +10,7 @@
 * Den Stiel schälen und in dünne Scheiben (Brokkoli-Chips) schneiden.
 * Ausreichend Wasser zum Sieden bringen. Kein Salz hinzufügen.
 * Den Brokkoli in das siedende Wasser schütten, untertauchen und gleich wieder entnehmen.
-* Die Gefrierdose mit dem Brokkoli kurz offen stehen lassen, verschließen und noch handwarm tiefgefrieren.
+* Die Gefrierdose mit dem Brokkoli ca. 2 min offen stehen lassen, dann verschließen und noch handwarm tiefgefrieren.
 
 ---
 
