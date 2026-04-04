@@ -3,9 +3,9 @@
 **Für Menschen, die eine einfache, gemüsebasierte Küche wollen – orientiert am Bauchhirn und den Prinzipien des Volume Eating.**
 
 ---
+# Hier entsteht die digitale Bibliothek „Kurt kocht“.
 
-*Hier entsteht die digitale Bibliothek „Kurt kocht“.  
-Tipp: Handy quer, dann passen die Seiten besser.*
+<span style="font-size: 0.8em;">Tipp: Handy quer, dann passen die Seiten besser.</span>
 
 | Viel Erfolg beim Kochen | und Guten Appetit |
 | :--- | :--- |
