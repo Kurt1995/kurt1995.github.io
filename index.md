@@ -3,9 +3,9 @@
 **Für Menschen, die eine einfache, gemüsebasierte Küche wollen – orientiert am Bauchhirn und den Prinzipien des Volume Eating.**
 
 ---
-# Hier entsteht die digitale Bibliothek „Kurt kocht“.
+# Hier entsteht die digitale Rezept-Sammlung „Kurt kocht“.
 
-<span style="font-size: 0.8em;">Tipp: Handy quer, dann passen die Seiten besser.</span>
+Tipp: Handy quer, dann passen die Seiten besser. 
 
 | Viel Erfolg beim Kochen | und Guten Appetit |
 | :--- | :--- |
@@ -16,10 +16,10 @@
 | [Blumenkohl Pfanne](09-bkohlpf.md) | Gehaltvolle Zucchini-Paprika Creme |
 | [Gemüsepfanne mit Reis](11-gemmitreis.md) | [Dicke Rippe](12-dickerippe.md) |
 |  |  |
-| Snacks und Partyhäppchen |  |
-| [Paprika mit Frischkäse](20-paprika-snack.md) |  |
+| __Snacks__ | __und Partyhäppchen__ |
+| [Paprika mit Frischkäse](20-paprika-snack.md) | Salami mit Möhre |
 |  |  |
-| Besondere Vorbereitungen |  |
+| __Besondere Vorbereitungen__ |  |
 | [Brokkoli blanchieren](30-brokk-blanch.md) |  |
 |  |  |
 
