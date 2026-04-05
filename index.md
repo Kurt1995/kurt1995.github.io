@@ -5,7 +5,7 @@
 
 ---
 
-| Viel Erfolg beim Kochen | Guten Appetit |
+| Viel Erfolg beim Kochen | und guten Appetit |
 | :--- | :--- |
 | [Dinkelpenne in Tomate](01-dinkelpenne.md) | [Zucchini Pasta](02-zucchini-pasta.md) |
 | [Bunte Pilzpfanne](03-bunte-pilzpfanne.md) | [Brokkoli Pfanne](04-brokkolipfanne.md) |
