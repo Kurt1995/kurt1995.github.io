@@ -18,7 +18,7 @@
 | [Paprika mit Frischkäse](20-paprika-snack.md) | Salami mit Möhre |
 |  |  |
 | __Besondere Vorbereitungen__ |  |
-| [Brokkoli blanchieren](30-brokk-blanch.md) |  |
+| [Brokkoli blanchieren](30-brokk-blanch.md) |  [Blumenkohl blanchieren](31-blum-blanch.md) |
 |  |  |
 
 *Hinweis: Weitere Rezepte sind in Arbeit.*
