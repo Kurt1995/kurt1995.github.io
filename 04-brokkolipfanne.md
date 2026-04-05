@@ -37,7 +37,9 @@ Dieses Rezept ist ein Paradebeispiel für „Volume Eating“ – eine große Po
 
 ![Serviertes Gericht auf Stövchen](assets/brokkolipfanne2.jpg)
 
----
+| Und am Abend | Ein Süppchen |
+| :--- | :--- |
+| ![brokkolipfanne3.jpg](assets/brokkolipfanne3.jpg) | **Am Abend schmeckt ein kleiner Rest als Süppchen.** <br><br> Sollte von der Brokkoli-Pfanne etwas übrig bleiben, lässt sich daraus mit minimalem Aufwand eine leichte Abendvariante zaubern. <br><br> **Schnelle Zubereitung:** <br> • **Basis**: Die verbliebenen Reste in eine Suppenschale geben. <br> • **Aufgießen**: Mit heißer Brühe aufgießen und servieren. |
 
 ## GEMINIS Gesundheits-Check: Warum dieses Gericht punktet
 
