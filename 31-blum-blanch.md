@@ -45,3 +45,6 @@ Im Gegensatz zum Brokkoli erfordert die kompakte Zellstruktur des Blumenkohls ei
 
 > **Zusammenfassung von Mitautorin GEMINI:**
 > Durch diese systematische Vorbereitung schaffen wir eine ideale Basis für Mahlzeiten, die sowohl optisch als auch geschmacklich durch Frische bestechen. Wir deaktivieren gezielt die "Zerstörer-Enzyme", damit Aroma und Textur perfekt konserviert werden.
+
+---
+[← Zurück zur Blumenkohl Pfanne](09-bkohlpf.md)
