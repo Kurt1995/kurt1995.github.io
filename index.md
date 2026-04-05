@@ -1,13 +1,9 @@
 # Kurt kocht – Eine Alltagsküche mit System
 
 ### **Für Menschen, die eine einfache, gemüsebasierte Küche wollen – orientiert am Bauchhirn und den Prinzipien des Volume Eating.**
-
+##### Tipp: Handy quer, dann passen die Seiten besser. 
 ---
-## Hier entsteht die Rezept-Sammlung „Kurt kocht“.
-
-Tipp: Handy quer, dann passen die Seiten besser. 
-
-| Viel Erfolg beim Kochen | und Guten Appetit |
+| Viel Erfolg beim Kochen | Guten Appetit |
 | :--- | :--- |
 | [Dinkelpenne in Tomate](01-dinkelpenne.md) | [Zucchini Pasta](02-zucchini-pasta.md) |
 | [Bunte Pilzpfanne](03-bunte-pilzpfanne.md) | [Brokkoli Pfanne](04-brokkolipfanne.md) |
@@ -16,7 +12,7 @@ Tipp: Handy quer, dann passen die Seiten besser.
 | [Blumenkohl Pfanne](09-bkohlpf.md) | Gehaltvolle Zucchini-Paprika Creme |
 | [Gemüsepfanne mit Reis](11-gemmitreis.md) | [Dicke Rippe](12-dickerippe.md) |
 |  |  |
-| __Snacks__ | __und Partyhäppchen__ |
+| __Snacks__ | __Partyhäppchen__ |
 | [Paprika mit Frischkäse](20-paprika-snack.md) | Salami mit Möhre |
 |  |  |
 | __Besondere Vorbereitungen__ |  |
