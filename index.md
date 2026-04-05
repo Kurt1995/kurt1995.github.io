@@ -1,8 +1,10 @@
 # Kurt kocht – Eine Alltagsküche mit System
 
 ### **Für Menschen, die eine einfache, gemüsebasierte Küche wollen – orientiert am Bauchhirn und den Prinzipien des Volume Eating.**
-##### Tipp: Handy quer, dann passen die Seiten besser. 
+##### Tipp: Handy quer, dann passen die Seiten besser.
+
 ---
+
 | Viel Erfolg beim Kochen | Guten Appetit |
 | :--- | :--- |
 | [Dinkelpenne in Tomate](01-dinkelpenne.md) | [Zucchini Pasta](02-zucchini-pasta.md) |
