@@ -19,7 +19,7 @@ Dieses Gericht besticht durch seine hohe Nährstoffdichte und die massive Zucchi
 1. **Pasta-Vorrat:** Eine Packung Spaghetti (500 g) in Salzwasser kochen, abgießen und in 3 Portionen aufgeteilt einfrieren.
 2. **Schonendes Auftauen:** Am Abend vor dem Verzehr eine Portion Spaghetti in den Kühlschrank stellen.
 
-| die Zucchini sind gar| großzügig mit schwarzem Pfeffer würzen |
+| die Zucchini sind gar, Spaghetti hinzugeben| und großzügig mit schwarzem Pfeffer würzen |
 | :---: | :---: |
 | ![Zubereitung1.jpg](assets/02zucchinipasta2.jpg) | ![Zubereitung2.jpg](assets/02zucchinipasta3.jpg)  |
 
@@ -30,10 +30,13 @@ Dieses Gericht besticht durch seine hohe Nährstoffdichte und die massive Zucchi
 3. Die aufgetauten Nudeln in der Mikrowelle vorwärmen (ca. 1,5 Min.).
 4. Wenn die Zucchini biegsam werden, die Nudeln in die Pfanne geben.
 5. Großzügig mit schwarzem Pfeffer würzen und gut untermischen.
-6. Auf einem vorgewärmten Teller servieren und mit Parmesan vollenden.
-7. **Genuss mit Zeit:** Den Teller auf ein Stövchen stellen. So bleibt das Gericht bis zum letzten Bissen heiß.
+6. Nach Geschmack mit Salz nachwürzen.
+7. Auf einem vorgewärmten Teller servieren und mit Parmesan vollenden.
+8. **Genuss mit Zeit:** Den Teller auf ein Stövchen stellen. So bleibt das Gericht bis zum letzten Bissen heiß.
 
-![Serviertes Gericht](assets/zucchinipasta3.jpg)
+| das Stövchen hält das Essen warm | und ermöglicht langsames, gesundes Essen |
+| :---: | :---: |
+| ![Auf dem Teller1.jpg](assets/02zucchinipasta4.jpg) | ![Auf dem Teller2.jpg](assets/02zucchinipasta5.jpg)  |
 
 ## GEMINIS Gesundheits-Check - Warum dieses Gericht punktet
 
