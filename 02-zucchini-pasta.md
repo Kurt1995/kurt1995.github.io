@@ -35,7 +35,7 @@ Dieses Gericht besticht durch seine hohe Nährstoffdichte und die massive Zucchi
 8. Nach Geschnack mit Salz nachwürzen und mit Parmesan vollenden.
 9. **Genuss mit Zeit:** Den Teller auf ein Stövchen stellen. So bleibt das Gericht bis zum letzten Bissen heiß.
 
-| das Stövchen hält den Teller warm | und ermöglicht langsames, gesundes essen |
+| das Stövchen hält den Teller warm | und ermöglicht ein langsames, gesundes Essen |
 | :---: | :---: |
 | ![Auf dem Teller1.jpg](assets/02zucchinipasta4.jpg) | ![Auf dem Teller2.jpg](assets/02zucchinipasta5.jpg)  |
 
