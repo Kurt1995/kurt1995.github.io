@@ -32,7 +32,7 @@ Dieses Gericht besticht durch seine hohe Nährstoffdichte und die massive Zucchi
 5. Wenn die Zucchini biegsam werden, die Nudeln in die Pfanne geben.
 6. Großzügig mit schwarzem Pfeffer würzen und gut untermischen.
 7. Auf einem vorgewärmten Teller servieren.
-8. Nach Geschnack mit Salz nachwürzen und mit Parmesan vollenden.
+8. Nach Geschmack mit Salz nachwürzen und mit Parmesan vollenden.
 9. **Genuss mit Zeit:** Den Teller auf ein Stövchen stellen. So bleibt das Gericht bis zum letzten Bissen heiß.
 
 | das Stövchen hält den Teller warm | und ermöglicht ein langsames, gesundes Essen |
