@@ -16,6 +16,7 @@
 |  |  |
 | __Snacks__ | __Partyhäppchen__ |
 | [Paprika mit Frischkäse](20-paprika-snack.md) | Salami mit Möhre |
+| [Surimi mit Frischkäse](20-surimi-snack.md) |  |
 |  |  |
 | __Besondere Vorbereitungen__ |  |
 | [Brokkoli blanchieren](30-brokk-blanch.md) |  [Blumenkohl blanchieren](31-blum-blanch.md) |
