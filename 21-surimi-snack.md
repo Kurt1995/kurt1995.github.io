@@ -8,7 +8,7 @@
 * **150 g Surimi**
 * **2 EL Kräuter-Frischkäse (ca. 50 g)**
 
-#### *das Bild zeigt nur knapp die halbe Menge*
+*das Bild zeigt nur knapp die halbe Menge*
 
 ---
 
