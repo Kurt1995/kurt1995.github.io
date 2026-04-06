@@ -5,11 +5,10 @@
 ![21-surimi-snack.jpg](assets/21-surimi-snack.jpg)
 
 ## Zutaten
-> *das Bild zeigt knapp die halbe Menge*
-
 * **150 g Surimi**
 * **2 EL Kräuter-Frischkäse (ca. 50 g)**
 
+> *das Bild zeigt nur knapp die halbe Menge*
 ---
 
 ### GEMINIS Gesundheits-Check: Warum dieser Snack punktet
