@@ -6,6 +6,7 @@
 
 ## Zutaten
 > *das Bild zeigt knapp die halbe Menge*
+
 * **150 g Surimi**
 * **2 EL Kräuter-Frischkäse (ca. 50 g)**
 
