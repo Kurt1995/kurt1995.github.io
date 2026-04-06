@@ -27,12 +27,13 @@ Dieses Gericht besticht durch seine hohe Nährstoffdichte und die massive Zucchi
 ### Zubereitung am Verzehrtag
 1. 4 Esslöffel Olivenöl in eine Wok-Pfanne geben.
 2. Die Zucchini säubern, in Scheiben schneiden und in der Pfanne bei mittlerer Hitze schmoren/dünsten.
-3. Die aufgetauten Nudeln in der Mikrowelle vorwärmen (ca. 1,5 Min.).
-4. Wenn die Zucchini biegsam werden, die Nudeln in die Pfanne geben.
-5. Großzügig mit schwarzem Pfeffer würzen und gut untermischen.
-6. Nach Geschmack mit Salz nachwürzen.
-7. Auf einem vorgewärmten Teller servieren und mit Parmesan vollenden.
-8. **Genuss mit Zeit:** Den Teller auf ein Stövchen stellen. So bleibt das Gericht bis zum letzten Bissen heiß.
+3. Häufiger wenden.
+4. Die aufgetauten Nudeln in der Mikrowelle vorwärmen (ca. 1,5 Min.).
+5. Wenn die Zucchini biegsam werden, die Nudeln in die Pfanne geben.
+6. Großzügig mit schwarzem Pfeffer würzen und gut untermischen.
+7. Auf einem vorgewärmten Teller servieren.
+8. Nach Geschnack mit Salz nachwürzen und mit Parmesan vollenden.
+9. **Genuss mit Zeit:** Den Teller auf ein Stövchen stellen. So bleibt das Gericht bis zum letzten Bissen heiß.
 
 | das Stövchen hält das Essen warm | und ermöglicht langsames, gesundes Essen |
 | :---: | :---: |
