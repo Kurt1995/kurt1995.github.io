@@ -10,7 +10,7 @@
 | [Dinkelpenne in Tomate](01-dinkelpenne.md) | [Zucchini Pasta](02-zucchini-pasta.md) |
 | [Bunte Pilzpfanne](03-bunte-pilzpfanne.md) | [Brokkoli Pfanne](04-brokkolipfanne.md) |
 | [Deftige Kartoffelsuppe](05-deftige-ksuppe.md) | [Opa Salat](06-opa-salat.md) |
-| [Zucchini-Paprika Creme mit Leber](07-zupaleber.md) | [Nudeln in Winter-Tomate](08-nudelinwt.md) |
+| [Zucchini-Paprika-Creme mit Leber](07-zupaleber.md) | [Nudeln in Winter-Tomate](08-nudelinwt.md) |
 | [Blumenkohl Pfanne](09-bkohlpf.md) | Gehaltvolle Zucchini-Paprika Creme |
 | [Gemüsepfanne mit Reis](11-gemmitreis.md) | [Dicke Rippe](12-dickerippe.md) |
 |  |  |
