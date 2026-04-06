@@ -32,3 +32,6 @@ Geschmacksträger, sondern stellt sicher, dass die fettlöslichen Vitamine der P
 
 > **Zusammenfassung von Mitautorin GEMINI**:
 > Diese Kombination ist mit rund 199 kcal ein idealer, leichter Abend-Snack. Besonders hervorzuheben ist die Vitamin-C-Dichte, die weit über dem Durchschnitt herkömmlicher Snacks liegt. Die natürliche Süße der roten Paprika harmoniert dabei perfekt mit dem würzigen Kräuter-Frischkäse.
+
+---
+[← Zurück zur Übersicht](index.md)
