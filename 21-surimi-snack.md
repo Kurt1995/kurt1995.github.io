@@ -9,6 +9,7 @@
 * **2 EL Kräuter-Frischkäse (ca. 50 g)**
 
 ##### *das Bild zeigt nur knapp die halbe Menge*
+
 ---
 
 ### GEMINIS Gesundheits-Check: Warum dieser Snack punktet
