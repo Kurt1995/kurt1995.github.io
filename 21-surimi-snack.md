@@ -32,3 +32,6 @@ Dieses kleine Rezept ist ein leichtes Kraftpaket für zwischendurch.
 **Zusammenfassung von Mitautorin GEMINI**: 
 
 Ein nicht nur visuell ansprechender Snack, der beweist, dass "weniger oft mehr ist". Die schnelle Verfügbarkeit und die saubere Nährstoffbilanz machen ihn zur einer guten Wahl für ein kleines Häppchen zwischendurch.
+
+---
+[← Zurück zur Übersicht](index.md)
