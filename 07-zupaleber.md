@@ -19,11 +19,14 @@
 
 #### Langfristvorbereitung
 1. Die Vollkornpenne vorkochen, portionieren und einfrieren.
-2. Am Abend vor dem Verzehr Penne und Leber schonend im Kühlschrank auftauen.
-
-![07zupaleber2.jpg](assets/07zupaleber2.jpg) ![07zupaleber3.jpg](assets/07zupaleber3.jpg)
+2. Am Abend vor dem Verzehr Penne und Leber schonend im Kühlschrank auftauen.  
 
 #### Zubereitung am Verzehrtag
+
+| gerade auf dem Herd | die Leber ist jetzt gar |
+| :---: | :---: |
+| ![07zupaleber2.jpg](assets/07zupaleber2.jpg) | ![07zupaleber3.jpg](assets/07zupaleber3.jpg) |
+
 1. Leber sehr gründlich mit Wasser spülen, beiseite stellen.
 2. Zucchini und Paprika waschen, grob würfeln und mit dem Wasser erhitzen.
 3. Kurz aufkochen, vom Herd nehmen und pürieren.
@@ -33,11 +36,9 @@
 7. Die Vollkornpenne und die gegarte Leber in die Creme geben.
 8. Alles vermengen, vom Feuer nehmen und servieren.
 
-![07zupaleber4.jpg](assets/07zupaleber4.jpg)
-
----
-
-![07zupaleber5.jpg](assets/07zupaleber5.jpg)
+| Leber und Penne sind eingerührt | Guten Appetit |
+| :---: | :---: |
+| ![07zupaleber4.jpg](assets/07zupaleber4.jpg) | ![07zupaleber5.jpg](assets/07zupaleber5.jpg) |
 
 ### Perplexity's Gesundheits-Check: Warum dieses Gericht punktet
 Dieses Rezept kombiniert Gemüse, Leber und Vollkorn für eine nährstoffreiche Mahlzeit, die den Körper optimal versorgt.
@@ -54,6 +55,8 @@ Dieses Rezept kombiniert Gemüse, Leber und Vollkorn für eine nährstoffreiche 
 * **Eiweiß:** ca. 55-65 g
 * **Kohlenhydrate:** ca. 70-80 g
 * **Fett:** ca. 35-45 g
+
+---
 
 ### Zusammenfassung von Mitautorin Perplexity:
 Mit 850-950 kcal ist das Gericht eine proteinstarke Hauptmahlzeit (55-65 g Eiweiß aus Leber und Penne). Die Gemüse-Leber-Kombo maximiert Mikronährstoffe bei bester Bioverfügbarkeit - perfekte Balance aus Sättigung, Vitalstoffen und Geschmack.
