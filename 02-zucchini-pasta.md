@@ -37,7 +37,6 @@ Dieses Gericht besticht durch seine hohe Nährstoffdichte und die massive Zucchi
   <li>Nach Geschmack mit Salz nachwürzen und mit Parmesan vollenden.</li>
   <li>Genuss mit Zeit: Den Teller auf ein Stövchen stellen. So bleibt das Gericht bis zum letzten Bissen heiß.</li>
 </ol>
-<br>
 
 | das Stövchen hält den Teller warm | Guten Appetit |
 | :---: | :---: |
