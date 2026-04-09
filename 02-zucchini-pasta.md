@@ -29,7 +29,7 @@ Dieses Gericht besticht durch seine hohe Nährstoffdichte und die massive Zucchi
 
 | die Zucchini sind gar, Spaghetti hinzugeben| und großzügig mit schwarzem Pfeffer würzen |
 | :---: | :---: |
-| ![Zubereitung1.jpg](assets/02zucchinipasta2.jpg) | ![Zubereitung2.jpg](assets/02zucchinipasta3.jpg)  |
+| ![Zubereitung1.jpg](assets/02zucchinipasta2.jpg) | ![Zubereitung2.jpg](assets/02zucchinipasta3.jpg) |
 
 <ol start="6">
   <li>Großzügig mit schwarzem Pfeffer würzen und gut untermischen.</li>
