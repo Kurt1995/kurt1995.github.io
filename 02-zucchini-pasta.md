@@ -42,7 +42,9 @@ Dieses Gericht besticht durch seine hohe Nährstoffdichte und die massive Zucchi
 | :---: | :---: |
 | ![Auf dem Teller1.jpg](assets/02zucchinipasta4.jpg) | ![Auf dem Teller2.jpg](assets/02zucchinipasta5.jpg)  |
 
-<br>
+---
+
+---
 
 ## GEMINIS Gesundheits-Check - Warum dieses Gericht punktet
 
