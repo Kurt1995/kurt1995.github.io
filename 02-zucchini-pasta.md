@@ -31,11 +31,12 @@ Dieses Gericht besticht durch seine hohe Nährstoffdichte und die massive Zucchi
 | :---: | :---: |
 | ![Zubereitung1.jpg](assets/02zucchinipasta2.jpg) | ![Zubereitung2.jpg](assets/02zucchinipasta3.jpg)  |
 
-6. Großzügig mit schwarzem Pfeffer würzen und gut untermischen.
-7. Auf einem vorgewärmten Teller servieren.
-8. Nach Geschmack mit Salz nachwürzen und mit Parmesan vollenden.
-9. **Genuss mit Zeit:** Den Teller auf ein Stövchen stellen. So bleibt das Gericht bis zum letzten Bissen heiß.
-
+<ol start="6">
+  <li>Großzügig mit schwarzem Pfeffer würzen und gut untermischen.</li>
+  <li>Auf einem vorgewärmten Teller servieren.</li>
+  <li>Nach Geschmack mit Salz nachwürzen und mit Parmesan vollenden.</li>
+  <li>Genuss mit Zeit: Den Teller auf ein Stövchen stellen. So bleibt das Gericht bis zum letzten Bissen heiß.</li>
+</ol>
 <br>
 
 | das Stövchen hält den Teller warm | Guten Appetit |
