@@ -21,7 +21,7 @@ Dieses Rezept ist ein Paradebeispiel für „Volume Eating“ – eine große Po
 ### 1. Langfristvorbereitung
 * **Brokkoli-Vorbereitung:** Den Brokkoli (500 g pro Portion) putzen und in bissgerechte Stücke schneiden.
 * **Brokkoli-Chips:** Die Stiele schälen und in Scheiben schneiden. (Naschen: Brokkoli-Chips sind auch roh lecker)
-* **Blanchieren & Einfrieren:** Den Brokkoli nur Sekunden in ungesalzenem Wasser blanchieren, mit einem Schaumlöffel entnehmen, in eine Gefrierdose geben und noch handwarm einfrieren. <br> [(das Blanchieren anschauen)](30-brokk-blanch.md)
+* **Blanchieren & Einfrieren:** Den Brokkoli nur Sekunden in ungesalzenem Wasser blanchieren, mit einem Schaumlöffel entnehmen, in eine Gefrierdose geben und noch handwarm einfrieren.  [(das Blanchieren anschauen)](30-brokk-blanch.md)
 * **Pasta-Vorrat:** Das Blanchier-Wasser salzen. Eine Packung Vollkornpenne (500 g) in das Wasser geben, passend gar kochen, abgießen, kalt abschrecken und in 4 Portionen aufgeteilt ebenfalls einfrieren.
 * **Schonendes Auftauen:** Am Abend vor dem Verzehr eine Portion Penne und eine Portion Brokkoli in den Kühlschrank stellen.
 
