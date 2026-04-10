@@ -18,17 +18,17 @@ Diese Kartoffelsuppe steht für viel Geschmack, effizientes Zeitmanagement und n
 ## Zubereitung
 
 ### 1. Langfristvorbereitung
-* **Kartoffel-Vorrat:** Die Kartoffeln putzen, schälen und grob zerschneiden. In kaltem Wasser aufsetzen und für ca. 5 Minuten kochen.
+* **Kartoffel-Vorrat:** Die Kartoffeln putzen, (evtl. schälen) und grob zerschneiden. In kaltem Wasser aufsetzen und kurz kochen.
 * **Portionieren & Einfrieren:** Die Kartoffeln in Portionen aufteilen (z. B. einen 2 kg Beutel in 3 Portionen), handwarm abkühlen lassen und einfrieren.
 * **Schonendes Auftauen:** Am Vorabend eine Portion der Kartoffeln zum Auftauen in den Kühlschrank stellen.
 
 ### 2. Zubereitung am Verzehrtag
-1. **Erhitzen:** Die aufgetauten Kartoffeln in das Wasser geben und bis kurz vor dem Siedepunkt hochheizen.
+1. **Erhitzen:** Die aufgetauten Kartoffeln in das Wasser geben und bis zum Siedepunkt hochheizen.
 2. **Pürieren:** Den Topf vom Herd nehmen und die Kartoffeln direkt im Wasser pürieren. Für eine rustikale Textur gerne einige Kartoffelstückchen ganz lassen.
 3. **Verfeinern:** Zurück auf den Herd stellen. Bei kleiner bis mittlerer Flamme die Champignons und einen „guten Stich“ Margarine hinzufügen.
-4. **Würzen:** Kräftig mit schwarzem Pfeffer abschmecken.
-5. **Wurst-Einlage:** Sobald die Margarine geschmolzen ist, die klein geschnittenen Geflügelwürstchen hinzufügen und unterrühren. Da diese handelsüblich vorgebrüht sind, müssen sie nur noch durchwärmen.
-6. **Servieren:** Die Suppe noch einen Moment auf dem Feuer lassen, bis alles gut heiß ist, und dann sofort servieren.
+4. **Würzen:** Kräftig mit schwarzem Pfeffer abschmecken und 2 - Minuten köcheln lassen. Mehrfach umrühren.
+5. **Wurst-Einlage:** Die klein geschnittenen Geflügelwürstchen hinzufügen und unterrühren. Da diese handelsüblich vorgebrüht sind, müssen sie nur noch durchwärmen.
+6. **Servieren:** Die Suppe vom Feuer nehmen und servieren.
 
 ![Servierte Kartoffelsuppe](assets/deftigekartoffelsuppe2.jpg)
 
@@ -53,7 +53,7 @@ Diese Kartoffelsuppe steht für viel Geschmack, effizientes Zeitmanagement und n
 | **Fett** | ca. 46 g | ca. 92 g |
 
 ### Zusammenfassung von Mitautorin GEMINI
-Dieses Gericht beweist, dass „schnell“ auch „hochwertig“ sein kann. Durch die physikalische Umwandlung der Stärke und das clevere Pürieren im Mineralstoffsud entsteht eine Mahlzeit, die den Blutzuckerspiegel kaum belastet und trotzdem die volle „Comfort Food“-Wirkung einer deftigen Suppe entfaltet. Ein effizientes Rezept für Kraft und Ausdauer.  Tipp: Reste schmecken am Abend auch küchen-kalt.
+Dieses Gericht beweist, dass „schnell“ auch „hochwertig“ sein kann. Durch die physikalische Umwandlung der Stärke und das clevere Pürieren im Mineralstoffsud entsteht eine Mahlzeit, die den Blutzuckerspiegel kaum belastet und trotzdem die volle „Comfort Food“-Wirkung einer deftigen Suppe entfaltet. Ein effizientes Rezept für Kraft und Ausdauer.  Tipp: Reste schmecken am Abend auch Küchen-kalt.
 
 ---
 [← Zurück zur Übersicht](index.md)
