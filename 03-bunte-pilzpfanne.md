@@ -2,7 +2,7 @@
 
 Dieses Gericht besticht durch seine effiziente Vorratsküche und die kurze Zubereitungszeit am Verzehrtag. Es ist eine gehaltvolle Mahlzeit, die besonders durch den Mix aus tierischem Eiweiß und pflanzlichen Proteinen punktet.
 
-![Zutatenübersicht](assets/buntepilzpfanne1.jpg)
+![Zutatenübersicht](assets/03buntepilzpfanne1.jpg)
 
 ## Zutaten
 * **120 g Spiralnudeln** (vorgekocht aus dem 600 g Vorrat)
@@ -28,7 +28,7 @@ Dieses Gericht besticht durch seine effiziente Vorratsküche und die kurze Zuber
 4. **Finish:** Alles für weitere 5 Minuten gemeinsam ziehen lassen, damit die Nudeln die Aromen aufnehmen und die Würstchen heiß werden.
 5. **Servieren:** Vom Herd nehmen und direkt genießen.
 
-![Fertiges Gericht](assets/buntepilzpfanne2.jpg)
+![Fertiges Gericht](assets/03buntepilzpfanne2.jpg)
 
 ---
 
