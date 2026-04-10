@@ -18,7 +18,7 @@ Diese Pfanne ist ein ideales Beispiel für intelligentes Meal-Prep. Durch das Bl
 ## Zubereitung
 
 ### Langfristvorbereitung
-1. **Blumenkohl**: Putzen, in Röschen (inkl. Stiele) schneiden und 2 - 3 Minuten in ungesalzenem Wasser blanchieren. [Das Blanchieren anschauen](31-blum-blanch.md)
+1. **Blumenkohl**: Putzen, in Röschen (inkl. Stiele) schneiden und 2 - 3 Minuten in ungesalzenem Wasser blanchieren. <br> [(das Blanchieren anschauen)](31-blum-blanch.md)
 2. **Zwiebeln**: In Streifen schneiden, ebenfalls blanchieren. Beides zusammen abkühlen lassen und einfrieren.
 3. **Pasta**: Das Blanchierwasser salzen, eine Packung Penne darin vorkochen und portionsweise einfrieren.
 4. **Fleisch**: Den Grill-Rest der Dicken Rippe würfeln und ebenfalls einfrieren.
