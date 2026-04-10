@@ -2,7 +2,7 @@
 
 Dieses Rezept ist ein echtes Kraftpaket für den Körper, besonders durch die clevere Kombination der Zutaten und die schonende Zubereitung.
 
-![Zutaten für Dinkelpenne in Tomate](assets/penneintomate1.jpg)
+![Zutaten für Dinkelpenne in Tomate](assets/01penneintomate1.jpg)
 
 ## Zutaten
 * 125 g (1/4 Packung) Dinkelpenne
@@ -31,7 +31,7 @@ Dieses Rezept ist ein echtes Kraftpaket für den Körper, besonders durch die cl
 5. Die Flamme auf kleinste Stufe stellen, die Penne unterheben und kurz in der heißen Sauce ziehen lassen.
 6. Vom Herd nehmen und servieren.
 
-![Fertig serviert](assets/penneintomate2.jpg)
+![Fertig serviert](assets/01penneintomate2.jpg)
 
 ## Energiewert der Mahlzeit
 * **Brennwert:** ca. 785 kcal (3.285 kJ)
