@@ -5,10 +5,10 @@ Diese Kartoffelsuppe steht für viel Geschmack, effizientes Zeitmanagement und n
 ![Zutaten Übersicht](assets/05deftigekartoffelsuppe1.jpg)
 
 ## Zutaten
-* **ca. 700 g Kartoffeln** (Frischgewicht, bereits vorgekocht & aufgetaut)
+* **ca. 600 - 700 g Kartoffeln** (Frischgewicht, bereits vorgekocht & aufgetaut)
 * **5 Grillwürste** (ca. 400 g Geflügel-Bratwurst) 
 * **1 Dose Champignons** (geschnitten)
-* **ca. 800 ml Wasser**
+* **ca. 700 ml Wasser**
 * **2 Brühwürfel** (Fette Brühe)
 * **Margarine**
 * **Gewürze:** Schwarzer Pfeffer
