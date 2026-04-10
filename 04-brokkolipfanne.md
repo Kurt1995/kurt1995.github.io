@@ -45,7 +45,7 @@ Dieses Rezept ist ein Paradebeispiel für „Volume Eating“ – eine große Po
 
 * **Sulforaphan-Power:** Brokkoli ist eine der besten Quellen für Senföle (Sulforaphan), die stark antioxidativ wirken und die Entgiftungsenzyme der Leber unterstützen.
 * **Resistente Stärke:** Durch das Vorkochen und anschließende Einfrieren der Penne entsteht durch Retrogradation resistente Stärke. Diese wirkt wie ein Ballaststoff: Sie hält den Blutzuckerspiegel stabil, füttert die gesunden Darmbakterien und reduziert die tatsächlich aufgenommene Kalorienmenge der Pasta ein wenig.
-* **Pilz-Power & Umami:** Die Champignons liefern nicht nur wertvolle B-Vitamine und Mineralstoffe, sondern sorgen durch das scharfe Anbraten für den herzhaften Umami-Geschmack, der durch die Teriyaki-Sauce und den Parmesankäse noch verstärkt wird.
+* **Pilz-Power & Umami:** Die Champignons liefern nicht nur wertvolle B-Vitamine und Mineralstoffe, sondern sorgen durch das Anbraten für einen herzhaften Umami-Geschmack, der durch die Teriyaki-Sauce und den Parmesankäse noch verstärkt wird.
 * **Vitaminkonservierung:** Durch das kurze Blanchieren bleiben die hitzeempfindlichen Vitamine (besonders Vitamin C und Folsäure) im Brokkoli fast vollständig erhalten.
 * **Ballaststoff-Maximum:** Die 500 g Brokkoli und die Pilze liefern zusammen mit der Vollkornpasta eine enorme Menge an Ballaststoffen für eine langanhaltende Sättigung und einen stabilen Blutzuckerspiegel.
 * **Vitamin-K-Bombe:** Die Kombination aus Brokkoli (Vitamin K) und dem Kalzium aus dem Parmesan ist ideal für den Knochenerhalt.
