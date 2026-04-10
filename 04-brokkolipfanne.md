@@ -9,10 +9,8 @@ Dieses Rezept ist ein Paradebeispiel für „Volume Eating“ – eine große Po
 * **500 g Brokkoli**
 * **1 Dose Champignons** (geschnitten)
 * **ca. 30 g Parmesan**
-* **Olivenöl Extra**
-* **Teriyaki-Sauce**
-* **Fondor Gewürzmischung**
-* **Gewürze:** Schwarzer Pfeffer
+* **Olivenöl**
+* **Gewürze:** Schwarzer Pfeffer, Teriyaki-Sauce, Fondor-Gewürzmischung
 
 ---
 
