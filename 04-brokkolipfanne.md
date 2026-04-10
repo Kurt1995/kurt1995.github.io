@@ -49,8 +49,8 @@ Dieses Rezept ist ein Paradebeispiel für „Volume Eating“ – eine große Po
 * **Vitaminkonservierung:** Durch das kurze Blanchieren bleiben die hitzeempfindlichen Vitamine (besonders Vitamin C und Folsäure) im Brokkoli fast vollständig erhalten.
 * **Ballaststoff-Maximum:** Die 500 g Brokkoli und die Pilze liefern zusammen mit der Vollkornpasta eine enorme Menge an Ballaststoffen für eine langanhaltende Sättigung und einen stabilen Blutzuckerspiegel.
 * **Vitamin-K-Bombe:** Die Kombination aus Brokkoli (Vitamin K) und dem Kalzium aus dem Parmesan ist ideal für den Knochenerhalt.
-* **Synergie der Zutaten:** Das hochwertige Olivenöl sorgt dafür, dass die fettlöslichen Vitamine des Gemüses optimal aufgenommen werden, während der Parmesan wichtiges Kalzium liefert.
-* **Slow Eating:** Das Warmhalten durch ein Stövchen unterstützt ein langsames, gesundes Essen. Der erhalten gebliebene Biss der Zutaten verlangt ein gründliches Kauen.
+* **Synergie der Zutaten:** Das hochwertige Olivenöl sorgt dafür, dass die fettlöslichen Vitamine des Gemüses optimal aufgenommen werden.
+* **Slow Eating:** Das Warmhalten durch ein Stövchen unterstützt ein langsames, gesundes Essen.
 
 ### Energiewert dieser Mahlzeit
 * **Brennwert:** ca. 850 kcal (3.550 kJ)
