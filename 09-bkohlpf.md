@@ -36,7 +36,7 @@ Diese Pfanne ist ein ideales Beispiel für intelligentes Meal-Prep. Durch das Bl
 
 | Und am Abend | ein Süppchen |
 | :--- | :--- |
-| ![09bluhmenkohlpfanne4.jpg](assets/09bluhmenkohlpfanne4.jpg) | **Am Abend schmeckt ein Rest als Süppchen.** <br><br> Sollte von der herzhaften Blumenkohl-Pfanne etwas übrig bleiben, lässt sich daraus mit minimalem Aufwand eine leichte Abendvariante zaubern. <br><br> **Schnelle Zubereitung:** <br> • **Basis**: Die verbliebenen Reste (Gemüse, Pasta und Fleisch) in eine Suppenschale geben. <br> • **Aufgießen**: Mit heißer Brühe aufgießen und servieren. |
+| ![09bluhmenkohlpfanne4.jpg](assets/09bluhmenkohlpfanne4.jpg) | **Am Abend schmeckt ein Rest als Süppchen.** <br><br> Sollte von der herzhaften Blumenkohl-Pfanne etwas übrig bleiben, lässt sich daraus mit minimalem Aufwand eine leichte Abendvariante zaubern. <br><br> **Schnelle Zubereitung:** <br> • **Basis**: Die verbliebenen Reste in eine Suppenschale geben. <br> • **Aufgießen**: Mit heißer Brühe aufgießen und servieren. |
 
 ## GEMINIS Gesundheits-Check: Warum dieses Gericht punktet
 Die Kombination aus Vollkorn und ballaststoffreichem Gemüse sorgt für eine optimale Energiebereitstellung.
