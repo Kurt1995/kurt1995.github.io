@@ -2,7 +2,7 @@
 
 Der Opa Salat ist eine frische, vitaminreiche Rohkost-Mahlzeit.
 
-![Zutaten Übersicht](assets/opasalat1.jpg)
+![Zutaten Übersicht](assets/06opasalat1.jpg)
 
 ## Zutaten
 
@@ -27,7 +27,7 @@ Der Opa Salat ist eine frische, vitaminreiche Rohkost-Mahlzeit.
 4. **Das Dressing-Finish:** 1 TL mittelscharfen Senf sowie 3 EL natives Rapsöl hinzufügen und den Salat erneut gründlich durchmischen, bis sich die Aromen optimal verteilt haben.
 5. **Servieren:** Den fertigen Salat portionsweise in kleineren Glasschüsseln anrichten und servieren.
 
-![Zubereitung und Servieren](assets/opasalat2.jpg)
+![Zubereitung und Servieren](assets/06opasalat2.jpg)
 
 ---
 
