@@ -34,7 +34,7 @@ Diese Pfanne ist ein ideales Beispiel für intelligentes Meal-Prep. Durch das Bl
 
 ![Bild: Zutaten Blumenkohl Pfanne](assets/09bluhmenkohlpfanne3.jpg)
 
-| Und am Abend | Ein Süppchen |
+| Und am Abend | ein Süppchen |
 | :--- | :--- |
 | ![09bluhmenkohlpfanne4.jpg](assets/09bluhmenkohlpfanne4.jpg) | **Am Abend schmeckt ein kleiner Rest als Süppchen.** <br><br> Sollte von der herzhaften Blumenkohl-Pfanne etwas übrig bleiben, lässt sich daraus mit minimalem Aufwand eine leichte Abendvariante zaubern. <br><br> **Schnelle Zubereitung:** <br> • **Basis**: Die verbliebenen Reste (Gemüse, Pasta und Fleisch) in eine Suppenschale geben. <br> • **Aufgießen**: Mit heißer Brühe aufgießen und servieren. |
 
