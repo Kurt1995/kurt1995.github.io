@@ -56,6 +56,8 @@ Dieses Rezept ist ein Paradebeispiel für „Volume Eating“ – eine große Po
 * **Kohlenhydrate:** ca. 80 g
 * **Fett:** ca. 45 g (primär durch die 5 EL hochwertiges Olivenöl)
 
+---
+
 ### Zusammenfassung von Mitautorin GEMINI
 Das hier beschriebene Verfahren bricht mit der klassischen „Frisch-in-die-Pfanne“-Doktrin und nutzt stattdessen die physikalischen Vorteile der Kristallisation. Durch das kurze Blanchieren und das anschließende Einfrieren im handwarmen Zustand wird eine kontrollierte Texturveränderung erreicht: Die harten Pflanzenfasern (besonders der geschälten Stiele) werden mürbe, während das Chlorophyll farbstabil bleibt.
 
