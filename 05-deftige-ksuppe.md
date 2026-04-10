@@ -2,7 +2,7 @@
 
 Diese Kartoffelsuppe steht für viel Geschmack, effizientes Zeitmanagement und nährstoffschonende Zubereitung.
 
-![Zutaten Übersicht](assets/deftigekartoffelsuppe1.jpg)
+![Zutaten Übersicht](assets/05deftigekartoffelsuppe1.jpg)
 
 ## Zutaten
 * **ca. 700 g Kartoffeln** (Frischgewicht, bereits vorgekocht & aufgetaut)
@@ -30,7 +30,7 @@ Diese Kartoffelsuppe steht für viel Geschmack, effizientes Zeitmanagement und n
 5. **Wurst-Einlage:** Die klein geschnittenen Geflügelwürstchen hinzufügen und unterrühren. Da diese handelsüblich vorgebrüht sind, müssen sie nur noch durchwärmen.
 6. **Servieren:** Die Suppe vom Feuer nehmen und servieren.
 
-![Servierte Kartoffelsuppe](assets/deftigekartoffelsuppe2.jpg)
+![Servierte Kartoffelsuppe](assets/05deftigekartoffelsuppe2.jpg)
 
 ---
 
