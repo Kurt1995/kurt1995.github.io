@@ -26,7 +26,7 @@ Diese Kartoffelsuppe steht für viel Geschmack, effizientes Zeitmanagement und n
 1. **Erhitzen:** Die aufgetauten Kartoffeln in das Wasser geben und bis zum Siedepunkt hochheizen.
 2. **Pürieren:** Den Topf vom Herd nehmen und die Kartoffeln direkt im Wasser pürieren. Für eine rustikale Textur gerne einige Kartoffelstückchen ganz lassen.
 3. **Verfeinern:** Zurück auf den Herd stellen. Bei kleiner bis mittlerer Flamme die Champignons und einen „guten Stich“ Margarine hinzufügen.
-4. **Würzen:** Kräftig mit schwarzem Pfeffer abschmecken und 2 - Minuten köcheln lassen. Mehrfach umrühren.
+4. **Würzen:** Kräftig mit schwarzem Pfeffer abschmecken und 2 - 3 Minuten köcheln lassen. Mehrfach umrühren.
 5. **Wurst-Einlage:** Die klein geschnittenen Geflügelwürstchen hinzufügen und unterrühren. Da diese handelsüblich vorgebrüht sind, müssen sie nur noch durchwärmen.
 6. **Servieren:** Die Suppe vom Feuer nehmen und servieren.
 
