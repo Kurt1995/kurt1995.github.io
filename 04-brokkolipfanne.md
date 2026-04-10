@@ -2,7 +2,7 @@
 
 Dieses Rezept ist ein Paradebeispiel für „Volume Eating“ – eine große Portion bei moderater Kaloriendichte, die den Körper maximal mit Mikronährstoffen versorgt.
 
-![Zutaten Übersicht](assets/brokkolipfanne1.jpg)
+![Zutaten Übersicht](assets/04brokkolipfanne1.jpg)
 
 ## Zutaten
 * **125 g Vollkornpenne** (vorgekocht)
@@ -27,15 +27,15 @@ Dieses Rezept ist ein Paradebeispiel für „Volume Eating“ – eine große Po
 
 ### 2. Zubereitung am Verzehrtag
 1. **Anbraten:** 5 Esslöffel Olivenöl in einer Wok-Pfanne erhitzen.
-2. **Pilze:** Die Champignons in die Pfanne geben und bei geschlossenem Deckel (Vorsicht, sie „hopsen“) für 3–5 Minuten scharf anbraten.
+2. **Pilze:** Die Champignons in die Pfanne geben und bei geschlossenem Deckel (Vorsicht, sie „hopsen“) für 3 - 4 Minuten scharf anbraten.
 3. **Kombinieren:** Den aufgetauten Brokkoli und die Vollkornpenne hinzugeben.
-4. **Würzen:** Alles mit einigen Spritzern Teriyaki-Sauce und Fondor würzen.
-5. **Garen:** Auf mittlerer Flamme für 7–10 Minuten braten bzw. garen; dabei mehrmals umrühren.
+4. **Würzen:** Alles mit einigen Spritzern Teriyaki-Sauce, schwarzem Pfeffer und Fondor würzen.
+5. **Garen:** Auf mittlerer Flamme für 7 – 10 Minuten schmoren und garen; dabei mehrmals umrühren.
 6. **Abschluss:** Sobald der Brokkoli die gewünschte Weichheit erreicht hat, die Flamme herunterregeln.
 7. **Servieren:** Auf einem vorgewärmten Teller anrichten und mit dem geriebenen Parmesan bestreuen.
 8. **Das Stövchen-Prinzip:** Den feuerfesten Teller auf ein Stövchen stellen. Dies ermöglicht ein langsames, entspanntes Essen, ohne dass Textur und Geschmack durch Abkühlen leiden.
 
-![Serviertes Gericht auf Stövchen](assets/brokkolipfanne2.jpg)
+![Serviertes Gericht auf Stövchen](assets/04brokkolipfanne2.jpg)
 
 | Und am Abend | ein Süppchen |
 | :--- | :--- |
@@ -59,7 +59,7 @@ Dieses Rezept ist ein Paradebeispiel für „Volume Eating“ – eine große Po
 * **Fett:** ca. 45 g (primär durch die 5 EL hochwertiges Olivenöl)
 
 ### Zusammenfassung von Mitautorin GEMINI
-Das hier beschriebene Verfahren bricht mit der klassischen „Frisch-in-die-Pfanne“-Doktrin und nutzt stattdessen die physikalischen Vorteile der Kristallisation. Durch das kurze 1-minütige Blanchieren und das anschließende Einfrieren im handwarmen Zustand wird eine kontrollierte Texturveränderung erreicht: Die harten Pflanzenfasern (besonders der geschälten Stiele) werden mürbe, während das Chlorophyll farbstabil bleibt.
+Das hier beschriebene Verfahren bricht mit der klassischen „Frisch-in-die-Pfanne“-Doktrin und nutzt stattdessen die physikalischen Vorteile der Kristallisation. Durch das kurze Blanchieren und das anschließende Einfrieren im handwarmen Zustand wird eine kontrollierte Texturveränderung erreicht: Die harten Pflanzenfasern (besonders der geschälten Stiele) werden mürbe, während das Chlorophyll farbstabil bleibt.
 
 Das Ergebnis nach dem Pfannen-Finish – bei dem die Pilze durch scharfes Anbraten ihr volles Aroma entfalten – ist in Kombination mit Olivenöl, schwarzem Pfeffer, Teriyaki und Fondor ein gesundes Gericht mit viel Umami-Geschmack bei gleichzeitig perfektem, individuellem Biss – ein Paradebeispiel für intelligentes Meal-Prep. 
 
@@ -69,6 +69,5 @@ Für eine noch sämigere Textur und ein gesteigertes Sättigungsgefühl können 
 Nährwert-Hinweis: 
 Durch die zwei Eier (ca. 150-180 kcal zusätzlich) wandert die Mahlzeit nun in den Bereich von gut 1.000 kcal. Das ist für ein „Volume Eating“-Gericht mit 500 g Brokkoli immer noch eine exzellente Bilanz für eine Hauptmahlzeit, die lange satt hält. 
  
-
 ---
 [← Zurück zur Übersicht](index.md)
