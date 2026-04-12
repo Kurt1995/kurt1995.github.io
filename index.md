@@ -5,14 +5,15 @@
 
 ---
 
-| Viel Erfolg beim Kochen | und guten Appetit |
+| In der Pfanne | Topf &middot; Schüssel &middot; Grill |
 | :--- | :--- |
-| [Dinkelpenne in Tomate](01-dinkelpenne.md) | [Zucchini Pasta](02-zucchini-pasta.md) |
-| [Bunte Pilzpfanne](03-bunte-pilzpfanne.md) | [Brokkoli Pfanne](04-brokkolipfanne.md) |
-| [Deftige Kartoffelsuppe](05-deftige-ksuppe.md) | [Opa Salat](06-opa-salat.md) |
-| [Zucchini-Paprika-Creme mit Leber](07-zupaleber.md) | [Nudeln in Winter-Tomate](08-nudelinwt.md) |
+| [Zucchini Pasta](02-zucchini-pasta.md) | [Dinkelpenne in Tomate](01-dinkelpenne.md)  |
+| [Bunte Pilzpfanne](03-bunte-pilzpfanne.md) | [Deftige Kartoffelsuppe](05-deftige-ksuppe.md)  |
+| [Brokkoli Pfanne](04-brokkolipfanne.md)  | [Zucchini-Paprika-Creme mit Leber](07-zupaleber.md) |
+| [Gemüsepfanne mit Reis](11-gemmitreis.md) | [Nudeln in Winter-Tomate](08-nudelinwt.md) |
 | [Blumenkohl Pfanne](09-bkohlpf.md) | Gehaltvolle Zucchini-Paprika Creme |
-| [Gemüsepfanne mit Reis](11-gemmitreis.md) | [Dicke Rippe](12-dickerippe.md) |
+| &nbsp; | [Opa Salat](06-opa-salat.md) |
+| &nbsp; | [Dicke Rippe](12-dickerippe.md) |
 |  |  |
 | __Snacks__ | __Partyhäppchen__ |
 | [Paprika mit Frischkäse](20-paprika-snack.md) | Salami mit Möhre |
