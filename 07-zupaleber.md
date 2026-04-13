@@ -62,7 +62,7 @@ Dieses Rezept kombiniert Gemüse, Leber und Vollkorn für eine nährstoffreiche 
 Mit 850-950 kcal ist das Gericht eine proteinstarke Hauptmahlzeit (55-65 g Eiweiß aus Leber und Penne). Die Gemüse-Leber-Kombo maximiert Mikronährstoffe bei bester Bioverfügbarkeit.
 
 > **Tipp für Leberskeptiker:**
-> Durch das Garen bei kleiner Flamme bleibt die Geflügelleber in ihrem Aroma zurückhaltend. Während die Zucchini-Paprika-Creme den ersten Moment am Gaumen bestimmt, tritt die sanfte, braun‑raue Lebernote erst beim Kauen hervor. Ein besonderes Geschmackserlebnis - perfekt für alle, die sich behutsam an Innereien herantasten möchten.
+> Durch das Garen bei kleiner Flamme bleibt die Geflügelleber in ihrem Aroma zurückhaltend. <br> Während die Zucchini-Paprika-Creme den ersten Moment am Gaumen bestimmt, tritt die sanfte, braun‑raue Lebernote erst beim Kauen hervor. Ein besonderes Geschmackserlebnis - perfekt für alle, die sich behutsam an Innereien herantasten möchten.
 
 ---
 
