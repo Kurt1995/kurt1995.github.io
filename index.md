@@ -63,4 +63,4 @@ Die auf dieser Webseite bereitgestellten Informationen, insbesondere die durch d
 Die berechneten Werte (Kalorien, Eiweiß, Kohlenhydrate, Fett) sind Schätzwerte und können je nach verwendeten Produkten und genauer Zubereitung variieren. Die medizinischen und ernährungsphysiologischen Hinweise ersetzen keine fachliche Beratung. Die Umsetzung der Rezepte erfolgt auf eigene Verantwortung.
 
 ---
-[← Zurück zur Übersicht](index.md)
+[← Zurück zum Anfang](index.md)
