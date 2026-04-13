@@ -30,7 +30,7 @@
 1. Leber sehr gründlich mit Wasser spülen, beiseite stellen.
 2. Zucchini und Paprika waschen, grob würfeln und mit dem Wasser erhitzen.
 3. Kurz aufkochen, vom Herd nehmen und pürieren.
-4. Die Leber in einer Pfanne (oder in kochendem Wasser) 8-10 min durchgaren.
+4. Die Leber in einer Pfanne mit Deckel auf kleiner Flamme ca. 10 min durchgaren. Öfter wenden.
 5. Währenddessen die Creme auf kleiner Flamme köcheln. Mehrmals rühren.
 6. Pfeffer und Brühwürfel einrühren und einen guten Stich Margarine zugeben.
 7. Die Vollkornpenne und die gegarte Leber in die Creme geben.
@@ -59,7 +59,10 @@ Dieses Rezept kombiniert Gemüse, Leber und Vollkorn für eine nährstoffreiche 
 ---
 
 ### Zusammenfassung von Mitautorin Perplexity:
-Mit 850-950 kcal ist das Gericht eine proteinstarke Hauptmahlzeit (55-65 g Eiweiß aus Leber und Penne). Die Gemüse-Leber-Kombo maximiert Mikronährstoffe bei bester Bioverfügbarkeit - perfekte Balance aus Sättigung, Vitalstoffen und Geschmack.
+Mit 850-950 kcal ist das Gericht eine proteinstarke Hauptmahlzeit (55-65 g Eiweiß aus Leber und Penne). Die Gemüse-Leber-Kombo maximiert Mikronährstoffe bei bester Bioverfügbarkeit.
+
+#### Tipp für Leberskeptiker: 
+Durch das sanfte Garen bei kleiner Flamme bleibt die Geflügelleber wunderbar mild. Die Zucchini-Paprika-Creme dominiert den ersten Moment am Gaumen, während das feine, nussige Aroma der Leber erst beim Kauen als dezenter Nachhall hervortritt – perfekt für alle, die sich behutsam an Innereien herantasten möchten.
 
 ---
 [← Zurück zur Übersicht](index.md)
