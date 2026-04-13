@@ -5,21 +5,20 @@
 
 ---
 
-| In der Pfanne | Topf &middot; Schüssel &middot; Grill |
+| Pfanne &middot; Grill | Topf &middot; Schüssel |
 | :--- | :--- |
 | [Zucchini Pasta](02-zucchini-pasta.md) | [Dinkelpenne in Tomate](01-dinkelpenne.md)  |
 | [Bunte Pilzpfanne](03-bunte-pilzpfanne.md) | [Deftige Kartoffelsuppe](05-deftige-ksuppe.md)  |
 | [Brokkoli Pfanne](04-brokkolipfanne.md)  | [Zucchini-Paprika-Creme mit Leber](07-zupaleber.md) |
 | [Gemüsepfanne mit Reis](11-gemmitreis.md) | [Nudeln in Winter-Tomate](08-nudelinwt.md) |
 | [Blumenkohl Pfanne](09-bkohlpf.md) | Gehaltvolle Zucchini-Paprika Creme |
-| &nbsp; | [Opa Salat](06-opa-salat.md) |
-| &nbsp; | [Dicke Rippe](12-dickerippe.md) |
+| [Dicke Rippe](12-dickerippe.md) | [Opa Salat](06-opa-salat.md) |
 |  |  |
 | __Snacks__ | __Partyhäppchen__ |
 | [Paprika mit Frischkäse](20-paprika-snack.md) | Salami mit Möhre |
 | [Surimi mit Frischkäse](21-surimi-snack.md) |  |
 |  |  |
-| __Besondere Vorbereitungen__ |  |
+| __Besondere Vorbereitungen__ | &nbsp; |
 | [Brokkoli blanchieren](30-brokk-blanch.md) |  [Blumenkohl blanchieren](31-blum-blanch.md) |
 |  |  |
 
