@@ -11,7 +11,7 @@ Ein Gericht mit der handwerklichen Umsetzung einer „Trocken-Suppe“
 * 2 Esslöffel Rapsöl
 * 1 Teelöffel Instant Brühe
 * Sojasauce (nach Geschmack)
-* Schwarzer Pfeffer
+* Salz, Schwarzer Pfeffer
 * Margarine
 
 ---
