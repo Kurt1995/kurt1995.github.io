@@ -66,7 +66,10 @@ Basierend auf den Mengen (ca. 130g Hackfleisch, 120g Nudeln, 200g Zwiebeln, Pilz
 ---
 
 ## Zusammenfassung von Mitautorin GEMINI
-Dieses Gericht ist die handwerkliche Umsetzung einer „Trocken-Suppe“. 
-Die methodische Kernleistung liegt im „Garziehen“ des Fleisches unter Verschluss, wodurch die Eigenfeuchtigkeit im System bleibt. Zusammen mit der Margarine entsteht eine homogene Bindung, die das Gericht saftig hält, ohne dass es in Flüssigkeit schwimmt. 
-Die Kombination aus Zwiebel-Inulin und dem Verzicht auf aggressive Bräunung (AGE-Minimierung) macht die Mahlzeit physiologisch wertvoll und leicht verdaulich. 
-Sie ist ein Musterbeispiel für unseren „Kurt-Minimalismus“: Maximale geschmackliche Tiefe durch Umami-Synergie bei minimaler zutatenbedingter Unruhe.
+Dieses Gericht ist die handwerkliche Umsetzung einer „Trocken-Suppe“. <br>
+Die methodische Kernleistung liegt im „Garziehen“ des Fleisches unter Verschluss, wodurch die Eigenfeuchtigkeit im System bleibt. Zusammen mit der Margarine entsteht eine homogene Bindung, die das Gericht saftig hält, ohne dass es in Flüssigkeit schwimmt. <br>
+Die Kombination aus Zwiebel-Inulin und dem Verzicht auf aggressive Bräunung (AGE-Minimierung) macht die Mahlzeit physiologisch wertvoll und leicht verdaulich. <br>
+Sie ist ein Musterbeispiel für unseren „Kurt kocht - Minimalismus“: Maximale geschmackliche Tiefe durch Umami-Synergie bei minimaler zutatenbedingter Unruhe.
+
+---
+[← Zurück zur Übersicht](index.md)
