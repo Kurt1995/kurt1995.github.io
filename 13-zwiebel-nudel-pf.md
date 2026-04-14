@@ -1,5 +1,5 @@
-# Zwiebel-Pfanne mit Nudeln
-Ein Gericht mit der handwerkliche Umsetzung einer „Trocken-Suppe“
+# Kurt kocht - Zwiebel-Pfanne mit Nudeln
+Ein Gericht mit der handwerklichen Umsetzung einer „Trocken-Suppe“
 
 ![1 - Zutaten](assets/13-zw-pfanne1.jpg)
 
@@ -22,6 +22,11 @@ Ein Gericht mit der handwerkliche Umsetzung einer „Trocken-Suppe“
 1. Die Spiralnudeln vorkochen, portionieren und einfrieren.
 2. Am Abend vor dem Verzehr die Nudeln zum schonenden Auftauen in den Kühlschrank stellen.
 
+| | | |
+| :---: | :---: | :---: |
+| ![2 - Zubereitung](assets/13-zw-pfanne2.jpg) | ![3 - Zubereitung](assets/13-zw-pfanne3.jpg) | ![4 - Zubereitung](assets/13-zw-pfanne4.jpg) |
+| ![5 - Zubereitung](assets/13-zw-pfanne5.jpg) | ![6 - Zubereitung](assets/13-zw-pfanne6.jpg) | ![7 - Zubereitung](assets/13-zw-pfanne7.jpg) |
+
 ### Zubereitung am Verzehrtag
 1. Das Öl und die in Streifen geschnittenen Zwiebeln in eine Wok-Pfanne geben. Einige Minuten schmoren.
 2. Das Hackfleisch mit Salz würzen, durchmengen und in Flocken zu den Zwiebeln in die Pfanne geben.
@@ -29,11 +34,6 @@ Ein Gericht mit der handwerkliche Umsetzung einer „Trocken-Suppe“
 4. Wenn das Hackfleisch gar ist, die Pilze und die Nudeln hinzugeben und untermischen.
 5. Brühe, Pfeffer und Sojasauce einrühren und einen guten Stich Margarine zugeben.
 6. Alles noch einmal erhitzen, vom Feuer nehmen und servieren.
-
-| | | |
-| :---: | :---: | :---: |
-| ![2 - Zubereitung](assets/13-zw-pfanne2.jpg) | ![3 - Zubereitung](assets/13-zw-pfanne3.jpg) | ![4 - Zubereitung](assets/13-zw-pfanne4.jpg) |
-| ![5 - Zubereitung](assets/13-zw-pfanne5.jpg) | ![6 - Zubereitung](assets/13-zw-pfanne6.jpg) | ![7 - Zubereitung](assets/13-zw-pfanne7.jpg) |
 
 ![8 - servieren](assets/13-zw-pfanne8.jpg)
 
