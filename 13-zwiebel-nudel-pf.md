@@ -1,4 +1,4 @@
-# Kurt kocht - Zwiebel-Pfanne mit Nudeln
+# Kurt kocht - Zwiebelpfanne mit Nudeln
 Ein Gericht mit der handwerklichen Umsetzung einer „Trocken-Suppe“
 
 ![1 - Zutaten](assets/13-zw-pfanne1.jpg)
