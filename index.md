@@ -12,7 +12,7 @@
 | [Brokkoli Pfanne](04-brokkolipfanne.md)  | [Zucchini-Paprika-Creme mit Leber](07-zupaleber.md) |
 | [Blumenkohl Pfanne](09-bkohlpf.md) | Gehaltvolle Zucchini-Paprika Creme |
 | [Gemüsepfanne mit Reis](11-gemmitreis.md) | [Nudeln in Winter-Tomate](08-nudelinwt.md) |
-| Gemüsepfanne mit Nudeln | [Suppe mit Hähnchenmägen](14-maegensuppe.md) |
+| Zwiebel-Nudel Pfanne | [Suppe mit Hähnchenmägen](14-maegensuppe.md) |
 | [Dicke Rippe](12-dickerippe.md) | [Opa Salat](06-opa-salat.md) |
 |  |  |
 | __Snacks__ | __Partyhäppchen__ |
