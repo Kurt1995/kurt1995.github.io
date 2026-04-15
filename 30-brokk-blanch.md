@@ -1,8 +1,8 @@
 # Kurt kocht - Gemüsevorbereitung Brokkoli
 
 | Vor dem Blanchieren | | Sekunden später |
-| :---: | :---: | :---: |
-| ![Vorbereitung Schritt 1](assets/30-brokkblanch1.jpg) | &nbsp; | ![Vorbereitung Schritt 2](assets/30-brokkblanch2.jpg) |
+| :---: | | :---: |
+| ![Vorbereitung Schritt 1](assets/30-brokkblanch1.jpg) | | ![Vorbereitung Schritt 2](assets/30-brokkblanch2.jpg) |
 
 **Optimale Vorbereitung durch Blanchieren und Einfrieren**
 
