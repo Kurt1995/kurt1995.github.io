@@ -10,7 +10,7 @@ Dieses Rezept ist ein Paradebeispiel für „Volume Eating“ – eine große Po
 * **1 Dose Champignons** (geschnitten)
 * **ca. 30 g Parmesan**
 * **Olivenöl**
-* **Gewürze:** Schwarzer Pfeffer, Teriyaki-Sauce, Fondor-Gewürzmischung
+* **Gewürze:** Schwarzer Pfeffer, Salz, Teriyaki-Sauce, Fondor-Gewürzmischung
 
 ---
 
@@ -33,11 +33,19 @@ Dieses Rezept ist ein Paradebeispiel für „Volume Eating“ – eine große Po
 7. **Servieren:** Auf einem vorgewärmten Teller anrichten und mit dem geriebenen Parmesan bestreuen.
 8. **Das Stövchen-Prinzip:** Den feuerfesten Teller auf ein Stövchen stellen. Dies ermöglicht ein langsames, entspanntes Essen, ohne dass Textur und Geschmack durch Abkühlen leiden.
 
-![Serviertes Gericht auf Stövchen](assets/04brokkolipfanne2.jpg)
+| Guten | Appetit |
+| :---: | :---: |
+| ![brokkolipfanne2.jpg](assets/04brokkolipfanne2.jpg) | ![brokkolipfanne3.jpg](assets/04brokkolipfanne3.jpg) |
+
+---
+
+<br>
 
 | und am Abend | ein Süppchen |
 | :---: | :--- |
-| ![brokkolipfanne3.jpg](assets/04brokkolipfanne3.jpg) | **Am Abend schmeckt ein Rest als Süppchen.** <br><br> Sollte von der Brokkoli-Pfanne etwas übrig bleiben, lässt sich daraus mit minimalem Aufwand eine leichte Abendvariante zaubern. <br><br> **Schnelle Zubereitung:** <br> • **Basis**: Die verbliebenen Reste in eine Suppenschale geben und mit ein paar Fleischwürfelchen ergänzen. <br> • **Aufgießen**: Mit heißer Brühe aufgießen und servieren. |
+| ![brokkolipfanne4.jpg](assets/04brokkolipfanne4.jpg) | **Am Abend schmeckt ein Rest als Süppchen.** <br><br> Sollte von der Brokkoli-Pfanne etwas übrig bleiben, lässt sich daraus mit minimalem Aufwand eine leichte Abendvariante zaubern. <br><br> **Schnelle Zubereitung:** <br> • **Basis**: Die verbliebenen Reste in eine Suppenschale geben und mit ein paar Fleischwürfelchen ergänzen. <br> • **Aufgießen**: Mit heißer Brühe aufgießen und servieren. |
+
+---
 
 ## GEMINIS Gesundheits-Check: Warum dieses Gericht punktet
 
