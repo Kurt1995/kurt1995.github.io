@@ -71,3 +71,6 @@ Basis: 125 g gekochte Dinkel-Penne, 400 g Dosentomaten, 1 Dose Champignons abget
 
 #### Zusammenfassung von Mitautorin META
 Das Gericht nutzt drei Verfahren: <br> 1. Hitzekonservierte Tomaten für erhöhte Lycopinverfügbarkeit. <br> 2. Pochieren bei 80–85 °C für getrennte Denaturierung von Eiweiß und Eigelb. <br> 3. Retrogradation durch Vorkochen und Einfrieren für resistente Stärke Typ 3. <br> Ergebnis: Eine Hauptmahlzeit mit 38–42 g vollständigem Protein, 670–750 kcal bei 20 g Margarine und einer gut planbaren Zubereitungszeit. Die Margarine sichert die Aufnahme fettlöslicher Stoffe, der Brühwürfel deckt den Natriumbedarf.
+
+---
+[← Zurück zur Übersicht](index.md)
