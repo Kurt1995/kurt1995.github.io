@@ -1,6 +1,4 @@
-# Kurt kocht
-
-## Verlorenes Ei in Winter-Tomate
+# Kurt kocht - Verlorenes Ei in Winter-Tomate
 
 ![Zutaten für Verlorenes Ei in Winter-Tomate](assets/15verlei-intomate1.jpg)
 
@@ -17,6 +15,10 @@
 - 20 g Margarine
 - Kräuter: Schnittlauch, Petersilie
 - Gewürze: Paprika rosenscharf, schwarzer Pfeffer
+
+| Auf dem | Herd |
+| :---: | :---: |
+| ![Verlorenes Ei in Winter-Tomate](assets/15verlei-intomate2.jpg) | ![Verlorenes Ei in Winter-Tomate](assets/15verlei-intomate3.jpg) |
 
 ### Zubereitung
 
@@ -43,7 +45,7 @@
 6. **Penne untermischen**  
    Die aufgetauten Penne unterheben, kurz erwärmen, vom Herd nehmen und servieren.
 
-![Zubereitung Verlorenes Ei in Winter-Tomate](assets/15verlei-intomate2.jpg)
+![Verlorenes Ei in Winter-Tomate](assets/15verlei-intomate4.jpg)
 
 ### META’s Gesundheits-Check: Verlorenes Ei in Winter-Tomate
 
