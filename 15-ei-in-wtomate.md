@@ -16,7 +16,9 @@
 - Kräuter: Schnittlauch, Petersilie
 - Gewürze: Paprika rosenscharf, schwarzer Pfeffer
 
-| Zubereitung auf | dem Herd |
+<br>
+
+| auf | dem Herd |
 | :---: | :---: |
 | ![Verlorenes Ei in Winter-Tomate](assets/15verlei-intomate2.jpg) | ![Verlorenes Ei in Winter-Tomate](assets/15verlei-intomate3.jpg) |
 
