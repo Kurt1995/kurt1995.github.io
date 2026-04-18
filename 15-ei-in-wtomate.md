@@ -36,14 +36,16 @@
    **Tipp**: 1 TL Essig ins Wasser (neutralisiert Eiweißgeruch, stabilisiert das Ei).
 2. **Tomatensauce ansetzen**  
    Tomaten, Tomatenmark, 300 ml Wasser und den Brühwürfel in einem Topf erhitzen und gut verrühren.
-3. **Eier in die Sauce geben**  
-   Die pochierten Eier in die heiße Tomatensauce setzen.
-4. **Pilze, Kräuter und Gewürze hinzufügen**  
-   Alles vorsichtig unterheben und 2–3 Minuten leicht köcheln lassen.
-5. **Margarine einrühren**  
+3. **Pilze, Kräuter und Gewürze hinzufügen**  
+   Alles gut unterheben.
+4. **Margarine einrühren**  
    Sie bindet die Sauce und sichert die Aufnahme fettlöslicher Stoffe.
+5. **Eier in die Sauce geben**  
+   Die pochierten Eier in die heiße Tomatensauce setzen und noch 2–3 Minuten leicht köcheln lassen.   
 6. **Penne untermischen**  
-   Die aufgetauten Penne unterheben, kurz erwärmen, vom Herd nehmen und servieren.
+   Die aufgetauten Penne vorsichtig unterheben, kurz erwärmen, vom Herd nehmen und servieren.
+
+   
 
 ![Verlorenes Ei in Winter-Tomate](assets/15verlei-intomate4.jpg)
 
