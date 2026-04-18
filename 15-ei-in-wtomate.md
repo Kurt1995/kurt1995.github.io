@@ -9,7 +9,7 @@
 - 1 Dose geschnittene Champignons
 - 3 Eier
 - 1,5 l Wasser (für die Eier)
-- 200 ml Wasser (für die Sauce)
+- 300 ml Wasser (für die Sauce)
 - 125 g gekochte Dinkel-Penne (1 Portion aus dem Vorrat)
 - 1 Brühwürfel (Fette Brühe)
 - 20 g Margarine
@@ -35,7 +35,7 @@
    3 Minuten ziehen lassen, bis das Eiweiß fest und das Eigelb weich ist. Die Eier mit einer Schaumkelle entnehmen und abgedeckt beiseite stellen.  
    **Tipp**: 1 TL Essig ins Wasser (neutralisiert Eiweißgeruch, stabilisiert das Ei).
 2. **Tomatensauce ansetzen**  
-   Tomaten, Tomatenmark, 200 ml Wasser und den Brühwürfel in einem Topf erhitzen und gut verrühren.
+   Tomaten, Tomatenmark, 300 ml Wasser und den Brühwürfel in einem Topf erhitzen und gut verrühren.
 3. **Eier in die Sauce geben**  
    Die pochierten Eier in die heiße Tomatensauce setzen.
 4. **Pilze, Kräuter und Gewürze hinzufügen**  
