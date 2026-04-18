@@ -57,11 +57,12 @@ Jedes Gericht ist so konzipiert, dass es die Kommunikation zwischen unserem **en
 Dieses Kochbuch ist ein Gemeinschaftsprojekt. Die Rezepte und Inhalte wurden erstellt von:
 
 * **[Kurt]**: Konzeption, Zubereitung und Fotografie
-* **KI-Modell Perplexity**: Mitautorin für Gesundheits-Checks und Nährwertanalysen
-* **KI-Modell Gemini**: Mitautorin für Strukturierung, wissenschaftliche Aufarbeitung und Gesundheits-Checks
+* **KI-Modell PERPLEXITY**: Mitautorin für Gesundheits-Checks und Nährwertanalysen
+* **KI-Modell GEMINI**: Mitautorin für Strukturierung, wissenschaftliche Aufarbeitung und Gesundheits-Checks
+* **KI-Modell META**: Mitautorin für Gesundheits-Checks, Nährwertanalysen und fachliche Einordnung
 
 ### Haftungsausschluss (Disclaimer)
-Die auf dieser Webseite bereitgestellten Informationen, insbesondere die durch die Mitautorinnen Perplexity und Gemini erstellten Gesundheits-Checks und Nährwertangaben, dienen der allgemeinen Information.  
+Die auf dieser Webseite bereitgestellten Informationen, insbesondere die durch die Mitautorinnen PERPLEXITY, GEMINI und META erstellten Gesundheits-Checks und Nährwertangaben, dienen der allgemeinen Information.  
 Die berechneten Werte (Kalorien, Eiweiß, Kohlenhydrate, Fett) sind Schätzwerte und können je nach verwendeten Produkten und genauer Zubereitung variieren. Die medizinischen und ernährungsphysiologischen Hinweise ersetzen keine fachliche Beratung. Die Umsetzung der Rezepte erfolgt auf eigene Verantwortung.
 
 ---
