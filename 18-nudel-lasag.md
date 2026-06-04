@@ -1,5 +1,4 @@
-# Kurt kocht  
-## Fruchtige Nudelpfanne Lasagne-Art
+# Kurt kocht  -  Fruchtige Nudelpfanne Lasagne-Art
 
 ![Zutaten](assets/18-nudel-lasag-1.jpg)
 
@@ -87,3 +86,5 @@ Die vorgekochten Dinkel-Penne sorgen für eine schnelle Zubereitung und liefern 
 Die Mischung aus frischem Gemüse, einer ordentlichen Portion Pasta, moderatem Hackfleischanteil und einer dünnen Käseschicht ergibt ein kräftiges Wohlfühlgericht, das ohne schwere Soßen auskommt und durch die kurze Garzeit seine Vitamine behält.  
 Eine moderne, unkomplizierte Mahlzeit mit hoher Sättigung und guter Nährstoffbilanz.
 
+---
+[← Zurück zur Übersicht](index.md)
