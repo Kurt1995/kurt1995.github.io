@@ -13,8 +13,8 @@
 | [Blumenkohl Pfanne](09-bkohlpf.md) | Gehaltvolle Zucchini-Paprika Creme |
 | [Gemüsepfanne mit Reis](11-gemmitreis.md) | [Nudeln in Winter-Tomate](08-nudelinwt.md) |
 | [Zwiebelpfanne mit Nudeln](13-zwiebel-nudel-pf.md) | [Verlorenes Ei in Winter-Tomate](15-ei-in-wtomate.md) |
-| [Dicke Rippe](12-dickerippe.md) | [Suppe mit Hähnchenmägen](14-maegensuppe.md) |
-|  |  [Opa Salat](06-opa-salat.md) |
+| [Fruchtige Nudelpfanne Lasagne-Art](18-nudel-lasag.md) | [Suppe mit Hähnchenmägen](14-maegensuppe.md) |
+| [Dicke Rippe](12-dickerippe.md) |  [Opa Salat](06-opa-salat.md) |
 |  |  |
 | __Snacks__ | __Partyhäppchen__ |
 | [Paprika mit Frischkäse](20-paprika-snack.md) | Salami mit Möhre |
