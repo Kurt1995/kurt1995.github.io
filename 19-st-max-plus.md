@@ -30,20 +30,14 @@
 
 | Drei | Portionen |
 |-----------|-----------|
-| ![Serviern 1](assets/19-st-max-plus06.jpg) | ![Servieren 2](assets/19-st-max-plus07.jpg) |
+| ![Serviern 1](assets/19-st-max-plus06a.jpg) | ![Servieren 2](assets/19-st-max-plus07.jpg) |
 
 ---
 
 |   |   |
 |------------------------------------------------------|-----------------------------------------------------------|
-| ![](assets/19-st-max-plus08.jpg)<br><sub>Nach Geschmack mit ein wenig Salz nachwürzen</sub> | ![](assets/19-st-max-plus09.jpg)<br><sub>Durch das Garen unter dem Deckel ist das Eigelb flüssig geblieben</sub> |
+| ![](assets/19-st-max-plus08.jpg)<br><sub>Nach Geschmack mit ein wenig Salz nachwürzen</sub> | ![](assets/19-st-max-plus09a.jpg)<br><sub>Durch das Garen unter dem Deckel ist das Eigelb flüssig geblieben</sub> |
 
-
-*Nach Geschmack mit ein wenig Salz nachwürzen*
-![Servieren Schritt 3](assets/19-st-max-plus08.jpg)
-
-*Durch das Garen unter dem Deckel ist das Eigelb flüssig geblieben*
-![Servieren Schritt 4](assets/19-st-max-plus09.jpg)
 
 ### GEMINI’s Gesundheits‑Check: Warum dieses Gericht punktet
 Dieses Gericht liefert eine solide, bodenständige Energiequelle – ideal nach einem anstrengenden Tag oder Workout.
