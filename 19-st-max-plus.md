@@ -68,9 +68,13 @@ Dieses Gericht liefert eine solide, bodenständige Energiequelle �
 ---
 
 ### Abendessen: Der „Stramme Max – Plus“ (Alternative Zubereitung)
-- **Hackfleisch als Pfannenboden:** gleichmäßiges Garen und Feuchtigkeit bleibt erhalten.  
-- **Kuhlen für Eier:** Eier sitzen in Fleischmulden und verbinden sich beim Garen mit dem Fleisch.  
-- **Garen mit Deckel:** Dampf hält das Hack saftig und das Eiweiß stockt sanft.  
+- **Das Hackfleisch als "Pfannenboden" ausbreiten:** Das ist ein super Trick. Das dünne Hackfleisch bildet eine geschlossene Schicht. Dadurch gart es gleichmäßig und 
+verliert weniger Feuchtigkeit, als wenn es wild umgerührt wird.  
+- **Kuhlen für Eier:** Das ist der eigentliche Clou! Dadurch, dass die Eier in den Fleischkuhlen sitzen, werden sie von unten durch die Hitze des Fleisches und den 
+austretenden Fleischsaft gegart. Sie verrutschen nicht und verbinden sich perfekt mit dem Fleisch.
+- **Garen mit Deckel auf mittlerer Flamme:** Durch den Deckel entsteht Dampf (Oberhitze). So stockt das Eiweiß von oben, während das Eigelb flüssig bleibt, und das 
+dünne Hackfleisch dämpft im eigenen Saft gar, ohne trocken zu werden oder anzubrennen.
+- **Fazit:** Eine hocheffiziente "One-Pan"-Methode (Ein-Pfannen-Gericht), die perfekt funktioniert und Abwasch spart.
 
 ---
 
