@@ -28,7 +28,7 @@ Sollten drei Schenkel zu viel sein, kann man:
 
 - den übrig gebliebenen Schenkel absuchen
 - mit dem Pfannensud in eine Gefrierdose geben
-- für ein späteres Gericht (z.B. Tomaten-Topf mit Huhn) tiefgefroren aufbewahren
+- für ein späteres Gericht [(z.B. Tomaten-Topf mit Huhn)](44-tomate-huhn.md) tiefgefroren aufbewahren
 
 | Der Schenkel ist abgesucht, | der Sud hinzugegeben |
 |-----------|-----------|
