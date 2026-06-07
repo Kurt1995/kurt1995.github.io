@@ -17,7 +17,7 @@
 |  | [Tomaten-Topf mit Huhn](44-tomate-huhn.md) |
 |  |  [Opa Salat](06-opa-salat.md) |
 |  |  |
-| .. und ab und zu | Protein-Booster |
+| .. und ab und zu ein | Protein-Booster |
 | [Strammer Max - Plus](19-st-max-plus.md) | [Dicke Rippe](12-dickerippe.md) |
 | [Hähnchen Bollen](43-h-bollen.md)  |  |
 |  |  |
