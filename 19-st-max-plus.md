@@ -42,9 +42,10 @@
 ### GEMINI’s Gesundheits‑Check: Warum dieses Gericht punktet
 Dieses Gericht liefert eine solide, bodenständige Energiequelle – ideal nach einem anstrengenden Tag oder Workout.
 
-- **Langanhaltende Sättigung:** Vollkornbrot + Ei + Fleisch halten den Blutzucker stabil.  
-- **Muskel‑Support:** Ei und Fleisch bieten eine hohe biologische Wertigkeit.  
-- **Clevere Zubereitung:** Das Garen mit Deckel bewahrt Saft und verhindert Anbrennen.  
+- **Langanhaltende Sättigung:**  Die Kombination aus Vollkornbrot (komplexe Kohlenhydrate und Ballaststoffe) und den Proteinen aus Ei und Fleisch bewirkt eine lang anhaltende Sättigung,
+  ohne dass der Blutzuckerspiegel Achterbahn fährt.  
+- **Muskel‑Support:** Perfekt für den Muskelaufbau oder -erhalt. Die Proteinkombination aus Ei und Fleisch hat eine extrem hohe biologische Wertigkeit.   
+- **Clevere Zubereitung:** Das Garen im eigenen Saft/Dampf mit Deckel sorgt dafür, dass das Hackfleisch saftig bleibt und kein zusätzliches Bratfett nötig ist.  
 
 ---
 
@@ -61,15 +62,17 @@ Dieses Gericht liefert eine solide, bodenständige Energiequelle �
 ---
 
 ### Vitamine, Mineralstoffe & Co.
-- **Vitamine:** A, D und B‑Vitamine (B12 für Nervenfunktion).  
-- **Mineralstoffe:** Eisen und Zink aus Fleisch und Vollkorn.  
-- **Ballaststoffe:** Vollkornbrot fördert Verdauung und Darmbalance.  
+- **Vitamine:** Die Eier sind wahre Vitaminbomben. Sie liefern reichlich Vitamin A (gut für die Augen), Vitamin D (Immunsystem und Knochen) sowie wichtige B-Vitamine 
+(insbesondere B12 für die Nervenfunktion, das auch im Fleisch steckt).   
+- **Mineralstoffe & Spurenelemente:**  Das Schweine- und Rindfleisch sowie das Vollkornbrot liefern eine ordentliche Portion gut verfügbares Eisen (Sauerstofftransport im Blut) und Zink (Abwehrkräfte).  
+- **Ballaststoffe:**  Das Vollkornbrot rettet die Verdauungsbilanz dieses sonst recht fleischlastigen Tellers und füttert die guten Darmbakterien.   
 
 ---
 
-### Abendessen: Der „Stramme Max – Plus“ (Alternative Zubereitung)
+### Abendessen: „Strammer Max – Plus“ (Ungewöhnliche Zubereitung)  
+Traditionell brät man Hackfleisch krümelig an, nimmt es heraus oder legt die Eier daneben. Diese Methode ist viel cleverer: 
 - **Das Hackfleisch als "Pfannenboden" ausbreiten:** Das ist ein super Trick. Das dünne Hackfleisch bildet eine geschlossene Schicht. Dadurch gart es gleichmäßig und 
-verliert weniger Feuchtigkeit, als wenn es wild umgerührt wird.  
+verliert weniger Feuchtigkeit.  
 - **Kuhlen für Eier:** Das ist der eigentliche Clou! Dadurch, dass die Eier in den Fleischkuhlen sitzen, werden sie von unten durch die Hitze des Fleisches und den 
 austretenden Fleischsaft gegart. Sie verrutschen nicht und verbinden sich perfekt mit dem Fleisch.
 - **Garen mit Deckel auf mittlerer Flamme:** Durch den Deckel entsteht Dampf (Oberhitze). So stockt das Eiweiß von oben, während das Eigelb flüssig bleibt, und das 
@@ -84,16 +87,12 @@ dünne Hackfleisch dämpft im eigenen Saft gar, ohne trocken zu werden oder anzu
 
 Ein Brot wird in der Pfanne auf kleinstem Feuer warm gehalten. Das ermöglicht ein langsames, genussvolles Essen, ohne dass das Ei nachgart und hart wird.
 
-### Fazit
-Eine hoch effiziente „One‑Pan“‑Methode, die perfekt funktioniert und Abwasch spart.  
-Ein Brot wird in der Pfanne warm gehalten – so bleibt das Ei weich und nicht hart.  
-
 ---
 
 ### Zusammenfassung von Mitautorin GEMINI
-**„Strammer Max – Plus“ ist ein echtes Kraftpaket!**  
-54 g Protein + komplexe Kohlenhydrate = Energie und Muskelpower.  
+**„Strammer Max – Plus“ ist ein echtes Kraftpaket!** Es punktet mit einer hervorragenden Proteinausbeute (54 g!) und komplexen Kohlenhydraten. 
 
-**Optimierungs‑Tipp:** Etwas Frisches und Vitamin C ergänzen – z. B. Gewürzgurken, Radieschen, Tomaten oder Schnittlauch.  
-Das bringt Farbe und macht das Gericht mikronährstoffreich perfekt.
+**Optimierungs‑Tipp:**  Dem Gericht fehlt Frische und Vitamin C (das hilft übrigens auch, das Eisen aus dem Fleisch noch besser aufzunehmen).  
+Mit ein paar Gewürzgurken, Radieschen oder Tomatenscheiben  oder ein paar Schnittlauchröllchen über den Eiern entsteht Farbe auf dem Teller. Das spart Kalorien und 
+macht das Gericht mikronährstofftechnisch perfekt! 
 
