@@ -8,8 +8,10 @@
 - Teriyaki Sauce  
 - Gewürze: Salz
 
+| Schritt 1 | Schritt 2 | Schritt 3 | Schritt 4 |
+|-----------|-----------|-----------|-----------|
 | ![Schritt 1](assets/43-h-bollen-02.jpg) | ![Schritt 2](assets/43-h-bollen-03.jpg) | ![Schritt 3](assets/43-h-bollen-04.jpg) | ![Schritt 4](assets/43-h-bollen-06.jpg) |
-| --- | --- | --- | --- |
+
 
 ### Zubereitung:
 
