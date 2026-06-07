@@ -1,6 +1,4 @@
-# Kurt kocht
-
-## Hähnchen Bollen mit Rückenstück
+# Kurt kocht &nbsp; - &nbsp; Hähnchen Bollen mit Rückenstück
 
 ![Zutaten und Equipment](assets/43-h-bollen-01.jpg)
 
@@ -71,3 +69,6 @@ Dieses Gericht zeigt, dass gute Küche nicht kompliziert sein muss. Ein Bollen, 
 Mit rund 480 kcal und 42 g Eiweiß ist das eine sättigende Hauptmahlzeit für Menschen, die Wert auf Protein und Einfachheit legen. Der Natriumgehalt lässt sich über die Sauce steuern. Der Kaloriengehalt über die Haut.
 
 **Fazit**: Nährstoffreich, unkompliziert, alltagstauglich portioniert. Ein Rezept mit klarer Linie, das durch Schlichtheit überzeugt.
+
+---
+[← Zurück zur Übersicht](index.md)
