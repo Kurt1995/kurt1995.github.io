@@ -87,7 +87,7 @@ dünne Hackfleisch dämpft im eigenen Saft gar, ohne trocken zu werden oder anzu
     <td style="width:50%; vertical-align:top;">
       <img src="assets/19-st-max-plus10.jpg" alt="Warmhalten" style="width:100%; border-radius:4px;">
     </td>
-    <td style="width:50%; vertical-align:top; padding:10px;">
+    <td style="width:50%; vertical-align:top; padding:10px;"><br><br><br><br><br><br>
       <p><strong>Ein Brot wird in der Pfanne auf kleinstem Feuer warm gehalten.</strong><br>
       Das ermöglicht ein langsames, genussvolles Essen, ohne dass das Ei nachgart und hart wird.</p>
     </td>
@@ -102,7 +102,7 @@ dünne Hackfleisch dämpft im eigenen Saft gar, ohne trocken zu werden oder anzu
     <td style="width:50%; vertical-align:top;">
       <img src="assets/19-st-max-plus11.jpg" alt="Letzter Bissen auf Teller" style="width:100%; border-radius:4px;">
     </td>
-    <td style="width:50%; vertical-align:top; padding:10px;">
+    <td style="width:50%; vertical-align:top; padding:10px;"><br><br><br><br><br><br>
       <p><strong>Der letzte Bissen – ich esse ihn ganz.</strong><br>
       Das Brot eröffnet den Geschmack – kraftvoll, körnig.<br><br>
       Das Eigelb fließt, nimmt Raum ein. Weich, cremig, warm.<br>
