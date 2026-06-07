@@ -92,7 +92,5 @@ Ein Brot wird in der Pfanne auf kleinstem Feuer warm gehalten. Das ermöglicht e
 ### Zusammenfassung von Mitautorin GEMINI
 **„Strammer Max – Plus“ ist ein echtes Kraftpaket!** Es punktet mit einer hervorragenden Proteinausbeute (54 g!) und komplexen Kohlenhydraten. 
 
-**Optimierungs‑Tipp:**  Dem Gericht fehlt Frische und Vitamin C (das hilft übrigens auch, das Eisen aus dem Fleisch noch besser aufzunehmen).  
-Mit ein paar Gewürzgurken, Radieschen oder Tomatenscheiben  oder ein paar Schnittlauchröllchen über den Eiern entsteht Farbe auf dem Teller. Das spart Kalorien und 
-macht das Gericht mikronährstofftechnisch perfekt! 
-
+**Optimierungs‑Tipp:**  Etwas Frisches und Vitamin C ergänzen  –  z. B. Gewürzgurken, Radieschen, Tomaten oder Schnittlauch.
+Das bringt Farbe und macht das Gericht mikronährstofflich perfekt.
