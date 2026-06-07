@@ -14,6 +14,7 @@
 | [Gemüsepfanne mit Reis](11-gemmitreis.md) | [Nudeln in Winter-Tomate](08-nudelinwt.md) |
 | [Zwiebelpfanne mit Nudeln](13-zwiebel-nudel-pf.md) | [Verlorenes Ei in Winter-Tomate](15-ei-in-wtomate.md) |
 | [Fruchtige Nudelpfanne Lasagne-Art](18-nudel-lasag.md) | [Suppe mit Hähnchenmägen](14-maegensuppe.md) |
+|  | [Tomaten-Topf mit Huhn](44-tomate-huhn.md) |
 |  |  [Opa Salat](06-opa-salat.md) |
 |  |  |
 | .. und ab und zu | Protein-Booster |
