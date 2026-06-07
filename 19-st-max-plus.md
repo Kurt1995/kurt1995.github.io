@@ -48,15 +48,16 @@ Dieses Gericht liefert eine solide, bodenständige Energiequelle �
 
 ---
 
-### Kalorien‑ und Nährwertberechnung (gesamte Portion)
+### Kalorien‑ und Nährwertberechnung (gesamte Portion)
+
 | Zutat | Menge | Kalorien | Eiweiß | Fett | Kohlenhydrate |
 |-------|--------|-----------|--------|------|---------------|
-| Vollkornbrot | 3 Scheiben | 330 kcal | 9 g | 2 g | 60 g |
-| Gehacktes (halb/halb) | 130 g | 315 kcal | 25 g | 24 g | 0 g |
-| Eier (Größe M) | 3 Stück | 230 kcal | 20 g | 16 g | 1 g |
-| Margarine | 15 g | 105 kcal | 0 g | 12 g | 0 g |
-| Gewürze | Prise | 0 kcal | 0 g | 0 g | 0 g |
-| **Gesamt** | **Eine Riesenportion** | **≈ 980 kcal** | **≈ 54 g** | **≈ 54 g** | **≈ 61 g** |
+| Vollkornbrot | 3 Scheiben | 330 kcal | 9 g | 2 g | 60 g |
+| Gehacktes (halb/halb) | 130 g | 315 kcal | 25 g | 24 g | 0 g |
+| Eier (Größe M) | 3 Stück | 230 kcal | 20 g | 16 g | 1 g |
+| Margarine | 15 g | 105 kcal | 0 g | 12 g | 0 g |
+| Gewürze | Prise | 0 kcal | 0 g | 0 g | 0 g |
+| **Gesamt** | **Eine Riesenportion** | **≈ 980 kcal** | **≈ 54 g** | **≈ 54 g** | **≈ 61 g** |
 
 ---
 
