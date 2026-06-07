@@ -94,3 +94,6 @@ Ein Brot wird in der Pfanne auf kleinstem Feuer warm gehalten. Das ermöglicht e
 
 **Optimierungs‑Tipp:**  Etwas Frisches und Vitamin C ergänzen  –  z. B. Gewürzgurken, Radieschen, Tomaten oder Schnittlauch.
 Das bringt Farbe und macht das Gericht mikronährstofflich perfekt.
+
+---
+[← Zurück zur Übersicht](index.md)
