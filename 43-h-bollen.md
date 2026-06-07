@@ -32,7 +32,7 @@ Sollten drei Schenkel zu viel sein, kann man:
 
 | Schritt 1 | Schritt 2 |
 |-----------|-----------|
-| ![Resteverwertung Sud](assets/43-h-bollen-10.jpg) | ![Resteverwertung Dose](assets/43-h-bollen-11.jpg) |
+| ![Resteverwertung Sud](assets/43-h-bollen-10a.jpg) | ![Resteverwertung Dose](assets/43-h-bollen-11.jpg) |
 
 ---
 
