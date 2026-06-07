@@ -81,32 +81,35 @@ dünne Hackfleisch dämpft im eigenen Saft gar, ohne trocken zu werden oder anzu
 
 ---
 
-<table>
-<tr>
-<td width="50%">
-<img src="assets/19-st-max-plus10.jpg" alt="Warmhalten" style="width:100%;">
-</td>
-<td width="50%" style="vertical-align:top; padding-left:10px;">
-<p><strong>Ein Brot wird in der Pfanne auf kleinstem Feuer warm gehalten. Das ermöglicht ein langsames, genussvolles Essen, ohne dass das Ei nachgart und hart wird.</p>
-</td>
-</tr>
+<!-- Abschnitt 1: Warmhalten -->
+<table style="width:100%; border-collapse:collapse;">
+  <tr>
+    <td style="width:50%; vertical-align:top;">
+      <img src="assets/19-st-max-plus10.jpg" alt="Warmhalten" style="width:100%; border-radius:4px;">
+    </td>
+    <td style="width:50%; vertical-align:top; padding:10px;">
+      <p><strong>Ein Brot wird in der Pfanne auf kleinstem Feuer warm gehalten.</strong><br>
+      Das ermöglicht ein langsames, genussvolles Essen, ohne dass das Ei nachgart und hart wird.</p>
+    </td>
+  </tr>
 </table>
 
----
+<br>
 
-<table>
-<tr>
-<td width="50%">
-<img src="assets/19-st-max-plus11.jpg" alt="Letzter Bissen auf Teller" style="width:100%;">
-</td>
-<td width="50%" style="vertical-align:top; padding-left:10px;">
-<p><strong>Der letzte Bissen – ich esse ihn ganz.</strong><br>
-Das Brot eröffnet den Geschmack – kraftvoll, körnig.<br><br>
-Das Eigelb fließt, nimmt Raum ein. Weich, cremig, warm.<br>
-Eine stille Explosion, die sich ausbreitet.<br>
-Ein Moment, der schon vorher im Kopf war – und jetzt passiert.</p>
-</td>
-</tr>
+<!-- Abschnitt 2: Letzter Bissen -->
+<table style="width:100%; border-collapse:collapse;">
+  <tr>
+    <td style="width:50%; vertical-align:top;">
+      <img src="assets/19-st-max-plus11.jpg" alt="Letzter Bissen auf Teller" style="width:100%; border-radius:4px;">
+    </td>
+    <td style="width:50%; vertical-align:top; padding:10px;">
+      <p><strong>Der letzte Bissen – ich esse ihn ganz.</strong><br>
+      Das Brot eröffnet den Geschmack – kraftvoll, körnig.<br><br>
+      Das Eigelb fließt, nimmt Raum ein. Weich, cremig, warm.<br>
+      Eine stille Explosion, die sich ausbreitet.<br>
+      Ein Moment, der schon vorher im Kopf war – und jetzt passiert.</p>
+    </td>
+  </tr>
 </table>
 
 
