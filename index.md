@@ -5,7 +5,7 @@
 
 ---
 
-| Pfanne &middot; Grill | Topf &middot; Schüssel |
+| Pfanne | Topf &middot; Schüssel &middot; Grill |
 | :--- | :--- |
 | [Zucchini Pasta](02-zucchini-pasta.md) | [Dinkelpenne in Tomate](01-dinkelpenne.md)  |
 | [Bunte Pilzpfanne](03-bunte-pilzpfanne.md) | [Deftige Kartoffelsuppe](05-deftige-ksuppe.md)  |
@@ -14,7 +14,11 @@
 | [Gemüsepfanne mit Reis](11-gemmitreis.md) | [Nudeln in Winter-Tomate](08-nudelinwt.md) |
 | [Zwiebelpfanne mit Nudeln](13-zwiebel-nudel-pf.md) | [Verlorenes Ei in Winter-Tomate](15-ei-in-wtomate.md) |
 | [Fruchtige Nudelpfanne Lasagne-Art](18-nudel-lasag.md) | [Suppe mit Hähnchenmägen](14-maegensuppe.md) |
-| [Dicke Rippe](12-dickerippe.md) |  [Opa Salat](06-opa-salat.md) |
+|  |  [Opa Salat](06-opa-salat.md) |
+|  |  |
+| .. und ab und zu | Protein-Booster |
+| [Strammer Max - Plus](19-st-max-plus.md) | [Dicke Rippe](12-dickerippe.md) |
+| [Hähnchen Bollen](43-h-bollen.md)  |  |
 |  |  |
 | __Snacks__ | __Partyhäppchen__ |
 | [Paprika mit Frischkäse](20-paprika-snack.md) | Salami mit Möhre |
