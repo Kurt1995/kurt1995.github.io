@@ -1,5 +1,4 @@
-# Kurt kocht  
-## Strammer Max – Plus
+# Kurt kocht  -  ## Strammer Max – Plus ##
 
 ![Zutaten](assets/19-st-max-plus01.jpg)
 
