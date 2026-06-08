@@ -102,7 +102,7 @@ dünne Hackfleisch dämpft im eigenen Saft gar, ohne trocken zu werden oder anzu
     <td style="width:50%; vertical-align:top;">
       <img src="assets/19-st-max-plus11.jpg" alt="Letzter Bissen auf Teller" style="width:100%; border-radius:4px;">
     </td>
-    <td style="width:50%; vertical-align:top; padding:10px;"><br><br><br><br><br><br>
+    <td style="width:50%; vertical-align:top; padding:10px;"><br><br><br>
       <p><strong>Der letzte Bissen – ich esse ihn ganz.</strong><br>
       Das Brot eröffnet den Geschmack – kraftvoll, körnig.<br><br>
       Das Eigelb fließt, nimmt Raum ein. Weich, cremig, warm.<br>
