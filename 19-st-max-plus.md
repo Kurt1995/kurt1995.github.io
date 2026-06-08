@@ -108,7 +108,7 @@ dünne Hackfleisch dämpft im eigenen Saft gar, ohne trocken zu werden oder anzu
       Das Brot eröffnet den Geschmack – kraftvoll, körnig.<br><br>
       Das Eigelb fließt, nimmt Raum ein. Weich, cremig, warm.<br><br>
       Eine stille Explosion, die sich ausbreitet.<br>
-      Ein Moment, der schon vorher im Kopf war – und jetzt passiert.</p>
+      Ein Moment, der schon vorher im Kopf war und jetzt passiert.</p>
     </td>
   </tr>
 </table>
