@@ -70,7 +70,7 @@ Insgesamt entsteht ein vollwertiges Gericht mit breitem Mikronährstoffspektrum 
 
 ---
 
-## Nährwert- & Mikronährstoff-Tabelle
+## Nährwert & Mikronährstoff Tabelle
 
 | Nährstoff        | Menge             | Funktion im Körper                 | Tagesbedarf in %    |
 |------------------|-------------------|------------------------------------|---------------------|
@@ -101,7 +101,7 @@ Diese Brokkoli-Pfanne ist ein gutes Beispiel für kluges, unkompliziertes Kochen
 Sie verbindet Vorratsplanung mit frischen Zutaten und liefert dabei eine erstaunliche Nährstoffdichte.   
 
 Vollkorn, Gemüse und Protein greifen perfekt ineinander - sättigend, vitaminreich und mit echtem Wohlfühlfaktor.   
-Und dann ist da noch das Sulforaphan aus den Brokkoli-Stielen. Die meisten werfen sie weg. Hier werden sie als Chips mitverwertett. 
+Und dann ist da noch das Sulforaphan aus den Brokkoli-Stielen. Die meisten werfen sie weg. Hier werden sie als Chips mitverwertet. 
 
 Ein ausbalanciertes, protein- und ballaststoffreiches Gericht, das satt macht, gut schmeckt und durch den geschmolzenen Käse echtes Soulfood-Potenzial hat.
 
