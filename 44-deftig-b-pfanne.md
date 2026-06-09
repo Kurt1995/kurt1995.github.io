@@ -106,5 +106,5 @@ Ein ausbalanciertes, protein- und ballaststoffreiches Gericht, das satt macht, g
 
 ### Einfach, nahrhaft und mit Charakter.
 
-
-
+---
+[← Zurück zur Übersicht](index.md)
