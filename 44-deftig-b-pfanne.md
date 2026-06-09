@@ -18,7 +18,8 @@
 
 - **Pasta-Vorrat:** Eine Packung Vollkornpenne (500 g) in Salzwasser kochen, abgießen, kalt abschrecken und in 4 Portionen aufgeteilt einfrieren.  
 - **Brokkoli-Vorbereitung:** Den Brokkoli (500 g pro Portion) putzen und in bissgroße Stücke zerteilen. Die Stiele schälen und in feine „Brokkoli-Chips“ schneiden.  
-- **Blanchieren & Einfrieren:** Den Brokkoli nur ganz kurz in ungesalzenem Wasser blanchieren, mit einem Schaumlöffel entnehmen und in eine Gefrierdose einfüllen. Kurz abkühlen lassen und noch handwarm einfrieren.  
+- **Blanchieren & Einfrieren:** Den Brokkoli nur ganz kurz in ungesalzenem Wasser blanchieren, mit einem Schaumlöffel entnehmen und in eine Gefrierdose einfüllen. Kurz abkühlen lassen und noch handwarm einfrieren.
+ &nbsp; [(das Blanchieren anschauen)](30-brokk-blanch.md)
 - **Schonendes Auftauen:** Am Abend vor dem Verzehr eine Portion Penne und eine Portion Brokkoli in den Kühlschrank stellen.  
 
 ---
