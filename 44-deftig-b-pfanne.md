@@ -25,8 +25,6 @@
 
 ## Zubereitung am Verzehrtag
 
-### Schritt-für-Schritt
-
 - **Anbraten:** 2 Esslöffel Olivenöl in einer Wok-Pfanne erhitzen. Den weitgehend aufgetauten Brokkoli in die Pfanne geben und kurz bei großer Hitze anschmoren. Häufig wenden.  
 - **Hackfleisch:** Das mit Pfeffer und Salz gewürzte Hackfleisch in Flocken dazugeben. Auf mittlerer Flamme für 2–3 Minuten mitschmoren. Weiter häufig wenden.  
 - **Pilze:** Die Champignons unterheben und alles für weitere 2–3 Minuten schmoren. Häufiger wenden.  
@@ -34,7 +32,8 @@
 - **Zu Ende garen:** Die Pfanne mit einem Deckel verschließen und auf mittlerer Flamme so lange weitergaren, bis der Käse schmilzt.  
 - **Servieren:** Auf einem vorgewärmten Teller anrichten.  
 
-### Zubereitung in Bildern
+---
+
 Die Schritte 1 – 4 können in der Garzeit angepasst werden – je nach gewünschtem Biss des Brokkoli  
 <table>
   <tr>
