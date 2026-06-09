@@ -46,7 +46,7 @@ Die Schritte 1 – 4 können in der Garzeit angepasst werden – je nach gewüns
     <td><img src="assets/44-deftig-b-Pfanne-06.jpg" width="100%"></td>
     <td><img src="assets/44-deftig-b-Pfanne-07.jpg" width="100%"></td>
     <td><img src="assets/44-deftig-b-Pfanne-08.jpg" width="100%"></td>
-    <td</td>
+    <td></td>
   </tr>
 </table>
 
