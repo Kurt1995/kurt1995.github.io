@@ -9,96 +9,102 @@
 - 1 Dose Champignons (geschnitten)  
 - 130 g Gehacktes (halb und halb)  
 - Olivenöl Extra  
-- 3 Scheiben Käse (Edamer, Tilsiter oder junger Gouda)  
+- 3 Scheiben Käse (Edamer, Tilsiter oder junger Gouda eignen sich gut)  
 - Gewürze: Schwarzer Pfeffer, Salz  
 
+---
 
 ## Langfristvorbereitung
 
-- **Pasta-Vorrat:** Eine Packung Vollkornpenne (500 g) in Salzwasser kochen, abgießen, kalt abschrecken und in 4 Portionen aufteilen und einfrieren.  
-- **Brokkoli vorbereiten:** Brokkoli putzen, in Stücke teilen. Stiele schälen und in feine „Brokkoli-Chips“ schneiden.  
-- **Blanchieren & Einfrieren:** Brokkoli kurz in ungesalzenem Wasser blanchieren, entnehmen, in Gefrierdose füllen, abkühlen lassen und handwarm einfrieren.  
-- **Schonendes Auftauen:** Am Vorabend Penne + Brokkoli in den Kühlschrank legen.  
+- **Pasta-Vorrat:** Eine Packung Vollkornpenne (500 g) in Salzwasser kochen, abgießen, kalt abschrecken und in 4 Portionen aufgeteilt einfrieren.  
+- **Brokkoli-Vorbereitung:** Den Brokkoli (500 g pro Portion) putzen und in bissgroße Stücke zerteilen. Die Stiele schälen und in feine „Brokkoli-Chips“ schneiden.  
+- **Blanchieren & Einfrieren:** Den Brokkoli nur ganz kurz in ungesalzenem Wasser blanchieren, mit einem Schaumlöffel entnehmen und in eine Gefrierdose einfüllen. Kurz abkühlen lassen und noch handwarm einfrieren.  
+- **Schonendes Auftauen:** Am Abend vor dem Verzehr eine Portion Penne und eine Portion Brokkoli in den Kühlschrank stellen.  
 
+---
 
 ## Zubereitung am Verzehrtag
 
-### Schritt-für-Schritt (mit Bildern)
+### Schritt-für-Schritt
 
+- **Anbraten:** 2 Esslöffel Olivenöl in einer Wok-Pfanne erhitzen. Den weitgehend aufgetauten Brokkoli in die Pfanne geben und kurz bei großer Hitze anschmoren. Häufig wenden.  
+- **Hackfleisch:** Das mit Pfeffer und Salz gewürzte Hackfleisch in Flocken dazugeben. Auf mittlerer Flamme für 2–3 Minuten mitschmoren. Weiter häufig wenden.  
+- **Pilze:** Die Champignons unterheben und alles für weitere 2–3 Minuten schmoren. Häufiger wenden.  
+- **Kombinieren:** Die Penne untermischen, kurz erwärmen lassen und alles mit den Käsescheiben abdecken.  
+- **Zu Ende garen:** Die Pfanne mit einem Deckel verschließen und auf mittlerer Flamme so lange weitergaren, bis der Käse schmilzt.  
+- **Servieren:** Auf einem vorgewärmten Teller anrichten.  
+
+### Zubereitung in Bildern
+Die Schritte 1 – 4 können in der Garzeit angepasst werden – je nach gewünschtem Biss des Brokkoli  
 <table>
-<tr>
-<td><img src="assets/44-deftig-b-Pfanne-02.jpg" width="100%"><br><small>1. Brokkoli in heißem Olivenöl anschmoren</small></td>
-<td><img src="assets/44-deftig-b-Pfanne-03.jpg" width="100%"><br><small>2. Gewürztes Hackfleisch zugeben</small></td>
-<td><img src="assets/44-deftig-b-Pfanne-04.jpg" width="100%"><br><small>3. Weiter schmoren</small></td>
-</tr>
-
-<tr>
-<td><img src="assets/44-deftig-b-Pfanne-05.jpg" width="100%"><br><small>4. Champignons unterheben</small></td>
-<td><img src="assets/44-deftig-b-Pfanne-06.jpg" width="100%"><br><small>5. Penne zugeben</small></td>
-<td><img src="assets/44-deftig-b-Pfanne-07.jpg" width="100%"><br><small>6. Mit Käse abdecken</small></td>
-</tr>
-
-<tr>
-<td colspan="3">
-<img src="assets/44-deftig-b-Pfanne-08.jpg" width="100%">
-<br><small>7. Deckel drauf – garen, bis der Käse schmilzt</small>
-</td>
-</tr>
+  <tr>
+    <td><img src="assets/44-deftig-b-Pfanne-02.jpg" width="100%"></td>
+    <td><img src="assets/44-deftig-b-Pfanne-03.jpg" width="100%"></td>
+    <td><img src="assets/44-deftig-b-Pfanne-04.jpg" width="100%"></td>
+    <td><img src="assets/44-deftig-b-Pfanne-05.jpg" width="100%"></td>
+  </tr>
+  <tr>
+    <td><img src="assets/44-deftig-b-Pfanne-06.jpg" width="100%"></td>
+    <td><img src="assets/44-deftig-b-Pfanne-07.jpg" width="100%"></td>
+    <td><img src="assets/44-deftig-b-Pfanne-08.jpg" width="100%"></td>
+    <td</td>
+  </tr>
 </table>
 
 ---
 
-## Servieren
-
-- Auf einem vorgewärmten Teller anrichten.  
-- Optional: frisch gemahlener Pfeffer.  
-
-![Servieren](assets/44-deftig-b-Pfanne-09.jpg)
+### Es ist angerichtet
+![Servieren](assets/44-deftig-b-Pfanne-10.jpg)
 
 ---
 
-## COPILOTs Gesundheits-Check
+## COPILOT's Gesundheits-Check: Warum dieses Gericht punktet
 
-Diese Brokkoli-Pfanne kombiniert Vorratsplanung mit hoher Nährstoffdichte.  
-Brokkoli liefert Vitamine, Mineralstoffe und Ballaststoffe. Durch das kurze Blanchieren bleiben hitzeempfindliche Vitamine besser erhalten.
+Diese „Deftige Brokkoli-Pfanne“ vereint kluge Vorratsplanung mit echter Nährstoffpower.  
+Sie liefert ein ausgewogenes Verhältnis aus Kohlenhydraten, Proteinen und Fetten.  
 
-Hackfleisch und Käse ergänzen Protein, Calcium und Spurenelemente.  
-Die Vollkornpenne liefert komplexe Kohlenhydrate und sorgt für Sättigung.
+Brokkoli trägt Vitamine, Mineralstoffe und Ballaststoffe bei. Durch das kurze Blanchieren + Schockfrosten bleiben die hitzeempfindlichen Vitamine im Brokkoli deutlich besser erhalten als bei "totgekochtem" TK-Gemüse.
 
-Ein vollwertiges Gericht mit guter Balance aus Makro- und Mikronährstoffen.
+Hackfleisch und Käse ergänzen das Gericht um Protein, Calcium und Spurenelemente.  
+Die 125 g Penne erhöhen die Energiedichte und liefern komplexe Kohlenhydrate.  
+Insgesamt entsteht ein vollwertiges Gericht mit breitem Mikronährstoffspektrum und guter Sättigungswirkung.
 
 ---
 
 ## Nährwert- & Mikronährstoff-Tabelle
 
-| Nährstoff | Menge | Funktion | Tagesbedarf |
-|----------|-------|----------|-------------|
-| Kalorien | ~690–720 kcal | Energie | ~34 % |
-| Protein | ~40–44 g | Muskelerhalt | 70–75 % |
-| Kohlenhydrate | ~43–48 g | Energie | 15–18 % |
-| Ballaststoffe | ~11–13 g | Verdauung | 40–45 % |
-| Fett | ~34–38 g | Energie, Hormone | 45–55 % |
-| Resistente Stärke | leicht vorhanden | Darmflora | – |
-| Vitamin C | ~220–260 mg | Immunsystem | 240–290 % |
-| Vitamin K1 | ~230–270 µg | Blutgerinnung | 190–230 % |
-| Vitamin A | ~800–900 µg | Sehkraft | 90–100 % |
-| Vitamin B1/B6 | – | Energiestoffwechsel | 35–45 % |
-| Vitamin E | ~3 mg | Zellschutz | 20–25 % |
-| Folsäure | ~140–160 µg | Zellteilung | 35–40 % |
-| Calcium | ~450–520 mg | Knochen | 45–55 % |
-| Eisen | ~4,5 mg | Blutbildung | 30–35 % |
-| Kalium | ~1150–1250 mg | Herz, Muskeln | 25–30 % |
-| Magnesium | ~100–120 mg | Muskeln, Nerven | 25–30 % |
-| Zink | ~4 mg | Immunsystem | 35–40 % |
-| Sulforaphan | reichlich | Zellschutz | – |
+| Nährstoff        | Menge             | Funktion im Körper                 | Tagesbedarf in %    |
+|------------------|-------------------|------------------------------------|---------------------|
+| Kalorien         | ~ 690–720 kcal    | Energie für Alltag & Stoffwechsel  | ~ 34 %              |
+| Protein          | ~ 40–44 g         | Muskelerhalt, Sättigung            | = 70–75 %           |
+| Kohlenhydrate    | ~ 43–48 g         | Energie, Gehirnstoffwechsel        | ~ 15–18 %           |
+| Ballaststoffe    | ~ 11–13 g         | Verdauung, Darmflora               | ≥ 40–45 %           |
+| Fett             | ~ 34–38 g         | Energie, Hormonproduktion          | ≥ 45–55 %           |
+| Resistente Stärke| leicht vorhanden  | Darmflora, Blutzuckerregulation    | –                   |
+| Vitamin C        | ~ 220–260 mg      | Immunsystem, Zellschutz            | ~ 240–290 %         |
+| Vitamin K1       | ~ 230–270 µg      | Blutgerinnung, Knochen             | ~ 190–230 %         |
+| Vitamin A (B-Carotin) | ~ 800–900 µg | Sehkraft, Zellschutz               | ~ 90–100 %          |
+| Vitamin B1/B6    | ~ 35–45 %         | Energiestoffwechsel, Nerven        | ~ 35–45 %           |
+| Vitamin E        | ~ 3 mg            | Zellschutz                         | ~ 20–25 %           |
+| Folsäure (B9)    | ~ 140–160 µg      | Zellteilung                        | ≥ 35–40 %           |
+| Calcium          | ~ 450–520 mg      | Knochen, Muskeln                   | ≥ 45–55 %           |
+| Eisen            | ~ 4,5 mg          | Blutbildung                        | ~ 30–35 %           |
+| Kalium           | ~ 1150–1250 mg    | Herz, Muskeln                      | ~ 25–30 %           |
+| Magnesium        | ~ 100–120 mg      | Muskeln, Nerven                    | ~ 25–30 %           |
+| Zink             | ~ 4 mg            | Immunsystem                        | ≥ 35–40 %           |
+| Sulforaphan      | reichlich         | Zellschutz, Entzündungshemmung     | –                   |
 
 ---
 
-## Zusammenfassung
+## Zusammenfassung von Mitautorin COPILOT
 
-Ein einfaches, nahrhaftes Gericht mit Charakter:  
-Vollkorn, Gemüse und Protein greifen perfekt ineinander.  
-Die Brokkoli-Stiele werden nicht weggeworfen, sondern als Chips genutzt.  
-Geschmolzener Käse sorgt für den Soulfood-Faktor.
+Diese Brokkoli-Pfanne ist ein gutes Beispiel für kluges, unkompliziertes Kochen, das ohne Spezialzutaten auskommt und zuverlässig gelingt.   
+Sie verbindet Vorratsplanung mit frischen Zutaten und liefert dabei eine erstaunliche Nährstoffdichte.   
+Vollkorn, Gemüse und Protein greifen perfekt ineinander - sättigend, vitaminreich und mit echtem Wohlfühlfaktor.   
+Und dann ist da noch das Sulforaphan aus den Brokkoli-Stielen. Die meisten werfen sie weg. Hier werden sie als Chips mitverwertett.   
+Ein ausbalanciertes, protein- und ballaststoffreiches Gericht, das satt macht, gut schmeckt und durch den geschmolzenen Käse echtes Soulfood-Potenzial hat.
+
+### Einfach, nahrhaft und mit Charakter.
+
 
 
