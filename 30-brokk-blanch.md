@@ -56,4 +56,8 @@ Dass wir den Brokkoli handwarm und mit seiner Restfeuchte vom Blanchier-Wasser e
 Das Blanchieren dient nicht nur der Optik. Es stoppt die Aktivität von Enzymen wie Lipoxygenase und Polyphenoloxidase. Diese Enzyme würden normalerweise den Abbau von Aroma, Textur und eben der Farbe vorantreiben - selbst im Gefrierschrank. Da der Brokkoli kurz in kochendes Wasser getaucht war, wurden diese "Zerstörer" rechtzeitig ausgeschaltet. Die satte, grüne Farbe nach dem Auftauen ist der Beweis dafür, dass das kurze Blanchieren erfolgreich war und die Zellstruktur des Brokkoli mit den wertvollen Inhaltsstoffen den Prozess und die Lagerung in der Tiefkühltruhe perfekt überstanden hat.
 
 ---
-[← Zurück zur Brokkoli Pfanne](04-brokkolipfanne.md)
+[← Zurück zur Brokkoli Pfanne](04-brokkolipfanne.md) <br>
+[← Zurück zur deftigen Brokkoli Pfanne](44-deftig-b-pfanne.md)
+
+---
+[← Zurück zur Übersicht](index.md)
