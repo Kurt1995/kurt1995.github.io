@@ -10,11 +10,12 @@
 | [Zucchini Pasta](02-zucchini-pasta.md) | [Dinkelpenne in Tomate](01-dinkelpenne.md)  |
 | [Bunte Pilzpfanne](03-bunte-pilzpfanne.md) | [Deftige Kartoffelsuppe](05-deftige-ksuppe.md)  |
 | [Brokkoli Pfanne](04-brokkolipfanne.md)  | [Zucchini-Paprika-Creme mit Leber](07-zupaleber.md) |
+| [Deftige Brokkoli-Pfanne](44-deftig-b-pfanne.md) | [Tomaten-Topf mit Huhn](45-tomate-huhn.md) |
 | [Blumenkohl Pfanne](09-bkohlpf.md) | Gehaltvolle Zucchini-Paprika Creme |
 | [Gemüsepfanne mit Reis](11-gemmitreis.md) | [Nudeln in Winter-Tomate](08-nudelinwt.md) |
 | [Zwiebelpfanne mit Nudeln](13-zwiebel-nudel-pf.md) | [Verlorenes Ei in Winter-Tomate](15-ei-in-wtomate.md) |
 | [Fruchtige Nudelpfanne Lasagne-Art](18-nudel-lasag.md) | [Suppe mit Hähnchenmägen](14-maegensuppe.md) |
-| [Deftige Brokkoli-Pfanne](44-deftig-b-pfanne.md) | [Tomaten-Topf mit Huhn](45-tomate-huhn.md) |
+| [Fruchtige Nudelpfanne Bayrische-Art ](18-nudel-bayer.md) |  |
 |  |  [Opa Salat](06-opa-salat.md) |
 |  |  |
 | .. und ab und zu ein | Protein-Booster |
