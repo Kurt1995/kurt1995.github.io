@@ -85,6 +85,4 @@ Das Ergebnis: Ein unkompliziertes Wohlfühlgericht, das deftig schmeckt, aber da
 Kurz: Eine echte Vitalstoff-Pfanne mit Meal-Prep-Vorteil, die beweist, dass traditionelle Zutaten wie Leberkäse hervorragend in eine gesundheitsbewusste Küche passen.
 
 ---
-
-
-
+[← Zurück zur Übersicht](index.md)
