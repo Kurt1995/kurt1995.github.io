@@ -58,9 +58,9 @@ Unterm Strich: Eine sättigende, nährstoffdichte Mahlzeit mit moderatem Fettant
 
 | Nährwert | Geschätzte Menge | Bedeutung für den Körper |
 | --- | --- | --- |
-| **Energie** | ca. 980 kcal | Liefert moderate Energie. Bei 2 Portionen eine leichte bis normale Hauptmahlzeit |
+| **Energie** | ca. 1100 kcal <br> (je nach Zutaten) | Liefert moderate Energie. Bei 2 Portionen eine leichte bis normale Hauptmahlzeit |
 | **Kohlenhydrate** | ca. 95 g | Hauptsächlich komplexe Kohlenhydrate aus Dinkel-Penne für stabilen Blutzuckerspiegel |
-| **Eiweiß** | ca. 54 g | Sehr hoher Proteingehalt besonders aus den Eiern mit ihrer hohen biologischen Wertigkeit für Sättigung und Muskelerhalt |
+| **Eiweiß** | ca. 54 g | Sehr hoher Proteingehalt (besonders aus den Eiern mit ihrer hohen biologischen Wertigkeit) für Sättigung und Muskelerhalt |
 | **Fett** | ca. 70 g | Aus Olivenöl, Eiern und dem traditionell fetthaltigen Leberkäse. Enthält gesunde ungesättigte Fettsäuren |
 | **Ballaststoffe** | ca. 12 g | Unterstützt eine gesunde Verdauung und langanhaltende Sättigung |
 
