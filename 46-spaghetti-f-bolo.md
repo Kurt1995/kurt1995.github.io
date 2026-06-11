@@ -103,3 +103,5 @@ Die „Spaghetti mit fruchtiger Wildkräuter-Bolo“ sind ein tolles Beispiel da
 Die clevere Methode, Pasta vorzukochen und einzufrieren, spart im Alltag enorm Zeit, während die frisch pürierte Gemüsebasis zusammen mit dem Giersch einen echten Vitamin-Kick garantiert.  
 Ein rundum ehrliches, alltagstaugliches Gericht mit dem gewissen „Wildkräuter-Etwas“!
 
+---
+[← Zurück zur Übersicht](index.md)
