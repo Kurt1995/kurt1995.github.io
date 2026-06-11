@@ -39,7 +39,7 @@
 ### GEMINI's Gesundheitscheck: Warum dieses Gericht punktet
 Dieses Gericht beweist, dass eine Feierabend-Pasta richtig vitalstoffreich sein kann – und das liegt vor allem an der Zubereitungsart, die sich radikal von einer klassischen Bolognese unterscheidet:
 
-• Die Express-Garzeit (Der Vitamin-Schoner): Während eine traditionelle Bolo stundenlang köchelt und dabei viele hitzeempfindliche Nährstoffe verliert, wird diese Sauce in gerade einmal 6 bis 8 Minuten zubereitet.  
+• Die Express-Garzeit (Der Vitamin-Schoner): Während eine traditionelle Bolo stundenlang köchelt und dabei viele hitzeempfindliche Nährstoffe verliert, wird diese Sauce in gerade einmal 6 bis 8 Minuten zubereitet. 
 Das Gemüse wird nur kurz aufgekocht und püriert. Dadurch bleibt ein Maximum an labilen Vitaminen (wie Vitamin C) lebendig erhalten.
 
 • Der Wildkräuter-Turbo (Giersch): Giersch wird im Garten oft verteufelt, ist aber eine echte Nährstoffbombe.  
