@@ -11,12 +11,13 @@
 | [Bunte Pilzpfanne](03-bunte-pilzpfanne.md) | [Deftige Kartoffelsuppe](05-deftige-ksuppe.md)  |
 | [Brokkoli Pfanne](04-brokkolipfanne.md)  | [Zucchini-Paprika-Creme mit Leber](07-zupaleber.md) |
 | [Deftige Brokkoli-Pfanne](44-deftig-b-pfanne.md) | [Tomaten-Topf mit Huhn](45-tomate-huhn.md) |
-| [Blumenkohl Pfanne](09-bkohlpf.md) | Gehaltvolle Zucchini-Paprika Creme |
-| [Gemüsepfanne mit Reis](11-gemmitreis.md) | [Nudeln in Winter-Tomate](08-nudelinwt.md) |
-| [Zwiebelpfanne mit Nudeln](13-zwiebel-nudel-pf.md) | [Verlorenes Ei in Winter-Tomate](15-ei-in-wtomate.md) |
+| [Blumenkohl Pfanne](09-bkohlpf.md) | [Nudeln in Winter-Tomate](08-nudelinwt.md) |
+| [Gemüsepfanne mit Reis](11-gemmitreis.md) | [Verlorenes Ei in Winter-Tomate](15-ei-in-wtomate.md) |
+| [Zwiebelpfanne mit Nudeln](13-zwiebel-nudel-pf.md) | [Gemüse-Creme „Frühsommer“](08-gemuse-fsommer.md) |
 | [Fruchtige Nudelpfanne Lasagne-Art](18-nudel-lasag.md) | [Suppe mit Hähnchenmägen](14-maegensuppe.md) |
 | [Fruchtige Nudelpfanne Bayrische-Art ](18-nudel-bayer.md) | [Spaghetti mit fruchtiger Wildkräuter-Bolo](46-spaghetti-f-bolo.md) |
 |  |  [Opa Salat](06-opa-salat.md) |
+|  | Gehaltvolle Zucchini-Paprika Creme |
 |  |  |
 | .. und ab und zu ein | Protein-Booster |
 | [Strammer Max - Plus](19-st-max-plus.md) | [Dicke Rippe](12-dickerippe.md) |
