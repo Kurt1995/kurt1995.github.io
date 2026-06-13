@@ -134,3 +134,5 @@ Die Gemüse-Creme „Frühsommer“ ist ein gutes Beispiel für eine moderne, vi
 Es verbindet geschickt eine clevere Vorratshaltung (die portionierten Dinkel-Penne sparen am Kochtag wertvolle Zeit) mit frischen, saisonalen Wildkräutern und durchdachten biochemischen Kniffen beim Kochen.  
 Ein rundum gelungenes, darmgesundes und nährstoffreiches Gericht, das dem Körper richtig Energie schenkt.
 
+---
+[← Zurück zur Übersicht](index.md)
