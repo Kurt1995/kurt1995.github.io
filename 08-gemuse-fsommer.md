@@ -1,5 +1,6 @@
-# Kurt kocht  
-## Gemüse-Creme „Frühsommer“
+# Kurt kocht &nbsp; - &nbsp; Gemüse-Creme „Frühsommer“
+
+<br>  
 
 ![Gemüse-Creme Frühsommer – Bild 1](assets/08-gemuse-fsommer-1.jpg)
 
