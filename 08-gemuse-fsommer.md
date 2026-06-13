@@ -38,9 +38,11 @@ Zutaten (für 2 Personen)
 - Das Ei (die Eier) in eine Tasse aufschlagen und verquirlen.  
 - Den Giersch gründlich abspülen und kleinhacken (die grünen Teile der Stiele können auch verwendet werden).  
 
+<br>
 
 | ![Bild 2](assets/08-gemuse-fsommer-2.jpg) | ![Bild 3](assets/08-gemuse-fsommer-3.jpg) |
-|-------------------------------------------|-------------------------------------------|
+|:-----------------------------------------:|:-----------------------------------------:|
+| <sub>Das Ei, die Margarine, das Gehackte und den Brühwürfel hineingeben - noch nicht verrühren</sub> | <sub>Den Topf vom Feuer nehmen, den Giersch einrühren und servieren</sub> |
 
 ### Zubereitung
 
