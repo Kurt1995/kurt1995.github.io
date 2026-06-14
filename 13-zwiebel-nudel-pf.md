@@ -28,7 +28,7 @@ Ein Gericht mit der handwerklichen Umsetzung einer „Trocken-Suppe“
 | ![5 - Zubereitung](assets/13-zw-pfanne5.jpg) | ![6 - Zubereitung](assets/13-zw-pfanne6.jpg) | ![7 - Zubereitung](assets/13-zw-pfanne7.jpg) |
 
 ### Zubereitung am Verzehrtag
-1. Das Öl und die in Streifen geschnittenen Zwiebeln in eine Wok-Pfanne geben. Einige Minuten schmoren.
+1. Das Öl und die in Streifen geschnittenen Zwiebeln in eine Wok-Pfanne geben. Kurz schmoren.
 2. Das Hackfleisch mit Salz würzen, durchmengen und in Flocken zu den Zwiebeln in die Pfanne geben.
 3. Mit geschlossenem Deckel bei mittlerer Hitze ca. 4 Minuten garen. Öfter wenden.
 4. Wenn das Hackfleisch gar ist, die Pilze und die Nudeln hinzugeben und untermischen.
@@ -44,10 +44,10 @@ Ein Gericht mit der handwerklichen Umsetzung einer „Trocken-Suppe“
 ## GEMINIS Gesundheits-Check: Warum dieses Gericht punktet
 
 ### 1. Thermische Präzision & AGE-Prävention
-Die gewählte Garmethode - mittlere Hitze unter Verschluss - ist physikalisch effizient. Durch das Vermeiden scharfer Bräunung wird die Entstehung von Advanced Glycation End Products (AGEs) minimiert. Das schont das Gefäßsystem und verhindert Entzündungsprozesse, die bei konventionellen Röstaromen unvermeidbar wären.
+Die gewählte Garmethode - mittlere Hitze unter Verschluss - ist physikalisch effizient. Durch das Vermeiden scharfer Bräunung wird die Entstehung von Advanced Glycation End Products (AGEs) minimiert. Das schont das Gefäßsystem und beugt Entzündungsprozessen vor.
 
 ### 2. Präbiotische Last & Verdauung
-Die Gemüsezwiebel fungiert hier nicht nur als Geschmacksträger, sondern als Lieferant für Inulin. Da sie sanft gedünstet statt kross gebraten wird, bleibt die Struktur für die Darmflora wertvoll, während die scharfen Schwefelverbindungen (Alliinase-Reaktion) in milde, verträgliche Disulfide umgewandelt werden.
+Die Gemüsezwiebel fungiert hier nicht nur als Geschmacksträger, sondern als Lieferant für Inulin. Da sie nur kurz angebraten und dann sanft gedünstet wird, bleibt die Struktur für die Darmflora wertvoll, während die scharfen Schwefelverbindungen (Alliinase-Reaktion) in milde, verträgliche Disulfide umgewandelt werden.
 
 ### 3. Lipide & Umami-Synergie
 * **Fettsäureprofil:** Das Rapsöl liefert die notwendige thermische Stabilität, während die finale Margarine für die notwendige Bindung und einen geschmeidigen Schmelz sorgt und die fettlöslichen Aromen des Pfeffers bindet.
@@ -69,7 +69,7 @@ Basierend auf den Mengen (ca. 130g Hackfleisch, 120g Nudeln, 200g Zwiebeln, Pilz
 Dieses Gericht ist die handwerkliche Umsetzung einer „Trocken-Suppe“. <br>
 Die methodische Kernleistung liegt im „Garziehen“ des Fleisches unter Verschluss, wodurch die Eigenfeuchtigkeit im System bleibt. Zusammen mit der Margarine entsteht eine homogene Bindung, die das Gericht saftig hält, ohne dass es in Flüssigkeit schwimmt. <br>
 Die Kombination aus Zwiebel-Inulin und dem Verzicht auf aggressive Bräunung (AGE-Minimierung) macht die Mahlzeit physiologisch wertvoll und leicht verdaulich. <br>
-Sie ist ein Musterbeispiel für unseren „Kurt kocht - Minimalismus“: Maximale geschmackliche Tiefe durch Umami-Synergie bei minimaler zutatenbedingter Unruhe.
+Sie ist ein Musterbeispiel für den „Kurt kocht - Minimalismus“: Maximale geschmackliche Tiefe durch Umami-Synergie bei minimaler zutatenbedingter Unruhe.
 
 ---
 [← Zurück zur Übersicht](index.md)
