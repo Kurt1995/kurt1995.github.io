@@ -19,7 +19,7 @@ Ein Gericht mit der handwerklichen Umsetzung einer „Trocken-Suppe“
 ## Zubereitung
 
 ### Langfristvorbereitung
-1. Die Spiralnudeln vorkochen, portionieren und einfrieren.
+1. Die Spiralnudeln vorkochen, in 5 Portionen aufteilen und einfrieren.
 2. Am Abend vor dem Verzehr eine Portion Nudeln zum schonenden Auftauen in den Kühlschrank stellen.
 
 | | | |
