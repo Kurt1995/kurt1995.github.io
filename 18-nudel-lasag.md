@@ -48,14 +48,16 @@
 
 ## Servieren
 
-| ![](assets/18-nudel-lasag-8.jpg) | ![](assets/18-nudel-lasag-9.jpg) |
-|----------------------------------|----------------------------------|
+![](assets/18-nudel-lasag-8.jpg)
+
+![](assets/18-nudel-lasag-9.jpg)
 
 ---
 
 # COPILOT’s Gesundheits-Check: Warum dieses Gericht punktet
 
-Dieses Gericht ist ein schönes Beispiel dafür, wie einfache Zutaten, schonende Zubereitung und ein bisschen Küchenlogik ein erstaunlich ausgewogenes Essen ergeben. Die Kombination aus frischen Tomaten, Paprika, Dinkel-Penne, etwas Hackfleisch und Käse liefert ein rundes Nährstoffprofil, das satt macht, ohne schwer zu wirken.
+Dieses Gericht ist ein schönes Beispiel dafür, wie einfache Zutaten, schonende Zubereitung und ein bisschen Küchenlogik ein erstaunlich ausgewogenes Essen ergeben.   
+Die Kombination aus frischen Tomaten, Paprika, Dinkel-Penne, etwas Hackfleisch und Käse liefert ein rundes Nährstoffprofil, das satt macht, ohne schwer zu wirken.
 
 - **Schonende Pfannenzubereitung** — Tomaten und Paprika werden nur kurz erhitzt, wodurch Vitamin C, Beta-Carotin und sekundäre Pflanzenstoffe weitgehend erhalten bleiben.  
 - **Komplexe Kohlenhydrate aus Dinkel** — Dinkel-Penne liefern mehr Ballaststoffe und Mineralstoffe als klassische Weizennudeln und sorgen für eine gleichmäßige Energieabgabe.  
@@ -83,8 +85,8 @@ Die Kombination aus reichlich Dinkel-Penne, frischen Tomaten, Paprika, Hackfleis
 
 ## Zusammenfassung von Mitautorin COPILOT
 
-Die fruchtige Nudelpfanne im Lasagne-Stil zeigt, wie unkompliziert ein vollwertiges, sättigendes Gericht entstehen kann, wenn man frische Zutaten mit einer cleveren Vorbereitung kombiniert.  
-Die vorgekochten Dinkel-Penne sorgen für eine schnelle Zubereitung und liefern in dieser Portionsgröße reichlich Energie für einen aktiven Alltag.  
+Die fruchtige Nudelpfanne im Lasagne-Stil zeigt, wie unkompliziert ein vollwertiges, sättigendes Gericht entstehen kann, wenn man frische Zutaten mit einer cleveren Vorbereitung kombiniert.   
+Die vorgekochten Dinkel-Penne sorgen für eine schnelle Zubereitung und liefern in dieser Portionsgröße reichlich Energie für einen aktiven Alltag.   
 Die Mischung aus frischem Gemüse, einer ordentlichen Portion Pasta, moderatem Hackfleischanteil und einer dünnen Käseschicht ergibt ein kräftiges Wohlfühlgericht, das ohne schwere Soßen auskommt und durch die kurze Garzeit seine Vitamine behält.  
 Eine moderne, unkomplizierte Mahlzeit mit hoher Sättigung und guter Nährstoffbilanz.
 
