@@ -5,8 +5,8 @@ Ein Gericht mit der handwerklichen Umsetzung einer „Trocken-Suppe“
 
 ## Zutaten
 * Gemüsezwiebel ca. 200 g
-* Hackfleisch halb und halb ca. 130 g ($1/3$ einer 400 g Packung)
-* 120 g Spiralnudeln ($1/5$ von einer 600 g Tüte)
+* Hackfleisch halb und halb ca. 130 g (1/3 einer 400 g Packung)
+* 120 g Spiralnudeln (1/5 von einer 600 g Tüte)
 * Eine Dose (170 g Abtropfgewicht) Champignons, geschnitten
 * 2 Esslöffel Rapsöl
 * 1 Teelöffel Instant Brühe
@@ -20,7 +20,7 @@ Ein Gericht mit der handwerklichen Umsetzung einer „Trocken-Suppe“
 
 ### Langfristvorbereitung
 1. Die Spiralnudeln vorkochen, portionieren und einfrieren.
-2. Am Abend vor dem Verzehr die Nudeln zum schonenden Auftauen in den Kühlschrank stellen.
+2. Am Abend vor dem Verzehr eine Portion Nudeln zum schonenden Auftauen in den Kühlschrank stellen.
 
 | | | |
 | :---: | :---: | :---: |
@@ -30,7 +30,7 @@ Ein Gericht mit der handwerklichen Umsetzung einer „Trocken-Suppe“
 ### Zubereitung am Verzehrtag
 1. Das Öl und die in Streifen geschnittenen Zwiebeln in eine Wok-Pfanne geben. Einige Minuten schmoren.
 2. Das Hackfleisch mit Salz würzen, durchmengen und in Flocken zu den Zwiebeln in die Pfanne geben.
-3. Mit geschlossenem Deckel bei mittlerer Hitze ca. 5 Minuten garen. Öfter wenden.
+3. Mit geschlossenem Deckel bei mittlerer Hitze ca. 4 Minuten garen. Öfter wenden.
 4. Wenn das Hackfleisch gar ist, die Pilze und die Nudeln hinzugeben und untermischen.
 5. Brühe, Pfeffer und Sojasauce einrühren und einen guten Stich Margarine zugeben.
 6. Alles noch einmal erhitzen, vom Feuer nehmen und servieren.
