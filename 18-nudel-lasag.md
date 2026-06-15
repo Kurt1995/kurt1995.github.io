@@ -51,6 +51,8 @@
 ![](assets/18-nudel-lasag-8.jpg)
 
 ![](assets/18-nudel-lasag-9.jpg)
+*Vorsicht! Die Tomatenstücke bleiben unerwartet lange heiss!*
+<br>
 
 ---
 
