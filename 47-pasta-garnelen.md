@@ -29,6 +29,7 @@ Es kommt ohne schwere Sauce aus, die die Hauptzutaten zu Beilagen degradieren w�
 - Bei mittlerer Hitze garen, bis sie rosa geworden sind (nicht zu lange, sonst verlieren sie Flüssigkeit und werden fest). Mehrfach wenden.  
 - Den Topf vom Feuer nehmen, Garnelen und Sud über die vorgewärmten Spaghetti verteilen und servieren.  
 - Am Tisch nach Geschmack salzen und mit Parmesan vollenden.
+<br>
 
 ![Auf dem Teller](assets/47-pasta-garnele-9.jpg)
 
