@@ -1,4 +1,4 @@
-# Pasta in Bianco mit Garnelen
+# Kurt kocht &nbsp; - &nbsp; Pasta in Bianco mit Garnelen
 
 Dieses Gericht bricht mit gängigen kulinarischen Dogmen und beweist, dass Minimalismus und eine unkonventionelle Zubereitung zu einem ausgewogenen Geschmackserlebnis führen können.  
 Es kommt ohne schwere Sauce aus, die die Hauptzutaten zu Beilagen degradieren würde.
@@ -29,6 +29,8 @@ Es kommt ohne schwere Sauce aus, die die Hauptzutaten zu Beilagen degradieren w�
 - Bei mittlerer Hitze garen, bis sie rosa geworden sind (nicht zu lange, sonst verlieren sie Flüssigkeit und werden fest). Mehrfach wenden.  
 - Den Topf vom Feuer nehmen, Garnelen und Sud über die vorgewärmten Spaghetti verteilen und servieren.  
 - Am Tisch nach Geschmack salzen und mit Parmesan vollenden.
+
+![Auf dem Teller](assets/47-pasta-garnele-9.jpg)
 
 ---
 
@@ -96,3 +98,6 @@ Gleichzeitig steht es in einer klaren kulinarischen Tradition:
 Dadurch entsteht ein schnelles, alltagstaugliches Gericht, das sich bewusst von gängigen Dogmen löst und sich in seiner Balance und seinem Geschmack nicht verstecken muss.  
 Ein eigenständiges, modernes *Signature Dish* und ein echter Gewinn für jede Rezeptsammlung – denn die Verbindung aus Pasta in bianco, schonend gedämpften Garnelen, dem Verzicht auf Knoblauch/Zitrone/Wein, aber Parmesan als Umami‑Katalysator findet sich so in keiner klassischen Vorlage.
 
+---
+
+[? Zurück zur Übersicht](index.md)
