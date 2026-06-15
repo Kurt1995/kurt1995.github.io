@@ -1,4 +1,4 @@
-# Kurt kocht &nbsp; - &nbsp; Pasta in Bianco mit Garnelen
+# Kurt kocht &nbsp; - &nbsp; Pasta in bianco mit Garnelen
 
 Dieses Gericht bricht mit gängigen kulinarischen Dogmen und beweist, dass Minimalismus und eine unkonventionelle Zubereitung zu einem ausgewogenen Geschmackserlebnis führen können.  
 Es kommt ohne schwere Sauce aus, die die Hauptzutaten zu Beilagen degradieren würde.
