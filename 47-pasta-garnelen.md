@@ -63,7 +63,7 @@ Das Ergebnis auf dem Teller spricht für sich.<br>
 Die Spaghetti werden vom leicht meeresfrischen Sud aus Fett und dem ausgetretenen Geschmackswasser der Garnelen umhüllt. Ihr Geschmack wird dem Garnelengeschmack sanft angepasst.<br>
 Der schwarze Pfeffer bleibt im Hintergrund und steuert lediglich eine tiefe, warme Grundnote bei.<br>
 Der Parmesan wirkt geschmacklich unerwartet bescheiden: er ist als Eigengeschmack kaum präsent, hebt aber das Gesamtaroma signifikant.<br>
-Und die Garnelen: Ein Biss und es macht im Mund spürbar „Hui“ 
+Und die Garnelen: ein Biss und es macht im Mund spürbar „Hui“ 
 
 ---
 
