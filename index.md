@@ -15,8 +15,8 @@
 | [Gemüsepfanne mit Reis](11-gemmitreis.md) | [Verlorenes Ei in Winter-Tomate](15-ei-in-wtomate.md) |
 | [Zwiebelpfanne mit Nudeln](13-zwiebel-nudel-pf.md) | [Gemüse-Creme „Frühsommer“](08-gemuse-fsommer.md) |
 | [Fruchtige Nudelpfanne Lasagne-Art](18-nudel-lasag.md) | [Suppe mit Hähnchenmägen](14-maegensuppe.md) |
-| [Fruchtige Nudelpfanne Bayrische-Art ](18-nudel-bayer.md) | Gehaltvolle Zucchini-Paprika Creme |
-|  |  [Opa Salat](06-opa-salat.md) |
+| [Fruchtige Nudelpfanne Bayrische-Art](18-nudel-bayer.md) | Gehaltvolle Zucchini-Paprika Creme |
+| [Pasta in Bianco mit Garnelen](47-pasta-garnelen.md) |  [Opa Salat](06-opa-salat.md) |
 |  |  |
 |  |  |
 | .. und ab und zu ein | Protein-Booster |
