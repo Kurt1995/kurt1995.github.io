@@ -101,5 +101,4 @@ Dadurch entsteht ein schnelles, alltagstaugliches Gericht, das sich bewusst von 
 Ein eigenständiges, modernes *Signature Dish* und ein echter Gewinn für jede Rezeptsammlung – denn die Verbindung aus Pasta in bianco, schonend gedämpften Garnelen, dem Verzicht auf Knoblauch/Zitrone/Wein, aber Parmesan als Umami‑Katalysator findet sich so in keiner klassischen Vorlage.
 
 ---
-
-[? Zurück zur Übersicht](index.md)
+[← Zurück zur Übersicht](index.md)
