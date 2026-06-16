@@ -1,4 +1,4 @@
-# Kurt kocht - Brokkoli Pfanne
+# Kurt kocht &nbsp; - &nbsp; Leichte Brokkoli Pfanne
 
 Dieses Rezept ist ein Paradebeispiel für „Volume Eating“ – eine große Portion bei moderater Kaloriendichte, die den Körper maximal mit Mikronährstoffen versorgt.
 
