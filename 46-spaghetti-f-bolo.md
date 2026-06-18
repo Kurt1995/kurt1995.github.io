@@ -8,7 +8,7 @@
 - 150 g Gehacktes (halb & halb)  
 - 250 g (1/2 Packung) Spaghetti  
 - Wasser (ca. 100 ml)  
-- 1 Bund Giersch (8 – 10 Stängel) - bitte Hinweis am Ende des Rezepts beachten  
+- 1 Bund Giersch (8 – 10 Stängel) - *den Hinweis am Ende des Rezepts beachten*  
 - 1 Esslöffel Olivenöl  
 - Gewürze: Ein wenig Maggi fix Bolognese, Salz und schwarzer Pfeffer  
 
@@ -103,7 +103,33 @@ Die „Spaghetti mit fruchtiger Wildkräuter-Bolo“ sind ein tolles Beispiel da
 Die clevere Methode, Pasta vorzukochen und einzufrieren, spart im Alltag enorm Zeit, während die frisch pürierte Gemüsebasis zusammen mit dem Giersch einen echten Vitamin-Kick garantiert.  
 Ein rundum ehrliches, alltagstaugliches Gericht mit dem gewissen „Wildkräuter-Etwas“!
 
+---
+
 ![Bild 1](assets/46-spaghetti-f-bolo-9.jpg)
+
+## ⚠️ Wichtiger Hinweis zum Sammeln von Giersch
+
+Giersch ist ein wunderbares, vitaminreiches Wildkraut, aber beim Sammeln ist **absolute Vorsicht** geboten! Er gehört zur Familie der Doldenblütler, unter denen sich auch tödlich giftige Pflanzen befinden. Sammle und verzehre Giersch nur, wenn du ihn zu **100 % sicher** bestimmen kannst.
+
+### Die „Dreier-Regel“ zur sicheren Bestimmung
+Ein altbewährter Merkspruch für Giersch lautet:
+
+> *„Drei, drei, drei – bist du beim Giersch dabei.“*
+
+* **Der Blattstiel:** Der Blattstiel ist im Querschnitt ganz charakteristisch **dreieckig** (im Gegensatz zu runden oder rinnigen Stielen anderer Pflanzen).
+* **Die Aufteilung:** Der Blattstiel teilt sich oben in **drei Äste** auf.
+* **Die Blätter:** Jeder dieser drei Äste trägt wiederum **drei Einzelblätter** (die Blätter sind dreizählig gefiedert).
+
+### Achtung vor giftigen Zwillingspflanzen
+Verwechselungsgefahr besteht vor allem im jungen Stadium oder während der Blüte mit:
+
+* **Gefleckter Schierling** (*Conium maculatum*): Extrem giftig! Hat einen runden, bläulich bereiften Stiel mit roten Flecken und riecht unangenehm nach Mäuseurin.
+* **Wasserschierling** (*Cicuta virosa*): Tödlich giftig! Wächst meist direkt an feuchten Bachläufen oder Mooren.
+* **Hundspetersilie** (*Aethusa cynapium*): Stark giftig! Hat glänzende Blattunterseiten und einen runden Stiel.
+* **Hecken-Kälberkropf** (*Chaerophyllum temulum*): Giftig! Hat einen behaarten, rot gefleckten Stiel.
+
+> 💡 **Goldene Sammelregel:** Im Zweifel die Pflanze immer stehen lassen! Wenn du dir unsicher bist, nutze eine botanische Bestimmungs-App oder kaufe im Handel gezüchtete Alternativen (wie z. B. Petersilie oder Spinat), um das Rezept sicher zu genießen.
+
 
 ---
 [← Zurück zur Übersicht](index.md)
