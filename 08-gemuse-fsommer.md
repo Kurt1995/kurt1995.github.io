@@ -9,7 +9,7 @@ Zutaten (für 2 Personen)
 - 4 Tomaten (ca. 300 g)  
 - 2 rote Paprika (ca. 250 g)  
 - Ein Stück Zucchini (Kühlschrankrest)  
-- 1 Bund Giersch (frisch gepflückt – nur die mit hellen Blättern)  
+- 1 Bund Giersch (frisch gepflückt – nur die mit hellen Blättern) - ***Achtung!*** Hinweis am Ende des Rezepts beachten* 
 - 150 g Gehacktes (halb & halb)  
 - 1 oder 2 Eier  
 - 300 ml Wasser (für die Creme)  
@@ -137,4 +137,33 @@ Es verbindet geschickt eine clevere Vorratshaltung (die portionierten Dinkel-Pen
 Ein rundum gelungenes, darmgesundes und nährstoffreiches Gericht, das dem Körper richtig Energie schenkt.
 
 ---
+
+![Bild 1](assets/46-spaghetti-f-bolo-9.jpg)
+
+## ⚠️ Wichtiger Hinweis zum Sammeln von Giersch
+
+Giersch ist ein wunderbares, vitaminreiches Wildkraut, aber beim Sammeln ist **absolute Vorsicht** geboten! Er gehört zur Familie der Doldenblütler, unter denen sich auch tödlich giftige Pflanzen befinden. Sammle und verzehre Giersch nur, wenn du ihn zu **100 % sicher** bestimmen kannst.
+
+### Die „Dreier-Regel“ zur sicheren Bestimmung
+Ein altbewährter Merkspruch für Giersch lautet:
+
+> *„Drei, drei, drei – bist du beim Giersch dabei.“*
+
+* **Der Blattstiel:** Der Blattstiel ist im Querschnitt ganz charakteristisch **dreieckig** (im Gegensatz zu runden oder rinnigen Stielen anderer Pflanzen).
+* **Die Aufteilung:** Der Blattstiel teilt sich oben in **drei Äste** auf.
+* **Die Blätter:** Jeder dieser drei Äste trägt wiederum **drei Einzelblätter** (die Blätter sind dreizählig gefiedert).
+
+### Achtung vor giftigen Zwillingspflanzen
+Verwechselungsgefahr besteht vor allem im jungen Stadium oder während der Blüte mit:
+
+* **Gefleckter Schierling** (*Conium maculatum*): Extrem giftig! Hat einen runden, bläulich bereiften Stiel mit roten Flecken und riecht unangenehm nach Mäuseurin.
+* **Wasserschierling** (*Cicuta virosa*): Tödlich giftig! Wächst meist direkt an feuchten Bachläufen oder Mooren.
+* **Hundspetersilie** (*Aethusa cynapium*): Stark giftig! Hat glänzende Blattunterseiten und einen runden Stiel.
+* **Hecken-Kälberkropf** (*Chaerophyllum temulum*): Giftig! Hat einen behaarten, rot gefleckten Stiel.
+
+> 💡 **Goldene Sammelregel:** Im Zweifel die Pflanze immer stehen lassen! Wenn du dir unsicher bist, nutze eine botanische Bestimmungs-App oder kaufe im Handel gezüchtete Alternativen (wie z. B. Petersilie oder Spinat), um das Rezept sicher zu genießen.
+
+
+---
 [← Zurück zur Übersicht](index.md)
+
