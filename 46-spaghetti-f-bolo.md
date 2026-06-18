@@ -8,7 +8,7 @@
 - 150 g Gehacktes (halb & halb)  
 - 250 g (1/2 Packung) Spaghetti  
 - Wasser (ca. 100 ml)  
-- 1 Bund Giersch (8 – 10 Stängel) - *den Hinweis am Ende des Rezepts beachten*  
+- 1 Bund Giersch (8 – 10 Stängel) - ***Achtung!*** *Hinweis am Ende des Rezepts beachten*  
 - 1 Esslöffel Olivenöl  
 - Gewürze: Ein wenig Maggi fix Bolognese, Salz und schwarzer Pfeffer  
 
