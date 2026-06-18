@@ -12,8 +12,8 @@
 - **125 g (ungekocht ¼ Packung) Dinkel-Penne**
 - **3 Eier**
 - **1 Dose Champignons** (geschnitten)
-- **1 – 2 Esslöffel Olivenöl**
-- **Gewürze**: Salz, schwarzer Pfeffer, Paprikapulver (rosen scharf) und ein halber Teelöffel Maggi fix für Bolognese
+- **3 Esslöffel Olivenöl**
+- **Gewürze**: Salz, schwarzer Pfeffer, Paprikapulver (rosenscharf) und ein halber Teelöffel Maggi fix für Bolognese
 
 ### Zubereitung
 
@@ -28,12 +28,12 @@
 | --- | --- | --- |
 | ![Eier in Mulden geben](assets/18-nudel-bayer-5.jpg) | ![Mit Deckel schmoren](assets/18-nudel-bayer-6.jpg) | ![Eier sind gestockt](assets/18-nudel-bayer-7.jpg) |
 
-1.  Ein wenig Olivenöl in die Pfanne geben.
-2.  Die Tomaten in dicke Scheiben schneiden und den Pfannenboden auslegen. Mit schwarzem Pfeffer würzen.
+1.  Das Olivenöl in die Pfanne geben.
+2.  Die Tomaten in dicke Scheiben schneiden und den Pfannenboden auslegen.
 3.  Die Paprika in ganz kleine Würfel schneiden und über den Tomaten verteilen.
-4.  Das Maggi fix, schwarzen Pfeffer und Paprikapulver darübber streuen.
+4.  Mit Maggi fix, schwarzen Pfeffer und Paprikapulver würzen.
 5.  Alles mit den Nudeln bedecken.
-6.  Die Pilze und den klein gewürfelten Leberkäse darüber geben.
+6.  Die Pilze und den klein gewürfelten Leberkäse darüber verteilen.
 7.  Die drei Eier vorsichtig einbringen.
 8.  Bei mittlerer Hitze mit Deckel schmoren, bis das Eiweiß stockt.
 9.  Die Pfanne vom Feuer nehmen (kann auch auf ganz kleiner Flamme warm gehalten werden) und servieren.
