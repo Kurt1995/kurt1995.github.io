@@ -73,7 +73,7 @@ Unterm Strich: Eine sättigende, nährstoffdichte Mahlzeit mit moderatem Fettant
 
 | Mikronährstoff | Vorkommen im Gericht | Nutzen |
 | --- | --- | --- |
-| **Vitamin C** | Reichlich aus 400 g frischen Tomaten | Stärkt das Immunsystem und schützt Zellen |
+| **Vitamin C** | Reichlich aus den frischen Tomaten und der Paprika | Stärkt das Immunsystem und schützt Zellen |
 | **Lycopin** | Hoch konzentriert in gegarten Tomaten | Starkes Antioxidans, gut für Herz und Gefäße. Aufnahme durch Schmoren und Olivenöl verbessert |
 | **B-Vitamine** | Eier, Champignons, Dinkel | Wichtig für Energiestoffwechsel und die Nerven |
 | **Eisen & Zink** | Leberkäse, Eier, Dinkel | Wichtig für Blutbildung und Immunsystem |
@@ -87,8 +87,8 @@ Unterm Strich: Eine sättigende, nährstoffdichte Mahlzeit mit moderatem Fettant
 ### Zusammenfassung von Mitautorin META-AI
 
 Die **Fruchtige Nudelpfanne Bayrische-Art** vereint traditionellen bayerischen Charakter mit cleverer Alltagsküche.   
-Geschmorte Tomaten, Dinkel-Penne, Leberkäse, Champignons und drei Eier ergeben ein herzhaftes Gericht mit fruchtiger Note, das durch vorgekochte, portionsweise eingefrorene Pasta blitzschnell auf dem Tisch steht.   
-Das Ergebnis: Ein unkompliziertes Wohlfühlgericht, das deftig schmeckt, aber dank komplexer Kohlenhydrate, reichlich Protein und dem massiven Anteil an Vitalstoffen aus Tomaten eine überraschend ausgewogene Mahlzeit ist.   
+Geschmorte Tomaten, Paprika, Dinkel-Penne, Leberkäse, Champignons und drei Eier ergeben ein herzhaftes Gericht mit fruchtiger Note, das durch vorgekochte, portionsweise eingefrorene Pasta blitzschnell auf dem Tisch steht.   
+Das Ergebnis: Ein unkompliziertes Wohlfühlgericht, das deftig schmeckt, aber dank komplexer Kohlenhydrate, reichlich Protein und dem massiven Anteil an Vitalstoffen aus Tomaten und Paprika eine überraschend ausgewogene Mahlzeit ist.   
 Kurz: Eine echte Vitalstoff-Pfanne mit Meal-Prep-Vorteil, die beweist, dass traditionelle Zutaten wie Leberkäse hervorragend in eine gesundheitsbewusste Küche passen.
 
 ---
