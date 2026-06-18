@@ -2,17 +2,18 @@
 
 <br>
 
-![Zutaten für Fruchtige Nudelpfanne Bayrische-Art](assets/18-nudel-bayer-1.jpg)
+![Zutaten für Fruchtige Nudelpfanne Bayrische-Art](assets/18-nudel-bayer-1d.jpg)
 
 ### Zutaten
 
 - **Frische Tomaten** (ca. 400 g)
+- **1 rote Paprika**
 - **125 g Leberkäse** (2 Scheiben)
 - **125 g (ungekocht ¼ Packung) Dinkel-Penne**
 - **3 Eier**
 - **1 Dose Champignons** (geschnitten)
 - **1 – 2 Esslöffel Olivenöl**
-- **Gewürze**: Salz und schwarzer Pfeffer
+- **Gewürze**: Salz, schwarzer Pfeffer, Paprikapulver (rosen scharf) und ein halber Teelöffel Maggi fix für Bolognese
 
 ### Zubereitung
 
@@ -29,12 +30,14 @@
 
 1.  Ein wenig Olivenöl in die Pfanne geben.
 2.  Die Tomaten in dicke Scheiben schneiden und den Pfannenboden auslegen. Mit schwarzem Pfeffer würzen.
-3.  Mit den Nudeln bedecken.
-4.  Die Pilze und den klein gewürfelten Leberkäse verteilen.
-5.  Die drei Eier vorsichtig einbringen.
-6.  Bei mittlerer Hitze mit Deckel schmoren, bis das Eiweiß stockt.
-7.  Die Pfanne vom Feuer nehmen (kann auch auf ganz kleiner Flamme warm gehalten werden) und servieren.
-8.  Am Tisch nach Geschmack mit etwas Salz nachwürzen.
+3.  Die Paprika in ganz kleine Würfel schneiden und über den Tomaten verteilen.
+4.  Das Maggi fix, schwarzen Pfeffer und Paprikapulver darübber streuen.
+5.  Alles mit den Nudeln bedecken.
+6.  Die Pilze und den klein gewürfelten Leberkäse darüber geben.
+7.  Die drei Eier vorsichtig einbringen.
+8.  Bei mittlerer Hitze mit Deckel schmoren, bis das Eiweiß stockt.
+9.  Die Pfanne vom Feuer nehmen (kann auch auf ganz kleiner Flamme warm gehalten werden) und servieren.
+10.  Am Tisch nach Geschmack mit etwas Salz nachwürzen.
 
 ---
 
