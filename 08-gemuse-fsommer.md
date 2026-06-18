@@ -9,7 +9,7 @@ Zutaten (für 2 Personen)
 - 4 Tomaten (ca. 300 g)  
 - 2 rote Paprika (ca. 250 g)  
 - Ein Stück Zucchini (Kühlschrankrest)  
-- 1 Bund Giersch (frisch gepflückt – nur die mit hellen Blättern) - ***Achtung!*** Hinweis am Ende des Rezepts beachten* 
+- 1 Bund Giersch (frisch gepflückt – nur die mit hellen Blättern) - ***Achtung!*** *Hinweis am Ende des Rezepts beachten* 
 - 150 g Gehacktes (halb & halb)  
 - 1 oder 2 Eier  
 - 300 ml Wasser (für die Creme)  
