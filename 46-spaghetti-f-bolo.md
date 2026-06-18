@@ -8,7 +8,7 @@
 - 150 g Gehacktes (halb & halb)  
 - 250 g (1/2 Packung) Spaghetti  
 - Wasser (ca. 100 ml)  
-- 1 Bund Giersch (8 – 10 Stängel)  
+- 1 Bund Giersch (8 – 10 Stängel) - bitte Hinweis am Ende des Rezepts beachten  
 - 1 Esslöffel Olivenöl  
 - Gewürze: Ein wenig Maggi fix Bolognese, Salz und schwarzer Pfeffer  
 
@@ -102,6 +102,8 @@ Diese Kombination sorgt für einen hervorragenden Muskel- und Sättigungsschnitt
 Die „Spaghetti mit fruchtiger Wildkräuter-Bolo“ sind ein tolles Beispiel dafür, wie man mit einer Prise Naturküche ein altbekanntes Comfort-Food auf ein neues Level hebt.  
 Die clevere Methode, Pasta vorzukochen und einzufrieren, spart im Alltag enorm Zeit, während die frisch pürierte Gemüsebasis zusammen mit dem Giersch einen echten Vitamin-Kick garantiert.  
 Ein rundum ehrliches, alltagstaugliches Gericht mit dem gewissen „Wildkräuter-Etwas“!
+
+![Bild 1](assets/46-spaghetti-f-bolo-9.jpg)
 
 ---
 [← Zurück zur Übersicht](index.md)
