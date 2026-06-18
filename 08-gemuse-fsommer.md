@@ -151,7 +151,7 @@ Ein altbewährter Merkspruch für Giersch lautet:
 
 * **Der Blattstiel:** Der Blattstiel ist im Querschnitt ganz charakteristisch **dreieckig** (im Gegensatz zu runden oder rinnigen Stielen anderer Pflanzen).
 * **Die Aufteilung:** Der Blattstiel teilt sich oben in **drei Äste** auf.
-* **Die Blätter:** Jeder dieser drei Äste trägt wiederum **drei Einzelblätter** (die Blätter sind dreizählig gefiedert).
+* **Die Blätter:** Jeder dieser drei Äste trägt wiederum **drei Einzelblätter** (die Blätter sind dreizählig gefiedert, aber meistens zusammengewachsen).
 
 ### Achtung vor giftigen Zwillingspflanzen
 Verwechselungsgefahr besteht vor allem im jungen Stadium oder während der Blüte mit:
