@@ -83,4 +83,10 @@ Dass am Ende kein Tropfen vom köstlichen Sud auf dem Teller zurückbleibt, vers
 Genau so darf ein ehrliches, leckeres Abendessen aussehen! 👍
 
 ---
+
+Nur für speziell interessierte Leser/innen<br>
+Qwen-Studio hat eine TCM (traditionelle chinesische Küche) Analyse dieses Rezepts gemacht: [Analyse Qwen-Studio](22-tomate-steak-ch.md.md)
+
+---
+
 [← Zurück zur Übersicht](index.md)
