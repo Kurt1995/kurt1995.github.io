@@ -7,9 +7,14 @@
 
 <br>
 
-|  |  |  |  |
-| --- | --- | --- | --- |
-| ![Schritt 1](assets/22-steak-tomate-1.jpg) | ![Schritt 2](assets/22-steak-tomate-2.jpg) | ![Schritt 3](assets/22-steak-tomate-3.jpg) | ![Schritt 4](assets/22-steak-tomate-4.jpg) |
+<table>
+  <tr>
+    <td><img src="assets/22-steak-tomate-1.jpg" alt="Schritt 1"></td>
+    <td><img src="assets/22-steak-tomate-2.jpg" alt="Schritt 2"></td>
+    <td><img src="assets/22-steak-tomate-3.jpg" alt="Schritt 3"></td>
+    <td><img src="assets/22-steak-tomate-4.jpg" alt="Schritt 4"></td>
+  </tr>
+</table>
 
 ### Zubereitung (2-mal):
 - 6 Tomaten halbieren.
