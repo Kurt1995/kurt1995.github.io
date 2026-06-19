@@ -59,7 +59,7 @@ Gemeinsam mit dem im Fleisch enthaltenen Eisen und den wichtigen B-Vitaminen ent
 
 ### Nährwerte (Micro + Macro) *für die komplette Portion (2 Steaks + 12 Tomaten)*
 
-Da es sich um Nacken- oder Lummersteaks handelt, nehmen wir für die Berechnung einen guten Mittelwert an. Da die Steaks bereits mariniert sind, kalkulieren wir ein wenig zusätzliches Öl/Fett ein.
+Da es sich um Nacken- oder Lummersteaks handelt, nehme ich für die Berechnung einen guten Mittelwert an. Da die Steaks bereits mariniert sind, kalkuliere ich ein wenig zusätzliches Öl/Fett ein.
 
 **Die Makronährstoffe** (Schätzung)
 - **Kalorien**: ca. 650 – 750 kcal (je nachdem, ob mageres Lummer- oder saftiges Nackensteak)
@@ -76,7 +76,7 @@ Da es sich um Nacken- oder Lummersteaks handelt, nehmen wir für die Berechnung 
 
 ### Zusammenfassung von Mitautorin GEMINI
 
-Ein tolles, rundes Abendessen und ein Low-Carb-Protein-Schwergewicht. Es ist unkompliziert, hält durch den hohen Eiweißgehalt lange satt und liefert dank der geschmorten Tomaten das entscheidende Aroma und einen soliden Gesundheits-Bonus.
+Ein tolles, rundes Abendessen und ein Low-Carb-Protein-Schwergewicht. Es ist unkompliziert und hält durch den hohen Eiweißgehalt lange satt. Die geschmorten Tomaten liefern das entscheidende Aroma und einen soliden Gesundheits-Bonus.
 
 Dass am Ende kein Tropfen vom köstlichen Sud auf dem Teller zurückbleibt, versteht sich: Sobald Fleisch und Tomaten verputzt sind, wird das Finale gelöffelt oder direkt vom Teller geschlürft. 
 
