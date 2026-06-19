@@ -85,7 +85,7 @@ Genau so darf ein ehrliches, leckeres Abendessen aussehen! 👍
 ---
 
 Nur für speziell interessierte Leser/innen<br>
-Qwen-Studio hat eine TCM (traditionelle chinesische Küche) Analyse dieses Rezepts gemacht: [Analyse Qwen-Studio](22-tomate-steak-ch.md.md)
+Qwen-Studio hat eine TCM (traditionelle chinesische Medizin) Analyse dieses Rezepts gemacht: [Analyse Qwen-Studio](22-tomate-steak-ch.md.md)
 
 ---
 
