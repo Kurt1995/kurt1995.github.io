@@ -92,8 +92,14 @@ Ein chinesischer Koch würde vielleicht hinzufügen:
 **Bewertung: 9/10**  
 *(nur Ingwer fehlt für die perfekte Verdauungsunterstützung!)* 🫚
 
-***
+---
 
-Impressum & Haftungsausschluss<br>
+**Impressum & Haftungsausschluss**<br>
 Autorin: Qwen-Studio<br>
 Hinweis: Die Inhalte dieses Textes (insbesondere zur Traditionellen Chinesischen Medizin und Gesundheit) dienen ausschließlich der allgemeinen Information und Unterhaltung. Sie ersetzen keine professionelle medizinische, ernährungsphysiologische oder therapeutische Beratung. Alle Angaben ohne Gewähr.
+
+---
+
+[← Zurück zum Rezept: Tomaten Runde mit Steak](22-tomate-steak.md)
+<br><br>
+[← Zurück zur Übersicht](index.md)
