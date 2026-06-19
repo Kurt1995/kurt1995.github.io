@@ -40,7 +40,7 @@
 
 Das war ein leckeres Abendessen!<br>
 Die Steaks sind auf den Punkt. Keine Kruste, aber richtig saftig.<br> 
-
+<br>
 jeder Bissen mit einem Tomatenstück – das Finale mit dem Sud<br>
 „Das will ich morgen Abend wieder!“
 
