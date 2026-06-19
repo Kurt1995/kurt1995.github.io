@@ -16,7 +16,7 @@
 | [Zwiebelpfanne mit Nudeln](13-zwiebel-nudel-pf.md) | [Gemüse-Creme „Frühsommer“](08-gemuse-fsommer.md) |
 | [Fruchtige Nudelpfanne Lasagne-Art](18-nudel-lasag.md) | [Suppe mit Hähnchenmägen](14-maegensuppe.md) |
 | [Fruchtige Nudelpfanne Bayrische-Art](18-nudel-bayer.md) | Gehaltvolle Zucchini-Paprika Creme |
-| [Tomatenrunde mit Steak](22-tomate-steak.md) |  |
+| [Tomaten-Runde mit Steak](22-tomate-steak.md) |  |
 | [Pasta in bianco mit Garnelen](47-pasta-garnelen.md) |  [Opa Salat](06-opa-salat.md) |
 |  |  |
 |  |  |
