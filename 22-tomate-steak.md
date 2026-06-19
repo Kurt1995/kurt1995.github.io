@@ -1,4 +1,4 @@
-# Kurt kocht &nbsp; - &nbsp; Tomatenrunde mit Steak – Ein Abendessen
+# Kurt kocht &nbsp; - &nbsp; Tomaten Runde mit Steak – Ein Abendessen
 
 ### Zutaten:
 - 12 kleine, frische Tomaten (Mini-Rispentomaten)
