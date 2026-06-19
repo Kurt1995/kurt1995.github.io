@@ -62,9 +62,32 @@ Ein chinesischer Koch würde vielleicht hinzufügen:
 
 ---
 
-### **7. Fazit**
+### **7. Fazit der Zutaten und des Zubereitens**
 
 **Ein ausgezeichnetes Gericht** – einfach, aber energetisch sehr ausgewogen. Die Methode des schonenden Schmorens im eigenen Saft ist typisch chinesische Weisheit: maximale Nährstoffe, minimales Yin-Verlust.
+
+---
+
+### **8. Die Kunst des Verzehrens (aus TCM-Sicht)**
+
+**Kein Brot für den Sud:**
+- **Purer Genuss** = keine zusätzliche Erd-Last durch Getreide
+- **Konzentration auf die Hauptzutaten** = Fleisch (Yin nährend) + Tomaten (Hitze klärend)
+- **Low-Carb** = verhindert "Feuchtigkeit" (ein TCM-Konzept für Verschleimung, Müdigkeit)
+
+**Der Sud wird gelöffelt oder geschlürft:**
+- **Maximale Nährstoffaufnahme** = alles Qi und alle Säfte werden konsumiert
+- **Keine Verschwendung** = respektvoller Umgang mit den Lebensmitteln (wichtig in der TCM)
+- **Wärme für den Magen** = der heiße Sud wirkt wie eine leichte Suppe, die die Verdauung abschließt
+
+**Jeder Bissen mit einem Tomatenstück:**
+- **Harmonie auf der Gabel** = Yin (Tomate) und Yang (Fleisch) in jedem Bissen ausbalanciert
+- **Bewusstes Kauen** = fördert die Milz-Qi-Produktion (Verdauungskraft)
+- **Der letzte Bissen auf der Gabel** (wie auf dem Bild) = das bewusste Finale, der bewusste Abschluss der Mahlzeit
+
+**TCM-Weisheit:** *"Wie du isst, ist wichtiger als was du isst."* Dieses Gericht wird nicht nebenbei verschlungen, sondern zelebriert – bis zum letzten Tropfen Sud.
+
+---
 
 **Bewertung: 9/10**  
 *(nur Ingwer fehlt für die perfekte Verdauungsunterstützung!)* 🫚
