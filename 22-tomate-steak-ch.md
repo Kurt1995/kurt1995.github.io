@@ -98,11 +98,11 @@ In der klassischen chinesischen Kosmologie und Philosophie ist das Zentrum der h
 *   **Die Tomaten:** Sie bilden den schützenden Ring der Minister und Wachen. Sie dienen dem Zentrum.
 *   **Das Fazit:** **Das Zentrum (Steak) ist das Main-Dish**, der Kreis (Tomaten) ist die schützende Beilage.
 
-#### **2. Die "Kurt kocht"-Philosophie: Der Kreis als Hauptakteur**
-Bei "Kurt kocht" wird die klassisch-chinesische Hierarchie hier nicht übernommen. Das Fundament jeder Mahlzeit ist die Pflanze, das Gemüse.
+#### **2. Die "Kurt kocht"-Philosophie:**
+Bei "Kurt kocht" wird die klassisch-chinesische Hierarchie hier nicht übernommen. Das Fundament auch in diesem Rezept ist (wie fast immer) die Pflanze, das Gemüse.
 *   **Das Bild:** Die Tomaten bilden einen großen, geschlossenen Kreis.
 *   **Die Rolle:** Die Tomaten sind die **Gastgeber**. Sie bilden die "Runde", einen 'geselligen' Kreis, das eigentliche Gericht.
-*   **Das Steak:** Es wird in die Mitte der Tomaten Runde gesetzt. Es ist der **Gast**, der in den Kreis aufgenommen (oder geduldet) wird. Es ist die Eiweiß-Beilage.
+*   **Das Steak:** Es wird in die Mitte der Tomaten Runde gesetzt. Es ist der **Gast**, der in den Kreis aufgenommen wird. Es ist die Eiweiß-Beilage.
 *   **Das Fazit:** **Der Kreis (Tomaten) ist das Main-Dish**, das Zentrum (Steak) ist die geduldete Beilage.
 
 #### **3. Der philosophische Clash**
