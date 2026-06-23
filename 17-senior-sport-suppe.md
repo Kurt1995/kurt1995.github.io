@@ -1,6 +1,4 @@
-# Kurt kocht
-
-## Senioren Sport-Suppe
+# Kurt kocht &nbsp; - &nbsp; Senioren Sport-Suppe
 nach einen Sportmorgen mit 1,5 Stunden Ausdauersport
 
 ![Zutaten](assets/17-sport-suppe-1.jpg)
