@@ -133,7 +133,7 @@ Ein altbewährter Merkspruch für Giersch lautet: *„Drei, drei, drei – bist 
 - **Die Aufteilung:** Der Blattstiel teilt sich oben in **drei Äste** auf.
 - **Die Blätter:** Jeder dieser drei Äste trägt wiederum **drei Einzelblätter** (die Blätter sind dreizählig gefiedert, aber meistens zusammengewachsen).
 
-### Achtung vor giftigen 'Zwillingspflanzen'
+### Achtung vor giftigen "Zwillingspflanzen"
 Verwechslungsgefahr besteht vor allem im jungen Stadium oder während der Blüte mit:
 
 - **Gefleckter Schierling** (*Conium maculatum*): Extrem giftig! Hat einen runden, bläulich bereiften Stiel mit roten Flecken. Zerreib ein Blatt: Riecht es unangenehm nach Mäuseurin, sofort Finger weg!
