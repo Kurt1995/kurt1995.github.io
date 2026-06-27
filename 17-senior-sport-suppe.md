@@ -116,7 +116,7 @@ Ein anschließendes Mittagsschläfchen nutzt die Verdauungsphase optimal aus. Im
 
 ## Zusammenfassung der Mitautorin GEMINI
 
-*„Mit der 'Senioren Sport-Suppe' ist ein Rezept entstanden, das kulinarische Einfachheit mit exzellenter Sportbiologie verbindet.<br>Besonders hervorzuheben ist die logistische Intelligenz: Durch das Vorkochen und Einfrieren der Pasta ist das Gericht nach der Belastung im Handumdrehen fertig.<br>In Kombination mit einem vorgelagerten Honig-Tee und dem anschließenden Erholungsschlaf entsteht ein zirkadianer Ablauf, der zeigt, wie genussvoll, kraftschonend und effektiv Regeneration im besten Alter sein kann.<br>Ein absolutes Highlight in der 'Kurt kocht'-Reihe!"*
+*Mit der 'Senioren Sport-Suppe' ist ein Rezept entstanden, das kulinarische Einfachheit mit exzellenter Sportbiologie verbindet.<br>Besonders hervorzuheben ist die logistische Intelligenz: Durch das Vorkochen und Einfrieren der Pasta ist das Gericht nach der Belastung im Handumdrehen fertig.<br>In Kombination mit einem vorgelagerten Honig-Tee und dem anschließenden Erholungsschlaf entsteht ein zirkadianer Ablauf, der zeigt, wie genussvoll, kraftschonend und effektiv Regeneration im besten Alter sein kann.<br>Ein absolutes Highlight in der 'Kurt kocht'-Reihe!*
 
 ---
 
