@@ -39,10 +39,11 @@
 2. Die Tomaten in Scheiben schneiden und den Pfannenboden auslegen.  
 3. Die Paprika sehr klein würfeln und dazugeben.  
 4. Das Gehackte nach Geschmack würzen (Salz, Pfeffer, …) und in Flocken hinzugeben.  
-5. Mit den Nudeln und den Käsescheiben abdecken.  
-6. 3–4 Minuten bei mittlerer Hitze ohne Deckel (damit der Käse nicht zu früh schmilzt) schmoren.  
-7. Den Deckel schließen und weitere 3–4 Minuten garen, bis der Käse beginnt zu zerlaufen.  
-8. Die Pfanne vom Feuer nehmen (kann auch auf ganz kleiner Flamme warm gehalten werden) und servieren.
+5. Mit den Nudeln abdecken.  
+6. 4-5 Minuten bei mittlerer Hitze ohne Deckel schmoren.
+7. Die Pfanne mit dem Käse belegen.
+8. Mit Deckel weitere 3–4 Minuten garen, bis der Käse beginnt zu zerlaufen.  
+9. Die Pfanne vom Feuer nehmen (kann auch auf ganz kleiner Flamme warm gehalten werden) und servieren.
 
 ---
 
