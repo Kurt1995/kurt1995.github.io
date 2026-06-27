@@ -1,4 +1,4 @@
-# Kurt kocht &nbsp; - &nbsp; Spaghetti mit fruchtiger Wildkräuter-Bolo
+# Kurt kocht &nbsp; - &nbsp; Spaghetti mit fruchtiger Wildkräuter Bolo
 
 ![Bild 1](assets/46-spaghetti-f-bolo-1.jpg)
 
@@ -105,9 +105,11 @@ Ein rundum ehrliches, alltagstaugliches Gericht mit dem gewissen „Wildkräuter
 
 ---
 
-![Bild 1](assets/46-spaghetti-f-bolo-9.jpg)
+---
 
 ## ⚠️ Wichtiger Hinweis zum Sammeln von Giersch
+
+![Bild 1](assets/46-spaghetti-f-bolo-9.jpg)
 
 Giersch ist ein wunderbares, vitaminreiches Wildkraut, aber beim Sammeln ist **absolute Vorsicht** geboten! Er gehört zur Familie der Doldenblütler, unter denen sich auch tödlich giftige Pflanzen befinden. Sammle und verzehre Giersch nur, wenn du ihn zu **100 % sicher** bestimmen kannst.
 
