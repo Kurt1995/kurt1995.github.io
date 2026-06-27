@@ -18,11 +18,12 @@
 | [Fruchtige Nudelpfanne Lasagne-Art](18-nudel-lasag.md) | [Suppe mit Hähnchenmägen](14-maegensuppe.md) |
 | [Fruchtige Nudelpfanne Bayrische-Art](18-nudel-bayer.md) | Gehaltvolle Zucchini-Paprika Creme |
 | [Tomatenrunde mit Steak](22-tomate-steak.md) | [Senioren Sport-Suppe](17-senior-sport-suppe.md) |
-| [Pasta in bianco mit Garnelen](47-pasta-garnelen.md) |  [Opa Salat](06-opa-salat.md) |
+|  |  [Opa Salat](06-opa-salat.md) |
 |  |  |
 |  |  |
-| .. und ab und zu ein | Protein-Boost |
-| [Strammer Max - Plus](19-st-max-plus.md) | [Dicke Rippe](12-dickerippe.md) |
+| .. und ab und zu ein | Protein Boost |
+| [Pasta in bianco mit Garnelen](47-pasta-garnelen.md) | [Dicke Rippe](12-dickerippe.md) |
+| [Strammer Max - Plus](19-st-max-plus.md) |  |
 | [Hähnchen Bollen](43-h-bollen.md)  |  |
 |  |  |
 | __Snacks__ | __Partyhäppchen__ |
