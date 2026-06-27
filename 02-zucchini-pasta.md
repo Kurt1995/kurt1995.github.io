@@ -54,7 +54,7 @@ Dieses Gericht besticht durch seine hohe Nährstoffdichte und die massive Zucchi
 * **Achtsames Essen:** Der Einsatz des Stövchens unterstützt ein langsames, bewusstes Essen. Das gibt dem Körper Zeit, das Sättigungsgefühl zu signalisieren.
 
 ## Praxis Check: So schmeckt es dann
-Jeder Bissen mit eigenem Profil - Scheiben - manche kurvig, manche straight - kommen auf die Gabel - ein Wickel Pasta dazu und ab in den Mund - Spaghetti Geschmack zuerst - einmal kauen – dann wow - so saftig so grün.
+Jeder Bissen mit eigenem Profil – Scheiben, manche kurvig, manche straight, kommen auf die Gabel – ein Wickel Pasta dazu und ab in den Mund – Spaghetti‑Geschmack zuerst, einmal kauen, wow - so saftig, so grün.
 
 ---
 
