@@ -1,6 +1,7 @@
 # Kurt kocht &nbsp; – &nbsp; Ideen für den Alltag
 
 ### **für Menschen, die eine einfache, gemüsebasierte Küche schätzen**
+
 ##### Tipp: Handy quer, dann passen die Seiten besser.
 
 ---
