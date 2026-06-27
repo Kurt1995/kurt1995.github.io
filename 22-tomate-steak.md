@@ -20,6 +20,7 @@
 - 6 Tomaten halbieren.
 - 1 Steak in die Pfanne geben und die Tomatenstücke herumlegen.
 - Auf kleiner bis mittlerer Flamme mit Deckel schmoren, einmal wenden (ca. 3-4 Min. jede Seite).
+- Das Steak aus der Pfanne nehmen und an der dicksten Stlle anschneiden. Es sollte nicht mehr rot sein. Sonst noch ein wenig weiter garen.
 - Die Pfanne vom Herd nehmen und Steak, Tomaten und den Sud auf einem vorgewärmten Teller anrichten.
 
 <br>
