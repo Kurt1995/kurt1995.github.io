@@ -1,6 +1,6 @@
-# Kurt kocht – Eine Alltagsküche mit System
+# Kurt kocht &nbsp; – &nbsp; Ideen für den Alltag
 
-### **Für Menschen, die eine einfache, gemüsebasierte Küche wollen – orientiert am Bauchhirn und den Prinzipien des Volume Eating.**
+### **für Menschen, die eine einfache, gemüsebasierte Küche schätzen**
 ##### Tipp: Handy quer, dann passen die Seiten besser.
 
 ---
