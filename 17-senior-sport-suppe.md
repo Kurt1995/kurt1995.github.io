@@ -122,7 +122,9 @@ Ein anschließendes Mittagsschläfchen nutzt die Verdauungsphase optimal aus. Im
 
 ---
 
-## Wichtiger Hinweis zum Sammeln von Giersch
+## ⚠️ Wichtiger Hinweis zum Sammeln von Giersch
+
+![Botanische Illustrationen](assets/46-spaghetti-f-bolo-9.jpg)
 
 Giersch ist ein wunderbares, vitaminreiches Wildkraut, aber beim Sammeln ist **absolute Vorsicht** geboten! Er gehört zur Familie der Doldenblütler, unter denen sich auch tödlich giftige Pflanzen befinden. Sammle und verzehre Giersch nur, wenn du ihn zu **100 % sicher** bestimmen kannst.
 
@@ -143,8 +145,6 @@ Verwechslungsgefahr besteht vor allem im jungen Stadium oder während der Blüte
 - **Hundspetersilie** (*Aethusa cynapium*): Stark giftig! Hat glänzende Blattunterseiten und einen runden Stiel.
 
 - **Hecken-Kälberkropf** (*Chaerophyllum temulum*): Giftig! Hat einen behaarten, rot gefleckten Stiel.
-
-![Botanische Illustrationen](assets/46-spaghetti-f-bolo-9.jpg)
 
 **Goldene Sammelregel:** Im Zweifel die Pflanze immer stehen lassen! Wenn du dir unsicher bist, nutze eine botanische Bestimmungs-App oder kaufe im Handel gezüchtete Alternativen (wie z. B. Petersilie oder Spinat), um das Rezept sicher zu genießen.
 
