@@ -4,7 +4,7 @@
 ![07zupaleber1.jpg](assets/07zupaleber1.jpg)
 
 ### Zutaten
-* Zucchini ca. 400 g
+* Zucchini ca. 500 g
 * Rote Paprika ca. 300 g
 * Geflügelleber 400 g
 * 1/4 Packung Vollkornpenne (vorgekocht)
