@@ -38,6 +38,8 @@
 * Am Tisch (nach Geschmack) mit etwas Salz nachwürzen und mit dem geriebenen Parmesan vollenden.
 * Serviervorschlag: Ein Stövchen hält den Teller warm und ermöglicht ein langsames genussvolles Essen.
 
+![Seviert](assets/47-pasta-garnele-6.jpg)
+
 ## GEMINIs Gesundheitscheck: Warum dieses Gericht punktet
 Dieses Gericht ist ein Paradebeispiel für funktionelle, moderne Ernährung, die Genuss und Bekömmlichkeit vereint:
 * **Sättigend ohne Trägheit:** Durch das spezielle Kühlverfahren der Pasta entsteht ein wertvoller Nebeneffekt für den Stoffwechsel – Resistente Stärke. Der Blutzuckerspiegel steigt langsamer an und die gesunden Darmbakterien werden ‚gefüttert‘.
