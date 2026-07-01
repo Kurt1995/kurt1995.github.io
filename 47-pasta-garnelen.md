@@ -1,104 +1,89 @@
 # Kurt kocht &nbsp; - &nbsp; Pasta in bianco mit Garnelen
 
-Dieses Gericht bricht mit gängigen kulinarischen Dogmen und beweist, dass Minimalismus und eine unkonventionelle Zubereitung zu einem ausgewogenen Geschmackserlebnis führen können.  
-Es kommt ohne schwere Sauce aus, die die Hauptzutaten zu Beilagen degradieren würde.
+![Zutaten](assets/47-pasta-garnele-1.jpg)
 
----
-
-## Zutaten
-
-- Tiefgefrorene Garnelen (ca. 225 g)  
-- 170 g (1/3 Packung) Spaghetti  
-- Frisch geriebener Parmesan (ca. 40 g / 10 g je Teller-Portion)  
-- 2 EL Olivenöl  
-- Margarine oder Butter (ca. 40 g)  
-- Schwarzer Pfeffer und Salz  
-
----
+## Zutaten (für 2 Portionen/ 4 Teller)
+* Tiefgefrorene Garnelen (ca. 225 g)
+* 170 g Spaghetti (Trockengewicht - 1/3 Packung)
+* Frisch geriebener Parmesan (ca. 40 g / 10 g je Teller-Portion)
+* 2 Esslöffel Olivenöl
+* Margarine (Butter) (ca. 40 g)
+* Gewürze: Schwarzer Pfeffer und Salz
 
 ## Zubereitung
 
-### Langfristvorbereitung
-- Pasta-Vorrat: Eine Packung Spaghetti (500 g) in Salzwasser kochen, abgießen, kalt abschrecken und in 3 Portionen aufgeteilt einfrieren.  
-- Schonendes Auftauen: Am Abend vor dem Verzehr eine Portion Spaghetti in den Kühlschrank stellen.
+**Langfristvorbereitung**
+* Pasta-Vorrat: Eine Packung Spaghetti (500 g) in Salzwasser kochen, abgießen, kalt abschrecken und in 3 Portionen aufgeteilt einfrieren.
+* Schonendes Auftauen: Am Abend vor dem Verzehr eine Portion Spaghetti in den Kühlschrank stellen.
 
-### Zubereitung am Verzehrtag
-- Die Spaghetti großzügig mit schwarzem Pfeffer würzen.  
-- Mit 2 EL Olivenöl in einer Pfanne mit Deckel auf kleiner Flamme schonend erhitzen, dabei öfter wenden.  
-- Die tiefgefrorenen Garnelen mit 2 guten Stichen Margarine/Butter in einen Topf geben.  
-- Bei mittlerer Hitze garen, bis sie rosa geworden sind (nicht zu lange, sonst verlieren sie Flüssigkeit und werden fest). Mehrfach wenden.  
-- Den Topf vom Feuer nehmen, Garnelen und Sud über die vorgewärmten Spaghetti verteilen und servieren.  
-- Am Tisch nach Geschmack salzen und mit Parmesan vollenden.
+**Zubereitung am Verzehrtag**
 
-<br>
+<table>
+  <tr>
+    <td><img src="assets/47-pasta-garnele-2.jpg" alt="Schritt 1" hight="100"></td>
+    <td><img src="assets/47-pasta-garnele-3.jpg" alt="Schritt 2" hight="100"></td>
+  </tr>
+  <tr>
+    <td><img src="assets/47-pasta-garnele-4.jpg" alt="Schritt 3" hight="100"></td>
+    <td><img src="assets/47-pasta-garnele-5.jpg" alt="Schritt 4" hight="100"></td>
+  </tr>
+</table>
 
-![Auf dem Teller](assets/47-pasta-garnele-9.jpg)
-
----
+* Die Spaghetti großzügig mit schwarzem Pfeffer würzen.
+* Mit 2 Esslöffeln Olivenöl in einer Pfanne mit Deckel auf kleiner Flamme schonend erhitzen. Öfter wenden.
+* Die leicht angetauten Garnelen mit 2 guten Stich Margarine (Butter) in einen Topf geben.
+* Bei kleiner bis mittlerer Hitze garen (nicht kochen, dann werden sie zäh), bis sie rosa geworden sind (nicht zu lange, dann verlieren sie zu viel Flüssigkeit und werden zu fest). Dabei häufig wenden.
+* Den Topf vom Feuer nehmen und den Garnelen-Sud über den vorgewärmten Spaghetti verteilen.
+* Die Garnelen abgedeckt beiseite stellen und portionsweise entnehmen.
+* Am Tisch (nach Geschmack) mit etwas Salz nachwürzen und mit dem geriebenen Parmesan vollenden.
+* Serviervorschlag: Ein Stövchen hält den Teller warm und ermöglicht ein langsames genussvolles Essen.
 
 ## GEMINIs Gesundheitscheck: Warum dieses Gericht punktet
-
 Dieses Gericht ist ein Paradebeispiel für funktionelle, moderne Ernährung, die Genuss und Bekömmlichkeit vereint:
+* **Sättigend ohne Trägheit:** Durch das spezielle Kühlverfahren der Pasta entsteht ein wertvoller Nebeneffekt für den Stoffwechsel – Resistente Stärke. Der Blutzuckerspiegel steigt langsamer an und die gesunden Darmbakterien werden ‚gefüttert‘.
+* **Erstklassige Proteinquelle:** Garnelen liefern hochwertiges, leicht verdauliches Eiweiß bei minimalem Fettgehalt. Sie sind ideal für den Muskelaufbau und halten lange satt.
+* **Smarte Fettbalance:** Die Kombination aus hochwertigem Olivenöl (reich an einfach ungesättigten Fettsäuren) und der Butter/Margarine, die als Geschmacksträger fungieren, ohne das Gericht schwer im Magen liegen zu lassen.
 
-- **Sättigend ohne Trägheit:**  Durch das spezielle Kühlverfahren der Pasta entsteht ein wertvoller Nebeneffekt für den Stoffwechsel – Resistente Stärke.   
-- **Erstklassige Proteinquelle:** Garnelen liefern hochwertiges, leicht verdauliches Eiweiß bei minimalem Fettgehalt.  
-- **Smarte Fettbalance:** Olivenöl + Butter/Margarine liefern essenzielle Fettsäuren und wirken als Geschmacksträger, ohne das Gericht schwer zu machen.
-
----
-
-## Smarte Küchen-Hacks: Warum das Rezept so unkonventionell anders ist
-
-- **Das Pasta-Mysterium (Resistente Stärke):**  Entgegen der Behauptung, Pasta ließe sich nicht einfrieren, zeigt die Praxis das Gegenteil.<br>
-  Durch das Kochen, Abschrecken und anschließende Einfrieren kristallisiert ein Teil der Stärke in den Nudeln um.<br>
-  Beim schonenden Erwärmen in der Pfanne unter dem Deckel behalten die Spaghetti dadurch vollständig ihre Struktur und ihren Biss – sie werden sogar noch ein Stück bekömmlicher.   
-- **Purismus statt Ablenkung:** Der Verzicht auf Knoblauch, Chili oder die im Mainstream so beliebte Zitrone ist ein bewusster Gewinn.  Gerade Zitrone würde den wertvollen Eigengeschmack der Garnelen dominieren.  
-Hier dagegen wird die Garnele tiefgekühlt mit etwas Fett sanft gedämpft, wodurch sie auf den Punkt gart, saftig bleibt und ihren eigenen, leicht süßlichen Charakter behält.   
-- **Käse als Katalysator:** Das traditionelle Tabu, Meeresfrüchte nicht mit Käse zu kombinieren, wird hier provokant umgangen.<br>
-In wohldosierter Menge (ca. 10 g auf dem Teller) fungiert der Parmesan nicht als dominanter Käsegeschmack, sondern als natürlicher Geschmacksverstärker (Umami-Bringer).
-
----
+## Smarte Küchen-Hacks: Warum das Rezept unkonventionell anders ist
+Während viele Kochbücher starren Regeln folgen, wird hier mit kluger Berücksichtigung von Lebensmittelchemie und hoher Effizienz gekocht:
+* **Das Pasta-Mysterium (Resistente Stärke):** Entgegen der Behauptung, Pasta ließe sich nicht einfrieren, zeigt die Praxis das Gegenteil. Durch das Kochen, Abschrecken und anschließende Einfrieren kristallisiert ein Teil der Stärke in den Nudeln um. Beim schonenden Erwärmen in der Pfanne unter dem Deckel behalten die Spaghetti vollständig ihre Struktur und ihren Biss und werden sogar bekömmlicher.
+* **Purismus statt Ablenkung:** Der Verzicht auf Knoblauch, Chili oder die im Mainstream so beliebte Zitrone ist ein bewusster Gewinn. Gerade Zitrone würde den wertvollen Eigengeschmack der Garnelen dominieren. Die Garnelen werden mit etwas Fett sanft auf den Punkt gegart, wodurch sie saftig bleiben und ihren eigenen, leicht süßlichen Charakter behalten.
+* **Käse als Katalysator:** Das traditionelle Tabu, Meeresfrüchte nicht mit Käse zu kombinieren, wird hier bewusst umgangen. In wohldosierter Menge (ca. 10 g auf dem Teller) wirkt der geriebene Parmesan als Umami-Bringer.
 
 ## Praxis-Check: So schmeckt es dann
-
 Das Ergebnis auf dem Teller spricht für sich.<br>
-Die Spaghetti werden vom leicht meeresfrischen Sud aus Fett und dem ausgetretenen Geschmackswasser der Garnelen umhüllt. Ihr Geschmack wird den Garnelen sanft angepasst.<br>
-Der schwarze Pfeffer bleibt im Hintergrund und steuert lediglich eine tiefe, warme Grundnote bei.<br>
-Der Parmesan wirkt geschmacklich unerwartet bescheiden: er ist als Eigengeschmack kaum präsent, hebt aber das Gesamtaroma signifikant.<br>
-Und die Garnelen: ein Biss und es macht im Mund spürbar „Hui“ 
-
----
+Die Spaghetti werden vom leicht meeresfrischen Sud aus Fett und dem ausgetretenen Geschmackswasser der Garnelen umhüllt. Der Nudelgeschmack wird dem Garnelengeschmack sanft angepasst.<br>
+Der schwarze Pfeffer steuert eine tiefe, warme Grundnote bei.<br>
+Der Parmesan wirkt geschmacklich unerwartet bescheiden: Er ist als Eigengeschmack kaum präsent, hebt aber das Gesamtaroma signifikant.<br>
+Und die Garnelen: Ein Biss und es macht im Mund spürbar „Hui“
 
 ## GEMINIs Nährwert- & Mikronährstoff-Tabelle
 
-### Hauptnährwerte (Gesamtgericht)  
-Berechnet für: 225 g Garnelen, 170 g Spaghetti, 50 g Fett/Öl, 40 g Parmesan.
+**Hauptnährwerte für das Gesamtgericht**
+Berechnet für die im Rezept angegebenen Gesamtmengen:
 
-| Nährwert | Gesamt |
-|---------|--------|
-| Kalorien | ca. 980 kcal |
-| Kohlenhydrate | ca. 120 g |
-| Eiweiß | ca. 70 g |
-| Fett | ca. 50 g |
+| Nährwert | Gesamtgericht |
+| :--- | :--- |
+| Kalorien | ca. 1470 kcal |
+| Kohlenhydrate | ca. 120 g |
+| Eiweiß (Protein) | ca. 75 g |
+| Fett | ca. 75 g |
 
-### Wichtige Mikronährstoffe & Highlights
-- **Jod & Selen:** Garnelen liefern reichlich Spurenelemente für Schilddrüse und Zellschutz.  
-- **Calcium:** Parmesan bringt bioverfügbares Calcium für Knochen und Zähne.  
-- **Vitamin B12:** Durch die Meeresfrüchte reichlich vorhanden.
-
----
+**Wichtige Mikronährstoffe & Highlights**
+* **Jod & Selen:** Die Garnelen liefern eine hervorragende Menge dieser Spurenelemente, die essenziell für eine gesunde Schilddrüsenfunktion und den Zellschutz sind.
+* **Calcium:** Durch den echten Hartkäse (Parmesan) steckt das Gericht voller bioverfügbarem Calcium zur Stärkung von Knochen und Zähnen.
+* **Vitamin B12:** Reichlich vorhanden durch die Meeresfrüchte, wichtig für das Nervensystem und die Blutbildung.
 
 ## Zusammenfassung von Mitautorin GEMINI
-
-Dieses Rezept ist ein Plädoyer für das bewusste Weglassen.  
-Es zeigt, dass man gute Zutaten nicht in Saucen ertränken muss, um ein tiefes Geschmackserlebnis zu erzeugen.  
+Dieses Rezept ist ein Plädoyer für das bewusste Weglassen.
+Es bricht mit gängigen kulinarischen Vorgaben und beweist, dass Minimalismus und eine überlegte Zubereitung zu einem ausgewogenen Geschmackserlebnis führen können.
 Gleichzeitig steht es in einer klaren kulinarischen Tradition:
+* **Italienischer Purismus** – wenige Zutaten, präzise Technik, Konzentration auf Textur und Produkt.
+* **Moderne Produktküche** – sanfte Garung, Erhalt der Aromen, kein überflüssiger Ballast.
+* **Wissenschaftlich-minimalistische Küche** – Resistente Stärke, Fettbalance, kontrollierte Hitze.
 
-- **Italienischer Purismus** – wenige Zutaten, präzise Technik, Konzentration auf Textur und Produkt.  
-- **Moderne Produktküche** – sanfte Garung, Erhalt der Aromen, kein überflüssiger Ballast.  
-- **Wissenschaftlich-minimalistische Küche** – resistente Stärke, Fettbalance, kontrollierte Hitze.  
-
-Dadurch entsteht ein schnelles, alltagstaugliches Gericht, das sich bewusst von gängigen Dogmen löst und sich in seiner Balance und seinem Geschmack nicht verstecken muss.  
-Ein eigenständiges, modernes *Signature Dish* und ein echter Gewinn für jede Rezeptsammlung – denn die Verbindung aus Pasta in bianco, schonend gedämpften Garnelen, dem Verzicht auf Knoblauch/Zitrone/Wein, aber Parmesan als Umami‑Katalysator findet sich so in keiner klassischen Vorlage.
+Dadurch entsteht ein eigenständiges, modernes Signature-Dish und ein echter Gewinn für jede Rezeptsammlung.<br>
+Denn die Verbindung aus Pasta in bianco, schonend gegarten Garnelen, dem Verzicht auf Zitrone/Wein aber Parmesan als Umami-Katalysator findet man so nicht in den populären Vorlagen.
 
 ---
 [← Zurück zur Übersicht](index.md)
