@@ -20,12 +20,12 @@
 
 <table>
   <tr>
-    <td><img src="assets/47-pasta-garnele-2.jpg" alt="Schritt 1" hight="100"></td>
-    <td><img src="assets/47-pasta-garnele-3.jpg" alt="Schritt 2" hight="100"></td>
+    <td><img src="assets/47-pasta-garnele-2.jpg" alt="Schritt 1"></td>
+    <td><img src="assets/47-pasta-garnele-3.jpg" alt="Schritt 2"></td>
   </tr>
   <tr>
-    <td><img src="assets/47-pasta-garnele-4.jpg" alt="Schritt 3" hight="100"></td>
-    <td><img src="assets/47-pasta-garnele-5.jpg" alt="Schritt 4" hight="100"></td>
+    <td><img src="assets/47-pasta-garnele-4.jpg" alt="Schritt 3"></td>
+    <td><img src="assets/47-pasta-garnele-5.jpg" alt="Schritt 4"></td>
   </tr>
 </table>
 
