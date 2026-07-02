@@ -16,7 +16,7 @@ Aufgrund der außergewöhnlich hohen Dichte an fettlöslichen Vitaminen kann man
 ### ⚠️ Wichtiger Hinweis zum Verzehr
 
 **Nicht zu häufig essen!**<br>
-Aufgrund des extrem hohen Vitamin-A-Gehalts (und möglicher Schadstoffbelastung) sollte Dorschleber **maximal 1x pro Woche** (besser nur alle 2 Wochen) gegessen werden.<br>
+Wegen des extrem hohen Vitamin-A-Gehalts (und möglicher Schadstoffbelastung) sollte Dorschleber **maximal 1x pro Woche** (besser nur alle 2 Wochen) gegessen werden.<br>
 **Schwangere sollten dieses Gericht meiden** – zu viel Vitamin A kann das ungeborene Kind schädigen.
 
 ## Nährwerte (Micro + Macro)
