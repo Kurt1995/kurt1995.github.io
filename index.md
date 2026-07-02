@@ -6,7 +6,7 @@
 
 ---
 
-| Pfanne | Topf &middot; Schüssel &middot; Grill |
+| Pfanne | Topf &middot; Schüssel &middot; Grill &middot; Teller |
 | :--- | :--- |
 | [Zucchini Pasta](02-zucchini-pasta.md) | [Spaghetti mit fruchtiger Wildkräuter-Bolo](46-spaghetti-f-bolo.md) |
 | [Bunte Pilzpfanne](03-bunte-pilzpfanne.md) | [Deftige Kartoffelsuppe](05-deftige-ksuppe.md)  |
@@ -18,6 +18,7 @@
 | [Fruchtige Nudelpfanne Lasagne-Art](18-nudel-lasag.md) | [Suppe mit Hähnchenmägen](14-maegensuppe.md) |
 | [Fruchtige Nudelpfanne Bayrische-Art](18-nudel-bayer.md) | Gehaltvolle Zucchini-Paprika Creme |
 | [Tomatenrunde mit Steak](22-tomate-steak.md) | [Senioren Sport-Suppe](17-senior-sport-suppe.md) |
+|  | [Dorschleber auf Vollkornbrot](23-dleber-vollkorn.md) |
 |  |  [Opa Salat](06-opa-salat.md) |
 |  |  |
 |  |  |
