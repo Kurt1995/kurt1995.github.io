@@ -6,7 +6,7 @@
 
 ---
 
-| Pfanne | Topf &middot; Schüssel &middot; Grill &middot; Teller |
+| Pfanne | Teller  &middot; Topf &middot; Schüssel &middot; Grill |
 | :--- | :--- |
 | [Zucchini Pasta](02-zucchini-pasta.md) | [Spaghetti mit fruchtiger Wildkräuter-Bolo](46-spaghetti-f-bolo.md) |
 | [Bunte Pilzpfanne](03-bunte-pilzpfanne.md) | [Deftige Kartoffelsuppe](05-deftige-ksuppe.md)  |
