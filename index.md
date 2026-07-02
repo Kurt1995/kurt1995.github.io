@@ -55,7 +55,6 @@ Jedes Gericht ist so konzipiert, dass es die Kommunikation zwischen unserem **en
 * Unsere Gerichte folgen dabei einem Grundsatz: **„Mit weiteren Zutaten entsteht ein anderes Gericht.“** <br>
 Dieser Gedanke beschreibt die Struktur von Kurt kocht: Jedes Rezept konzentriert sich auf den Kern eines Gerichts.<br>
 Die asiatische Tradition der Reduktion – das Entfernen aller Elemente, die nicht notwendig sind – ergänzt die wissenschaftliche Logik unserer Küche.<br>
-
 So entsteht eine Linie, die Einfachheit nicht als Verzicht versteht, sondern als Entscheidung.<br>
 Unser Ansatz ist provokant, weil er eine klare Grenze zieht:<br>
 Ein Gericht hat eine Identität. Wird eine zusätzliche Zutat eingeführt, verändert sich diese Identität.<br>
