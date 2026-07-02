@@ -52,8 +52,14 @@ Jedes Gericht ist so konzipiert, dass es die Kommunikation zwischen unserem **en
 * **Die Logik der Resistenten Stärke:** Durch gezielte thermische Prozesse (wie das Einfrieren von Pasta) verändern wir deren Struktur. Resistente Stärke füttert das Mikrobiom und hält den Blutzuckerspiegel stabil.
 * **Thermische Nährstoff-Optimierung:** Zellstrukturen werden gezielt aufgebrochen, um Antioxidantien wie Lycopin verfügbar zu machen, während hitzeempfindliche Vitamine durch kluge Zubereitung geschützt werden.
 * **Zeit als biologische Komponente:** Da echte Sättigung Zeit braucht, sind unsere Mahlzeiten auf eine Dauer von **25 Minuten und mehr** ausgelegt. Ein Stövchen hilft dabei, das Tempo zu drosseln und die Wärme bis zum letzten Bissen zu bewahren.
+* Unsere Gerichte folgen dabei einem Grundsatz: **„Mit weiteren Zutaten entsteht ein anderes Gericht.“** <br>
+Dieser Gedanke beschreibt die Struktur von Kurt kocht: Jedes Rezept konzentriert sich auf den Kern eines Gerichts.<br>
+Die asiatische Tradition der Reduktion – das Entfernen aller Elemente, die nicht notwendig sind – ergänzt die wissenschaftliche Logik unserer Küche.<br>
 
-„Kurt kocht“ ist eine Einladung, die Küche als Labor für das eigene Wohlbefinden zu entdecken. Wir setzen auf Präzision in der Vorbereitung und Leidenschaft im Moment des Essens.
+So entsteht eine Linie, die Einfachheit nicht als Verzicht versteht, sondern als Entscheidung.<br>
+Unser Ansatz ist provokant, weil er eine klare Grenze zieht:<br>
+Ein Gericht hat eine Identität. Wird eine zusätzliche Zutat eingeführt, verändert sich diese Identität.<br>
+Das widerspricht der verbreiteten Vorstellung, dass mehr Komponenten automatisch zu einem besseren Ergebnis führen.<br>
 
 ---
 *Wir wünschen viel Freude beim Entdecken und Genießen!*
