@@ -7,7 +7,7 @@ Dieses Rezept ist ein Paradebeispiel für „Volume Eating“ – eine große Po
 ## Zutaten
 * **125 g Vollkornpenne** (vorgekocht)
 * **500 g Brokkoli**
-* **1 Dose Champignons** (geschnitten)
+* **1 Dose Champignons** (geschnitten) - oder **200 g frische Champignons**, wenn verfügbar
 * **ca. 30 g Parmesan**
 * **Olivenöl**
 * **Gewürze:** Schwarzer Pfeffer, Salz, Teriyaki-Sauce, Fondor-Gewürzmischung
@@ -24,14 +24,15 @@ Dieses Rezept ist ein Paradebeispiel für „Volume Eating“ – eine große Po
 * **Schonendes Auftauen:** Am Abend vor dem Verzehr eine Portion Penne und eine Portion Brokkoli in den Kühlschrank stellen.
 
 ### 2. Zubereitung am Verzehrtag
-1. **Anbraten:** 5 Esslöffel Olivenöl in einer Wok-Pfanne erhitzen.
-2. **Pilze:** Die Champignons in die Pfanne geben und bei geschlossenem Deckel (Vorsicht, sie „hopsen“) für 3 - 4 Minuten scharf anbraten.
-3. **Kombinieren:** Den aufgetauten Brokkoli und die Vollkornpenne hinzugeben.
-4. **Würzen:** Alles mit einigen Spritzern Teriyaki-Sauce, schwarzem Pfeffer und Fondor würzen.
-5. **Garen:** Auf mittlerer Flamme für 7 – 10 Minuten schmoren und garen; dabei mehrmals umrühren.
-6. **Abschluss:** Sobald der Brokkoli die gewünschte Weichheit erreicht hat, die Flamme herunterregeln.
-7. **Servieren:** Auf einem vorgewärmten Teller anrichten und mit dem geriebenen Parmesan bestreuen.
-8. **Das Stövchen-Prinzip:** Den feuerfesten Teller auf ein Stövchen stellen. Dies ermöglicht ein langsames, entspanntes Essen, ohne dass Textur und Geschmack durch Abkühlen leiden.
+1. **Anbraten:** 4 Esslöffel Olivenöl in einer Wok-Pfanne erhitzen.
+2. ***Bei frischen Pilzen:** Pilze putzen und klein würfeln.*
+3. **Pilze:** Die Champignons in die Pfanne geben und bei geschlossenem Deckel (Vorsicht, sie „hopsen“) für 2 -3 Minuten scharf anbraten.
+4. **Kombinieren:** Den aufgetauten Brokkoli und die Vollkornpenne hinzugeben.
+5. **Würzen:** Alles mit einigen Spritzern Teriyaki-Sauce, schwarzem Pfeffer und Fondor würzen.
+6. **Garen:** Auf mittlerer Flamme für 7 – 10 Minuten schmoren und garen; dabei mehrmals umrühren.
+7. **Abschluss:** Sobald der Brokkoli die gewünschte Weichheit erreicht hat, die Flamme herunterregeln.
+8. **Servieren:** Auf einem vorgewärmten Teller anrichten und mit dem geriebenen Parmesan bestreuen.
+9. **Das Stövchen-Prinzip:** Den feuerfesten Teller auf ein Stövchen stellen. Dies ermöglicht ein langsames, entspanntes Essen, ohne dass Textur und Geschmack durch Abkühlen leiden.
 
 | Guten | Appetit |
 | :---: | :---: |
