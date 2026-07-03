@@ -11,7 +11,7 @@
 - **125 g Leberkäse** (2 Scheiben)
 - **125 g (ungekocht ¼ Packung) Dinkel-Penne**
 - **3 Eier**
-- **1 Dose Champignons** (geschnitten) - oder **200 g frische Champignons**, wenn verfügbar
+- * **200 g frische Champignons** - wenn nicht verfügbar, als Ersatz eine Dose Champignons (geschnitten)
 - **3 Esslöffel Olivenöl**
 - **Gewürze**: Salz, schwarzer Pfeffer, Paprikapulver (rosenscharf) und ein halber Teelöffel Maggi fix für Bolognese
 
@@ -32,9 +32,9 @@
 2.  Die Tomaten in dicke Scheiben schneiden und den Pfannenboden auslegen.
 3.  Die Paprika in ganz kleine Würfel schneiden und über den Tomaten verteilen.
 4.  Mit Maggi fix, schwarzen Pfeffer und Paprikapulver würzen.
-5.  *Bei frischen Pilzen: Pilze putzen, klein würfeln und vor den Nudeln in die Pfanne geben.*
+5.  Die Pilze putzen, klein würfeln und ebenfalls in die Pfanne geben (Dosenpilze nach den Nudeln).
 6.  Alles mit den Nudeln bedecken.
-7.  Die Pilze und den klein gewürfelten Leberkäse darüber verteilen.
+7.  Den klein gewürfelten Leberkäse darüber verteilen.
 8.  Die drei Eier vorsichtig einbringen.
 9.  Bei mittlerer Hitze mit Deckel schmoren, bis das Eiweiß stockt.
 10.  Die Pfanne vom Feuer nehmen (kann auch auf ganz kleiner Flamme warm gehalten werden) und servieren.
