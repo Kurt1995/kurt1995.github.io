@@ -11,7 +11,7 @@
 - **125 g Leberkäse** (2 Scheiben)
 - **125 g (ungekocht ¼ Packung) Dinkel-Penne**
 - **3 Eier**
-- * **200 g frische Champignons** - wenn nicht verfügbar, als Ersatz eine Dose Champignons (geschnitten)
+- **200 g frische Champignons** - wenn nicht verfügbar, als Ersatz eine Dose Champignons (geschnitten)
 - **3 Esslöffel Olivenöl**
 - **Gewürze**: Salz, schwarzer Pfeffer, Paprikapulver (rosenscharf) und ein halber Teelöffel Maggi fix für Bolognese
 
