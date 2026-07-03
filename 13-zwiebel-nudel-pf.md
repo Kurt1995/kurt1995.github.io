@@ -1,4 +1,4 @@
-# Kurt kocht - Zwiebelpfanne mit Nudeln
+# Kurt kocht &nbsp; - &nbsp; Zwiebelpfanne mit Nudeln
 Ein Gericht mit der handwerklichen Umsetzung einer „Trocken-Suppe“
 
 ![1 - Zutaten](assets/13-zw-pfanne1.jpg)
@@ -7,7 +7,7 @@ Ein Gericht mit der handwerklichen Umsetzung einer „Trocken-Suppe“
 * Gemüsezwiebel ca. 200 g
 * Hackfleisch halb und halb ca. 130 g (1/3 einer 400 g Packung)
 * 120 g Spiralnudeln (1/5 von einer 600 g Tüte)
-* Eine Dose (170 g Abtropfgewicht) Champignons, geschnitten
+* Eine Dose (170 g Abtropfgewicht) Champignons, geschnitten - oder **200 g frische Champignons**, wenn verfügbar
 * 2 Esslöffel Rapsöl
 * 1 Teelöffel Instant Brühe
 * Sojasauce (nach Geschmack)
@@ -29,11 +29,12 @@ Ein Gericht mit der handwerklichen Umsetzung einer „Trocken-Suppe“
 
 ### Zubereitung am Verzehrtag
 1. Das Öl und die in Streifen geschnittenen Zwiebeln in eine Wok-Pfanne geben. Kurz schmoren.
-2. Das Hackfleisch mit Salz würzen, durchmengen und in Flocken zu den Zwiebeln in die Pfanne geben.
-3. Mit geschlossenem Deckel bei mittlerer Hitze ca. 4 Minuten garen. Öfter wenden.
-4. Wenn das Hackfleisch gar ist, die Pilze und die Nudeln hinzugeben und untermischen.
-5. Brühe, Pfeffer und Sojasauce einrühren und einen guten Stich Margarine zugeben.
-6. Alles noch einmal erhitzen, vom Feuer nehmen und servieren.
+2. ***Bei frischen Pilzen:** Pilze putzen, klein würfeln und mit den Zwiebeln in die Pfanne geben.*
+3. Das Hackfleisch mit Salz und Pfeffer würzen, durchmengen und in Flocken zu den Zwiebeln *(und Pilzen)* in die Pfanne geben.
+4. Mit geschlossenem Deckel bei mittlerer Hitze ca. 4 Minuten garen. Öfter wenden.
+5. Wenn das Hackfleisch gar ist, (die Pilze und) die Nudeln hinzugeben und untermischen.
+6. Brühe, Pfeffer und Sojasauce einrühren und einen guten Stich Margarine zugeben.
+7. Alles noch einmal erhitzen, vom Feuer nehmen und servieren.
 
 <br>
 
