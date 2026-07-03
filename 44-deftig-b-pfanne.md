@@ -6,7 +6,7 @@
 
 - 500 g Brokkoli  
 - 125 g Vollkornpenne (vorgekocht)  
-- 1 Dose Champignons (geschnitten) - oder **200 g frische Champignons**, wenn verfügbar
+- 200 g frische Champignons - wenn nicht verfügbar, als Ersatz eine Dose Champignons (geschnitten)
 - 130 g Gehacktes (halb und halb)  
 - Olivenöl Extra  
 - 3 Scheiben Käse (Edamer, Tilsiter oder junger Gouda eignen sich gut)  
@@ -26,10 +26,9 @@
 
 ## Zubereitung am Verzehrtag
 
-- **Anbraten:** 3 Esslöffel Olivenöl in einer Wok-Pfanne erhitzen. Den weitgehend aufgetauten Brokkoli in die Pfanne geben und ca. 2 Minuten bei großer Hitze anschmoren. Häufig wenden.
-- ***Bei frischen Pilzen:** Pilze putzen, klein würfeln und mit dem Brokkoli in die Pfanne geben.*
-- **Hackfleisch:** Das mit Pfeffer und Salz gewürzte Hackfleisch in Flocken dazugeben. Auf mittlerer Flamme für 2–3 Minuten mitschmoren. Mehrmals wenden.  
-- **Pilze:** Die Champignons unterheben und alles für weitere 2–3 Minuten schmoren. Häufiger wenden.  
+- **Anbraten:** 3 Esslöffel Olivenöl in einer Wok-Pfanne erhitzen. Den weitgehend aufgetauten Brokkoli in die Pfanne geben.
+- **Pilze:** Die Pilze putzen, klein würfeln und mit dem Brokkoli in der Pfanne ca. 2 Minuten bei großer Hitze anschmoren. Häufig wenden. (Dosenpilze werden später mit der Penne untergemischt)
+- **Hackfleisch:** Das mit Pfeffer und Salz gewürzte Hackfleisch in Flocken dazugeben. Auf mittlerer Flamme für weitere 4–5 Minuten mitschmoren. Mehrmals wenden.  
 - **Kombinieren:** Die Penne untermischen, kurz erwärmen lassen und alles mit den Käsescheiben abdecken.  
 - **Zu Ende garen:** Die Pfanne mit einem Deckel verschließen und auf mittlerer Flamme so lange weitergaren, bis der Käse schmilzt.  
 - **Servieren:** Auf einem vorgewärmten Teller anrichten.  
