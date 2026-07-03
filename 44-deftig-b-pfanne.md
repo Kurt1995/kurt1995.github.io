@@ -6,7 +6,7 @@
 
 - 500 g Brokkoli  
 - 125 g Vollkornpenne (vorgekocht)  
-- 1 Dose Champignons (geschnitten)  
+- 1 Dose Champignons (geschnitten) - oder **200 g frische Champignons**, wenn verfügbar
 - 130 g Gehacktes (halb und halb)  
 - Olivenöl Extra  
 - 3 Scheiben Käse (Edamer, Tilsiter oder junger Gouda eignen sich gut)  
@@ -26,7 +26,8 @@
 
 ## Zubereitung am Verzehrtag
 
-- **Anbraten:** 2 Esslöffel Olivenöl in einer Wok-Pfanne erhitzen. Den weitgehend aufgetauten Brokkoli in die Pfanne geben und kurz bei großer Hitze anschmoren. Häufig wenden.  
+- **Anbraten:** 3 Esslöffel Olivenöl in einer Wok-Pfanne erhitzen. Den weitgehend aufgetauten Brokkoli in die Pfanne geben und kurz bei großer Hitze anschmoren. Häufig wenden.
+- ***Bei frischen Pilzen:** Pilze putzen, klein würfeln und mit dem Brokkoli in die Pfanne geben. Mitschmoren.*
 - **Hackfleisch:** Das mit Pfeffer und Salz gewürzte Hackfleisch in Flocken dazugeben. Auf mittlerer Flamme für 2–3 Minuten mitschmoren. Weiter häufig wenden.  
 - **Pilze:** Die Champignons unterheben und alles für weitere 2–3 Minuten schmoren. Häufiger wenden.  
 - **Kombinieren:** Die Penne untermischen, kurz erwärmen lassen und alles mit den Käsescheiben abdecken.  
@@ -75,7 +76,7 @@ Insgesamt entsteht ein vollwertiges Gericht mit breitem Mikronährstoffspektrum 
 
 | Nährstoff        | Menge             | Funktion im Körper                 | Tagesbedarf in %    |
 |------------------|-------------------|------------------------------------|---------------------|
-| Kalorien         | ~ 690–720 kcal    | Energie für Alltag & Stoffwechsel  | ~ 34 %              |
+| Kalorien         | ~ 750 kcal        | Energie für Alltag & Stoffwechsel  | ~ 35 %              |
 | Protein          | ~ 40–44 g         | Muskelerhalt, Sättigung            | = 70–75 %           |
 | Kohlenhydrate    | ~ 43–48 g         | Energie, Gehirnstoffwechsel        | ~ 15–18 %           |
 | Ballaststoffe    | ~ 11–13 g         | Verdauung, Darmflora               | ≥ 40–45 %           |
