@@ -27,7 +27,7 @@ Diese Pfanne ist ein ideales Beispiel für intelligentes Meal-Prep. Durch das Bl
 
 ### Zubereitung am Verzehrtag
 1. **Auftauen**: Alle vorbereiteten Zutaten am Vorabend im Kühlschrank schonend auftauen lassen.
-2. **Die frischen Pilze:** Pilze putzen und klein würfeln.
+2. **Pilze:** Pilze putzen und klein würfeln.
 3. **Anschwitzen**: Olivenöl im Wok erhitzen. Die Pilze und die Blumenkohl-Zwiebel-Mischung ca. 5 Minuten bei mittlerer Hitze schmoren (häufig wenden).
 4. **Würzen**: Mit Fondor und schwarzem Pfeffer abschmecken.
 5. **Finalisieren**: Nudeln und Fleisch hinzufügen und weitere 5 Minuten unter mehrmaligem Wenden durchgaren.
