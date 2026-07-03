@@ -7,7 +7,7 @@ Diese Kartoffelsuppe steht für viel Geschmack, effizientes Zeitmanagement und n
 ## Zutaten
 * **ca. 600 - 700 g Kartoffeln** (Frischgewicht, bereits vorgekocht & aufgetaut)
 * **5 Grillwürste** (ca. 400 g Geflügel-Bratwurst) 
-* **1 Dose Champignons** (geschnitten)
+* **200 g frische Champignons** - wenn nicht verfügbar, als Ersatz eine Dose Champignons (geschnitten)
 * **ca. 700 ml Wasser**
 * **2 Brühwürfel** (Fette Brühe)
 * **Margarine**
@@ -23,12 +23,13 @@ Diese Kartoffelsuppe steht für viel Geschmack, effizientes Zeitmanagement und n
 * **Schonendes Auftauen:** Am Vorabend eine Portion der Kartoffeln zum Auftauen in den Kühlschrank stellen.
 
 ### 2. Zubereitung am Verzehrtag
-1. **Erhitzen:** Die aufgetauten Kartoffeln in das Wasser geben und bis zum Siedepunkt hochheizen.
-2. **Pürieren:** Den Topf vom Herd nehmen und die Kartoffeln direkt im Wasser pürieren. Für eine rustikale Textur gerne einige Kartoffelstückchen ganz lassen.
-3. **Verfeinern:** Zurück auf den Herd stellen. Bei kleiner bis mittlerer Flamme die Champignons und einen „guten Stich“ Margarine hinzufügen.
-4. **Würzen:** Kräftig mit schwarzem Pfeffer abschmecken und 2 - 3 Minuten köcheln lassen. Mehrfach umrühren.
-5. **Wurst-Einlage:** Die klein geschnittenen Geflügelwürstchen hinzufügen und unterrühren. Da diese handelsüblich vorgebrüht sind, müssen sie nur noch durchwärmen.
-6. **Servieren:** Die Suppe vom Feuer nehmen und servieren.
+1. **Pilze:** Die Champignons putzen, klein würfeln und in einer Pfanne bei mittlerer Hitze anschmoren. (Dieser Schritt entfällt bei Verwendung von Dosenpilzen).
+2. **Erhitzen:** Die aufgetauten Kartoffeln in das Wasser geben und bis zum Siedepunkt hochheizen. 
+3. **Pürieren:** Den Topf vom Herd nehmen und die Kartoffeln direkt im Wasser pürieren. Für eine rustikale Textur gerne einige Kartoffelstückchen ganz lassen.
+4. **Verfeinern:** Zurück auf den Herd stellen. Bei kleiner bis mittlerer Flamme die Champignons und einen „guten Stich“ Margarine hinzufügen.
+5. **Würzen:** Kräftig mit schwarzem Pfeffer abschmecken und 2 - 3 Minuten köcheln lassen. Mehrfach umrühren.
+6. **Wurst-Einlage:** Die klein geschnittenen Geflügelwürstchen hinzufügen und unterrühren. Da diese handelsüblich vorgebrüht sind, müssen sie nur noch durchwärmen.
+7. **Servieren:** Die Suppe vom Feuer nehmen und servieren.
 
 ![Servierte Kartoffelsuppe](assets/05deftigekartoffelsuppe2.jpg)
 
