@@ -7,7 +7,7 @@ Dieses Rezept ist ein Paradebeispiel für „Volume Eating“ – eine große Po
 ## Zutaten
 * **125 g Vollkornpenne** (vorgekocht)
 * **500 g Brokkoli**
-* **200 g frische Champignons**, wenn verfügbar1 - als Ersatz eine Dose Champignons** (geschnitten)
+* **200 g frische Champignons**, wenn verfügbar - als Ersatz eine Dose Champignons** (geschnitten)
 * **ca. 30 g Parmesan**
 * **Olivenöl**
 * **Gewürze:** Schwarzer Pfeffer, Salz, Teriyaki-Sauce, Fondor-Gewürzmischung
