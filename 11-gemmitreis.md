@@ -25,7 +25,7 @@ Die tiefgefrorenen Filets in eine Pfanne legen und großzügig mit Teriyaki-Sauc
 Den Reis vorab ca. 1 Stunde wässern und gründlich abspülen. Den Brühwürfel im Wasser auflösen, den Reis hinzugeben und bei kleiner Hitze abgedeckt ca. 30 Minuten köcheln lassen, bis die Flüssigkeit vollständig aufgenommen wurde.
 
 #### 3. Das Gemüse & Finish
-**Pilze:** Pilze putzen und klein würfeln und im Rapsöl in einer Wok-Pfanne kurz anschmoren.<br>
+Die Pilze putzen und klein würfeln und im Rapsöl in einer Wok-Pfanne kurz anschmoren.<br>
 Das restliche Gemüse (geputzt und gewürfelt) hinzugeben und für weitere 10 Minuten bei mittlerer Hitze mitgaren. Mit Pfeffer würzen.<br>
 Zum Schluss die gewürfelten Hähnchenfilets samt Sud sowie den Reis unter das Gemüse heben.
 
