@@ -9,7 +9,7 @@ Diese Pfanne ist ein ideales Beispiel für intelligentes Meal-Prep. Durch das Bl
 * **Gemüsezwiebel**: 1/2 Stück (ca. 150 g)
 * **Vollkornpenne**: 1/4 Packung (125 g, vorgekocht)
 * **Fleisch**: Ca. 100 g Dicke Rippe (Grill-Rest)
-* **Pilze**: 1 Dose geschnittene Champignons
+* **Pilze**: 1 Dose geschnittene Champignons - oder **200 g frische Champignons**, wenn verfügbar
 * **Öl**: 5 Esslöffel Olivenöl
 * **Gewürze**: Fondor, schwarzer Pfeffer, evtl. ein wenig Salz
 
@@ -27,10 +27,11 @@ Diese Pfanne ist ein ideales Beispiel für intelligentes Meal-Prep. Durch das Bl
 
 ### Zubereitung am Verzehrtag
 1. **Auftauen**: Alle vorbereiteten Zutaten am Vorabend im Kühlschrank schonend auftauen lassen.
-2. **Anschwitzen**: Olivenöl im Wok erhitzen. Die abgetropften Pilze und die Blumenkohl-Zwiebel-Mischung ca. 5 Minuten bei mittlerer Hitze schmoren (häufig wenden).
-3. **Würzen**: Kräftig mit Fondor und schwarzem Pfeffer abschmecken.
-4. **Finalisieren**: Nudeln und Fleisch hinzufügen und weitere 5 Minuten unter mehrmaligem Wenden durchgaren.
-5. **Servieren**: Direkt vom Feuer nehmen und idealerweise auf einem Stövchen servieren, um ein schnelles Abkühlen zu vermeiden.
+2. ***Bei frischen Pilzen:** Pilze putzen und klein würfeln.*
+3. **Anschwitzen**: Olivenöl im Wok erhitzen. Die (abgetropften) Pilze und die Blumenkohl-Zwiebel-Mischung ca. 5 Minuten bei mittlerer Hitze schmoren (häufig wenden).
+4. **Würzen**: Mit Fondor und schwarzem Pfeffer abschmecken.
+5. **Finalisieren**: Nudeln und Fleisch hinzufügen und weitere 5 Minuten unter mehrmaligem Wenden durchgaren.
+6. **Servieren**: Direkt vom Feuer nehmen und idealerweise auf einem Stövchen servieren, um ein schnelles Abkühlen zu vermeiden.
 
 ![Bild: Zutaten Blumenkohl Pfanne](assets/09bluhmenkohlpfanne3.jpg)
 
