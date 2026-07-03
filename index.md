@@ -47,18 +47,17 @@ Jedes Gericht ist so konzipiert, dass es die Kommunikation zwischen unserem **en
 
 #### Unser System im Überblick:
 
-* **Im Zentrum: Gemüse und ein pragmatisches Zutaten-System.** Fast jedes Gericht basiert auf einer üppigen Portion Gemüse – als Hauptkomponente. Unsere Zutaten sind bewusst einfach gewählt: keine modischen Superfoods, sondern alltagsverfügbare Basics mit klarem ernährungsphysiologischem Wert.
+* **Im Zentrum: Gemüse und ein pragmatisches Zutaten-System.** Die meisten Gerichte basieren auf einer üppigen Portion Gemüse – als Hauptkomponente.<br>
+Dabei sind unsere Zutaten bewusst einfach gewählt: keine modischen Superfoods, sondern alltagsverfügbare Basics mit klarem ernährungsphysiologischem Wert.
 * **Einfachheit in der Würze:** Wir haben keine Scheu vor bewährten Küchenhelfern. Ob Brühwürfel, Fondor oder Teriyaki-Sauce – wir nutzen diese gezielt für das „Umami“.
 * **Die Logik der Resistenten Stärke:** Durch gezielte thermische Prozesse (wie das Einfrieren von Pasta) verändern wir deren Struktur. Resistente Stärke füttert das Mikrobiom und hält den Blutzuckerspiegel stabil.
 * **Thermische Nährstoff-Optimierung:** Zellstrukturen werden gezielt aufgebrochen, um Antioxidantien wie Lycopin verfügbar zu machen, während hitzeempfindliche Vitamine durch kluge Zubereitung geschützt werden.
-* **Zeit als biologische Komponente:** Da echte Sättigung Zeit braucht, sind unsere Mahlzeiten auf eine Dauer von **25 Minuten und mehr** ausgelegt. Ein Stövchen hilft dabei, das Tempo zu drosseln und die Wärme bis zum letzten Bissen zu bewahren.
-* Unsere Gerichte folgen dabei einem Grundsatz: **„Mit weiteren Zutaten entsteht ein anderes Gericht.“** <br>
-Dieser Gedanke beschreibt die Struktur von Kurt kocht: Jedes Rezept konzentriert sich auf den Kern eines Gerichts.<br>
-Die asiatische Tradition der Reduktion – das Entfernen aller Elemente, die nicht notwendig sind – ergänzt die wissenschaftliche Logik unserer Küche.<br>
+* **Zeit als biologische Komponente:** Da echte Sättigung Zeit braucht, sind unsere Mahlzeiten auf eine Dauer von **25 Minuten und mehr** ausgelegt.<br>
+Ein Stövchen hilft dabei, das Tempo zu drosseln und die Wärme bis zum letzten Bissen zu bewahren.
+* Unsere Gerichte folgen einem Grundsatz: **„Mit weiteren Zutaten entsteht ein anderes Gericht.“** <br>
+Dieser Gedanke beschreibt die Struktur von Kurt kocht: Unsere Rezepte konzentriert sich auf den Kern eines Gerichts.<br>
+Die asiatische Tradition der Reduktion – das Entfernen aller Elemente, die nicht notwendig sind – ergänzt die Logik unserer Küche.<br>
 So entsteht eine Linie, die Einfachheit nicht als Verzicht versteht, sondern als Entscheidung.<br>
-Unser Ansatz ist provokant, weil er eine klare Grenze zieht:<br>
-Ein Gericht hat eine Identität. Wird eine zusätzliche Zutat eingeführt, verändert sich diese Identität.<br>
-Das widerspricht der verbreiteten Vorstellung, dass mehr Komponenten automatisch zu einem besseren Ergebnis führen.<br>
 
 ---
 *Wir wünschen viel Freude beim Entdecken und Genießen!*
