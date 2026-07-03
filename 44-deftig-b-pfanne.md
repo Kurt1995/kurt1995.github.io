@@ -27,7 +27,7 @@
 ## Zubereitung am Verzehrtag
 
 - **Anbraten:** 3 Esslöffel Olivenöl in einer Wok-Pfanne erhitzen. Den weitgehend aufgetauten Brokkoli in die Pfanne geben und kurz bei großer Hitze anschmoren. Häufig wenden.
-- ***Bei frischen Pilzen:** Pilze putzen, klein würfeln und mit dem Brokkoli in die Pfanne geben. Mitschmoren.*
+- ***Bei frischen Pilzen:** Pilze putzen, klein würfeln und mit dem Brokkoli in die Pfanne geben.*
 - **Hackfleisch:** Das mit Pfeffer und Salz gewürzte Hackfleisch in Flocken dazugeben. Auf mittlerer Flamme für 2–3 Minuten mitschmoren. Weiter häufig wenden.  
 - **Pilze:** Die Champignons unterheben und alles für weitere 2–3 Minuten schmoren. Häufiger wenden.  
 - **Kombinieren:** Die Penne untermischen, kurz erwärmen lassen und alles mit den Käsescheiben abdecken.  
