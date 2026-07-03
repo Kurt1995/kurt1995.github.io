@@ -10,7 +10,7 @@ Diese Kartoffelsuppe steht für viel Geschmack, effizientes Zeitmanagement und n
 * **200 g frische Champignons** - wenn nicht verfügbar, als Ersatz eine Dose Champignons (geschnitten)
 * **ca. 700 ml Wasser**
 * **2 Brühwürfel** (Fette Brühe)
-* **Margarine**
+* **Margarine, Olivenöl**
 * **Gewürze:** Schwarzer Pfeffer
 
 ---
@@ -23,7 +23,7 @@ Diese Kartoffelsuppe steht für viel Geschmack, effizientes Zeitmanagement und n
 * **Schonendes Auftauen:** Am Vorabend eine Portion der Kartoffeln zum Auftauen in den Kühlschrank stellen.
 
 ### 2. Zubereitung am Verzehrtag
-1. **Pilze:** Die Champignons putzen, klein würfeln und in einer Pfanne bei mittlerer Hitze anschmoren. (Dieser Schritt entfällt bei Verwendung von Dosenpilzen).
+1. **Pilze:** Die Champignons putzen, klein würfeln und in einer Pfanne mit ein wenig Olivenöl bei mittlerer Hitze 3 bis 4 Minuten anschmoren. (Dieser Schritt entfällt bei Verwendung von Dosenpilzen).
 2. **Erhitzen:** Die aufgetauten Kartoffeln in das Wasser geben und bis zum Siedepunkt hochheizen. 
 3. **Pürieren:** Den Topf vom Herd nehmen und die Kartoffeln direkt im Wasser pürieren. Für eine rustikale Textur gerne einige Kartoffelstückchen ganz lassen.
 4. **Verfeinern:** Zurück auf den Herd stellen. Bei kleiner bis mittlerer Flamme die Champignons und einen „guten Stich“ Margarine hinzufügen.
