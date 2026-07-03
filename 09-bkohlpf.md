@@ -10,7 +10,7 @@ Diese Pfanne ist ein ideales Beispiel für intelligentes Meal-Prep. Durch das Bl
 * **Vollkornpenne**: 1/4 Packung (125 g, vorgekocht)
 * **Fleisch**: Ca. 100 g Dicke Rippe (Grill-Rest)
 * **Pilze**: 1 Dose geschnittene Champignons - oder **200 g frische Champignons**, wenn verfügbar
-* **Öl**: 5 Esslöffel Olivenöl
+* **Öl**: 4 Esslöffel Olivenöl
 * **Gewürze**: Fondor, schwarzer Pfeffer, evtl. ein wenig Salz
 
 ---
@@ -55,7 +55,7 @@ Die Kombination aus Vollkorn und ballaststoffreichem Gemüse sorgt für eine opt
 
 | Nährwert | Geschätzte Werte pro Portion |
 | :--- | :--- |
-| **Brennwert** | ca. 920 kcal (3.850 kJ) |
+| **Brennwert** | ca. 900 kcal (3750 kJ) |
 | **Eiweiß** | ca. 36 g |
 | **Kohlenhydrate** | ca. 82 g |
 | **Fett** | ca. 48 g |
