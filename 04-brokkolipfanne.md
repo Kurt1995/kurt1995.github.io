@@ -60,10 +60,10 @@ Dieses Rezept ist ein Paradebeispiel für „Volume Eating“ – eine große Po
 * **Slow Eating:** Das Warmhalten durch ein Stövchen unterstützt ein langsames, gesundes Essen.
 
 ### Energiewert dieser Mahlzeit
-* **Brennwert:** ca. 850 kcal (3.550 kJ)
+* **Brennwert:** ca. 800 kcal (3.340 kJ)
 * **Eiweiß:** ca. 32 g
 * **Kohlenhydrate:** ca. 80 g
-* **Fett:** ca. 45 g (primär durch die 5 EL hochwertiges Olivenöl)
+* **Fett:** ca. 36 g (primär durch die 4 EL hochwertiges Olivenöl)
 
 ---
 
