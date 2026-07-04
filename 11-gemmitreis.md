@@ -6,7 +6,7 @@
 ### Zutaten
 * **Geflügel**: 300-400 g Hähnchenbrustfilet (tiefgefroren)
 * **Gemüse**: 2 rote Paprika, 1 Zucchini, 1 Gemüsezwiebel
-* **200 g frische Champignons** - wenn nicht verfügbar, als Ersatz eine Dose Champignons (geschnitten)
+* **200 g frische Champignons**
 * **Sättigungsbeilage**: 40-50 g Reis-Mix (Parboiled Langkorn & Wildreis)
 * **Flüssigkeiten & Würze**: 200-250 ml Wasser für den Reis, 1 Brühwürfel, Teriyaki-Sauce, 5 EL Rapsöl, schwarzer Pfeffer
 
@@ -25,7 +25,7 @@ Die tiefgefrorenen Filets in eine Pfanne legen und großzügig mit Teriyaki-Sauc
 Den Reis vorab ca. 1 Stunde wässern und gründlich abspülen. Den Brühwürfel im Wasser auflösen, den Reis hinzugeben und bei kleiner Hitze abgedeckt ca. 30 Minuten köcheln lassen, bis die Flüssigkeit vollständig aufgenommen wurde.
 
 #### 3. Das Gemüse & Finish
-Die Pilze putzen, klein würfeln und im Rapsöl in einer Wok-Pfanne kurz anschmoren (auch die Dosenpilze werden angeschmort).<br>
+Die Pilze putzen, würfeln und im Rapsöl in einer Wok-Pfanne kurz anschmoren.<br>
 Das restliche Gemüse (geputzt und gewürfelt) hinzugeben und für weitere 10 Minuten bei mittlerer Hitze mitgaren. Mit Pfeffer würzen.<br>
 Zum Schluss die gewürfelten Hähnchenfilets samt Sud sowie den Reis unter das Gemüse heben.
 
