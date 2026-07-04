@@ -25,10 +25,10 @@ Dieses Rezept ist ein Paradebeispiel für „Volume Eating“ – eine große Po
 
 ### 2. Zubereitung am Verzehrtag
 1. **Anbraten:** 4 Esslöffel Olivenöl in einer Wok-Pfanne erhitzen.
-2. **Pilze:** Die Champignons putzen und klein würfeln. In die Pfanne geben und bei geschlossenem Deckel für 2-3 Minuten schmoren.
+2. **Pilze:** Die Champignons putzen und würfeln. In die Pfanne geben und kurz anschmoren.
 3. **Kombinieren:** Den aufgetauten Brokkoli hinzugeben.
 4. **Würzen:** Alles mit einigen Spritzern Teriyaki-Sauce, schwarzem Pfeffer und Fondor würzen.
-5. **Garen:** Auf mittlerer Flamme für 7 – 10 Minuten schmoren und garen. Dabei mehrmals umrühren. Zwischendurch die Vollkornpenne dazugeben.
+5. **Garen:** Auf mittlerer Flamme für 7–10 Minuten schmoren und garen. Dabei mehrmals umrühren. Zwischendurch die Vollkornpenne dazugeben.
 6. **Abschluss:** Sobald der Brokkoli die gewünschte Weichheit erreicht hat, die Flamme herunterregeln.
 7. **Servieren:** Auf einem vorgewärmten Teller anrichten und mit dem geriebenen Parmesan bestreuen.
 8. **Das Stövchen-Prinzip:** Den feuerfesten Teller auf ein Stövchen stellen. Dies ermöglicht ein langsames, entspanntes Essen, ohne dass Textur und Geschmack durch Abkühlen leiden.
