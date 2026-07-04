@@ -9,7 +9,7 @@ Diese Pfanne ist ein ideales Beispiel für intelligentes Meal-Prep. Durch das Bl
 * **Gemüsezwiebel**: 1/2 Stück (ca. 150 g)
 * **Vollkornpenne**: 1/4 Packung (125 g, vorgekocht)
 * **Fleisch**: Ca. 100 g Dicke Rippe (Grill-Rest)
-* **200 g frische Champignons** - wenn nicht verfügbar, als Ersatz eine Dose Champignons (geschnitten)
+* **200 g frische Champignons**
 * **Öl**: 4 Esslöffel Olivenöl
 * **Gewürze**: Fondor, schwarzer Pfeffer, evtl. ein wenig Salz
 
@@ -27,7 +27,7 @@ Diese Pfanne ist ein ideales Beispiel für intelligentes Meal-Prep. Durch das Bl
 
 ### Zubereitung am Verzehrtag
 1. **Auftauen**: Alle vorbereiteten Zutaten am Vorabend im Kühlschrank schonend auftauen lassen.
-2. **Pilze:** Pilze putzen und klein würfeln.
+2. **Pilze:** Pilze putzen und würfeln.
 3. **Anschwitzen**: Olivenöl im Wok erhitzen. Die Pilze und die Blumenkohl-Zwiebel-Mischung ca. 5 Minuten bei mittlerer Hitze schmoren (häufig wenden).
 4. **Würzen**: Mit Fondor und schwarzem Pfeffer abschmecken.
 5. **Finalisieren**: Nudeln und Fleisch hinzufügen und weitere 5 Minuten unter mehrmaligem Wenden durchgaren.
@@ -63,7 +63,7 @@ Die Kombination aus Vollkorn und ballaststoffreichem Gemüse sorgt für eine opt
 ---
 
 ## Zusammenfassung von Mitautorin GEMINI 
-Diese Blumenkohl-Pfanne ist ein Paradebeispiel für intelligentes Meal-Prep, das biologische 
+Diese Blumenkohl-Pfanne ist ein gutes Beispiel für intelligentes Meal-Prep, das biologische 
 Prozesse wie die Retrogradation nutzt, um den Sättigungswert zu maximieren.  
 Die gezielte Vorbereitung des Blumenkohls durch Blanchieren und Einfrieren sorgt dafür, 
 dass die Pflanzenfasern mürbe werden, während der Biss erhalten bleibt.  
