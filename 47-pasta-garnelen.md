@@ -85,7 +85,7 @@ Gleichzeitig steht es in einer klaren kulinarischen Tradition:
 * **Wissenschaftlich-minimalistische Küche** – Resistente Stärke, Fettbalance, kontrollierte Hitze.
 
 Dadurch entsteht ein eigenständiges, modernes Signature-Dish und ein echter Gewinn für jede Rezeptsammlung.<br>
-Denn die Verbindung aus Pasta in bianco, schonend gegarten Garnelen, dem Verzicht auf Zitrone/Wein aber Parmesan als Umami-Katalysator findet man so nicht in den populären Vorlagen.
+Denn die Verbindung aus Pasta in bianco, schonend gegarten Garnelen, dem bewussten Verzicht auf Zitrone und Wein, aber der Verwendung von Parmesan als Umami-Katalysator findet man so nicht in populären Vorlagen.
 
 ---
 [← Zurück zur Übersicht](index.md)
