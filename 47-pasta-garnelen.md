@@ -53,7 +53,6 @@ Während viele Kochbücher starren Regeln folgen, wird hier mit kluger Berücksi
 * **Käse als Katalysator:** Das traditionelle Tabu, Meeresfrüchte nicht mit Käse zu kombinieren, wird hier bewusst umgangen. In wohldosierter Menge (ca. 10 g auf dem Teller) wirkt der geriebene Parmesan als Umami-Bringer.
 
 ## Praxis-Check: So schmeckt es dann
-Das Ergebnis auf dem Teller spricht für sich.<br>
 Die Spaghetti werden vom leicht meeresfrischen Sud aus Fett und dem ausgetretenen Geschmackswasser der Garnelen umhüllt. Der Nudelgeschmack wird dem Garnelengeschmack sanft angepasst.<br>
 Der schwarze Pfeffer steuert eine tiefe, warme Grundnote bei.<br>
 Der Parmesan wirkt geschmacklich unerwartet bescheiden: Er ist als Eigengeschmack kaum präsent, hebt aber das Gesamtaroma signifikant.<br>
