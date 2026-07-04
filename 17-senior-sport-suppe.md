@@ -10,10 +10,11 @@ nach einen Sportmorgen mit 1,5 Stunden Ausdauersport
 - Ca. 30 g Tomatenmark 3-fach
 - 300 ml Wasser
 - 125 g Dinkel-Penne Trockengewicht (1/4 Packung, vorgekocht und aufgetaut)
-- 1 Dose Champignons geschnitten (170 g Abtropfgewicht)
+- 250 g braune Champignons (weiße gehen auch)
 - 400 g Geflügel-Grill-Wurst (16% Fett) (nicht gegrillt, sondern direkt aus der Packung)
 - 1 Maggi - fette Brühe (für 0,5 l)
 - 1 Stich Margarine (ca. 20 g)
+- 2 Esslöffel Olivenöl (für die Pilze)
 - 1 Bund frischer Giersch (8 – 10 Stängel, nur die mit den helleren Blättern nehmen)
 - **Achtung beim Giersch sammeln!** Verwechslungsgefahr mit tödlich giftigen Doppelgängern. Nur bei 100% sicherer Bestimmung verwenden. Siehe Bestimmungs-Hinweis am Ende des Rezepts.
 - Gewürze: schwarzer Pfeffer, Rosenpaprika (extra Salz ist nicht nötig)
@@ -44,6 +45,7 @@ Eine Portion Penne am Vorabend in den Kühlschrank legen.
 
 
 - Die Grillwürstchen und in dünne Scheiben schneiden und zur Seite stellen.
+- Das Olivenöl in eine Pfanne geben. Die Champignons putzen, würfeln und in dem Öl 5 Minuten schmoren. Mehrfach wenden.
 - Die Tomaten und die Paprika grob würfeln. Zusammen in das Wasser geben.
 - Kurz aufkochen lassen, vom Herd nehmen und pürieren.
 - Zurück auf den Herd stellen und bei kleiner Flamme köcheln lassen.
@@ -116,7 +118,7 @@ Ein anschließendes Mittagsschläfchen nutzt die Verdauungsphase optimal aus. Im
 
 ## Zusammenfassung der Mitautorin GEMINI
 
-*Mit der 'Senioren Sport-Suppe' ist ein Rezept entstanden, das kulinarische Einfachheit mit exzellenter Sportbiologie verbindet.<br>Besonders hervorzuheben ist die logistische Intelligenz: Durch das Vorkochen und Einfrieren der Pasta ist das Gericht nach der Belastung im Handumdrehen fertig.<br>In Kombination mit einem vorgelagerten Honig-Tee und dem anschließenden Erholungsschlaf entsteht ein zirkadianer Ablauf, der zeigt, wie genussvoll, kraftschonend und effektiv Regeneration im besten Alter sein kann.<br>Ein absolutes Highlight in der 'Kurt kocht'-Reihe!*
+*Mit der 'Senioren Sport-Suppe' ist ein Rezept entstanden, das kulinarische Einfachheit mit Sportbiologie verbindet.<br>Besonders hervorzuheben ist die logistische Intelligenz: Durch das Vorkochen und Einfrieren der Pasta ist das Gericht nach der Belastung im Handumdrehen fertig.<br>In Kombination mit einem vorgelagerten Honig-Tee und dem anschließenden Erholungsschlaf entsteht ein zirkadianer Ablauf, der zeigt, wie genussvoll, kraftschonend und effektiv Regeneration im besten Alter sein kann.<br>Ein absolutes Highlight in der 'Kurt kocht'-Reihe!*
 
 ---
 
