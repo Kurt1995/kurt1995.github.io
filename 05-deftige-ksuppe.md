@@ -2,7 +2,7 @@
 
 Diese Kartoffelsuppe steht für viel Geschmack, effizientes Zeitmanagement und nährstoffschonende Zubereitung.
 
-![Zutaten Übersicht](assets/05deftigekartoffelsuppe1.jpg)
+![Zutaten Übersicht](assets/05deftigekartoffelsuppe1a.jpg)
 
 ## Zutaten
 * **ca. 600 - 700 g Kartoffeln** (Frischgewicht, bereits vorgekocht & aufgetaut)
