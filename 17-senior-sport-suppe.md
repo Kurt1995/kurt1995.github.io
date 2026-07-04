@@ -104,7 +104,8 @@ Ein anschließendes Mittagsschläfchen nutzt die Verdauungsphase optimal aus. Im
 
 ### Mikronährstoffe (Die biologischen Zündstoffe)
 
-- **Natrium / Salz:** Hoher Gehalt für die Regeneration nach schweißtreibendem Sport. Durch Schwitzen geht Salz verloren. Die Brühe und Wurst liefern reichlich Natrium. *Hinweis: Bei Bluthochdruck, Herz- oder Nierenerkrankung die Brühe durch salzreduzierte Gemüsebrühe ersetzen und die Wurst-Menge halbieren. Dann ist kein extra Salz nötig. Im Zweifel Rücksprache mit dem Arzt.*
+- **Natrium / Salz:** Hoher Gehalt für die Regeneration nach schweißtreibendem Sport. Durch Schwitzen geht Salz verloren. Die Brühe und Wurst liefern reichlich Natrium.<br>
+*Hinweis: Bei Bluthochdruck, Herz- oder Nierenerkrankung die Brühe durch salzreduzierte Gemüsebrühe ersetzen und die Wurst-Menge halbieren. Dann ist kein extra Salz nötig. Im Zweifel Rücksprache mit dem Arzt.*
 
 - **Vitamin C:** Bis zu 100 % der empfohlenen Tagesmenge (RDA). Geliefert durch die frischen Tomaten, Paprika und den Giersch. Es kurbelt die Kollagensynthese zur Regeneration von Sehnen und Bändern an.
 
