@@ -2,7 +2,7 @@
 
 <br>
 
-![Zutaten für Fruchtige Nudelpfanne Bayrische-Art](assets/18-nudel-bayer-1e.jpg)
+![Zutaten für Fruchtige Nudelpfanne Bayrische-Art](assets/18-nudel-bayer-1.jpg)
 
 ### Zutaten
 
