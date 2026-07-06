@@ -19,7 +19,7 @@
 ### Zubereitung (2-mal):
 - 6 Tomaten halbieren.
 - 1 Steak in die Pfanne geben und die Tomatenstücke herumlegen.
-- Auf kleiner bis mittlerer Flamme ca. 3-4 Min. jede Seite mit Deckel schmoren, einmal wenden.
+- Auf kleiner bis mittlerer Flamme jede Seite ca. 3-4 Minuten mit Deckel schmoren, einmal wenden.
 - Hinweis: Abhängig von der Dicke des Steaks, frisch oder gefroren, der zugeführten Hitze kann die Garzeit deutlich länger sein.
 - Das Steak aus der Pfanne nehmen und an der dicksten Stlle anschneiden. Es sollte innen nicht mehr rot sein. Sonst noch weiter garen.
 - Die Pfanne vom Herd nehmen und Steak, Tomaten und den Sud auf einem vorgewärmten Teller anrichten.
