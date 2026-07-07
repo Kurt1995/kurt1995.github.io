@@ -6,7 +6,7 @@
 
 ### Zutaten für 2 Portionen
 
-- Frische Zucchini (ca. 700 g - 800 g)
+- Zucchini (ca. 700-800 g)
 - 1 kleine Zwiebel
 - 150 g Hackfleisch (halb und halb)
 - 125 g (Trockengewicht, entspricht ¼ Packung) Dinkel-Penne
@@ -55,7 +55,7 @@
 
 | und am Abend | ein Süppchen |
 | :---: | :--- |
-| ![09bluhmenkohlpfanne4.jpg](assets/24-zucch-nudel-11.jpg) | **Am Abend schmeckt ein Rest als Süppchen.** <br><br> Sollte von der der Zucchini-Nudel Pfanne etwas übrig bleiben, lässt sich daraus mit minimalem Aufwand eine leichte Abendvariante zaubern. <br><br> **Schnelle Zubereitung:** <br> • **Basis**: Die verbliebenen Reste in eine Suppenschale geben. <br> • **Aufgießen**: Mit heißer Brühe aufgießen und servieren. |
+| ![09bluhmenkohlpfanne4.jpg](assets/24-zucch-nudel-11.jpg) | **Am Abend schmeckt ein Rest als Süppchen.** <br><br> Sollte von der Zucchini-Nudel Pfanne etwas übrig bleiben, lässt sich daraus mit minimalem Aufwand eine leichte Abendvariante zaubern. <br><br> **Schnelle Zubereitung:** <br> • **Basis**: Die verbliebenen Reste in eine Suppenschale geben. <br> • **Aufgießen**: Mit heißer Brühe aufgießen und servieren. |
 
 ---
 
@@ -85,7 +85,7 @@ Es ersetzt nicht das ausreichende Trinken über den Tag, aber es unterstützt di
 | Energie | ca. 860 kcal | ausgewogen für eine Hauptmahlzeit |
 | Eiweiß | ca. 40 g | Hackfleisch (18g/100g) + Käseanteil |
 | Fett | ca. 50 g | Aus Hackfleisch, Käse und Olivenöl |
-| Kohlenhydrate | ca. 58 g | aus Dinkel-Penne und Gemüse |
+| Kohlenhydrate | ca. 55 g | aus Dinkel-Penne und Gemüse |
 | Ballaststoffe | ca. 7 g | durch Zucchini und Penne |
 | Calcium | ca. 900 mg | ca. 90% Tagesbedarf durch Käse |
 | Eisen | mittel | durch Fleisch |
