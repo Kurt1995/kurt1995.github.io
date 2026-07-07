@@ -55,7 +55,7 @@
 
 | und am Abend | ein Süppchen |
 | :---: | :--- |
-| ![09bluhmenkohlpfanne4.jpg](assets/24-zucch-nudel-10.jpg) | **Am Abend schmeckt ein Rest als Süppchen.** <br><br> Sollte von der der Zucchini-Nudel Pfanne etwas übrig bleiben, lässt sich daraus mit minimalem Aufwand eine leichte Abendvariante zaubern. <br><br> **Schnelle Zubereitung:** <br> • **Basis**: Die verbliebenen Reste in eine Suppenschale geben. <br> • **Aufgießen**: Mit heißer Brühe aufgießen und servieren. |
+| ![09bluhmenkohlpfanne4.jpg](assets/24-zucch-nudel-11.jpg) | **Am Abend schmeckt ein Rest als Süppchen.** <br><br> Sollte von der der Zucchini-Nudel Pfanne etwas übrig bleiben, lässt sich daraus mit minimalem Aufwand eine leichte Abendvariante zaubern. <br><br> **Schnelle Zubereitung:** <br> • **Basis**: Die verbliebenen Reste in eine Suppenschale geben. <br> • **Aufgießen**: Mit heißer Brühe aufgießen und servieren. |
 
 ---
 
