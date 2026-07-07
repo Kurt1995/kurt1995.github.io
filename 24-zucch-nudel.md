@@ -82,14 +82,34 @@ Es ersetzt nicht das ausreichende Trinken über den Tag, aber es unterstützt di
 
 | Kategorie | Geschätzter Wert | Bemerkung |
 |-----------|------------------|-----------|
-| Energie | ca. 750 kcal | ausgewogen für eine Hauptmahlzeit |
-| Eiweiß | ca. 32 g | Hackfleisch (18 g / 100 g) + Käseanteil |
-| Fett | ca. 45-50 g | Aus Hackfleisch, Käse und Olivenöl |
-| Kohlenhydrate | ca. 45 g | aus Dinkel-Penne |
-| Ballaststoffe | ca. 5 g | durch Zucchini und Penne |
-| Calcium | hoch | durch Käse |
+| Energie | ca. 860 kcal | ausgewogen für eine Hauptmahlzeit |
+| Eiweiß | ca. 40 g | Hackfleisch (18g/100g) + Käseanteil |
+| Fett | ca. 50 g | Aus Hackfleisch, Käse und Olivenöl |
+| Kohlenhydrate | ca. 58 g | aus Dinkel-Penne und Gemüse |
+| Ballaststoffe | ca. 7 g | durch Zucchini und Penne |
+| Calcium | ca. 900 mg | ca. 90% Tagesbedarf durch Käse |
 | Eisen | mittel | durch Fleisch |
 | Natrium | moderat | durch Fondor und Käse |
+
+## Geschätzte Vitamingehalte pro Portion
+
+*Berechnung für eine Portion*
+
+| Vitamin | Geschätzter Wert | % des Tagesbedarfs* | Hauptquelle |
+|---------|------------------|---------------------|-------------|
+| Vitamin A (RAE) | ca. 820 µg | 103% | Tilsiter, Zucchini |
+| Vitamin C | ca. 32 mg | 40% | Zucchini, nach dem Garen |
+| Vitamin D | ca. 1,6 µg | 11% | Tilsiter |
+| Vitamin E | ca. 3 mg | 25% | Olivenöl |
+| Vitamin K | ca. 32 µg | 43% | Zucchini, Olivenöl |
+| Vitamin B1 (Thiamin) | ca. 0,25 mg | 23% | Dinkel-Penne, Hackfleisch |
+| Vitamin B2 (Riboflavin) | ca. 0,75 mg | 68% | Tilsiter, Hackfleisch |
+| Vitamin B6 | ca. 0,45 mg | 32% | Hackfleisch, Zucchini, Tilsiter |
+| Vitamin B12 | ca. 4,0 µg | 160% | Tilsiter, Hackfleisch |
+| Niacin (B3) | ca. 7,5 mg | 47% | Hackfleisch, Penne, Tilsiter |
+| Folsäure (B9) | ca. 75 µg | 38% | Zucchini, Dinkel-Penne, Tilsiter |
+
+*% des Tagesbedarfs basierend auf den Referenzwerten für Erwachsene
 
 ---
 
