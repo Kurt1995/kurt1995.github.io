@@ -49,17 +49,13 @@
 - Die Pfanne vom Feuer nehmen (kann auch auf ganz kleiner Flamme warmgehalten werden) und servieren.
 - Ein Nachwürzen mit Salz ist wahrscheinlich nicht erforderlich.
 
+![Serviert](assets/24-zucch-nudel-10.jpg)
+
 ---
 
-## Und am Abend
-
-### ein Süppchen
-
-Am Abend schmeckt ein Rest als Süppchen. Sollte von der Zucchini-Nudel Pfanne etwas übrig bleiben, lässt sich daraus mit minimalem Aufwand eine leichte Abendvariante zaubern.
-
-**Schnelle Zubereitung:**
-- Basis: Die verbliebenen Reste in eine Suppenschale geben.
-- Aufgießen: Mit heißer Brühe aufgießen und servieren.
+| und am Abend | ein Süppchen |
+| :---: | :--- |
+| ![09bluhmenkohlpfanne4.jpg](assets/24-zucch-nudel-10.jpg) | **Am Abend schmeckt ein Rest als Süppchen.** <br><br> Sollte von der der Zucchini-Nudel Pfanne etwas übrig bleiben, lässt sich daraus mit minimalem Aufwand eine leichte Abendvariante zaubern. <br><br> **Schnelle Zubereitung:** <br> • **Basis**: Die verbliebenen Reste in eine Suppenschale geben. <br> • **Aufgießen**: Mit heißer Brühe aufgießen und servieren. |
 
 ---
 
