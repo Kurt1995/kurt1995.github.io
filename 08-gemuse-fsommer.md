@@ -49,7 +49,7 @@ Zutaten (für 2 Personen)
 - Paprika und Zucchini mit dem Wasser aufsetzen und bei mittlerer Hitze kurz aufkochen.  
 - Auf kleine Flamme schalten und 2 Minuten sanft ziehen lassen.  
 - Die drei grob gewürfelten Tomaten dazugeben und den Topf vom Herd nehmen.  
-- Das Gemüse gründlich pürieren.  
+- Das Gemüse pürieren.  
 - Das Ei, die Margarine, das Gehackte und den Brühwürfel hineingeben - noch nicht verrühren.  
 - Bei kleiner Flamme 2 Minuten durchwärmen, dann alles vorsichtig mischen.  
 - Weitere 3 Minuten bei schwacher Hitze garen, bis das Gehackte durch ist.  
