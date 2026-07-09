@@ -117,8 +117,7 @@ Beim späteren Essen bricht das Eigelb auf und verbindet sich direkt mit den Din
 
 - Hitzeschutz für Vitamine: Das Gemüse wird nur ganz kurz angekocht und dann sofort püriert.  
   Der Giersch wandert sogar komplett roh ganz am Ende in den Topf.  
-  Dadurch bleiben die extrem hitzeempfindlichen Vitamine (insbesondere das  
-  Vitamin C) bestmöglich erhalten.  
+  Dadurch bleiben die extrem hitzeempfindlichen Vitamine (insbesondere das Vitamin C) bestmöglich erhalten.  
 
 ---
 
