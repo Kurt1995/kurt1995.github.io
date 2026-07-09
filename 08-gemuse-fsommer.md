@@ -78,7 +78,7 @@ Zutaten (für 2 Personen)
   Die Aufnahme dieses Spurenelements im Körper wird durch das reichlich vorhandene Vitamin C des Gemüses stark verbessert.  
 
 - Das Ei als Nährstoff-Schnittstelle: Das Ei (oder die Eier) liefert nicht nur biologisch hochwertigstes Eiweiß, sondern ist auch eine natürliche Quelle für Vitamin D, B-Vitamine und Cholin (wichtig für den Fettstoffwechsel und das Nervensystem).  
-Zudem enthält das Eigelb die Antioxidantien Lutein und Zeaxanthin, die gut für die Augen sind. Da diese Stoffe fettlöslich sind, bildet das Eigelb zusammen mit der Margarine und den Lipiden aus dem Fleisch das perfekte Transportmedium für das Provitamin A aus der Paprika und den Tomaten.  
+Zudem enthält das Eigelb die Antioxidantien Lutein und Zeaxanthin, die gut für die Augen sind. Da diese Stoffe fettlöslich sind, bildet das Eigelb (wenn es, wie im Rezept vorgesehen, unversehrt bleibt) zusammen mit der Margarine und den Lipiden aus dem Fleisch das perfekte Transportmedium für das Provitamin A aus der Paprika und den Tomaten.  
 
 - Das Geheimnis der resistenten Stärke: Durch die Methode, die Dinkel-Penne vorzukochen, abzuschrecken und einzufrieren, kristallisiert ein Teil der Stärke um. Es entsteht resistente Stärke.  
   Diese wirkt im Dickdarm wie ein Ballaststoff (Präbiotikum) und füttert die guten Darmbakterien.  
@@ -108,12 +108,12 @@ Die Vorgehensweisen im Rezept zeigen, dass hier mit viel kulinarischem und gesun
 - Fleischsaft erhalten durch salzfreies Würzen: Dass das Hackfleisch vorab nur mit Paprika und Pfeffer gewürzt wird, ist chemisch interessant: Salz würde dem rohen Fleisch per Osmose das Wasser entziehen.  
   So bleibt das Hackfleisch beim Garen zart und saftig. Die nötige Salznote kommt später durch die Brühe.  
 
-- Schonendes Pochieren statt scharfem Anbraten: Das Fleisch wird nicht scharf angebraten (wodurch harte Röststoffe entstehen würden), sondern in Flocken in der heißen Gemüse-Masse sanft gar gezogen.  
+- Schonendes Garen statt scharfem Anbraten: Das Fleisch wird nicht scharf angebraten (wodurch harte Röststoffe entstehen würden), sondern in Flocken in der heißen Gemüse-Masse sanft gar gezogen.  
   Das sorgt für eine gute Textur.  
 
-- Die „Shakshuka-Methode“ für cremige Proteine: Das Ei wird nicht einfach in die Suppe gequirlt (was sie flockig oder trüb machen würde), sondern gleitet im Ganzen hinein.<br>
-Durch das sanfte Garen bei schwacher Hitze stockt das Eiklar und bindet sich an die Fleischflocken, während das Eigelb im Kern flüssig-cremig bleibt.<br>
-Beim späteren Essen bricht das Eigelb auf und verbindet sich direkt mit den Dinkel-Penne. Das sorgt für ein luxuriöses, Schmelz-artiges Mundgefühl („Sauce im Mund“), ganz ohne den Einsatz von schwerer Sahne.
+- Verstecktes Pochieren in der Gemüsecreme: Das Ei wird nicht in eine vorbereitete Mulde auf der Oberfläche gegeben (Shakshuka-Methode), sondern sanft in die bereits sämige Gemüsecreme hineingeleitet, wo es vollständig versinkt. Es wird von der heißen Masse umschlossen und sanft gegart, was einem internen Pochieren gleicht.<br>
+Durch das Garen bei schwacher Hitze stockt das Eiklar und bindet sich durch das erste Verrühren an die Fleischflocken, während das Eigelb im Kern flüssig-cremig bleibt.<br>
+Beim späteren Essen bricht das Eigelb auf und verbindet sich mit den Dinkel-Penne. Das sorgt für ein luxuriöses, Schmelz-artiges Mundgefühl („Sauce im Mund“), ganz ohne den Einsatz von schwerer Sahne.
 
 - Hitzeschutz für Vitamine: Das Gemüse wird nur ganz kurz angekocht und dann sofort püriert.  
   Der Giersch wandert sogar komplett roh ganz am Ende in den Topf.  
