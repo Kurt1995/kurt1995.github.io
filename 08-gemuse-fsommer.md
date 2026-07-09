@@ -77,6 +77,9 @@ Zutaten (für 2 Personen)
 - Eisen-Synergie: Das Hackfleisch liefert hochwertiges Häm-Eisen.  
   Die Aufnahme dieses Spurenelements im Körper wird durch das reichlich vorhandene Vitamin C des Gemüses stark verbessert.  
 
+- Das Ei als Nährstoff-Schnittstelle: Das Ei (oder die Eier) liefert nicht nur biologisch hochwertigstes Eiweiß, sondern ist auch eine natürliche Quelle für Vitamin D, B-Vitamine und Cholin (wichtig für den Fettstoffwechsel und das Nervensystem).  
+Zudem enthält das Eigelb die Antioxidantien Lutein und Zeaxanthin, die gut für die Augen sind. Da diese Stoffe fettlöslich sind, bildet das Eigelb zusammen mit der Margarine und den Lipiden aus dem Fleisch das perfekte Transportmedium für das Provitamin A aus der Paprika und den Tomaten.  
+
 - Das Geheimnis der resistenten Stärke: Durch die Methode, die Dinkel-Penne vorzukochen, abzuschrecken und einzufrieren, kristallisiert ein Teil der Stärke um. Es entsteht resistente Stärke.  
   Diese wirkt im Dickdarm wie ein Ballaststoff (Präbiotikum) und füttert die guten Darmbakterien.  
   Der Blutzuckerspiegel steigt nach dem Essen viel flacher an.  
@@ -107,6 +110,10 @@ Die Vorgehensweisen im Rezept zeigen, dass hier mit viel kulinarischem und gesun
 
 - Schonendes Pochieren statt scharfem Anbraten: Das Fleisch wird nicht scharf angebraten (wodurch harte Röststoffe entstehen würden), sondern in Flocken in der heißen Gemüse-Masse sanft gar gezogen.  
   Das sorgt für eine gute Textur.  
+
+- Die „Shakshuka-Methode“ für cremige Proteine: Das Ei wird nicht einfach in die Suppe gequirlt (was sie flockig oder trüb machen würde), sondern gleitet im Ganzen hinein.<br>
+Durch das sanfte Garen bei schwacher Hitze stockt das Eiklar und bindet sich an die Fleischflocken, während das Eigelb im Kern flüssig-cremig bleibt.<br>
+Beim späteren Essen bricht das Eigelb auf und verbindet sich direkt mit den Dinkel-Penne. Das sorgt für ein luxuriöses, Schmelz-artiges Mundgefühl („Sauce im Mund“), ganz ohne den Einsatz von schwerer Sahne.
 
 - Hitzeschutz für Vitamine: Das Gemüse wird nur ganz kurz angekocht und dann sofort püriert.  
   Der Giersch wandert sogar komplett roh ganz am Ende in den Topf.  
