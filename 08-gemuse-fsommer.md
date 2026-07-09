@@ -9,7 +9,8 @@ Zutaten (für 2 Personen)
 - 4 Tomaten (ca. 300 g)  
 - 2 rote Paprika (ca. 250 g)  
 - Ein Stück Zucchini (Kühlschrankrest)  
-- 1 Bund Giersch (frisch gepflückt – nur die mit hellen Blättern) - ***Achtung!*** *Hinweis am Ende des Rezepts beachten* 
+- 1 Bund Giersch (frisch gepflückt – nur die mit hellen Blättern) - ***Achtung!*** *Hinweis am Ende des Rezepts beachten*
+- *Wenn kein Giersch verfügbar ist, schmeckt auch Schnittlauch*
 - 150 g Gehacktes (halb & halb)  
 - 1 oder 2 Eier  
 - 300 ml Wasser (für die Creme)  
@@ -35,7 +36,6 @@ Zutaten (für 2 Personen)
 - Die Paprika und die Zucchini putzen und grob würfeln.  
 - Drei der Tomaten ebenfalls grob würfeln, die vierte fein würfeln.  
 - Das Gehackte mit Paprikapulver und schwarzem Pfeffer würzen und gut durchmengen. In Flocken zupfen.  
-- Das Ei (die Eier) in eine Tasse aufschlagen und verquirlen.  
 - Den Giersch gründlich abspülen und kleinhacken (die grünen Teile der Stiele können auch verwendet werden).  
 
 <br>
@@ -49,13 +49,13 @@ Zutaten (für 2 Personen)
 - Paprika und Zucchini mit dem Wasser aufsetzen und bei mittlerer Hitze kurz aufkochen.  
 - Auf kleine Flamme schalten und 2 Minuten sanft ziehen lassen.  
 - Die drei grob gewürfelten Tomaten dazugeben und den Topf vom Herd nehmen.  
-- Das Gemüse pürieren.  
-- Das Ei, die Margarine, das Gehackte und den Brühwürfel hineingeben - noch nicht verrühren.  
-- Bei kleiner Flamme 2 Minuten durchwärmen, dann alles vorsichtig mischen.  
-- Weitere 3 Minuten bei schwacher Hitze garen, bis das Gehackte durch ist.  
-- Die Penne und die klein geschnittene Tomate unterheben. Kurz köcheln lassen.  
-- Den Topf vom Feuer nehmen, den Giersch einrühren und servieren.  
-- Am Tisch nach Geschmack mit schwarzem Pfeffer und Salz nachwürzen.  
+- Das Gemüse mit schwarzem Pfeffer würzen und pürieren.  
+- Die Margarine, das Gehackte und den Brühwürfel hineingeben. Das Ei (die Eier) in die Creme hineingleiten lassen - noch nicht verrühren.  
+- Bei kleiner Flamme 2 Minuten durchwärmen, dann alles vorsichtig mischen (das/die Eigelb gerne unversehrt lassen).  
+- Weitere 3 Minuten bei schwacher Hitze garen, bis das Gehackte durch ist (das/die Eigelb sind dann noch cremig).  
+- Die Penne und die klein geschnittene Tomate unterheben. Kurz erwärmen lassen.  
+- Den Topf vom Feuer nehmen, den Giersch (den Schnittlauch) einrühren und servieren.  
+- Am Tisch nach Geschmack mit etwas Salz nachwürzen.  
 
 ![Gemüse-Creme Frühsommer – Bild 4](assets/08-gemuse-fsommer-4.jpg)
 
