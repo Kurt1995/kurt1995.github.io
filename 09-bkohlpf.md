@@ -18,8 +18,8 @@ Diese Pfanne ist ein ideales Beispiel für intelligentes Meal-Prep. Durch das Bl
 ## Zubereitung
 
 ### Langfristvorbereitung
-1. **Blumenkohl**: Putzen, in Röschen (inkl. Stiele) schneiden und 2 - 3 Minuten in ungesalzenem Wasser blanchieren. <br> [(das Blanchieren anschauen)](31-blum-blanch.md)
-2. **Zwiebeln**: In Streifen schneiden, ebenfalls blanchieren. Beides zusammen abkühlen lassen und einfrieren.
+1. **Blumenkohl**: Putzen, in Röschen (inkl. Stiele) schneiden und ca. 4 Minuten in ungesalzenem Wasser blanchieren. <br> [(das Blanchieren anschauen)](31-blum-blanch.md)
+2. **Zwiebeln**: In Streifen schneiden, ebenfalls blanchieren, aber nur kurz. Beides zusammen abkühlen lassen und einfrieren.
 3. **Pasta**: Das Blanchierwasser salzen, eine Packung Penne darin vorkochen und portionsweise einfrieren.
 4. **Fleisch**: Den Grill-Rest der Dicken Rippe würfeln und ebenfalls einfrieren.
 
@@ -28,9 +28,9 @@ Diese Pfanne ist ein ideales Beispiel für intelligentes Meal-Prep. Durch das Bl
 ### Zubereitung am Verzehrtag
 1. **Auftauen**: Alle vorbereiteten Zutaten am Vorabend im Kühlschrank schonend auftauen lassen.
 2. **Pilze:** Pilze putzen und würfeln.
-3. **Anschwitzen**: Olivenöl im Wok erhitzen. Die Pilze und die Blumenkohl-Zwiebel-Mischung ca. 5 Minuten bei mittlerer Hitze schmoren (häufig wenden).
+3. **Anschwitzen**: Olivenöl im Wok erhitzen. Die Pilze und die Blumenkohl-Zwiebel-Mischung ca. 6-8 Minuten bei mittlerer Hitze schmoren (häufig wenden).
 4. **Würzen**: Mit Fondor und schwarzem Pfeffer abschmecken.
-5. **Finalisieren**: Nudeln und Fleisch hinzufügen und weitere 5 Minuten unter mehrmaligem Wenden durchgaren.
+5. **Finalisieren**: Nudeln und Fleisch hinzufügen und weitere 2-3 Minuten unter mehrmaligem Wenden durchgaren.
 6. **Servieren**: Direkt vom Feuer nehmen und idealerweise auf einem Stövchen servieren, um ein schnelles Abkühlen zu vermeiden.
 
 ![Bild: Zutaten Blumenkohl Pfanne](assets/09bluhmenkohlpfanne3.jpg)
