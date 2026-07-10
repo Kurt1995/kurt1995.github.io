@@ -7,13 +7,13 @@
 * Den Blumenkohl halbieren, putzen und in Röschen zerteilen.
 * Den Strunk zerteilen und in dünne Scheiben (Blumenkohl-Chips) schneiden.
 * Ausreichend Wasser zum Sieden bringen; dabei kein Salz hinzufügen.
-* Den Blumenkohl in das siedende Wasser schütten, untertauchen und ca. 2-3 Minuten im heißen Wasser lassen.
+* Den Blumenkohl in das siedende Wasser schütten, untertauchen und ca. 4 Minuten im heißen Wasser lassen.
 * Danach entnehmen, in eine Gefrierdose füllen und gut 2 Minuten offen stehen lassen.
 * Die Dose verschließen und noch handwarm tiefgefrieren.
 
 ---
 
-### Warum 2-3 Minuten beim Blumenkohl ideal sind
+### Warum 4 Minuten beim Blumenkohl ideal sind
 
 Im Gegensatz zum Brokkoli erfordert die kompakte Zellstruktur des Blumenkohls eine angepasste Strategie, um eine perfekte Textur und einen milden Geschmack zu garantieren.
 
