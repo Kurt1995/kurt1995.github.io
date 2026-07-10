@@ -15,7 +15,7 @@ nach einen Sportmorgen mit 1,5 Stunden Ausdauersport
 - 1 Maggi - fette Brühe (für 0,5 l)
 - 1 Stich Margarine (ca. 20 g)
 - 2 Esslöffel Olivenöl (für die Pilze)
-- 1 Bund frischer Giersch (8 – 10 Stängel, nur die mit den helleren Blättern nehmen)
+- 1 Bund frischer Giersch (8 – 10 Stängel, nur die mit den helleren Blättern nehmen) - alternativ: Schnittlauch
 - **Achtung beim Giersch sammeln!** Verwechslungsgefahr mit tödlich giftigen Doppelgängern. Nur bei 100% sicherer Bestimmung verwenden. Siehe Bestimmungs-Hinweis am Ende des Rezepts.
 - Gewürze: schwarzer Pfeffer, Rosenpaprika (extra Salz ist nicht nötig)
 
