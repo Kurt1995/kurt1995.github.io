@@ -50,9 +50,10 @@ Zutaten (für 2 Personen)
 - Auf kleine Flamme schalten und 2 Minuten sanft ziehen lassen.  
 - Die drei grob gewürfelten Tomaten dazugeben und den Topf vom Herd nehmen.  
 - Das Gemüse mit schwarzem Pfeffer würzen und pürieren.  
-- Die Margarine, das Gehackte und den Brühwürfel hineingeben. Das Ei (die Eier) in die Creme hineingleiten lassen - noch nicht verrühren.  
-- Bei kleiner Flamme 2 Minuten durchwärmen, dann alles vorsichtig mischen (das/die Eigelb gerne unversehrt lassen).  
-- Weitere 3 Minuten bei schwacher Hitze garen, bis das Gehackte durch ist (das/die Eigelb sind dann noch cremig).  
+- Die Margarine, das Gehackte und den Brühwürfel hineingeben. Das Ei (die Eier) in die Creme hineingleiten lassen - noch nicht verrühren.
+- *Bei zu frühem Rühren wird das Eigelb zerstört. Dann entsteht ein nichtssagender Brei ohne Geschmacksüberraschungen.*
+- Bei kleiner Flamme 3 Minuten durchwärmen, dann alles vorsichtig mischen.  
+- Weitere 2 Minuten bei schwacher Hitze garen, bis das Gehackte durch ist (das/die Eigelb sind dann noch cremig).  
 - Die Penne und die klein geschnittene Tomate unterheben. Kurz erwärmen lassen.  
 - Den Topf vom Feuer nehmen, den Giersch (den Schnittlauch) einrühren und servieren.  
 - Am Tisch nach Geschmack mit etwas Salz nachwürzen.  
@@ -112,7 +113,7 @@ Die Vorgehensweisen im Rezept zeigen, dass hier mit viel kulinarischem und gesun
   Das sorgt für eine gute Textur.  
 
 - Verstecktes Pochieren in der Gemüsecreme: Das Ei wird nicht in eine vorbereitete Mulde auf der Oberfläche gegeben (Shakshuka-Methode), sondern sanft in die bereits sämige Gemüsecreme hineingeleitet, wo es vollständig versinkt. Es wird von der heißen Masse umschlossen und sanft gegart, was einem internen Pochieren gleicht.<br>
-Durch das Garen bei schwacher Hitze stockt das Eiklar und bindet sich durch das erste Verrühren an die Fleischflocken, während das Eigelb im Kern flüssig-cremig bleibt.<br>
+Durch das Garen bei schwacher Hitze stockt das Eiklar, während das Eigelb im Kern flüssig-cremig bleibt.<br>
 Beim späteren Essen bricht das Eigelb auf und verbindet sich mit den Dinkel-Penne. Das sorgt für ein luxuriöses, Schmelz-artiges Mundgefühl („Sauce im Mund“), ganz ohne den Einsatz von schwerer Sahne.
 
 - Hitzeschutz für Vitamine: Das Gemüse wird nur ganz kurz angekocht und dann sofort püriert.  
