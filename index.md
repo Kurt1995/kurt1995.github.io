@@ -14,12 +14,12 @@
 | [Blumenkohl Pfanne](09-bkohlpf.md) | [Nudeln in Winter-Tomate](08-nudelinwt.md) |
 | [Gemüsepfanne mit Reis](11-gemmitreis.md) | [Verlorenes Ei in Winter-Tomate](15-ei-in-wtomate.md) |
 | [Zwiebelpfanne mit Nudeln](13-zwiebel-nudel-pf.md) | [Gemüse-Creme „Frühsommer“](08-gemuse-fsommer.md) |
-| [Fruchtige Nudelpfanne Lasagne-Art](18-nudel-lasag.md) | [Suppe mit Hähnchenmägen](14-maegensuppe.md) |
-| [Fruchtige Nudelpfanne Bayrische-Art](18-nudel-bayer.md) | Gehaltvolle Zucchini-Paprika Creme |
-| [Zucchini-Nudel Pfanne](24-zucch-nudel.md) | [Senioren Sport-Suppe](17-senior-sport-suppe.md) |
-| [Tomatenrunde mit Steak](22-tomate-steak.md) | [Dorschleber auf Vollkornbrot](23-dleber-vollkorn.md) |
-|  |  [Opa Salat](06-opa-salat.md) |
-|  |  |
+| [Fruchtige Nudelpfanne Lasagne-Art](18-nudel-lasag.md) | [Spargel al dente](25-spargel-aldente.md) |
+| [Fruchtige Nudelpfanne Bayrische-Art](18-nudel-bayer.md) | [Suppe mit Hähnchenmägen](14-maegensuppe.md) |
+| [Zucchini-Nudel Pfanne](24-zucch-nudel.md) | Gehaltvolle Zucchini-Paprika Creme |
+| [Tomatenrunde mit Steak](22-tomate-steak.md) | [Senioren Sport-Suppe](17-senior-sport-suppe.md) |
+|  | [Dorschleber auf Vollkornbrot](23-dleber-vollkorn.md) |
+|  | [Opa Salat](06-opa-salat.md) |
 |  |  |
 | .. und ab und zu ein | Protein Boost |
 | [Pasta in bianco mit Garnelen](47-pasta-garnelen.md) | [Dicke Rippe](12-dickerippe.md) |
