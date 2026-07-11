@@ -1,4 +1,5 @@
 # Kurt kocht &nbsp; - &nbsp; Spargel al dente
+erste Gedanken zum Rezept
 
 Zutaten:
 
@@ -15,6 +16,6 @@ ich habe ganz frischen Spargel in der Truhe - wenn der nächste Besuch kommt ..<
 und ja:
 - ich koche den Spargel in einer dünnen Brühe (kein zusätzliches Salz ins Wasser)
 - eine Messerspitze Zucker ins Wasser
-- die Spargel al dente - biegen sich leicht bis mittel
+- die Spargelstangen al dente - biegen sich leicht bis mittel
 - am Tisch Butter/Margarine, Salz, eine Prise Muskatnuss - sonst nichts
 - als Beilagen, Kartoffeln, Eier, gek, Schinken
