@@ -13,7 +13,7 @@ Zutaten:
 
 ich habe ganz frischen Spargel in der Truhe - wenn der nächste Besuch kommt ..
 und ja:
-- ich koche den Spargel in einer dünnen Brühe  
+- ich koche den Spargel in einer dünnen Brühe (kein zusätzliches Salz ins Wasser)
 - eine Messerspitze Zucker ins Wasser
 - die Spargel al dente - biegen sich leicht bis mittel
 - am Tisch Butter/Margarine, Salz, eine Prise Muskatnuss - sonst nichts
