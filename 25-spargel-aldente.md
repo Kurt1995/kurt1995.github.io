@@ -1,11 +1,13 @@
 # Kurt kocht &nbsp; - &nbsp; Spargel al dente
-erste Gedanken zum Rezept
+### *erste Gedanken zum Rezept*
 
-Zutaten für 3 Personen:
+<br>
 
-- Frischer weißer Spargel
+## Zutaten für 3 Personen:
+
+- 1 kg frischer weißer Spargel (ungeschält)
 - *Wenn er tiefgefroren aus der Truhe kommt, nicht auftauern*
-- ca. 3 Liter Wasser (passt für ca. 800 g geschälten Spargel)
+- ca. 3 Liter Wasser in einem ausreichend großen Topf
 - 1 Brühwürfel
 - Messerspitze Zucker
 - Butter/Margarine
@@ -18,4 +20,4 @@ und ja:
 - eine Messerspitze Zucker ins Wasser
 - die Spargelstangen al dente - biegen sich leicht bis mittel
 - am Tisch Butter/Margarine, Salz, eine Prise Muskatnuss - sonst nichts
-- als Beilagen, Kartoffeln, Eier, gek, Schinken
+- als Beilagen: Kartoffeln, Eier, gek, Schinken
