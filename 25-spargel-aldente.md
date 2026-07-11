@@ -1,7 +1,7 @@
 # Kurt kocht &nbsp; - &nbsp; Spargel al dente
 erste Gedanken zum Rezept
 
-Zutaten:
+Zutaten für 3 Personen:
 
 - Frischer weißer Spargel
 - *Wenn er tiefgefroren aus der Truhe kommt, nicht auftauern*
