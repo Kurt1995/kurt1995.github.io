@@ -8,12 +8,13 @@ Zutaten (für 2 Personen)
 
 - 4 Tomaten (ca. 300 g)  
 - 2 rote Paprika (ca. 250 g)  
-- Ein Stück Zucchini (Kühlschrankrest)  
-- 1 Bund Giersch (frisch gepflückt – nur die mit hellen Blättern) - ***Achtung!*** *Hinweis am Ende des Rezepts beachten*
-- *Wenn kein Giersch verfügbar ist, schmeckt auch Schnittlauch*
+- Ein Stück Zucchini (Kühlschrankrest, sollte aber nicht zu groß sein)  
+- 1 Bund Giersch (frisch gepflückt – nur die mit hellen Blättern)
+- ***Achtung!*** *Giersch kann mit giftigen Doppelgängern verwechselt werden! Hinweis am Ende des Rezepts beachten*
+- Wenn kein Giersch verfügbar ist, schmeckt auch Schnittlauch
 - 150 g Gehacktes (halb & halb)  
 - 1 oder 2 Eier  
-- 300 ml Wasser (für die Creme)  
+- 300-400 ml Wasser (für die Creme)  
 - 125 g Dinkel-Penne (1 Portion aus dem Vorrat)  
 - 1 Brühwürfel (Fette Brühe)  
 - Ein guter  Stich Margarine (ca. 30 g)  
