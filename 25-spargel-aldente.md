@@ -12,7 +12,7 @@ Zutaten:
 - Salz
 - Prise Muskatnuss
 
-ich habe ganz frischen Spargel in der Truhe - wenn der nächste Besuch kommt ..<br>
+ich habe ganz frischen Spargel in der Truhe ..<br>
 und ja:
 - ich koche den Spargel in einer dünnen Brühe (kein zusätzliches Salz ins Wasser)
 - eine Messerspitze Zucker ins Wasser
