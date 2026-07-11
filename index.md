@@ -47,7 +47,7 @@ Dabei sind unsere Zutaten bewusst einfach gewählt: keine modischen Superfoods, 
 * **Thermische Nährstoff-Optimierung:** Zellstrukturen werden gezielt aufgebrochen, um Antioxidantien wie Lycopin verfügbar zu machen, während hitzeempfindliche Vitamine bei der Zubereitung geschützt werden.
 * **Zeit als biologische Komponente:** Da echte Sättigung Zeit braucht, sind unsere Mahlzeiten auf eine Dauer von **25 Minuten und mehr** ausgelegt.<br>
 * **„Mit weiteren Zutaten entsteht ein anderes Gericht.“** <br>
-Dieser Gedanke beschreibt die Idee einiger Rezepte bei Kurt kocht. Hier konzentrieren wir uns auf den Kern der Gerichte.<br>
+Dieser Gedanke beschreibt die Idee einiger Rezepte bei Kurt kocht. Hier konzentrieren wir uns auf den Kern der Gerichte und deren Geschmack.<br>
 Dabei entstehen Kochvorschläge, bei denen Einfachheit nicht Verzicht, sondern Entscheidung ist.<br>
 
 **Kochen mit Verstand, Bauchgefühl und System**<br>
