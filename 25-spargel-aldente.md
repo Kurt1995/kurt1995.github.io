@@ -6,7 +6,7 @@
 ## Zutaten für 3 Personen:
 
 - 1 kg frischer weißer Spargel (ungeschält)
-- *Wenn er tiefgefroren aus der Truhe kommt, nicht auftauern*
+- *Wenn er geschält und tiefgefroren aus der Truhe kommt, nicht auftauern*
 - ca. 3 Liter Wasser in einem ausreichend großen Topf
 - 1 Brühwürfel
 - Messerspitze Zucker
