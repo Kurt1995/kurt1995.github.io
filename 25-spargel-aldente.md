@@ -8,7 +8,7 @@
 - 1 kg frischer weißer Spargel (ungeschält)
 - *Wenn er geschält und tiefgefroren aus der Truhe kommt, nicht auftauern*
 - ca. 3 Liter Wasser in einem ausreichend großen Topf
-- 1 Brühwürfel
+- 2 Brühwürfel
 - Messerspitze Zucker
 - Butter/Margarine
 - Salz
