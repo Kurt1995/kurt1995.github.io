@@ -21,7 +21,7 @@
 |  | [Opa Salat](06-opa-salat.md) |
 |  |  |
 | Für den Abend | [Dorschleber auf Vollkornbrot](23-dleber-vollkorn.md) |
-|  | [Lachskaviar auf Vollkornbrot](26-l-kaviar-brot.md.md) |
+|  | [Lachskaviar auf Vollkornbrot](26-l-kaviar-brot.md) |
 |  |  |
 | Und ab und zu ein | Protein Boost |
 | [Pasta in bianco mit Garnelen](47-pasta-garnelen.md) | [Dicke Rippe](12-dickerippe.md) |
