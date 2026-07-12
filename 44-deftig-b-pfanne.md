@@ -35,7 +35,6 @@
 
 ---
 
-Die Schritte 1 – 4 können in der Garzeit angepasst werden – je nach gewünschtem Biss des Brokkoli  
 <table>
   <tr>
     <td><img src="assets/44-deftig-b-Pfanne-02.jpg" width="100%"></td>
@@ -53,7 +52,6 @@ Die Schritte 1 – 4 können in der Garzeit angepasst werden – je nach gewüns
 
 ---
 
-### Es ist angerichtet
 ![Servieren](assets/44-deftig-b-Pfanne-10.jpg)
 
 ---
