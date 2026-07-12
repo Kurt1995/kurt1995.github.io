@@ -9,8 +9,8 @@
 | :--- | :--- |
 | [Zucchini Pasta](02-zucchini-pasta.md) | [Spaghetti mit fruchtiger Wildkräuter-Bolo](46-spaghetti-f-bolo.md) |
 | [Bunte Pilzpfanne](03-bunte-pilzpfanne.md) | [Deftige Kartoffelsuppe](05-deftige-ksuppe.md)  |
-| [Leichte Brokkoli-Pfanne](04-brokkolipfanne.md)  | [Zucchini-Paprika-Creme mit Leber](07-zupaleber.md) |
-| Deftige Brokkoli-Pfanne | [Tomaten-Topf mit Huhn](45-tomate-huhn.md) |
+| [Leichte Brokkoli-Pfanne](04-brokkolipfanne.md) | [Zucchini-Paprika-Creme mit Leber](07-zupaleber.md) |
+| [Deftige Brokkoli-Pfanne](44-deftig-b-pfanne.md) | [Tomaten-Topf mit Huhn](45-tomate-huhn.md) |
 | [Blumenkohl Pfanne](09-bkohlpf.md) | [Nudeln in Winter-Tomate](08-nudelinwt.md) |
 | [Gemüsepfanne mit Reis](11-gemmitreis.md) | [Verlorenes Ei in Winter-Tomate](15-ei-in-wtomate.md) |
 | [Zwiebelpfanne mit Nudeln](13-zwiebel-nudel-pf.md) | [Gemüse-Creme „Frühsommer“](08-gemuse-fsommer.md) |
