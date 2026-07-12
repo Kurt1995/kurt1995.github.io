@@ -62,7 +62,7 @@ Berechnung: zwei Scheiben Vollkornbrot, jeweils mit Margarine und ca. 60 g Lac
 ## So schmeckt es dann - Kurt:<br>
 „Dieser ‚poor man's caviar‘ hat einen erstaunlich Kaviar ähnlichen Geschmack und Biss.<br>
 Aber er ruft nach Einhegung.<br>
-Das Vollkornbrot schafft das - jedoch immer wieder gereizt durch den spitzen und frechen Kaviar Geschmack.<br>
+Das Vollkornbrot schafft das - jedoch immer wieder gereizt durch den frechen Kaviar Geschmack.<br>
 Eine interessante Kombination, unverstellt durch weitere Zutaten.“
 
 ---
