@@ -5,12 +5,11 @@ Dieses Rezept ist ein Beispiel für „Volume Eating“ – eine große Portion 
 ![Zutaten Übersicht](assets/04brokkolipfanne1.jpg)
 
 ## Zutaten
-* **125 g Vollkornpenne** (vorgekocht)
 * **500 g Brokkoli**
-* **200 g frische Champignons**
-* **ca. 30 g Parmesan**
+* **125 g Vollkornpenne** (Trockenmenge)
+* **ca. 30 g Parmesan** (gerieben)
 * **Olivenöl**
-* **Gewürze:** Schwarzer Pfeffer, Salz, Teriyaki-Sauce, Fondor-Gewürzmischung
+* **Gewürze:** Schwarzer Pfeffer, Teriyaki-Sauce, Fondor-Gewürzmischung
 
 ---
 
@@ -24,15 +23,13 @@ Dieses Rezept ist ein Beispiel für „Volume Eating“ – eine große Portion 
 * **Schonendes Auftauen:** Am Abend vor dem Verzehr eine Portion Penne und eine Portion Brokkoli in den Kühlschrank stellen.
 
 ### 2. Zubereitung am Verzehrtag
-1. **Anbraten:** 4 Esslöffel Olivenöl in einer Wok-Pfanne erhitzen.
-2. **Pilze:** Die Champignons putzen und würfeln. In die Pfanne geben und kurz anschmoren.
-3. **Kombinieren:** Den aufgetauten Brokkoli hinzugeben.
-4. **Würzen:** Alles mit einigen Spritzern Teriyaki-Sauce, schwarzem Pfeffer und Fondor würzen.
-5. **Garen:** Auf mittlerer Flamme für 7–10 Minuten schmoren und garen. Dabei mehrmals umrühren. Zwischendurch die Vollkornpenne dazugeben.
-6. **Abschluss:** Sobald der Brokkoli die gewünschte Weichheit erreicht hat, die Flamme herunterregeln.
-7. **Servieren:** Auf einem vorgewärmten Teller anrichten und mit dem geriebenen Parmesan bestreuen.
-8. **Das Stövchen-Prinzip:** Den feuerfesten Teller auf ein Stövchen stellen. Dies ermöglicht ein langsames, entspanntes Essen, ohne dass Textur und Geschmack durch Abkühlen leiden.
-
+1. **Anbraten:** 4 Esslöffel Olivenöl in einer Wok-Pfanne erhitzen und den aufgetauten Brokkoli hinzugeben.
+2. **Würzen:** Mit einigen Spritzern Teriyaki-Sauce, schwarzem Pfeffer und Fondor würzen.
+3. **Garen:** Auf mittlerer Flamme für 7–10 Minuten schmoren und garen. Dabei mehrmals umrühren. Zwischendurch die Vollkornpenne dazugeben.
+4. **Abschluss:** Sobald der Brokkoli die gewünschte Weichheit erreicht hat, die Flamme herunterregeln.
+5. **Servieren:** Auf einem vorgewärmten Teller anrichten und mit dem geriebenen Parmesan bestreuen.
+6. **Das Stövchen-Prinzip:** Den feuerfesten Teller auf ein Stövchen stellen. Dies ermöglicht ein langsames, entspanntes Essen, ohne dass Textur und Geschmack durch Abkühlen leiden.
+ 
 | Guten | Appetit |
 | :---: | :---: |
 | ![brokkolipfanne2.jpg](assets/04brokkolipfanne2.jpg) | ![brokkolipfanne3.jpg](assets/04brokkolipfanne3.jpg) |
@@ -51,10 +48,9 @@ Dieses Rezept ist ein Beispiel für „Volume Eating“ – eine große Portion 
 
 * **Sulforaphan-Power:** Brokkoli ist eine der besten Quellen für Senföle (Sulforaphan), die stark antioxidativ wirken und die Entgiftungsenzyme der Leber unterstützen.
 * **Resistente Stärke:** Durch das Vorkochen und anschließende Einfrieren der Penne entsteht durch Retrogradation resistente Stärke. Diese wirkt wie ein Ballaststoff: Sie hält den Blutzuckerspiegel stabil, füttert die gesunden Darmbakterien und reduziert die tatsächlich aufgenommene Kalorienmenge der Pasta ein wenig.
-* **Pilz-Power & Umami:** Die Champignons liefern nicht nur wertvolle B-Vitamine und Mineralstoffe, sondern sorgen durch das Anbraten für einen herzhaften Umami-Geschmack, der durch die Teriyaki-Sauce und den Parmesankäse noch verstärkt wird.
 * **Vitaminkonservierung:** Durch das kurze Blanchieren bleiben die hitzeempfindlichen Vitamine (besonders Vitamin C und Folsäure) im Brokkoli fast vollständig erhalten.
-* **Ballaststoff-Maximum:** Die 500 g Brokkoli und die Pilze liefern zusammen mit der Vollkornpasta eine enorme Menge an Ballaststoffen für eine langanhaltende Sättigung und einen stabilen Blutzuckerspiegel.
-* **Vitamin-K-Bombe:** Die Kombination aus Brokkoli (Vitamin K) und dem Kalzium aus dem Parmesan ist ideal für den Knochenerhalt.
+* **Ballaststoffe:** Die 500 g Brokkoli liefern zusammen mit der Vollkornpasta eine enorme Menge an Ballaststoffen für eine langanhaltende Sättigung und einen stabilen Blutzuckerspiegel.
+* **Vitamin-K:** Die Kombination aus Brokkoli (Vitamin K) und dem Kalzium aus dem Parmesan ist ideal für den Knochenerhalt.
 * **Synergie der Zutaten:** Das hochwertige Olivenöl sorgt dafür, dass die fettlöslichen Vitamine des Gemüses optimal aufgenommen werden.
 * **Slow Eating:** Das Warmhalten durch ein Stövchen unterstützt ein langsames, gesundes Essen.
 
@@ -67,15 +63,9 @@ Dieses Rezept ist ein Beispiel für „Volume Eating“ – eine große Portion 
 ---
 
 ### Zusammenfassung von Mitautorin GEMINI
-Das hier beschriebene Verfahren bricht mit der klassischen „Frisch-in-die-Pfanne“-Doktrin und nutzt stattdessen die physikalischen Vorteile der Kristallisation. Durch das kurze Blanchieren und das anschließende Einfrieren im handwarmen Zustand wird eine kontrollierte Texturveränderung erreicht: Die harten Pflanzenfasern (besonders der geschälten Stiele) werden mürbe, während das Chlorophyll farbstabil bleibt.
-
-Das Ergebnis nach dem Pfannen-Finish – bei dem die Pilze durch scharfes Anbraten ihr volles Aroma entfalten – ist in Kombination mit Olivenöl, schwarzem Pfeffer, Teriyaki und Fondor ein gesundes Gericht mit viel Umami-Geschmack bei gleichzeitig perfektem, individuellem Biss – ein Paradebeispiel für intelligentes Meal-Prep. 
-
-Tipp von GEMINI:  
-Für eine noch sämigere Textur und ein gesteigertes Sättigungsgefühl können am Ende der Garzeit zwei frische Eier untergehoben werden. Noch einmal kurz hochheizen, bis die Eier stocken. Die Eier binden die Aromen und rücken die Pasta geschmacklich stärker in den Fokus, ohne die Frische des Brokkolis zu überlagern. Gegebenenfalls mit einer Prise Salz nachjustieren. 
-
-Nährwert-Hinweis: 
-Durch die zwei Eier (ca. 150-180 kcal zusätzlich) wandert die Mahlzeit nun in den Bereich von gut 1.000 kcal. Das ist für ein „Volume Eating“-Gericht mit 500 g Brokkoli immer noch eine exzellente Bilanz für eine Hauptmahlzeit, die lange satt hält. 
+Das hier beschriebene Verfahren bricht mit der klassischen „Frisch-in-die-Pfanne“-Doktrin und nutzt stattdessen die physikalischen Vorteile der Kristallisation.<br>
+Durch das kurze Blanchieren und das anschließende Einfrieren des Brokkoli im handwarmen Zustand wird eine kontrollierte Texturveränderung erreicht: Die harten Pflanzenfasern (besonders die der geschälten Stiele) werden mürbe, während das Chlorophyll farbstabil bleibt.<br>
+Das Ergebnis nach dem Pfannen-Finish ist in Kombination mit Olivenöl, schwarzem Pfeffer, Teriyaki und Fondor ein gesundes Gericht mit viel Umami-Geschmack bei gleichzeitig perfektem, individuellem Biss – ein Beispiel für intelligentes Meal-Prep. 
  
 ---
 [← Zurück zur Übersicht](index.md)
