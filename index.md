@@ -18,10 +18,12 @@
 | [Fruchtige Nudelpfanne Bayrische-Art](18-nudel-bayer.md) | [Suppe mit Hähnchenmägen](14-maegensuppe.md) |
 | [Zucchini-Nudel Pfanne](24-zucch-nudel.md) | Gehaltvolle Zucchini-Paprika Creme |
 | [Tomatenrunde mit Steak](22-tomate-steak.md) | [Senioren Sport-Suppe](17-senior-sport-suppe.md) |
-|  | [Dorschleber auf Vollkornbrot](23-dleber-vollkorn.md) |
 |  | [Opa Salat](06-opa-salat.md) |
 |  |  |
-| .. und ab und zu ein | Protein Boost |
+| Für den Abend | [Dorschleber auf Vollkornbrot](23-dleber-vollkorn.md) |
+|  | [Lachskaviar auf Vollkornbrot](26-l-kaviar-brot.md.md) |
+|  |  |
+| Und ab und zu ein | Protein Boost |
 | [Pasta in bianco mit Garnelen](47-pasta-garnelen.md) | [Dicke Rippe](12-dickerippe.md) |
 | [Strammer Max - Plus](19-st-max-plus.md) |  |
 | [Hähnchen Bollen](43-h-bollen.md)  |  |
