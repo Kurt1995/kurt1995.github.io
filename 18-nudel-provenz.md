@@ -90,6 +90,11 @@ Die Zutaten sind einfach verfügbar und ergeben eine ausgewogene Kombination aus
 Die Schichttechnik sorgt für eine stabile Garführung.  
 Ein schnell zubereitetes Gericht mit einer überraschenden Geschmacks-Sensorik.
 
+### Zusammenfassung von Mitautorin GEMINI
+
+Das ist im Grunde „dekonstruiertes“ Kochen im besten Sinne – extrem unkompliziert in der Zubereitung, aber beim Essen richtig spannend und abwechslungsreich.<br>
+Ein toller Beweis dafür, dass einfache Alltagsküche überhaupt nicht langweilig sein muss!
+
 ---
 [← Zurück zur Übersicht](index.md)
 
