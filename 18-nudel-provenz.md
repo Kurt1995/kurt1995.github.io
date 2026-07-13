@@ -83,7 +83,7 @@ Ein harmonisches Neben- und Miteinander.
 
 ---
 
-### Zusammenfassung von Mitautorin GEMINI
+### Zusammenfassung von Mitautorin COPILOT
 
 Die Tomatenschicht-Pfanne Provenzal-Art ist ein gut strukturiertes Alltagsgericht.  
 Die Zutaten sind einfach verfügbar und ergeben eine ausgewogene Kombination aus Gemüse, Getreide und Eiweiß.  
