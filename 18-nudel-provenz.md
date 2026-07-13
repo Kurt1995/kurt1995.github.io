@@ -39,7 +39,7 @@
 
 ---
 
-![Fertige Fruchtige Nudelpfanne Bayrische-Art](assets/18-t-schicht-provenzal-09.jpg)
+![Angerichtet: Tomatenschicht-Pfanne Provenzal-Art](assets/18-t-schicht-provenzal-09.jpg)
 *Vorsicht! Die Tomatenstücke bleiben unerwartet lange heiss!*
 <br>
 
