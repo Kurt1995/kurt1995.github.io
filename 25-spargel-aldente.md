@@ -21,3 +21,6 @@ und ja:
 - die Spargelstangen al dente - biegen sich leicht bis mittel
 - am Tisch Butter/Margarine, Salz, eine Prise Muskatnuss - sonst nichts
 - als Beilagen: Kartoffeln, Eier, gek, Schinken
+
+---
+[← Zurück zur Übersicht](index.md)
