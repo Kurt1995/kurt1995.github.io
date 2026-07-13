@@ -29,7 +29,7 @@
 
 1.  Das Olivenöl in die Pfanne geben.
 2.  Die Tomaten in dicke Scheiben schneiden und den Pfannenboden auslegen.
-3.  Die Paprika in ganz kleine Würfel schneiden dazugeben.
+3.  Die Paprika in ganz kleine Würfel schneiden, dazugeben.
 4.  Den Frischkäse darüber verteilen und alles kräftig mit schwarzem Pfeffer würzen.
 5.  Das Gehackte nach Geschmack würzen (Salz, Pfeffer, ..) und in Flocken hinzugeben.
 6.  Alles mit den Nudeln bedecken.
