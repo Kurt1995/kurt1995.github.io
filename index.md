@@ -5,7 +5,7 @@
 
 ---
 
-| <h3>Pfanne</h3> | <h3>Teller  &middot; Topf &middot; Schüssel &middot; Grill</h3> |
+| <strong style="font-size:1.4em; display:block;">Pfanne</strong> | <h3>Teller  &middot; Topf &middot; Schüssel &middot; Grill</h3> |
 | :--- | :--- |
 | TOMATE & SOMMERGEMÜSE | TOMATE & SOMMERGEMÜSE |
 | [Zucchini Pasta](02-zucchini-pasta.md) | [Spaghetti mit fruchtiger Wildkräuter-Bolo](46-spaghetti-f-bolo.md) |
