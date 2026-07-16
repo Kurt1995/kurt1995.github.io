@@ -89,6 +89,7 @@ Basiert auf den Zutaten: 600g Tomaten, 100g rote Paprika, 80g Zwiebel, 130g Hack
 - Kohlenhydrate: ca. 132,6 g (davon Ballaststoffe: ca. 18,5 g)
 - Protein (Eiweiß): ca. 53,5 g
 - Fett: ca. 43,3 g (hauptsächlich ungesättigte Fettsäuren aus Olivenöl)
+
 #### Mikronährstoffe (Schätzung):
 - Vitamin C: ca. 160 mg (über 150 % des Tagesbedarfs, vor allem durch Paprika & Tomaten)
 - Kalium: ca. 2.100 mg (wichtig für Blutdruck und Muskeln)
