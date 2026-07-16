@@ -83,7 +83,7 @@ Das Ergebnis ist ein abwechslungsreiches Mundgefühl, bei dem man mit jedem Biss
 
 ### Hauptnährwerte für das Gesamtgericht
 
-Basiert auf den Zutaten: 600g Tomaten, 100g rote Paprika, 80g Zwiebel, 130g Hackfleisch gemischt, 125g Dinkel-Penne (Trockengewicht), 250g Champignons, 15g Olivenöl (ca. 1,5 EL).
+Basiert auf den Zutaten: 600g Tomaten, 100g rote Paprika, 80g Zwiebel, 130g Hackfleisch gemischt, 125g Dinkel-Penne (Trockengewicht), 200g Champignons, 15g Olivenöl (ca. 1,5 EL).
 #### Makronährstoffe
 - Energie (Kalorien): ca. 1.102 kcal
 - Kohlenhydrate: ca. 132,6 g (davon Ballaststoffe: ca. 18,5 g)
