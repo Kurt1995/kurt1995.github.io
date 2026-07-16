@@ -11,7 +11,7 @@
 - **1 Zwiebel**
 - **130 g Gehacktes**, gemischt (halb und halb)
 - **125 g Dinkel-Penne** (Trockenmenge)
-- **250 g Champignons**
+- **200 g Champignons**
 - **2 Esslöffel Olivenöl**
 - **Gewürze**: Salz, schwarzer Pfeffer
 
