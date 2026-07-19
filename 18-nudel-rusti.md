@@ -9,7 +9,7 @@
 - **Tomaten** (ca. 600 g)
 - **1 rote Paprika** (ich nehme nur eine Hälfte für das Gericht)
 - **1 Zwiebel**
-- **130 g Gehacktes**, gemischt (halb und halb)
+- **130 g Hackfleisch**, gemischt (halb und halb)
 - **125 g Dinkel-Penne** (Trockenmenge)
 - **200 g Champignons**
 - **3 Esslöffel Olivenöl**
@@ -33,10 +33,10 @@
 3.  Die Zwiebel putzen, in dünne Scheiben schneiden und die Tomaten belegen.
 4.  Die Paprika in ganz kleine Würfel schneiden, dazugeben.
 5.  Die Pilze klein würfeln und in der Pfanne verteilen.
-6.  Das Gehackte nach Geschmack würzen (Salz, Pfeffer) und in Flocken hinzugeben.
+6.  Das Hackfleisch nach Geschmack mit Salz, Pfeffer würzen und in Flocken hinzugeben.
 7.  Mit den Nudeln bedecken.
 8.  7 – 8 Minuten bei mittlerer Hitze mit Deckel schmoren / garen.
-9.  Wenn das Hackfleisch gar ist, die Pfanne vom Feuer nehmen (kann auch auf ganz kleiner Flamme warm gehalten werden) und servieren.
+9.  Wenn das Hack gar ist, die Pfanne vom Feuer nehmen (kann auch auf ganz kleiner Flamme warm gehalten werden) und servieren.
 10.  Am Tisch nach Geschmack mit etwas Salz nachwürzen.
 
 ---
