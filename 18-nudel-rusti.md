@@ -6,13 +6,13 @@
 
 ### Zutaten
 
-- **Frische Tomaten** (ca. 500-600 g)
-- **1 rote Paprika**
+- **Tomaten** (ca. 600 g)
+- **1 rote Paprika** (ich nehme nur eine Hälfte für das Gericht)
 - **1 Zwiebel**
 - **130 g Gehacktes**, gemischt (halb und halb)
 - **125 g Dinkel-Penne** (Trockenmenge)
 - **200 g Champignons**
-- **2 Esslöffel Olivenöl**
+- **3 Esslöffel Olivenöl**
 - **Gewürze**: Salz, schwarzer Pfeffer
 
 ### Zubereitung
@@ -33,14 +33,13 @@
 3.  Die Zwiebel putzen, in dünne Scheiben schneiden und die Tomaten belegen.
 4.  Die Paprika in ganz kleine Würfel schneiden, dazugeben.
 5.  Die Pilze klein würfeln und in der Pfanne verteilen.
-6.  Das Gehackte nach Geschmack würzen (Salz, Pfeffer, ..) und in Flocken hinzugeben.
-7.  Alles mit den Nudeln bedecken.
+6.  Das Gehackte nach Geschmack würzen (Salz, Pfeffer) und in Flocken hinzugeben.
+7.  Mit den Nudeln bedecken.
 8.  7 – 8 Minuten bei mittlerer Hitze mit Deckel schmoren / garen.
 9.  Wenn das Hackfleisch gar ist, die Pfanne vom Feuer nehmen (kann auch auf ganz kleiner Flamme warm gehalten werden) und servieren.
 10.  Am Tisch nach Geschmack mit etwas Salz nachwürzen.
 
 ---
-![Tomatenschicht-Pfanne Rustikale-Art](assets/18-t-schicht-rusti-08.jpg)
 
 ![Angerichtet](assets/18-t-schicht-rusti-09.jpg)
 *Vorsicht! Die Tomatenstücke bleiben unerwartet lange heiss!*
@@ -50,49 +49,42 @@
 
 ### GEMINI's Gesundheitscheck: Warum dieses Gericht punktet
 
-1. Komplexe Kohlenhydrate & Sättigung (Dinkel-Penne): Dinkel-Penne liefert im Vergleich 
-zu klassischen Hartweizennudeln mehr Ballaststoffe, hochwertiges Eiweiß und wichtige 
-Mineralstoffe (wie Magnesium und Eisen). Sie lässt den Blutzuckerspiegel nur langsam 
-ansteigen, was Heißhungerattacken vorbeugt.
-2. Lycopin durch geschmorte Tomaten: Tomaten sind reich an Lycopin (einem starken 
-Antioxidans). Das Geniale: Lycopin wird durch das Erhitzen und die Zugabe von Fett 
-(Olivenöl) für den menschlichen Körper erst richtig gut bioverfügbar. 
-3. Das Zwiebel-Geheimnis (Aromatische Dominanz): Durch das Schneiden in dünne 
-Scheiben garen die Zwiebeln in der kurzen Zeit glasig und weich. Da sie auf den Tomaten 
-liegend im heißen Wasserdampf gedämpft statt scharf angebraten werden, verbrennen 
-sie nicht und behalten ihre ätherischen Öle. 
-4. Schonendes Garen im eigenen Saft (Dampf-Effekt): Dadurch, dass die Zutaten 
-geschichtet und bei geschlossenem Deckel gegart werden, dämpfen das Hackfleisch und 
-die Pilze im aufsteigenden Saft der Tomaten und Zwiebeln. Vitamine und Mineralstoffe 
-bleiben in der Pfanne gefangen nicht verloren.
-5. Gute Fettqualität: Natives Olivenöl Extra liefert reichlich einfach ungesättigte Fettsäuren 
-(Ölsäure), die entzündungshemmend wirken und das Herz-Kreislauf-System schützen.
+1. Komplexe Kohlenhydrate & Sättigung (Dinkel-Penne): Dinkel-Penne liefert im Vergleich zu klassischen Hartweizennudeln mehr Ballaststoffe, hochwertiges Eiweiß und wichtige 
+Mineralstoffe (wie Magnesium und Eisen).
+2. Resistente Stärke: Durch das Abkühlen und erneute Erwärmen der Dinkel‑Penne entsteht ein kleiner Anteil resistenter Stärke (ca. 1,5–2 g).<br>
+Sie wirkt präbiotisch und kann den Blutzuckeranstieg minimal abmildern.
+3. Lycopin durch geschmorte Tomaten: Tomaten sind reich an Lycopin (einem starken Antioxidans). Dieses Lycopin wird durch das Erhitzen und die Zugabe von Fett 
+(Olivenöl) für den menschlichen Körper gut bioverfügbar. 
+4. Das Zwiebel-Geheimnis: Durch das Schneiden in dünne Scheiben garen die Zwiebeln in der kurzen Zeit glasig und weich.<br>
+Da sie auf den Tomaten 
+liegend im heißen Wasserdampf gedämpft statt scharf angebraten werden, verbrennen sie nicht und behalten ihre ätherischen Öle. 
+5. Schonendes Garen im eigenen Saft (Dampf-Effekt): Dadurch, dass die Zutaten geschichtet und bei geschlossenem Deckel gegart werden, dämpfen das Hackfleisch und 
+die Pilze im aufsteigenden Saft der Tomaten und Zwiebeln.<br>
+Vitamine und Mineralstoffe bleiben in der Pfanne gefangen und gehen nicht verloren.
+6. Gute Fettqualität: Natives Olivenöl Extra liefert reichlich einfach ungesättigte Fettsäuren (Ölsäure), die entzündungshemmend wirken und das Herz-Kreislauf-System schützen.
 
 ---
 
 ### Praxis Check: So schmeckt es dann
-Sensorisch lebt dieses Gericht vom Zusammenspiel seiner drei Hauptspieler: Zwiebel, Hackfleisch und Tomate.<br>
-Die anderen Zutaten fungieren im Hintergrund. Sie runden das Gericht ab, verbinden und geben zusätzlichen Biss.<br>
-Je nachdem, wie der Löffel / die Gabel beladen ist, verschieben sich die Nuancen beim Essen. 
-Sobald alle Komponenten zusammenkommen, gibt es jedoch einen klaren Sieger: die Zwiebel.<br>
-Durch das dünne Schneiden und das schonende Garen im Dampf wird sie glasig und weich. Dabei entwickelt sie ihre aromatische Süße mit einer feinen, minimalen Restschärfe.<br>
-Tomate und Hackfleisch teilen sich geschmacklich den zweiten Platz: Sie bleiben präsent, rücken aber gegenüber der dominanten Zwiebel in die zweite Reihe.<br>
-Das Ergebnis ist ein abwechslungsreiches Mundgefühl, bei dem man mit jedem Bissen ein anderes Geschmackserlebnis bekommt.
+Sensorisch lebt dieses Gericht vom Zusammenspiel seiner drei Hauptspieler: Tomate, Hackfleisch und Zwiebel.<br>
+Die anderen Zutaten bleiben im Hintergrund. Sie runden das Gericht ab, verbinden und geben zusätzlichen Biss.<br>
+Je nachdem, wie der Löffel / die Gabel beladen ist, verschieben sich die Geschmacksnuancen beim Essen.<br>
+Das Ergebnis ist ein abwechslungsreiches Mundgefühl, bei dem man mit jedem Bissen ein anderes Gaumenerlebnis bekommt.
 
 ---
 
 ### Hauptnährwerte für das Gesamtgericht
 
-Basiert auf den Zutaten: 600g Tomaten, 100g rote Paprika, 80g Zwiebel, 130g Hackfleisch gemischt, 125g Dinkel-Penne (Trockengewicht), 200g Champignons, 15g Olivenöl (ca. 1,5 EL).
+Basiert auf den Zutaten: 600g Tomaten, 100g rote Paprika, 80g Zwiebel, 130g Hackfleisch gemischt, 125g Dinkel-Penne (Trockengewicht), 200g Champignons, 30g Olivenöl (ca. 3 EL).
 #### Makronährstoffe
-- Energie (Kalorien): ca. 1.102 kcal
-- Kohlenhydrate: ca. 132,6 g (davon Ballaststoffe: ca. 18,5 g)
-- Protein (Eiweiß): ca. 53,5 g
-- Fett: ca. 43,3 g (hauptsächlich ungesättigte Fettsäuren aus Olivenöl)
+- Energie (Kalorien): ca. 1.100 kcal
+- Kohlenhydrate: ca. 130 g (davon Ballaststoffe: ca. 17 g)
+- Protein (Eiweiß): ca. 52 g
+- Fett: ca. 43 g (hauptsächlich ungesättigte Fettsäuren aus Olivenöl)
 
 #### Mikronährstoffe (Schätzung):
-- Vitamin C: ca. 160 mg (über 150 % des Tagesbedarfs, vor allem durch Paprika & Tomaten)
-- Kalium: ca. 2.100 mg (wichtig für Blutdruck und Muskeln)
+- Vitamin C: ca. 150 mg (über 150 % des Tagesbedarfs, vor allem durch Paprika & Tomaten)
+- Kalium: ca. 2.000 mg (wichtig für Blutdruck und Muskeln)
 - Lycopin: ca. 20 mg (stark entzündungshemmend)
 
 ---
