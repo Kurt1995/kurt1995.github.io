@@ -66,7 +66,7 @@ Vitamine und Mineralstoffe bleiben in der Pfanne gefangen und gehen nicht verlor
 ---
 
 ### Praxis Check: So schmeckt es dann
-Sensorisch lebt dieses Gericht vom Zusammenspiel seiner drei Hauptspieler: Tomate, Hackfleisch und Zwiebel.<br>
+Sensorisch lebt dieses saftige Gericht vom Zusammenspiel seiner drei Hauptspieler: Tomate, Hackfleisch und Zwiebel.<br>
 Die anderen Zutaten bleiben im Hintergrund. Sie runden das Gericht ab, verbinden und geben zusätzlichen Biss.<br>
 Je nachdem, wie der Löffel / die Gabel beladen ist, verschieben sich die Geschmacksnuancen beim Essen.<br>
 Das Ergebnis ist ein abwechslungsreiches Mundgefühl, bei dem man mit jedem Bissen ein anderes Gaumenerlebnis bekommt.
