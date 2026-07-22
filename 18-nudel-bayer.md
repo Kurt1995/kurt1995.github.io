@@ -91,7 +91,7 @@ Unterm Strich: Eine sättigende, nährstoffdichte Mahlzeit mit moderatem Fettant
 Saftig ist der erste Eindruck – durch das Schmoren unter dem Deckel geht keine Flüssigkeit verloren.<br>
 Die einzelnen Komponenten wirken harmonisch miteinander, kein Geschmack ist dominant.<br>
 Je nach Gabel / Löffel Beladung werden einzelne Zutaten sichtbar. Das führt zu einem abwechslungsreichen Esserlebnis.<br>
-Der kleine Trick, den Pfeffer auf die Nudeln zu geben, hebt auch diese aus der reinen Bissfunktion in den Rang einer Geschmackszutat.<br>
+Der kleine Trick, den Pfeffer auf die Nudeln zu geben, macht aus der Beilage eine weitere Geschmackszutat.<br>
 Aber dann wird das erste Eigelb aufgebrochen! Wie eine Hülle legt es sich um alle anderen Mitspieler und hegt sie intensiv ein, wow.
 
 ---
