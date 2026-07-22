@@ -1,4 +1,4 @@
-# Kurt kocht &nbsp; - &nbsp; Tomatenschicht-Pfanne "Provenzalische Art"
+# Kurt kocht &nbsp; - &nbsp; Tomaten-Schicht-Pfanne "Provenzalische Art"
 
 <br>
 
