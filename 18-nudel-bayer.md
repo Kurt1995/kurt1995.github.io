@@ -1,4 +1,4 @@
-# Kurt kocht  &nbsp; - &nbsp; Tomatenschicht-Pfanne "Bayrische Art"
+# Kurt kocht  &nbsp; - &nbsp; Tomaten-Schicht-Pfanne "Bayrische Art"
 
 <br>
 
@@ -31,11 +31,11 @@
 1.  Das Olivenöl in die Pfanne geben.
 2.  Die Tomaten in dicke Scheiben schneiden und den Pfannenboden auslegen.
 3.  Die Paprika in ganz kleine Würfel schneiden und über den Tomaten verteilen.
-4.  Mit Maggi fix, schwarzen Pfeffer und Paprikapulver würzen.
-5.  Die Pilze putzen, klein würfeln und ebenfalls in die Pfanne geben.
-6.  Alles mit den Nudeln bedecken.
-7.  Den klein gewürfelten Leberkäse darüber verteilen.
-8.  Mit Deckel auf großer Flamme 2-3 Minuten schmoren.
+4.  Mit Maggi fix und Paprikapulver würzen.
+5.  Die Pilze putzen, würfeln und ebenfalls in die Pfanne geben.
+6.  Den klein gewürfelten Leberkäse darüber verteilen.
+7.  Alles mit den Nudeln bedecken und mit schwarzen Pfeffer bestreuen.
+8.  Mit Deckel auf mittlerer bis großer Flamme 3-4 Minuten schmoren.
 9.  Die drei Eier vorsichtig einbringen.
 10.  Bei mittlerer Hitze mit Deckel garen, bis das Eiweiß stockt.
 11.  Die Pfanne vom Feuer nehmen (kann auch auf ganz kleiner Flamme warm gehalten werden) und servieren.
