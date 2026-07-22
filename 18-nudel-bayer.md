@@ -65,11 +65,11 @@ Unterm Strich: Eine sättigende, nährstoffdichte Mahlzeit mit moderatem Fettant
 
 | Nährwert | Geschätzte Menge | Bedeutung für den Körper |
 | --- | --- | --- |
-| **Energie** | ca. 1100 kcal <br> (je nach Zutaten) | Liefert moderate Energie. Bei 2 Portionen eine leichte bis normale Hauptmahlzeit |
-| **Kohlenhydrate** | ca. 95 g | Hauptsächlich komplexe Kohlenhydrate aus Dinkel-Penne für stabilen Blutzuckerspiegel |
-| **Eiweiß** | ca. 54 g | Sehr hoher Proteingehalt (besonders aus den Eiern mit ihrer hohen biologischen Wertigkeit) für Sättigung und Muskelerhalt |
-| **Fett** | ca. 70 g | Aus Olivenöl, Eiern und dem traditionell fetthaltigen Leberkäse. Enthält gesunde ungesättigte Fettsäuren |
-| **Ballaststoffe** | ca. 12 g | Unterstützt eine gesunde Verdauung und langanhaltende Sättigung |
+| **Energie** | ca. 1450 kcal <br> (je nach Zutaten) | Liefert moderate Energie. Bei 2 Portionen eine leichte bis normale Hauptmahlzeit |
+| **Kohlenhydrate** | ca. 115 g | Hauptsächlich komplexe Kohlenhydrate aus Dinkel-Penne für stabilen Blutzuckerspiegel |
+| **Eiweiß** | ca. 58 g | Sehr hoher Proteingehalt (besonders aus den Eiern mit ihrer hohen biologischen Wertigkeit) für Sättigung und Muskelerhalt |
+| **Fett** | ca. 80 g | Aus Olivenöl, Eiern und dem traditionell fetthaltigen Leberkäse. Enthält gesunde ungesättigte Fettsäuren |
+| **Ballaststoffe** | ca. 15 g | Unterstützt eine gesunde Verdauung und langanhaltende Sättigung |
 
 ### Wichtige Mikronährstoffe & Highlights
 
@@ -83,6 +83,16 @@ Unterm Strich: Eine sättigende, nährstoffdichte Mahlzeit mit moderatem Fettant
 | **Resistente Stärke** | Entsteht beim Abkühlen und Einfrieren der Pasta | Wirkt wie ein Ballaststoff und nährt die guten Darmbakterien |
 
 **Hinweis zum Salzgehalt**: Leberkäse bringt von Natur aus bereits relativ viel Natrium mit. Es ist daher ein guter Koch-Kniff, die Pfanne erst am Tisch nach persönlichem Bedarf zu salzen.
+
+---
+
+### Praxis Check: So schmeckt es dann
+
+Saftig ist der erste Eindruck – durch das Schmoren unter dem Deckel geht keine Flüssigkeit verloren.<br>
+Die einzelnen Komponenten wirken harmonisch miteinander, kein Geschmack ist dominant.<br>
+Je nach Gabel / Löffel Beladung werden einzelne Zutaten sichtbar. Das führt zu einem abwechslungsreichen Esserlebnis.<br>
+Der kleine Trick, den Pfeffer auf die Nudeln zu geben, hebt auch diese aus der reinen Bissfunktion in den Rang einer Geschmackszutat.<br>
+Aber dann wird das erste Eigelb aufgebrochen! Wie eine Hülle legt es sich um alle anderen Mitspieler und hegt sie intensiv ein, wow.
 
 ---
 
