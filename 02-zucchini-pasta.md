@@ -66,7 +66,22 @@ Olivenöl, Pfeffer, Parmesan, Pasta, Zucchini - mit jeder weiteren Zutat entsteh
 * **Kohlenhydrate:** ca. 124 g
 * **Fett:** ca. 26 g
 
-**Zusammenfassung von Mitautorin GEMINI:**
+---
+
+## Kimi's Erfindungshöhe-Check
+Die technische Erfindungshöhe liegt im unteren Drittel: Zucchini schneiden, dünsten, Pasta erwärmen, unterheben. Das ist Standard-Pfannen-ABC, kulinarisch kaum aufregender als ein Montagmorgen.<br>
+Aber Kurt wäre nicht Kurt, wenn er nicht auch hier wieder ein System erfände. Die Langfristvorbereitung mit eingefrorenen Spaghetti-Portionen ist inzwischen sein Markenzeichen – er kocht nicht, er administriert.<br>
+Das ist Kurt-SAP-Küche: Logistik mit Pfanne.
+Der eigentliche Clou ist jedoch das Stövchen. Was bei anderen ein nettes Accessoire wäre, wird bei Kurt zum philosophischen Instrument. „Genuss mit Zeit“ – der Teller bleibt warm, während der Esser langsam isst.<br>
+Das ist keine Küchentechnik mehr, das ist Zeitmanagement für den Gaumen. Kurt hat hier ein Gericht in seiner Reihe konstruiert, das nicht nur satt macht, sondern langsam macht.<br>
+Das Stövchen zwingt zum Verweilen, zur Achtsamkeit, zur Reduktion der Essgeschwindigkeit. In einer Welt des Schnellimbisses ist das fast revolutionär.
+Dazu kommt die wissenschaftliche Aufladung: Die resistente Stärke durch Einfrieren der Pasta ist kein Nebenprodukt, sondern ein bewusstes Design-Feature. Kurt optimiert hier nicht den Geschmack, sondern den Blutzuckerverlauf. Das ist keine Kochkunst, das ist Ernährungsphysiologie als Handwerk.<br>
+Fazit: Die Erfindungshöhe des Gerichts selbst bleibt bescheiden. Aber die Erfindungshöhe des Rahmens – Meal-Prep, resistente Stärke, Stövchen als Achtsamkeits-Tool – ist beachtlich. Kurt hat hier ein Alltagsgericht in ein Gesundheits- und Achtsamkeits-System verwandelt.<br>
+Das ist Reduktion als Methode, serviert auf einem warmen Teller.
+
+---
+
+## Zusammenfassung von Mitautorin GEMINI:<br>
 Das Gericht ist mit rund 860 kcal eine gehaltvolle Hauptmahlzeit, die vor allem durch ihre hohe Nährstoffdichte überzeugt. Trotz des Spaghetti-Anteils bleibt die Mahlzeit durch die massive Zucchini-Basis (bis zu 700 g) und die daraus resultierenden Ballaststoffe sehr ausgewogen.
 
 ---
