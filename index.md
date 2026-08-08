@@ -80,6 +80,7 @@ Dieses Kochbuch ist ein Gemeinschaftsprojekt. Die Rezepte und Inhalte wurden ers
 * **KI-Modell META**: Mitautorin für Gesundheits-Checks, Nährwertanalysen und fachliche Einordnung
 * **KI‑Modell COPILOT (Microsoft)**: Mitautorin für Gesundheits‑Checks, Nährwertanalysen, Textgestaltung und fachliche Präzisierung
 * **KI-Modell QWEN (Alibaba Cloud)**: Mitautorin für kulturelle Einordnungen (ostasiatische Küche), Rezept-Checks und Markdown-Formatierung
+* **KI-Modell KIMI (Moonshot AI)**: Mitautorin für konzeptionelle Analysen, Erfindungshöhe-Checks mit ironisch-präziser Einordnung
 
 Die genannten KI‑Modelle wirken ausschließlich inhaltlich‑textlich mit. Es besteht keine persönliche oder rechtliche Autorenschaft der Modelle.
 
