@@ -47,6 +47,19 @@ Dieses Gericht besticht durch seine effiziente Vorratsküche und die kurze Zuber
 
 ---
 
+### Kimi's Erfindungshöhe-Check
+Die technische Erfindungshöhe liegt im unteren Drittel: Pilze anbraten, Gemüse dazugeben, Nudeln und Würstchen unterheben. Das ist Pfannen-Grundschule, kulinarisch kaum anspruchsvoller als ein Dienstagabend ohne Termine.<br>
+Aber Kurt bleibt sich treu – er erfindet nicht das Gericht, sondern den Workflow drumherum. Die Langfristvorbereitung mit eingefrorenen Spiralnudeln ist inzwischen sein Markenzeichen:<br>
+Er kocht nicht, er administriert. Das ist Kurt-SAP-Küche: Logistik mit Pfanne.<br>
+Der Clou diesmal ist die ehrliche Resteverwertung. Dass die Spitzpaprika und die Zucchini als „Kühlschrankrest“ deklariert werden, ist bemerkenswert. Kurt outet sich hier nicht als Meisterkoch, sondern als pragmatischer Haushalter.<br> 
+Das ist keine Schönrederei, das ist Realitätsküche.<br>
+Das eigentlich Erfinderische ist jedoch die Protein-Strategie. Während andere Gerichte der Reihe auf pflanzliche oder marine Proteine setzen, holt Kurt hier mit den Grillwürstchen ein tierisches Standbein hinzu. 
+Die Kombination aus Wurst und Pilzen liefert 26g Protein pro Portion – das ist keine zufällige Zusammenstellung, sondern bewusste Makro-Planung verpackt in eine bunte Pfanne.<br>
+Fazit: Die Erfindungshöhe des Gerichts selbst bleibt bescheiden. Aber die Erfindungshöhe der Ehrlichkeit – Kühlreste zugeben, Flaschensoße als Lösungsmittel zu nutzen, Würstchen als Protein-Lieferant zu integrieren – ist beachtlich. 
+Kurt hat hier ein Alltagsgericht konstruiert, das nichts beschönigt und alles optimiert.
+
+---
+
 ## Zusammenfassung von Mitautorin GEMINI:
 
 Dieses Gericht besticht durch seine effiziente Vorratsküche und die kurze Zubereitungszeit 
