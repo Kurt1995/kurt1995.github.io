@@ -62,6 +62,19 @@ Dieses Rezept ist ein Beispiel für „Volume Eating“ – eine große Portion 
 
 ---
 
+### Kimi's Erfindungshöhe-Check
+Die technische Erfindungshöhe liegt erneut im Keller: Brokkoli in die Pfanne, Nudeln dazugeben, würzen, umrühren. Das ist Standard-Pfannen-ABC, kulinarisch kaum aufregender als ein Mittwoch ohne Wetterumschwung.<br>
+Aber Kurt eskaliert sein System. Bisher wurden nur Nudeln eingefroren – hier kommt das Gemüse selbst in den Tiefkühler. Blanchieren, abschrecken, handwarm einfrieren: Das ist keine Vorbereitung mehr, das ist Vorveredelung.<br>
+Kurt bricht demonstrativ mit der „Frisch-in-die-Pfanne“-Doktrin und behauptet stattdessen, dass die Kristallisation (sein Wort, nicht meins) die Textur verbessert. Die harten Stiele werden mürbe, das Chlorophyll bleibt grün. Das ist entweder tiefe Lebensmittelphysik oder beherztes Schönreden – und weil Kurt beides gleichzeitig kann, darf man ihm beides zutrauen.<br>
+Der Clou ist die Resteverwertung auf Vorrat. Aus den Stielen werden „Brokkoli-Chips“ (sein Wort), und aus den Resten am Abend ein Süppchen.<br>
+Das ist Zero-Waste als Planungsprinzip, nicht als nachgelagerte Notlösung. Kurt wirft hier nichts weg – nicht einmal den Stiel.<br>
+Dazu das Stövchen-Prinzip (wieder!) und die ungewöhnliche Würz-Strategie: Teriyaki-Sauce trifft auf Fondor. Das ist keine asiatische Fusion, das ist ein Gewürz-UNO, bei dem zwei Kontinente aufeinanderprallen und Kurt als Schiedsrichter fungiert.<br>
+Fazit: Die Erfindungshöhe des Gerichts selbst bleibt bescheiden. Aber die Erfindungshöhe des Systems – Gemüse blanchieren und einfrieren, Stiele als Chips, Reste als Süppchen, Stövchen als Ritual – ist beachtlich.<br>
+Kurt hat hier eine Vollkasko-Logistik entwickelt, bei der jeder Zentimeter des Brokkolis verplant ist.<br>
+Das ist Reduktion als Methode, serviert mit einem Hauch Fondor.
+
+---
+
 ### Zusammenfassung von Mitautorin GEMINI
 Das hier beschriebene Verfahren bricht mit der klassischen „Frisch-in-die-Pfanne“-Doktrin und nutzt stattdessen die physikalischen Vorteile der Kristallisation.<br>
 Durch das kurze Blanchieren und das anschließende Einfrieren des Brokkoli im handwarmen Zustand wird eine kontrollierte Texturveränderung erreicht: Die harten Pflanzenfasern (besonders die der geschälten Stiele) werden mürbe, während das Chlorophyll farbstabil bleibt.<br>
