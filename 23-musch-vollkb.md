@@ -4,7 +4,7 @@
 
 ![Zutaten](assets/23-musch-vollk-01.jpg)
 
-![Verzehr](assets/23-musch-vollk-03.jpg)
+![Verzehr](assets/23-musch-vollk-02.jpg)
 
 ## COPILOT’s Gesundheits-Check
 Analyse des Abendbrots
