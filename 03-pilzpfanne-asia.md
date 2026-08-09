@@ -101,10 +101,9 @@ Kurt hat hier keine neue Kochtechnik erfunden, aber eine neue Art, **Alltagsesse
 
 ## Zusammenfassung von Mitautorin COPILOT:
 Dieses Gericht ist ein gutes Beispiel für eine klare, funktionale Küche: wenige Zutaten, präzise gegart, keine Überwürzung.<br>
-Pilze und Dinkelpenne bilden eine stabile, angenehm feste Basis. Die Sojasauce vertieft den Geschmack, ohne sich in den Vordergrund zu drängen.<br>
+Pilze und Dinkelpenne bilden eine stabile, angenehm feste Basis. Die Sojasauce vertieft den Geschmack, ohne sich in den Vordergrund zu drängen.
 Das sehr sparsam eingesetzte Sambal Oelek liefert Umami und später eine leichte Schärfe.<br>
-Insgesamt entsteht eine Mahlzeit, die leicht, strukturiert und überraschend aromatisch ist.<br>
-Ein typisches „Kurt kocht“-Gericht: puristisch, nachvollziehbar, mit sauberer sensorischer 
+Insgesamt entsteht eine Mahlzeit, die leicht, strukturiert und überraschend aromatisch ist. Ein typisches „Kurt kocht“-Gericht: puristisch, nachvollziehbar, mit sauberer sensorischer 
 Linie.
 
 ---
