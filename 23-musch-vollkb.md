@@ -2,9 +2,9 @@
 
 <br>
 
-![Zutaten](assets/23-musch-vollk-01)
+![Zutaten](assets/23-musch-vollk-01.jpg)
 
-![Verzehr](assets/23-musch-vollk-03)
+![Verzehr](assets/23-musch-vollk-03.jpg)
 
 ## COPILOT’s Gesundheits-Check
 Analyse des Abendbrots
@@ -21,18 +21,12 @@ Bereich, aber nicht niedrig.
 
 Die Makronährstoffe für das gesamte Abendbrot 
 3 Scheiben Vollkornbrot à 50g, 121g Dorschleber und ca. 20 % des Öls zum Beträufeln:
-
-- **Brennwert:** ca. 720 kcal
-- **Fett:** ca. 46,0 g
-- **Kohlenhydrate:** ca. 61,1 g (davon Zucker: ca. 3,2 g)
-- **Eiweiß:** ca. 14,9 g
-- **Salz:** ca. 2,6 g
+![Verzehr](assets/23-musch-vollk-04.jpg)
 
 ## Mikronährstoff-Highlights:
 
-- **Omega-3-Fettsäuren:** Mit den verzehrten Leberstücken nimmst du eine enorme Menge an essenziellen Omega-3-Fettsäuren (EPA und DHA) auf, die optimal für Herz, Gehirn und Gefäße sind.
-- **Vitamine:** Das Gericht liefert eine kapitale Dosis an natürlichem Vitamin D (wichtig für Knochen und Immunsystem) sowie Vitamin A (essentiell für die Sehkraft und die Haut).
-- **Ballaststoffe:** Das Vollkornbrot steuert wertvolle Ballaststoffe bei, welche die Verdauung unterstützen.
+- Brot liefert Magnesium, Zink, Eisen, B-Vitamine.
+- Muscheln ergänzen Jod, Vitamin B12, Selen und Omega-3-Fettsäuren. → Ein ausgewogenes Zusammenspiel aus pflanzlichen und marinen Quellen.
 
 ## Richtiges Entsorgen des restlichen Suds
 
