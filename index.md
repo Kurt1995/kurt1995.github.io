@@ -28,7 +28,7 @@
 | Für den | Abend |
 | :--- | :--- |
 | [Lachskaviar auf Vollkornbrot](26-l-kaviar-brot.md) | [Dorschleber auf Vollkornbrot](23-dleber-vollkorn.md) |
-|  |  |
+| [Muscheln auf Vollkornbrot](23-musch-vollkb.md) | &nbsp; |
 | __Und ab und zu ein__ | __Protein Boost__ |
 | [Pasta in bianco mit Garnelen](47-pasta-garnelen.md) | [Dicke Rippe](12-dickerippe.md) |
 | [Strammer Max - Plus](19-st-max-plus.md) |  |
