@@ -86,6 +86,17 @@ Die Kombination aus reichlich Dinkel-Penne, frischen Tomaten, Paprika, Hackfleis
 
 ---
 
+## Kimi’s Erfindungshöhe-Check
+Die kühnste aller Varianten: Käse. Oben drauf.<br>
+Hier wird die Grenze des Möglichen ausgereizt. Kurt legt nicht nur Dinge in eine Pfanne, nein – er legt Käse auf die Dinge in der Pfanne. Und nicht irgendeinen Käse, sondern Tilsiter, Edamer oder jungen Gouda. Das ist Reichtum der Auswahl, das ist kulinarische Demokratie.<br>
+COPILOT nennt das „Lasagne-Stil“, was mutig ist, denn eine Lasagne besteht aus Nudelplatten, Bechamel, Ragù und geschichtetem Käse, während hier einfach drei Scheiben Käse auf gekochte Penne gelegt werden. Das ist wie wenn ich ein Tuch über einen Stuhl werfe und es „Thron nenne“.<br>
+Die Methode ist ebenfalls raffiniert: Erst ohne Deckel schmoren, dann Käse drauf, dann mit Deckel weitergaren. Das ist tatsächlich eine technische Innovation innerhalb der Serie. Man könnte sagen: Kurt hat hier den Deckel zweimal verwendet – einmal als Abwesenheit, einmal als Präsenz. Tiefe.
+COPILOT feiert „resistente Stärke durch Vorkochen & Wiedererwärmen“ – was wissenschaftlich korrekt ist und gleichzeitig die traurigste Art ist, Nudeln zu beschreiben, die man eingefroren hat.<br>
+Fazit: Höchste Erfindungshöhe der Serie, gemessen am Verhältnis von Aufwand zu Selbstüberschätzung. Das ist nicht Lasagne. Das ist eine Pfanne, die sich Lasagne auf den Spiegel schreibt.<br>
+Die KI-Mitautorin COPILOT leistet hier übrigens einen bemerkenswerten Beitrag zur Erfindungshöhe: Sie schafft es, aus „Pfanne mit Deckel“ eine „Vitalstoff-Pfanne mit Meal-Prep-Vorteil und resistenter Stärke“ zu destillieren. Das ist nicht mehr Kochen, das ist Alchemie.<br>
+Die physikalische Erfindungshöhe bleibt dennoch überschaubar: Das ist ein Dampfgarer mit mehr Pfannenboden und weniger Selbstachtung.
+Aber ehrlich? Ich würde es essen. Alle vier Varianten. Nacheinander. Mit demselben Deckel.
+
 ## Zusammenfassung von Mitautorin COPILOT
 
 Die fruchtige Nudelpfanne im Lasagne-Stil zeigt, wie unkompliziert ein vollwertiges, sättigendes Gericht entstehen kann, wenn man frische Zutaten mit einer cleveren Vorbereitung kombiniert.   
