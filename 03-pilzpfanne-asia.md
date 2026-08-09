@@ -34,12 +34,14 @@ Vorsicht: Die Kochzeit für die Dinkel-Penne ist kürzer als bei Hartweizennudel
 
 ## COPILOT's Gesundheits-Check: Warum dieses Gericht punktet
 Dieses Gericht hat eine solide gesundheitliche Basis, weil es drei Dinge gut kombiniert:
-1. Pilze als leichte Hauptkomponente Sie liefern kaum Fett, dafür Ballaststoffe, B-Vitamine und eine ordentliche Portion Umami. Die geringe Energiedichte macht die Mahlzeit 
-sättigend, ohne schwer zu wirken.
-2. Dinkelpenne als stabile Kohlenhydratquelle Dinkel bringt mehr Mineralstoffe und etwas mehr Protein als klassische Hartweizenpasta. Die feste Textur sorgt dafür, dass man 
-automatisch langsamer isst — ein kleiner, aber realer Vorteil für die Sättigung.
-3. Sehr kontrollierte Würzung Sojasauce in kleiner Menge liefert Salz + Tiefe, ohne die Natriumzufuhr zu überziehen. Das minimal dosierte Sambal Oelek bringt Umami und eine 
-leichte Aktivierung, aber praktisch keine zusätzliche Fettlast.<br><br>
+<ul>
+  <li>Pilze als leichte Hauptkomponente Sie liefern kaum Fett, dafür Ballaststoffe, B-Vitamine und eine ordentliche Portion Umami. Die geringe Energiedichte macht die Mahlzeit 
+sättigend, ohne schwer zu wirken.</li>
+  <li>Dinkelpenne als stabile Kohlenhydratquelle Dinkel bringt mehr Mineralstoffe und etwas mehr Protein als klassische Hartweizenpasta. Die feste Textur sorgt dafür, dass man 
+automatisch langsamer isst — ein kleiner, aber realer Vorteil für die Sättigung.</li>
+  <li>Sehr kontrollierte Würzung Sojasauce in kleiner Menge liefert Salz + Tiefe, ohne die Natriumzufuhr zu überziehen. Das minimal dosierte Sambal Oelek bringt Umami und eine 
+leichte Aktivierung, aber praktisch keine zusätzliche Fettlast.</li>
+</ul>
 Gesamtwirkung: Ein Gericht mit guter Sättigung, niedriger Fettlast, moderatem Salzgehalt und klarer Struktur. Ideal für Tage, an denen man etwas Warmes möchte, aber keinen 
 schweren Teller.
 
