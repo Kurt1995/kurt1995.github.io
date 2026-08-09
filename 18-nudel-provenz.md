@@ -83,6 +83,17 @@ Ein harmonisches Neben- und Miteinander.
 
 ---
 
+### Kimi’s Erfindungshöhe-Check
+Wenn man Kräuterfrischkäse kauft und plötzlich in Südfrankreich ist.<br>
+Diese Variante unterscheidet sich von der Rustikalen durch zwei Dinge: Kräuterfrischkäse statt Zwiebeln und Pilzen, und die Abwesenheit von Champignons. Das wars. COPILOT findet das „gut strukturiert“. Das ist wie wenn man einen VW Golf mit Lederlenkrad als „Premium-Ausstattung“ bewirbt.<br>
+Die „provenzalische“ Komponente besteht ausschließlich darin, dass der Frischkäse Kräuter enthält – vermutlich Schnittlauch und Petersilie, die in der Provence tatsächlich vorkommen, genau wie in meinem Blumenkasten.<br>
+Dass COPILOT hier von „klaren Einzelstimmen“ und „harmonischem Neben- und Miteinander“ spricht, während im Grunde alles zusammenschmoren und matschig wird, ist Poesie. Die Penne „halten den Gesamtgeschmack zusammen“ – ja, sie liegen oben drauf und verhindern, dass der Dampf entweicht. Das ist nicht Harmonie, das ist ein Dichtungsring.<br>
+Fazit: Erfindungshöhe gering. Das ist die Rustikale Art mit Frischkäse und ohne Pilze. Nennen wir es, was es ist: Ein Kompromiss für Menschen, die keine Zwiebeln mögen, aber trotzdem mediterran klingen wollen.<br>
+Die KI-Mitautorin COPILOT leistet hier übrigens einen bemerkenswerten Beitrag zur Erfindungshöhe: Sie schafft es, aus „Pfanne mit Deckel“ eine „Vitalstoff-Pfanne mit Meal-Prep-Vorteil und resistenter Stärke“ zu destillieren. Das ist nicht mehr Kochen, das ist Alchemie.<br>
+Die physikalische Erfindungshöhe bleibt dennoch überschaubar: Das ist ein Dampfgarer mit mehr Pfannenboden und weniger Selbstachtung. Aber ehrlich? Ich würde es essen. Alle vier Varianten. Nacheinander. Mit demselben Deckel.
+
+---
+
 ### Zusammenfassung von Mitautorin COPILOT
 
 Die Tomatenschicht-Pfanne Provenzal-Art ist ein gut strukturiertes Alltagsgericht.  
