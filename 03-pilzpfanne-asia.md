@@ -1,4 +1,4 @@
-# Kurt kocht – Pilzpfanne Asia-Art
+# Kurt kocht &nbsp;– &nbsp;Pilzpfanne Asia-Art
 
 ![Zutatenübersicht](assets/03-pilze-asia-01.jpg)
 
@@ -45,8 +45,7 @@ schweren Teller.
 
 
 ## Energiewerte – Mikro / Makro dieser Mahlzeit
-(Schätzung für die im Rezept eingesetzten Mengen)   
-<br>
+(Schätzung für die im Rezept eingesetzten Mengen)<br>
 ### Makronährstoffe
 * Kalorien: ca. 430–480 kcal
 * Protein: ca. 17–20 g
@@ -69,8 +68,10 @@ nicht verändern.<br>
 Geschmack: Pilze und Penne bilden einen gemeinsamen Grundton. Beide sind einzeln zu erkennen, aber verschmelzen zu einer erdigen Linie mit leichter Getreidenote.<br>
 Die Sojasauce vertieft den Grundton, bleibt aber bewusst im Hintergrund.<br>
 Das Sambal Oelek: Da es erst am Tisch und in sehr kleiner Menge hinzugefügt wird, zeigt es ein ungewohntes, zweigeteiltes Verhalten:
-* Umami: Das Sambal Oelek bringt sofort eine vollere Tiefe in den Gesamtgeschmack.
-* Schärfe: Minimal und verzögert. Sie überrascht erst nach mehreren Löffeln.<br>
+<ul>
+  <li>Umami: Das Sambal Oelek bringt sofort eine vollere Tiefe in den Gesamtgeschmack.</li>
+  <li>Schärfe: Minimal und verzögert. Sie überrascht erst nach mehreren Löffeln.</li>
+</ul>
 Diese zeitliche Trennung ist Ergebnis der geringen Dosierung und der späten Zugabe: Das Umami verteilt sich sofort, die Schärfe braucht Wiederholkontakte, um wahrnehmbar zu 
 werden.<br>
 Gesamterlebnis Ein Gericht mit klarer Struktur, vertiefter Grundnote durch Soja Sauce und das Sambal Oelek und einer Schärfe, die erst später leise einsetzt.<br>
