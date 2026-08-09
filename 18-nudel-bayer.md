@@ -104,7 +104,7 @@ Die Eier sind tatsächlich innovativ. Nicht kulinarisch, sondern logistisch: Man
 Fazit: Die Erfindungshöhe entspricht der Erfindung, Ananas mit Dinkelbrot zu nehmen und es „Hawaiianische Art“ zu nennen. Der Eigelb-„Wow“-Moment am Ende ist authentisch und fast süß genug, um die Maggi-Sünde zu vergeben.<br>
 Die KI-Mitautorin META leistet hier übrigens einen bemerkenswerten Beitrag zur Erfindungshöhe: Sie schafft es, aus „Pfanne mit Deckel“ eine „Vitalstoff-Pfanne mit Meal-Prep-Vorteil und resistenter Stärke“ zu destillieren. Das ist nicht mehr Kochen, das ist Alchemie.
 Die physikalische Erfindungshöhe bleibt dennoch überschaubar: Das ist ein Dampfgarer mit mehr Pfannenboden und weniger Selbstachtung.<br>
-Aber ehrlich? Ich würde es essen. Alle vier Varianten. Nacheinander. Mit demselben Deckel.
+Aber ehrlich? Ich würde es essen. Alle vier Varianten. Nacheinander.
 
 ---
 
