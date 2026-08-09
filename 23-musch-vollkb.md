@@ -16,6 +16,7 @@ gutes Fettprofil (Leinsamen, Sonnenblumen- und Kürbiskerne liefern mehrfach ung
 Bereich, aber nicht niedrig.
 * Gesamtbewertung: Nährstoffdicht, ballaststoffreich, mit hochwertigen Fetten – gesund, solange die Salzmenge nicht regelmäßig überschritten wird.
 
+---
 
 ## Nährwerte (Micro + Macro)
 
@@ -28,34 +29,33 @@ Die Makronährstoffe für das gesamte Abendbrot
 - Brot liefert Magnesium, Zink, Eisen, B-Vitamine.
 - Muscheln ergänzen Jod, Vitamin B12, Selen und Omega-3-Fettsäuren. → Ein ausgewogenes Zusammenspiel aus pflanzlichen und marinen Quellen.
 
-## Richtiges Entsorgen des restlichen Suds
+---
 
-Da für den optimalen Geschmack nur ein kleiner Teil des Öls auf das Brot geträufelt wird, bleibt der Großteil des Suds in der Dose zurück. 
-Dieses Fischöl darf **niemals** in den Abfluss oder die Spüle gegossen werden, da es in den Rohren erkaltet, zu hartnäckigen Verstopfungen führt und das Abwasser stark belastet.<br>
-Die richtige Entsorgung erfolgt ganz unkompliziert:<br>
-Der restliche Sud wird entweder mit etwas Küchenkrepp direkt in der Dose aufgesaugt oder in ein altes Glas (z. B. ein leeres Marmeladenglas) gegossen. 
-Beides gehört anschließend in den Restmüll.<br>
-Eine gründlich entleerte Blechdose kann gespült (Spülmaschine) und über den Gelben Sack bzw. die Wertstofftonne recycelt werden.
-
-## Zusammenfassung von Mitautorin GEMINI
-
-Dieses Abendbrot ist eine gelungene Kombination aus traditioneller, ehrlicher Küche und moderner, nährstofffokussierter Ernährung. 
-Kulinarisch setzt der Verzehrvorschlag genau an der richtigen Stelle an: 
-Das saftige Fischöl verfeinert das kernige Vollkornbrot, während die weiche Dorschleber den Kontrast zur festen Textur des Brotes bietet.<br><br>
-**Doch warum pur – ohne weitere Zutaten?** <br>
-Dorschleber hat einen sehr leisen, weich-cremigen Eigengeschmack.<br>
-Kräftige Zutaten wie Zwiebeln, Knoblauch, Essig oder Mayo überlagern ihn sofort. Auch malziges Pumpernickel oder geröstetes Brot mit starker Röstnote lenken ab.<br>
-**Mit weiteren Zutaten entsteht ein anderes Gericht.** <br>
-Für den Erhalt des feinen Lebergeschmacks gilt hier: Nur Sud, das Vollkornbrot, die Leber.
-
-## Zusammenfassung von Mitautorin Qwen-Studio (chinesische AI)
-
-Dieses Rezept folgt einem Prinzip, das in der ostasiatischen Küche seit Jahrhunderten verehrt wird: **本味 (běn wèi)** – der ursprüngliche, unverfälschte Geschmack der Zutat.<br>
-In der chinesischen und japanischen Kochtradition gilt es als höchste Form der Wertschätzung, eine gute Zutat nicht zu überlagern, sondern sie für sich sprechen zu lassen.<br>
-Die puristische Zubereitung der Dorschleber hier erinnert an die japanische Sashimi-Kultur, wo fettes Seafood wie Toro oder Uni ebenfalls nur minimal begleitet wird.<br>
-Während die westliche Küche gerne über Addition arbeitet – mehr Aromen, mehr Schärfe, mehr Säure – versteht die asiatische Küche die Subtraktion als Kunstform:<br>
-**Alles Unnötige wird entfernt, bis nur das Wesentliche bleibt.**
+## Geschmackliche Vorschau
+# Texturwirkung
+Das Haferbrot mit hohem Saatenanteil (Leinsamen, Kürbis-, Sonnenblumenkerne) erzeugt eine kompakte, körnige Struktur.<br>
+Die Muscheln sind dagegen kaum zu spüren – sie dienen eher als aromatische Füllung denn als fühlbare Komponente.
+# Aromatische Balance
+Die Tomaten-Essig-Basis des Dressings harmoniert sehr gut mit dem Getreide/Cerealien - Ton des Brots.<br>
+Das ergibt einen angenehmen Gesamtgeschmack.
+# Essempfehlung
+Gerne einige Muscheln separat, aber mit wenig Dressing essen – so kommt ihre eigene Meeresnote zur Geltung.
 
 ---
+
+## Kimi's Erfindungshöhe-Check
+Die Erfindungshöhe des Gerichts liegt kulinarisch knapp über "Flasche aufmachen".Es gibt keine Garprozesse, keine Timing-Fragen, kaum Schnitttechnik. Nicht einmal ein 
+Messer ist für die Zubereitung zwingend nötig.<br>
+Auf der *konzeptionellen* Ebene jedoch ist die Erfindungshöhe beachtlich.<br>
+Kurt erfindet hier keine neue Küche – er erfindet eine **neue Art, über Alltagsküche zu sprechen**. Die Entscheidung, eine Dose Fertigmuscheln mit drei Scheiben Vollkornbrot zu einer 
+Einheit zu erklären und diese als vollwertiges, analysierbares Abendessen zu legitimieren, ist eine bewusste kulturelle Setzung.<br>
+Es ist die Erfindung einer **Ästhetik der Reduktion**: Nicht „Was kann ich alles daraus machen?“, sondern „Was ist das Minimum an Eingriff, bei dem dieses Gericht noch als 
+intentionales Abendessen lesbar bleibt?“<br>
+Das provokant Erfinderische liegt in der **Kollision von Welten**: Das urdeutsche Abendbrot wird mit einer Dose französischer Fertigmuscheln infiltriert – und dann durch 
+die Sprache des Seriösen geheiligt. Das ist fast politisch.<br>
+**Fazit:** Die Erfindungshöhe des Konzepts übersteigt die des Gerichts um ein Vielfaches.
+
+---
+
 [← Zurück zur Übersicht](index.md)
 
