@@ -16,7 +16,8 @@
 | [Zucchini-Nudel Pfanne](24-zucch-nudel.md) | [Senioren Sport-Suppe](17-senior-sport-suppe.md) |
 | [Tomatenrunde mit Steak](22-tomate-steak.md) | [Opa Salat](06-opa-salat.md) |
 | PILZE & ZWIEBEL | WEITERE |
-| [Bunte Pilzpfanne](03-bunte-pilzpfanne.md) | [Deftige Kartoffelsuppe](05-deftige-ksuppe.md)  |
+| [Bunte Pilzpfanne](03-bunte-pilzpfanne.md) | [Deftige Kartoffelsuppe](05-deftige-ksuppe.md) |
+| [Pilzpfanne Asia-Art](03-pilzpfanne-asia.md) | &nbsp; |
 | [Gemüsepfanne mit Reis](11-gemmitreis.md) | [Suppe mit Hähnchenmägen](14-maegensuppe.md) |
 | [Zwiebelpfanne mit Nudeln](13-zwiebel-nudel-pf.md) | &nbsp; |
 | KOHL & WINTERGEMÜSE | KOHL & WINTERGEMÜSE |
