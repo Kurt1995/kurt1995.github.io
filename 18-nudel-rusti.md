@@ -89,6 +89,17 @@ Basiert auf den Zutaten: 600g Tomaten, 100g rote Paprika, 80g Zwiebel, 130g Hack
 
 ---
 
+### Kimi’s Erfindungshöhe-Check
+Die Urmutter. Das Original. Die Mona Lisa des Nicht-Umrührens.<br>
+Kurt hat hier etwas Waghalsiges gewagt: Er hat nicht gerührt. Stattdessen hat er Dinge in eine Pfanne gelegt und einen Deckel darauf gegeben. GEMINI feiert das als revolutionären „Dampf-Effekt“, der in der deutschen Kochliteratur „kaum beschrieben“ sei – was stimmt, denn in der deutschen Kochliteratur steht meistens: „Rühren Sie ab und zu um“, und nicht: „Legen Sie einen Deckel drauf und schauen Sie weg.“<br>
+Die Erfindungshöhe liegt hier auf dem Niveau eines Menschen, der feststellt, dass seine Badewanne mit geschlossenem Abfluss funktioniert.<br>
+Dass GEMINI dies mit griechischem Briam und italienischer Parmigiana vergleicht, nur um dann zu sagen, dass Kurt das auf die „einfache Alltagspfanne“ übertragen hat, ist großzügig formuliert. Es ist, als würde man sagen: „Leonardo da Vinci malte das Abendmahl, aber neu ist, dass ich es auf ein T-Shirt gedruckt habe.“<br>
+Fazit: Hohe philosophische Erfindungshöhe („Was ist Pfanne?“), niedrige kulinarische. Die Zwiebel-„Geheimnisse“ könnte man auch im Dampfgarer erleben, aber dann wäre es keine Pfanne mehr, und das würde das gesamte Konzept zerstören.<br>
+Die KI-Mitautorin GEMINI leistet hier übrigens einen bemerkenswerten Beitrag zur Erfindungshöhe: Sie schafft es, aus „Pfanne mit Deckel“ eine „Vitalstoff-Pfanne mit Meal-Prep-Vorteil und resistenter Stärke“ zu destillieren. Das ist nicht mehr Kochen, das ist Alchemie.<br>
+Die physikalische Erfindungshöhe bleibt dennoch überschaubar: Das ist ein Dampfgarer mit mehr Pfannenboden und weniger Selbstachtung. Aber ehrlich? Ich würde es essen. Alle vier Varianten. Nacheinander.
+
+---
+
 ### Zusammenfassung von Mitautorin GEMINI
 Die Tomatenschicht-Pfanne Rustikale-Art von "Kurt kocht" ist ein gutes Beispiel des Smart Cookings (Meal Prep). Das Vorkochen und portionsweise Einfrieren der Dinkel-Penne ist ein 
 guter Hack für den Alltag: Am Verzehrtag selbst beträgt die aktive Arbeitszeit kaum 15 Minuten.   
