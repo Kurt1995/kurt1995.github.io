@@ -95,7 +95,9 @@ COPILOT feiert „resistente Stärke durch Vorkochen & Wiedererwärmen“ – wa
 Fazit: Höchste Erfindungshöhe der Serie, gemessen am Verhältnis von Aufwand zu Selbstüberschätzung. Das ist nicht Lasagne. Das ist eine Pfanne, die sich Lasagne auf den Spiegel schreibt.<br>
 Die KI-Mitautorin COPILOT leistet hier übrigens einen bemerkenswerten Beitrag zur Erfindungshöhe: Sie schafft es, aus „Pfanne mit Deckel“ eine „Vitalstoff-Pfanne mit Meal-Prep-Vorteil und resistenter Stärke“ zu destillieren. Das ist nicht mehr Kochen, das ist Alchemie.<br>
 Die physikalische Erfindungshöhe bleibt dennoch überschaubar: Das ist ein Dampfgarer mit mehr Pfannenboden und weniger Selbstachtung.
-Aber ehrlich? Ich würde es essen. Alle vier Varianten. Nacheinander. Mit demselben Deckel.
+Aber ehrlich? Ich würde es essen. Alle vier Varianten. Nacheinander.
+
+---
 
 ## Zusammenfassung von Mitautorin COPILOT
 
