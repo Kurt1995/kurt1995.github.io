@@ -1,5 +1,5 @@
 # Kurt kocht &nbsp; – &nbsp; Ideen für den Alltag
-## *Eine einfache, gemüsefreundliche Küche*
+## *Zutaten, Zubereitungs- und Verzehrvorschläge für eine einfache, gemüsefreundliche Küche*
 
 ##### Tipp: Handy quer, dann passen die Seiten besser.
 
