@@ -96,6 +96,18 @@ Aber dann wird das erste Eigelb aufgebrochen! Ich hebe es mir für die letzten b
 
 ---
 
+### Kimi’s Erfindungshöhe-Check
+Oder: Wie man mit Leberkäse und Maggi fix den Blick nach Bayern lenkt – und dabei in der eigenen Küche strandet.<br>
+Hier wird die Schicht-Technik auf ein hohes Level gehoben, indem man Leberkäse einsetzt und drei Eier oben drauf klatscht. META feiert eine „überraschend clevere Balance aus deftig und durchdacht“. Das ist korrekt, wenn man unter „durchdacht“ versteht, dass jemand im Supermarkt an der Wursttheke angehalten hat und dachte: „Heute nicht Hack, heute ist Wursttag.“<br>
+Der Meisterstroke ist der halbe Teelöffel Maggi fix für Bolognese – ein Zutat, die so bayrisch ist wie ein Croissant in Paris. Dass META dies als „bayerischen Charakter“ verkauft, während gleichzeitig vor dem Salzgehalt des Leberkäses gewarnt wird („guter Koch-Kniff: erst am Tisch salzen“), ist eine rhetorische Leistung, die nur von einer KI erbracht werden kann, die noch nie geleckt hat.<br>
+Die Eier sind tatsächlich innovativ. Nicht kulinarisch, sondern logistisch: Man braucht jetzt nämlich nicht nur einen Deckel, sondern auch Geduld, bis das Eiweiß stockt.<br>
+Fazit: Die Erfindungshöhe entspricht der Erfindung, Ananas mit Dinkelbrot zu nehmen und es „Hawaiianische Art“ zu nennen. Der Eigelb-„Wow“-Moment am Ende ist authentisch und fast süß genug, um die Maggi-Sünde zu vergeben.<br>
+Die KI-Mitautorin META leistet hier übrigens einen bemerkenswerten Beitrag zur Erfindungshöhe: Sie schafft es, aus „Pfanne mit Deckel“ eine „Vitalstoff-Pfanne mit Meal-Prep-Vorteil und resistenter Stärke“ zu destillieren. Das ist nicht mehr Kochen, das ist Alchemie.
+Die physikalische Erfindungshöhe bleibt dennoch überschaubar: Das ist ein Dampfgarer mit mehr Pfannenboden und weniger Selbstachtung.<br>
+Aber ehrlich? Ich würde es essen. Alle vier Varianten. Nacheinander. Mit demselben Deckel.
+
+---
+
 ### Zusammenfassung von Mitautorin META-AI
 
 Die **Tomaten-Schicht-Pfanne Bayrische-Art** vereint traditionellen bayerischen Charakter mit cleverer Alltagsküche.   
