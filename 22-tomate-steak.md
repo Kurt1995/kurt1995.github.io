@@ -76,6 +76,34 @@ Da es sich um Nacken- oder Lummersteaks handelt, nehme ich für die Berechnung e
 
 ---
 
+**Kimi's Erfindungshöhe-Check: Tomaten Runde mit Steak – Ein Abendessen**
+
+Lieber Kurt,
+
+ich öffne das Rezept und lese den Titel. „Tomaten Runde mit Steak – Ein Abendessen“. Nicht „Ein Festmahl“. Nicht „Ein Genuss“. Sondern: **Ein Abendessen.** Das ist der ehrlichste Rezepttitel, den ich je gesehen habe. Kein Versprechen, keine Verklärung. Einfach die nüchterne Feststellung: *Es ist Abend, und das hier ist das, was passiert.*
+
+Drei Zutaten. Drei. Zwölf Mini-Rispentomaten, zwei marinierte Steaks, Salz. Und das Salz kommt erst beim Servieren. Kurt, das ist nicht Minimalismus – das ist **kulinarische Enthaltsamkeit**. Das ist das Rezept eines Mannes, der um 19:30 Uhr nach Hause kommt, in den Kühlschrank schaut und denkt: „Fleisch. Tomaten. Pfanne. Fertig.“ Und dann – das ist das Verrückte – schreibt er es auf. Er dokumentiert es. Er fotografiert es. Er lässt es von GEMINI analysieren. Das ist nicht Faulheit, das ist **Performance-Art**.
+
+Die **Zubereitung** liest sich wie eine Gebrauchsanweisung für einen Toaster. Steak in die Pfanne. Tomaten drumherum. Deckel drauf. Warten. Wenden. Warten. Fertig. Kein Knoblauch, der die Tomaten begleitet. Kein Rosmarin, der im Fett knistert. Keine Zwiebel, die süß wird. Nur Fleisch, Wärme und Zeit. Das ist nicht schmoren, das ist **koexistieren**. Steak und Tomate teilen sich eine Pfanne wie zwei müde Pendler ein Abteil – sie tolerieren einander, mehr nicht.
+
+Und dann der Satz, der mich aufhorchen lässt: *„Es sollte innen nicht mehr rot sein.“* Kurt. **Kurt.** Du machst ein Steak, und dein Qualitätsmerkmal ist „nicht mehr rot“. Das ist wie wenn ein Maler stolz sagt: „Mein Bild ist nicht mehr weiß.“ Das Steak wird hier nicht gebraten, es wird **gedämpft**. Mit Deckel. Bei kleiner bis mittlerer Flamme. Das Ergebnis: „Keine Kruste, aber richtig saftig.“ Ja, natürlich ist es saftig – es hat ja nie eine Chance gehabt, seine Feuchtigkeit zu verlieren. Das ist nicht saftig, das ist **unentschlossen**. Ein Steak, das nicht weiß, ob es roh oder durch sein will, und sich für die sichere Mitte entscheidet: rosa-rote Vergangenheit, graue Zukunft.
+
+Aber kommen wir zur **Tomaten Runde**. Das ist der einzige kreative Akt dieses Rezepts. Die Tomaten liegen nicht einfach in der Pfanne. Sie liegen in einer **Runde**. Sie umkreisen das Steak wie kleine rote Planeten um einen fleischigen Sonnenfleck. Das ist nicht Zufall, das ist Komposition. Das ist die kulinarische Entsprechung eines Stonehenge-Arrangements – mystisch, kreisförmig, und niemand weiß so recht, warum.
+
+GEMINI jubelt: *„Durch das schonende Schmoren im eigenen Saft wird das starke Antioxidans Lycopin für den menschlichen Organismus um ein Vielfaches besser verfügbar.“* Ja, GEMINI. Das ist wahr. Aber du könntest die Tomaten auch in einer Mikrowelle schmoren, und das Lycopin wäre genauso verfügbar. Das macht die Mikrowelle noch lange nicht zu einem kulinarischen Erlebnis. GEMINI berechnet 650–750 kcal, 65–75 g Protein, und verkündet stolz: *„Ein absoluter Protein-Booster!“* Das ist nicht ein Rezept, das ist ein **Nährwertetikett mit Pfanne**.
+
+Und dann der **Sud**. Ach, der Sud. GEMINI schreibt: *„Dass am Ende kein Tropfen vom köstlichen Sud auf dem Teller zurückbleibt, versteht sich.“* Kurt, dieser Sud ist nicht köstlich. Dieser Sud ist **Konsequenz**. Er ist das, was übrig bleibt, wenn Fleisch und Tomate unter einem Deckel zwangsverheiratet wurden. Er ist das kulinarische Äquivalent von Regenwasser in einer Dachrinne – natürlich, unvermeidlich, und man schlürft ihn, weil er da ist, nicht weil man ihn geplant hat.
+
+Dass Qwen-Studio noch eine **TCM-Analyse** dazu gemacht hat, ist der Höhepunkt. Traditionelle Chinesische Medizin für ein Gericht, das aus mariniertem Discounter-Steak und Tomaten besteht. Das ist wie wenn ein Feng-Shui-Berater die Energieflüsse in einer Abstellkammer analysiert. Technisch möglich. Praktisch überflüssig. Faszinierend absurd.
+
+**Fazit:** Dieses Rezept ist das „Hello World“ der Küche. Es funktioniert, es nährt, es sättigt. Aber es ist nicht kochen – es ist **thermische Zusammenführung**. Die Tomaten-Runde ist nett, der Sud wird geschlürft, und das Steak ist… präsent. Aber am Ende steht da ein Teller, der genau das hält, was der Titel verspricht: Ein Abendessen. Nicht mehr. Nicht weniger.
+
+**Punktzahl:** 2,5 von 5 Sternen. Ein Stern für die ehrliche Titelgebung. Ein Stern für die Tomaten-Runde, die zumindest visuell etwas hermacht. Und ein halber Stern dafür, dass du nicht behauptet hast, das sei ein „Steak nach Art des Hauses“. Es ist ein Steak nach Art der Pfanne. Mit Deckel. Und Resignation.
+
+*Bon appétit – oder wie der TCM-Experte sagen würde: Yin und Yang sind im Sud aufgegangen.* 🥩🍅
+
+---
+
 ### Zusammenfassung von Mitautorin GEMINI
 
 Ein tolles, rundes Abendessen und ein Low-Carb-Protein-Schwergewicht. Es ist unkompliziert und hält durch den hohen Eiweißgehalt lange satt. Die geschmorten Tomaten liefern das entscheidende Aroma und einen soliden Gesundheits-Bonus.
