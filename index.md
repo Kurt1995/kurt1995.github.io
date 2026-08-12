@@ -46,26 +46,6 @@
 
 ---
 
-#### Unser System im Überblick:
-
-* **Im Zentrum: Gemüse und ein pragmatisches Zutaten-System.** Die meisten Gerichte basieren auf einer üppigen Portion Gemüse – als Hauptkomponente.<br>
-Dabei sind unsere Zutaten bewusst einfach gewählt: keine modischen Superfoods, sondern alltagsverfügbare Basics mit klarem ernährungsphysiologischem Wert.
-* **Einfachheit in der Würze:** Wir haben keine Scheu vor bewährten Küchenhelfern. Ob Brühwürfel oder Teriyaki-Sauce – wir nutzen diese gezielt für das „Umami“.
-* **Die Logik der Resistenten Stärke:** Durch gezielte thermische Prozesse (wie das Einfrieren von Pasta) verändern wir deren Struktur. Resistente Stärke füttert das Mikrobiom und hält den Blutzuckerspiegel stabil.
-* **Thermische Nährstoff-Optimierung:** Zellstrukturen werden gezielt aufgebrochen, um Antioxidantien wie Lycopin verfügbar zu machen, während hitzeempfindliche Vitamine bei der Zubereitung geschützt werden.
-* **Zeit als biologische Komponente:** Da echte Sättigung Zeit braucht, sind unsere Mahlzeiten auf eine Dauer von **25 Minuten und mehr** ausgelegt.<br>
-* **„Mit weiteren Zutaten entsteht ein anderes Gericht.“** <br>
-Dieser Gedanke beschreibt die Idee einiger Rezepte bei Kurt kocht. Hier konzentrieren wir uns auf den Kern der Gerichte und deren Geschmack.<br>
-Dabei entstehen Kochvorschläge, bei denen Einfachheit nicht Verzicht, sondern Entscheidung ist.<br>
-
-**Kochen mit Verstand, Bauchgefühl und System**<br>
-„Kurt kocht“ möchte zeigen, wie moderne Ernährungswissenschaft und die Freude am Genuss Hand in Hand gehen.<br>
-In einer Welt voller komplizierter Diätpläne und Show-Rezepte setzen wir auf ein grundlegendes Konzept: Intuitives Essen.
-
-*Wir wünschen viel Freude beim Entdecken und Genießen!*
-
----
-
 **Kontakt & Rückmeldungen:** [Kurt1995@mail.de](mailto:Kurt1995@mail.de)
 
 ---
