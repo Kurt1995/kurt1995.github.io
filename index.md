@@ -13,7 +13,8 @@
 | [Tomaten-Schicht-Pfanne "Bayrische Art"](18-nudel-bayer.md) | [Zucchini-Paprika-Creme mit Leber](07-zupaleber.md) |
 | [Tomaten-Schicht-Pfanne "Provenzalische Art"](18-nudel-provenz.md) | [Tomaten-Topf mit Huhn](45-tomate-huhn.md) |
 | [Tomaten-Schicht-Pfanne "Rustikale Art"](18-nudel-rusti.md) | [Spargel al dente](25-spargel-aldente.md) |
-| [Zucchini-Nudel Pfanne](24-zucch-nudel.md) | [Senioren Sport-Suppe](17-senior-sport-suppe.md) |
+| [Tomaten-Schicht-Pfanne "Asia Note"](18-nudel-asia.md) | [Senioren Sport-Suppe](17-senior-sport-suppe.md) |
+| [Zucchini-Nudel Pfanne](24-zucch-nudel.md) |  |
 | [Tomatenrunde mit Steak](22-tomate-steak.md) | [Opa Salat](06-opa-salat.md) |
 | PILZE & ZWIEBEL | WEITERE |
 | [Bunte Pilzpfanne](03-bunte-pilzpfanne.md) | [Deftige Kartoffelsuppe](05-deftige-ksuppe.md) |
