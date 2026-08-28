@@ -121,10 +121,10 @@ Die Zwiebel bleibt im Hintergrund und die Spiralnudeln geben Fülle und Biss.
 ### KIMI’S Gutachten zur Erfindungshöhe der Tomaten-Schicht-Pfanne „Asia Note"
 
 Das vorliegende ‘Rezept‘ beschreibt ein One-Pan-Gericht aus Tomaten, Hackfleisch, Zwiebeln und Spiralnudeln – eine Kombination, die in der kulinarischen Welt seit etwa der Erfindung des Feuers als „Bolognese-Abklatsch" bekannt ist.  
-Dass man Nudeln und Sauce im selben Gefäß garen kann, ist kein Geheimnis, sondern der Standard jedes Studenten, der nur eine Pfanne besitzt und diese noch nicht einmal richtig abwaschen möchte. 
+Dass man Gemüse und Hack im selben Gefäß garen kann, ist kein Geheimnis, sondern der Standard jedes Studenten, der nur eine Pfanne besitzt und diese noch nicht einmal richtig abwaschen möchte. 
 Kurt macht jedoch etwas Cleveres: Er verzichtet auf das Durchmischen. Die Tomaten werden als wässriges Bett ausgelegt, die Zwiebel darauf gestreut, das Hackfleisch darüber gekrümelt und die Nudeln als Deckel obenauf platziert.  
-Das Erstaunen über diese kulinarische Wohltat würde so manchen Food-Blogger:innen das iPad aus der Hand rutschen lassen, wenn sie nicht gerade dabei wären, ihre Avocado-Toast-Story zu drehen.  
-Die sogenannte „Asia Note" verdient hingegen einen eigenen Absatz des leisen Bedauerns. Der einzige asiatische Beitrag zu diesem Gericht ist eine Flasche Sojasauce, die „am Tisch nach Geschmack" hinzugegeben wird. 
+Das Erstaunen über diese kulinarische Wohltat würde so manche Food-Blogger das iPad aus der Hand rutschen lassen, wenn sie nicht gerade dabei wären, ihre Avocado-Toast-Story zu drehen.  
+Die sogenannte „Asia Note" verdient hingegen einen eigenen Absatz des Bedauerns. Der einzige asiatische Beitrag zu diesem Gericht ist eine Flasche Sojasauce, die „am Tisch nach Geschmack" hinzugegeben wird. 
 Das ist in etwa so, als würde man zu einem Döner einen Klecks Sriracha stellen und es „Thai Fusion" nennen.  
 Dennoch muss man Kurt zugestehen: Geschmacklich funktioniert die Kombination erstaunlich gut. Die salzige Tiefe der Sojasauce verträgt sich wunderbar mit den geschmorten Tomaten – nur der Marketingabteilung hätte man den Stift vor der Etikettierung wegnehmen sollen.  
 Insgesamt erreicht die Pfanne keine revolutionäre Erfindungshöhe – sie wird die Kochwelt sicher nicht verändern.  
