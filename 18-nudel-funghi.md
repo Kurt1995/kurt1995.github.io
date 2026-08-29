@@ -52,11 +52,12 @@
 
 <table>
   <tr>
-    <td><img src="assets/18-nudel-funghi-10.jpg" alt="Schritt 1"></td>
-    <td>*Erste Portion - so soll es aussehen:<br>das Eigelb noch leicht weich,<br>Tomaten- Pilzsud als Soße<br>direkt aus der Pfanne auf den Teller*</td>
+    <td><img src="assets/18-nudel-funghi-10.jpg" alt="Servieren" width="712"></td>
+    <td align="center"> <i>und so soll es aussehen<br><br>das Eigelb noch leicht weich,<br><br>Tomaten- Pilzsud als Soße<br><br>direkt aus der Pfanne auf den Teller</i></td>
   </tr>
 </table>
 
+---
 
 ![Fertige Fruchtige Nudelpfanne Funghi](assets/18-nudel-funghi-11.jpg)
 *Vorsicht! Die Tomatenstücke bleiben unerwartet lange heiss!*
@@ -64,92 +65,59 @@
 
 ---
 
-### COPILOT's Gesundheitscheck: Warum dieses Gericht punktet
+### META's Gesundheitscheck: Warum dieses Gericht punktet
 
-Die Tomaten-Schicht Pfanne „Asia Note“ ist ein tomatenreiches, proteinbalanciertes Gericht.
-Sie nutzt frische Zutaten, kurze Garzeiten und eine klare Struktur.
-Sie punktet gesundheitlich durch:
--	hohe Gemüsequote
--	moderate Kohlenhydrate
--	ausgewogene Proteine
--	nährstoffschonende Zubereitung
--	klare Portionslogik
--	gute Fettqualität (Oliven- und Rapsöl)
-
-Warum so viel Öl? Die 3 EL Öl sind hier bewusst gewählt. Sie machen die große Tomatenmenge bekömmlich, verbessern die Aufnahme von Lycopin und sorgen für eine stabile Sättigung. 
-Energetisch ist es damit eine vollwertige Hauptmahlzeit.
-
+Wieder das gesunde Kurt-Prinzip: Über 1 Kilo Gemüse als Basis. Tomaten liefern Lycopin und Saftigkeit ganz ohne Sahne, Champignons bringen Volumen, B-Vitamine und das Umami - bei minimalen Kalorien.  
+Dazu nur wenig Hack als Geschmacksgeber und 4 Eier als hochwertiger Protein-Lieferant. Das hält lange satt, ohne schwer im Magen zu liegen.  
+125g Dinkel-Penne statt Weizen-Pasta: bewusst weniger Kohlenhydrate, dafür mehr Ballaststoffe und Biss. Und vorgekocht, eingefroren und aufgetaut: es entstehet resistente Stärke, gut für die Bekömmlichkeit und Nahrung für die netten Darmbakterien.  
+Dazu der clevere Öl-Mix - Olivenöl für Geschmack, Rapsöl für die guten Omega-3-Fette.
 
 ---
 
-### Hauptnährwerte für das Gesamtgericht
-
+## Nährwerte für eine Portion (bei 2 Portionen für die Gesamtmenge)
+### Makronährstoffe
 | Nährstoff | Menge | Anmerkung |
-|-----------|-------|-----------|
-| Kalorien | ca. 1190 kcal | Hauptenergie aus Öl + Nudeln |
-| Eiweiß | ca. 50 g | Hauptsächlich aus Hackfleisch |
-| Kohlenhydrate | ca. 112–116 g | Fast komplett aus den Nudeln |
-| davon Zucker | ca. 20 g | Natürlicher Fruchtzucker der Tomaten und der Zwiebel |
-| Fett (gesamt) | ca. 60 g | Aus Öl und Hackfleisch |
-| Gesättigte Fettsäuren | ca. 15 g | Aus dem Hackfleisch |
-| Ballaststoffe | ca. 13 g | Aus Tomaten, der Zwiebel und den Nudeln |
+| :--- | :--- | :--- |
+| Kalorien | ca. 770 kcal | Hauptenergie aus Dinkel Penne, Öl und Eiern |
+| Eiweiß | ca. 45 g | Aus Eiern, Hackfleisch und Champignons |
+| Kohlenhydrate | ca. 65 g | Fast komplett aus den Penne |
+| davon Zucker | ca. 11 g | Natürlicher Fruchtzucker der Tomaten |
+| Fett (gesamt) | ca. 40 g | Aus Öl, Hackfleisch und Eigelb |
+| Gesättigte Fettsäuren | ca. 11 g | Aus Hackfleisch und Eigelb |
+| Ballaststoffe | ca. 11 g | Aus Tomaten, Champignons und den Penne |
 
 ### Mikronährstoffe (Vitamine & Mineralstoffe)
-
-| Nährstoff | Menge | Deckungsbeitrag (Referenzwert Erwachsene/Tag) |
-|-----------|-------|-----------------------------------------------|
-| Vitamin C | ca. 45–60 mg | ~60 % des Tagesbedarfs |
-| Vitamin A (als Beta-Carotin) | ca. 250 µg | ~30 % des Tagesbedarfs |
-| Vitamin K | ca. 20–30 µg | ~25–30 % |
-| Kalium | ca. 1700–1900 mg | ~45 % (sehr gut für Blutdruck) |
-| Magnesium | ca. 80–100 mg | ~25–30 % |
-| Zink | ca. 3–4 mg | ~25–30 % |
-| Lycopin | ca. 15–20 mg | Hoch (starkes Antioxidans) |
-| Folsäure | ca. 80–100 µg | ~25 % |
-
----
-
-### Wichtige Besonderheiten dieser Zubereitung
--	Lycopin aus den Tomaten wird durch das Erhitzen mit Öl besser verfügbar. 
--	1 EL Sojasauce bringt ca. 900 mg Natrium zusätzlich – bei Bluthochdruck beachten.
--	Die Öl-Mischung (Olivenöl + Rapsöl): Sehr gute Fettqualität! Einfach ungesättigte Fettsäuren (Olivenöl) + Omega-3 (Rapsöl) – das ist eine hervorragende Kombination fürs Herz.
-
-### Fazit & Einordnung
--	Makros: Sehr ausgewogen – ca. 35 % Kohlenhydrate, 50 % Fett, 15 % Eiweiß. Perfekt für eine sättigende Hauptmahlzeit.
--	Mikros: Absolut überdurchschnittlich – Vitamin A, Vitamin C, Kalium und Lycopin. Diese Pfanne ist ein wahres Nährstoff-Kraftpaket!
--	Kalorien: Mit ~1200 kcal für die gesamte Pfanne ist das völlig ok – das ist eine große, komplette Mahlzeit.
+| Nährstoff | Menge | Deckungsbeitrag pro Tag |
+| :--- | :--- | :--- |
+| Vitamin C | ca. 35–40 mg | ~45 % des Tagesbedarfs |
+| Vitamin A (als Beta-Carotin) | ca. 200 µg | ~25 % des Tagesbedarfs |
+| Vitamin D | ca. 3,5-4,5 µg | 20-25 % - aus Champignons + Eigelb! |
+| Vitamin B2 + B3 | Hoch | Sehr hoch aus Champignons |
+| Vitamin K | ca. 15–20 µg | ~20–25 % |
+| Kalium | ca. 1600–1800 mg | ~45 % (sehr gut für Blutdruck) |
+| Selen + Zink | ca. 25-30 µg Selen / 3-4 mg Zink | ~40 % Selen / ~30 % Zink - aus Hack + Pilzen + Eiern |
+| Lycopin | ca. 15–18 mg | Hoch (starkes Antioxidans) |
+| Folsäure | ca. 70–90 µg | ~25 % |
 
 ---
 
 ### Praxis Check: So schmeckt es dann
 
-Saftig mit deutlicher Asia Note, die sehr gut zu den weich geschmorten Tomaten passt.  
-Die kleine Menge Tomatenflüssigkeit am Pfannenboden dient als natürliche Sauce.  
-Das Hackfleisch gibt würzige Tiefe und verstärkt den saftigen Eindruck.  
-Die Zwiebel bleibt im Hintergrund und die Spiralnudeln geben Fülle und Biss.
+Saftig, sehr saftig. Die drei Hauptkomponenten Tomate, Pilze, Hack treten je nach Löffel / Gabel Beladung geschmacklich in den Vordergrund, streiten aber nicht.  
+Das Eigelb, das ich immer erst mit dem letzten Bissen verbinde, gibt einen besonderen Kick. Cremig weich legt es sich über Zunge und Gaumen. Die kleine Belohnung für den leergegessenen Teller.  
+Und die Tomaten- Pilzflüssigkeit am Pfannenboden gibt eine Sauce, die schon fast Suppen-Charakter hat.
 
 ---
 
-### KIMI’S Gutachten zur Erfindungshöhe der Tomaten-Schicht-Pfanne „Asia Note"
+### Zusammenfassung von Mitautorin META
 
-Das vorliegende ‘Rezept‘ beschreibt ein One-Pan-Gericht aus Tomaten, Hackfleisch, Zwiebeln und Spiralnudeln – eine Kombination, die in der kulinarischen Welt seit etwa der Erfindung des Feuers als „Bolognese-Abklatsch" bekannt ist.  
-Dass man Gemüse und Hack im selben Gefäß garen kann, ist kein Geheimnis, sondern der Standard jedes Studenten, der nur eine Pfanne besitzt und diese noch nicht einmal richtig abwaschen möchte. 
-Kurt macht jedoch etwas Cleveres: Er verzichtet auf das Durchmischen. Die Tomaten werden als wässriges Bett ausgelegt, die Zwiebel darauf gestreut, das Hackfleisch darüber gekrümelt und die Nudeln als Deckel obenauf platziert.  
-Das Erstaunen über diese kulinarische Wohltat würde so manche Food-Blogger das iPad aus der Hand rutschen lassen, wenn sie nicht gerade dabei wären, ihre Avocado-Toast-Story zu drehen.  
-Die sogenannte „Asia Note" verdient hingegen einen eigenen Absatz des Bedauerns. Der einzige asiatische Beitrag zu diesem Gericht ist eine Flasche Sojasauce, die „am Tisch nach Geschmack" hinzugegeben wird. 
-Das ist in etwa so, als würde man zu einem Döner einen Klecks Sriracha stellen und es „Thai Fusion" nennen.  
-Dennoch muss man Kurt zugestehen: Geschmacklich funktioniert die Kombination erstaunlich gut. Die salzige Tiefe der Sojasauce verträgt sich wunderbar mit den geschmorten Tomaten – nur der Marketingabteilung hätte man den Stift vor der Etikettierung wegnehmen sollen.  
-Insgesamt erreicht die Pfanne keine revolutionäre Erfindungshöhe – sie wird die Kochwelt sicher nicht verändern.  
-Aber sie ist ein solides, durchdachtes Alltagsgericht, das den Dienstagabend rettet, den Nährstoffbedarf deckt und dabei überraschend gut schmeckt.  
-Manchmal ist das die beste Art von Erfindung: nicht patentfähig, aber empfehlenswert.
+Diese Tomaten-Schicht-Pfanne "Funghi Note" ist ein Paradebeispiel für Kurts Prinzip: viel Gemüse als Hauptgericht, Nudeln, Hack, Eier sind die Beilagen. Trotzdem entsteht maximaler Geschmack.  
+Sie zeigt, dass man auch keine Sahnesoße braucht, um saftig zu essen - der Sud aus Tomaten und Pilzen genügt völlig.  
+So wenig Dinkel-Penne? Sie reichen, wenn gut 1 Kilo Gemüse die Hauptrolle spielen.  
+Kurt zeigt zudem, wie clever Meal-Prep sein kann: einmal Nudeln vorkochen, einfrieren, resistente Stärke gewinnen - und am Verzehrtag in 15 Minuten fertig sein.  
+Saftig, sättigend, schnell zubereitet, gesund und mit dem weichen Eigelb als kleiner Belohnung am Ende.  
+Eine Pfanne, die man gerne ein zweites Mal isst.
 
----
-
-### Zusammenfassung von Mitautorin COPILOT
-
-Eine interessante Schicht-Pfanne: Saftige Tomatenbasis, würziges Hack, dezente Zwiebel und Spiralnudeln für den Biss.  
-Die Sojasauce am Tisch bringt den Asia-Touch ohne die Tomaten zu überdecken.  
-Insgesamt entsteht ein unkompliziertes, ausgewogenes Schichtgericht mit klaren Aromen, guter Textur und einer harmonischen Verbindung aus Frische, Würze und Umami.
 
 ---
 [← Zurück zur Übersicht](index.md)
