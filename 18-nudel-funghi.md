@@ -76,6 +76,7 @@ Dazu der clevere Öl-Mix - Olivenöl für Geschmack, Rapsöl für die guten Omeg
 
 ## Nährwerte für eine Portion (2 Teller)
 ### Makronährstoffe
+
 | Nährstoff | Menge | Anmerkung |
 | :--- | :--- | :--- |
 | Kalorien | ca. 770 kcal | Hauptenergie aus Dinkel Penne, Öl und Eiern |
@@ -87,6 +88,7 @@ Dazu der clevere Öl-Mix - Olivenöl für Geschmack, Rapsöl für die guten Omeg
 | Ballaststoffe | ca. 11 g | Aus Tomaten, Champignons und den Penne |
 
 ### Mikronährstoffe (Vitamine & Mineralstoffe)
+
 | Nährstoff | Menge | Deckungsbeitrag pro Tag |
 | :--- | :--- | :--- |
 | Vitamin C | ca. 35–40 mg | ~45 % des Tagesbedarfs |
