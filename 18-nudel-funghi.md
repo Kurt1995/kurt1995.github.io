@@ -5,7 +5,7 @@
 
 ![Zutaten für Fruchtige Nudelpfanne Funghi-Note](assets/18-nudel-funghi-01.jpg)
 
-### Zutaten
+### Zutaten für 2 Portionen (vier Teller)
 
 - **Frische Tomaten** (ca. 700 g)
 - **400 g Champignons**
@@ -74,7 +74,7 @@ Dazu der clevere Öl-Mix - Olivenöl für Geschmack, Rapsöl für die guten Omeg
 
 ---
 
-## Nährwerte für eine Portion (bei 2 Portionen für die Gesamtmenge)
+## Nährwerte für eine Portion (2 Teller)
 ### Makronährstoffe
 | Nährstoff | Menge | Anmerkung |
 | :--- | :--- | :--- |
