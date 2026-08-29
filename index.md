@@ -14,6 +14,7 @@
 | [Tomaten-Schicht-Pfanne "Provenzalische Art"](18-nudel-provenz.md) | [Tomaten-Topf mit Huhn](45-tomate-huhn.md) |
 | [Tomaten-Schicht-Pfanne "Rustikale Art"](18-nudel-rusti.md) | [Spargel al dente](25-spargel-aldente.md) |
 | [Tomaten-Schicht-Pfanne "Asia Note"](18-nudel-asia.md) | [Senioren Sport-Suppe](17-senior-sport-suppe.md) |
+| [Tomaten-Schicht-Pfanne "Funghi Note"](18-nudel-funghi.md) | &nbsp; |
 | [Zucchini-Nudel Pfanne](24-zucch-nudel.md) |  |
 | [Tomatenrunde mit Steak](22-tomate-steak.md) | [Opa Salat](06-opa-salat.md) |
 | PILZE & ZWIEBEL | WEITERE |
