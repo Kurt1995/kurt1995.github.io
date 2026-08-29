@@ -103,7 +103,8 @@ Dazu der clevere Öl-Mix - Olivenöl für Geschmack, Rapsöl für die guten Omeg
 
 ### Praxis Check: So schmeckt es dann
 
-Saftig, sehr saftig. Die drei Hauptkomponenten Tomate, Pilze, Hack treten je nach Löffel / Gabel Beladung geschmacklich in den Vordergrund, streiten aber nicht.  
+Saftig, sehr saftig.  
+Die drei Hauptkomponenten Tomate, Pilze, Hack treten je nach Löffel / Gabel Beladung geschmacklich in den Vordergrund, streiten aber nicht.  
 Das Eigelb, das ich immer erst mit dem letzten Bissen verbinde, gibt einen besonderen Kick. Cremig weich legt es sich über Zunge und Gaumen. Die kleine Belohnung für den leergegessenen Teller.  
 Und die Tomaten- Pilzflüssigkeit am Pfannenboden gibt eine Sauce, die schon fast Suppen-Charakter hat.
 
