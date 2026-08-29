@@ -53,7 +53,7 @@
 <table>
   <tr>
     <td><img src="assets/18-nudel-funghi-10.jpg" alt="Servieren" width="712"></td>
-    <td align="center"> <i>und so soll es aussehen<br><br>das Eigelb noch leicht weich,<br><br>Tomaten- Pilzsud als Soße<br><br>direkt aus der Pfanne auf den Teller</i></td>
+    <td align="center"> <i>und so soll es aussehen<br><br>das Eigelb noch leicht weich<br><br>Tomaten- Pilzsud als Soße<br><br>direkt aus der Pfanne auf den Teller</i></td>
   </tr>
 </table>
 
