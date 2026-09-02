@@ -23,12 +23,12 @@ Ein Gericht mit der handwerklichen Umsetzung einer „Trocken-Suppe“
 1. Die Spiralnudeln vorkochen, in 5 Portionen aufteilen und einfrieren.
 2. Am Abend vor dem Verzehr eine Portion Nudeln zum schonenden Auftauen in den Kühlschrank stellen.
 
+### Zubereitung am Verzehrtag
 | | | |
 | :---: | :---: | :---: |
 | ![2 - Zubereitung](assets/13-zw-pfanne2.jpg) | ![3 - Zubereitung](assets/13-zw-pfanne3.jpg) | ![4 - Zubereitung](assets/13-zw-pfanne4.jpg) |
 | ![5 - Zubereitung](assets/13-zw-pfanne5.jpg) | ![6 - Zubereitung](assets/13-zw-pfanne6.jpg) | ![7 - Zubereitung](assets/13-zw-pfanne7.jpg) |
 
-### Zubereitung am Verzehrtag
 1. Die Pilze, die Paprika putzen und würfeln. Die Zwiebel in Streifen schneiden.
 2. Das Öl in einer Wok-Pfanne erhitzen und Pilze, Paprika und Zwiebeln kurz schmoren.
 3. Das Hackfleisch mit Salz und Pfeffer würzen, durchmengen und in Flocken in die Pfanne geben.
