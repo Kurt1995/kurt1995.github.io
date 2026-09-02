@@ -21,7 +21,7 @@
 | [Bunte Pilzpfanne](03-bunte-pilzpfanne.md) | [Deftige Kartoffelsuppe](05-deftige-ksuppe.md) |
 | [Pilzpfanne Asia-Art](03-pilzpfanne-asia.md) | &nbsp; |
 | [Gemüsepfanne mit Reis](11-gemmitreis.md) | [Suppe mit Hähnchenmägen](14-maegensuppe.md) |
-| [Zwiebelpfanne mit Nudeln](13-zwiebel-nudel-pf.md) | &nbsp; |
+| [Gemüsepfanne mit Nudeln](13-zwiebel-nudel-pf.md) | &nbsp; |
 | KOHL & WINTERGEMÜSE | KOHL & WINTERGEMÜSE |
 | [Leichte Brokkoli-Pfanne](04-brokkolipfanne.md) | [Verlorenes Ei in Winter-Tomate](15-ei-in-wtomate.md) |
 | [Deftige Brokkoli-Pfanne](44-deftig-b-pfanne.md) | [Nudeln in Winter-Tomate](08-nudelinwt.md) |
