@@ -5,9 +5,10 @@ Ein Gericht mit der handwerklichen Umsetzung einer „Trocken-Suppe“
 
 ## Zutaten
 * Gemüsezwiebel ca. 200 g
-* Hackfleisch halb und halb ca. 130 g (1/3 einer 400 g Packung)
-* 120 g Spiralnudeln (1/5 von einer 600 g Tüte)
 * 200 g frische Champignons
+* 1 rote Paprika
+* Hackfleisch halb und halb ca. 150 g (1/3 einer 500 g Packung)
+* 120 g Spiralnudeln (1/5 von einer 600 g Tüte)
 * 2 Esslöffel Rapsöl
 * 1 Teelöffel Instant Brühe
 * Sojasauce (nach Geschmack)
@@ -28,8 +29,8 @@ Ein Gericht mit der handwerklichen Umsetzung einer „Trocken-Suppe“
 | ![5 - Zubereitung](assets/13-zw-pfanne5.jpg) | ![6 - Zubereitung](assets/13-zw-pfanne6.jpg) | ![7 - Zubereitung](assets/13-zw-pfanne7.jpg) |
 
 ### Zubereitung am Verzehrtag
-1. Die Pilze putzen und würfeln. Die Zwiebeln in Streifen schneiden.
-2. Das Öl in einer Wok-Pfanne erhitzen und Pilze und Zwiebeln kurz schmoren.
+1. Die Pilze, die Paprika putzen und würfeln. Die Zwiebel in Streifen schneiden.
+2. Das Öl in einer Wok-Pfanne erhitzen und Pilze, Paprika und Zwiebeln kurz schmoren.
 3. Das Hackfleisch mit Salz und Pfeffer würzen, durchmengen und in Flocken in die Pfanne geben.
 4. Mit geschlossenem Deckel bei mittlerer Hitze ca. 4 Minuten garen. Öfter wenden.
 5. Wenn das Hackfleisch gar ist, die Nudeln hinzugeben und untermischen.
