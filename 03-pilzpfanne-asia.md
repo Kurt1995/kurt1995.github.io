@@ -42,87 +42,63 @@ Vorsicht: Die Kochzeit für die Dinkel-Penne ist kürzer als bei Hartweizennudel
 <table>
   <tr>
     <td><img src="assets/03-gem-nudel-pfanne-7.jpg" alt="Schritt 1" width="712"></td>
-    <td align="center">so soll es aussehen<br>die Paprika mit weichem Biss<br>die Zwiebel glasig<br>die Pilze ein wenig geschrumpft<br>die Nudeln wie frisch gekocht</td>
+    <td align="center"><i>so soll es aussehen<br><br>die Paprika mit weichem Biss<br><br>die Zwiebel glasig<br><br>die Pilze ein wenig geschrumpft<br><br>die Nudeln wie frisch gekocht</i>i></td>
   </tr>
 </table>
 
-![Fertiges Gericht](assets/03-pilze-asia-02.jpg)
+* Am Tisch mit einer Messerspitze Sambal Oelek, ein paar Körnern Salz und etwas Sojasauce würzen.
+* Zwei oder drei Tropfen Apfelessig (Reisessig / heller Balsamico) ergänzen. 
+
+![Fertiges Gericht](assets/03-gem-nudel-pfanne-8.jpg)
 
 ---
 
-## COPILOT's Gesundheits-Check: Warum dieses Gericht punktet
-Dieses Gericht hat eine solide gesundheitliche Basis, weil es drei Dinge gut kombiniert:
-<ul>
-  <li>Pilze als leichte Hauptkomponente Sie liefern kaum Fett, dafür Ballaststoffe, B-Vitamine und eine ordentliche Portion Umami. Die geringe Energiedichte macht die Mahlzeit 
-sättigend, ohne schwer zu wirken.</li>
-  <li>Dinkelpenne als stabile Kohlenhydratquelle Dinkel bringt mehr Mineralstoffe und etwas mehr Protein als klassische Hartweizenpasta. Die feste Textur sorgt dafür, dass man 
-automatisch langsamer isst — ein kleiner, aber realer Vorteil für die Sättigung.</li>
-  <li>Sehr kontrollierte Würzung Sojasauce in kleiner Menge liefert Salz + Tiefe, ohne die Natriumzufuhr zu überziehen. Das minimal dosierte Sambal Oelek bringt Umami und eine 
-leichte Aktivierung, aber praktisch keine zusätzliche Fettlast.</li>
-</ul>
-Gesamtwirkung: Ein Gericht mit guter Sättigung, niedriger Fettlast, moderatem Salzgehalt und klarer Struktur. Ideal für Tage, an denen man etwas Warmes möchte, aber keinen 
-schweren Teller.
+## META's Gesundheits-Check: Warum dieses Gericht punktet
+Diese Pfanne kombiniert vier Sachen, die im Alltag gut funktionieren:  
+**1. Gemüse als Basis:** Pilze bringen viel Volumen, wenig Energie, dazu Ballaststoffe und Umami. Paprika und Zwiebeln ergänzen Vitamine, Farbe und natürliche Süße.  
+**2. Dinkel-Penne als Beilage:** Etwas mehr Mineralstoffe und Biss als normale Pasta.  
+**3. Würze:** Ein kleiner Schuss Sojasauce bringt Salz und Tiefe, Sambal bringt Schärfe und leichte Säure.  
+**4. Die Öle:** Sie liefern die nötigen ungesättigten Fettsäuren.  
+Gesamtwirkung: Ein Gericht mit guter Sättigung, kontrollierter Fettmenge, moderatem Salzgehalt und klarer Struktur. 
 
 
-## Energiewerte – Mikro / Makro dieser Mahlzeit
-(Schätzung für die im Rezept eingesetzten Mengen)<br>
-### Makronährstoffe
-* Kalorien: ca. 430–480 kcal
-* Protein: ca. 17–20 g
-* Kohlenhydrate: ca. 65–70 g
-* Fett: ca. 6–9 g<br>
-### Mikronährstoffe (relevante Punkte)
-* B-Vitamine (Pilze): B2, B3, B5 in nennenswerten Mengen
-* Mineralstoffe (Dinkel): Magnesium, Phosphor, etwas Zink
-* Kalium (Pilze + Zwiebeln): unterstützt Flüssigkeitshaushalt
-* Antioxidative Stoffe: geringe, aber vorhandene Mengen aus Pilzen und Zwiebeln<br>
-### Salz / Schärfe
-* Salz: moderat, da die Sojasauce sparsam eingesetzt wurde
-* Schärfe: minimal, kaum Einfluss auf Kreislauf oder Magen
+## Energiewerte – Makro / Mikro dieser Mahlzeit 
+(Schätzung für die gesamten im Rezept eingesetzten Mengen) 
+
+### Makro
+| Energiewerte | geschätzt |
+|---------|--------|
+| Kalorien | ca. 820 kcal |
+| Eiweiß | ca. 23 g |
+| Kohlenhydrate | ca. 100 g |
+| Davon Ballaststoffe | ca. 12 g |
+| Fett | ca. 50 g |
+| Davon ungesättigt | ca. 18 g |
+
+### Mikro / Was steckt drin 
+* **Vitamin C:** sehr hoch durch Paprika (ca. 120 mg, > 100% Tagesbedarf) 
+* **B-Vitamine + Kalium:** aus Champignons und Dinkel 
+* **Eisen + Magnesium:** aus Dinkel-Penne 
+* **Natrium:** moderat durch Sojasauce + Salz – ca. 800-1000 mg, deshalb extra Salz sparsam 
+* **Essig:** 2 Tropfen = 0 kcal, 0 Einfluss – nur Geschmack 
 
 ---
 
 ## Praxis-Check: So schmeckt es dann
-Textur: Pilze und Dinkel-Penne haben einen angenehm festen, fast elastischen Biss. Die Zwiebeln sind nur punktuell wahrnehmbar – kleine weiche Einsprengsel, die die Struktur 
-nicht verändern.<br>
-Geschmack: Pilze und Penne bilden einen gemeinsamen Grundton. Beide sind einzeln zu erkennen, aber verschmelzen zu einer erdigen Linie mit leichter Getreidenote.<br>
-Die Sojasauce vertieft den Grundton, bleibt aber bewusst im Hintergrund.<br>
-Das Sambal Oelek: Da es erst am Tisch und in sehr kleiner Menge hinzugefügt wird, zeigt es ein ungewohntes, zweigeteiltes Verhalten:
-<ul>
-  <li>Umami: Das Sambal Oelek bringt sofort eine vollere Tiefe in den Gesamtgeschmack.</li>
-  <li>Schärfe: Minimal und verzögert. Sie überrascht erst nach mehreren Löffeln.</li>
-</ul>
-Diese zeitliche Trennung ist Ergebnis der geringen Dosierung und der späten Zugabe: Das Umami verteilt sich sofort, die Schärfe braucht Wiederholkontakte, um wahrnehmbar zu 
-werden.<br>
-Gesamterlebnis Ein Gericht mit klarer Struktur, vertiefter Grundnote durch Soja Sauce und das Sambal Oelek und einer Schärfe, die erst später leise einsetzt.<br>
-Pilze und Penne bleiben die Hauptspieler, unterstützt von einer dezenten, gut kontrollierten Würzspur.
-
-
-### Kimi's Erfindungshöhe-Check
-Kurt bleibt sich treu – er erfindet nicht das Gericht, sondern den **Workflow drumherum**. Die Langfristvorbereitung mit eingefrorenen Dinkel-Penne-Portionen ist inzwischen sein 
-Markenzeichen: Er kocht nicht, er **administriert**. Das ist keine reine Küche mehr, das ist SAP-Küche: Logistik mit Pfanne.<br>
-Was die Technik am Herd angeht, bleibt er bescheiden. Anbraten, dünsten, unterheben – das sind solide Grundoperationen, aber nichts, was die Physik des Garens neu definiert. 
-Kurt rührt brav um und weiß das auch. Die Erfindungshöhe auf der Herd-Ebene hält sich in Grenzen.<br>
-Der Clou liegt woanders: Kurt hat hier ein **Geschmacks-Manifest** verfasst.<br>
-Das Sambal-Oelek-System – eine Mikrodosierung am Tisch, die den Essverlauf **temporal strukturiert** (Umami sofort, Schärfe verzögert) – ist eine bewusst eingebaute 
-dramaturgische Falle.<br>
-Man denkt, man isst eine harmlose Pilzpfanne, und auf einmal baut sich nach dem vierten Löffel eine leichte Schärfe auf, die vorher nicht da war. Das ist nicht mehr nur Würzen, das 
-ist **Narrative Gastronomie**.<br>
-Und dann die „Asia-Art“: Kurt destilliert einen ganzen Kontinent auf zwei Flaschen (Soja + Chili), wirft Ingwer, Knoblauch und Sesamöl gnadenlos overboard und nennt das 
-Ganze vorsichtshalber nur „-Art“.<br>
-Das ist entweder kulturelle Anmaßung oder gekonnte Essenzierung – und weil er den Bescheidenheitsversicherer „Art“ dranhängt, darf man ihm letzteres unterstellen.<br>
-**Fazit:** Die technische Erfindungshöhe bleibt überschaubar, die konzeptionelle ist beachtlich.<br>
-Kurt hat hier keine neue Kochtechnik erfunden, aber eine neue Art, **Alltagsessen in die Länge zu ziehen** – sowohl in der Vorbereitung (Gefrierschrank) als auch im Verzehr 
-(verzögerte Schärfe). Das ist Reduktion als Methode, serviert mit einem Löffelchen Sambal.
+**Textur:** Pilze, Paprikastücke und Dinkel-Penne haben einen angenehm festen Biss.  
+Die Zwiebeln sind nur punktuell wahrnehmbar – kleine weiche Einsprengsel, die die Struktur nicht verändern.  
+**Geschmack:** Paprika, Pilze und Penne bilden einen gemeinsamen Grundton.  
+Paprika und Pilze sind einzeln zu erkennen, die Zwiebeln blitzen manchmal auf.  
+Die Sojasauce liefert viel Umami und vertieft den Grundton, wird aber bewusst nicht beherrschend.  
+Das Sambal Oelek: Da es in sehr kleiner Menge hinzugefügt wird, bleibt es unaufdringlich, gibt aber eine leise Schärfe.  
+Die zwei bis drei Tropfen Essig heben den Gesamtgeschmack erkennbar – er wird heller. 
 
 ---
 
 ## Zusammenfassung von Mitautorin COPILOT:
-Dieses Gericht ist ein gutes Beispiel für eine klare, funktionale Küche: wenige Zutaten, präzise gegart, keine Überwürzung.<br>
-Pilze und Dinkelpenne bilden eine stabile, angenehm feste Basis. Die Sojasauce vertieft den Geschmack, ohne sich in den Vordergrund zu drängen.
-Das sehr sparsam eingesetzte Sambal Oelek liefert Umami und später eine leichte Schärfe.<br>
-Insgesamt entsteht eine Mahlzeit, die leicht, strukturiert und überraschend aromatisch ist. Ein typisches „Kurt kocht“-Gericht: puristisch, nachvollziehbar, mit sauberer sensorischer 
-Linie.
+Das Rezept „Gemüse-Nudel-Pfanne mit Asia-Note“ beschreibt ein klar strukturiertes, alltagstaugliches Gericht mit ausgewogener Nährstoffbilanz.  
+Es verbindet Dinkel-Penne, Champignons, Paprika und Zwiebeln zu einer leichten, aromatischen Mahlzeit mit asiatischem Akzent durch Sojasauce, Sambal Oelek.  
+Ein Rezept mit technischer Präzision und ernährungsphysiologischer Klarheit. 
 
 ---
 
