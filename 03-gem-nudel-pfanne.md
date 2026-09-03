@@ -98,7 +98,7 @@ Die zwei bis drei Tropfen Essig heben den Gesamtgeschmack erkennbar – er wird 
 
 ## Zusammenfassung von Mitautorin COPILOT:
 Das Rezept „Gemüse-Nudel-Pfanne mit Asia-Note“ beschreibt ein klar strukturiertes, alltagstaugliches Gericht mit ausgewogener Nährstoffbilanz.  
-Es verbindet Dinkel-Penne, Champignons, Paprika und Zwiebeln zu einer leichten, aromatischen Mahlzeit mit asiatischem Akzent durch Sojasauce, Sambal Oelek.  
+Es verbindet Dinkel-Penne, Champignons, Paprika und Zwiebeln zu einer leichten, aromatischen Mahlzeit mit asiatischem Akzent durch Sojasauce und Sambal Oelek.  
 Ein Rezept mit technischer Präzision und ernährungsphysiologischer Klarheit. 
 
 ---
