@@ -1,13 +1,15 @@
-# Kurt kocht &nbsp;– &nbsp;Pilzpfanne Asia-Art
+# Kurt kocht &nbsp;– &nbsp;Gemüse-Nudel-Pfanne mit Asia-Note
 
-![Zutatenübersicht](assets/03-pilze-asia-01.jpg)
+![Zutatenübersicht](assets/03-gem-nudel-pfanne-1.jpg)
 
 ## Zutaten
 * **Ca. 250 g Champignons**
-* **2 Ziebeln**
-* **125 g** (Trockengewicht) **Dinkel-Penne**
-* **1 – 2 Esslöffel Olivenöl**
+* **2 kleine Ziebeln**
+* **1 rote Paprika**
+* **125 g** (Trockengewicht - 1/4 Packung) **Dinkel-Penne**
+* 2 Esslöffel Olivenöl und 1 Esslöffel Rapsöl**
 * **Gewürze:** Schwarzer Pfeffer, Soja Sauce, Sambal Oelek und Salz
+* **Finish:** Einige Tropfen Apfelessig (Reisessig / heller Balsamico)
 
 ---
 
@@ -19,14 +21,30 @@ Vorsicht: Die Kochzeit für die Dinkel-Penne ist kürzer als bei Hartweizennudel
 * **Schonendes Auftauen:** Am Vorabend eine Portion Nudeln in den Kühlschrank stellen, damit sie am Verzehrtag direkt einsatzbereit sind.
 
 ### Zubereitung am Verzehrtag
-* Ein wenig Olivenöl in die Pfanne geben.
-* Die Zwiebeln grob würfeln, in die Pfanne geben und bei mittlerer Hitze 3 – 4 Minuten anschwitzen. Dabei gerne ein wenig anbraten. Öfter wenden.
-* Die Pilze putzen und ebenfalls eher grob würfeln. Mit den Zwiebeln vermischen.
-* Ein paar Spritzer Soja Sauce einbringen und mutig mit schwarzem Pfeffer würzen.
-* Zwiebeln und Pilze weitere ca. 4 Minuten garen / braten bis die Pilze erkennbar geschrumpft sind – die Zwiebeln sollen noch nicht glasig geworden sein.
-* Die Penne unterheben und bei stetigem Wenden erwärmen.
-* Die Pfanne vom Feuer nehmen (kann auch auf ganz kleiner Flamme warm gehalten werden) und servieren.
-* Am Tisch 1 – 2 kleine Messerspitzen Sambal Oelek einrühren und (nach Geschmack) mit ein paar Körnern Salz nachwürzen.
+
+<table>
+  <tr>
+    <td><img src="assets/03-gem-nudel-pfanne-2.jpg" alt="Schritt 1"></td>
+    <td><img src="assets/03-gem-nudel-pfanne-4.jpg" alt="Schritt 2"></td>
+    <td><img src="assets/03-gem-nudel-pfanne-5.jpg" alt="Schritt 3"></td>
+    <td><img src="assets/03-gem-nudel-pfanne-6.jpg" alt="Schritt 4"></td>
+  </tr>
+</table>
+
+* Olivenöl und Rapsöl in die Pfanne geben.
+* Die Zwiebeln und die Paprika würfeln, in die Pfanne geben.
+* Die Pilze putzen und eher grob würfeln. Mit Zwiebeln und Paprika vermischen.
+* Mutig mit schwarzem Pfeffer würzen.
+* Kurz anbraten, dabei öfter wenden und abgedeckt ca. 7 – 8 Minuten schmoren. Kontrolle zwischendurch: Wenn die Pfanne zu trocken wird, einen Schuss Wasser hinzugeben.
+* Die Penne unterheben und bei stetigem Wenden ca. 2 Minuten erwärmen.
+* Die Pfanne vom Herd nehmen. Bei Bedarf auf kleinster Flamme warmhalten und servieren. 
+
+<table>
+  <tr>
+    <td><img src="assets/03-gem-nudel-pfanne-7.jpg" alt="Schritt 1" wid></td>
+    <td align="center">so soll es aussehen<br>die Paprika mit weichem Biss<br>die Zwiebel glasig<br>die Pilze ein wenig geschrumpft<br>die Nudeln wie frisch gekocht</td>
+  </tr>
+</table>
 
 ![Fertiges Gericht](assets/03-pilze-asia-02.jpg)
 
