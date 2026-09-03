@@ -63,7 +63,7 @@ Gesamtwirkung: Ein Gericht mit guter Sättigung, kontrollierter Fettmenge, moder
 
 
 ## Energiewerte – Makro / Mikro dieser Mahlzeit 
-(Schätzung für die gesamten im Rezept eingesetzten Mengen) 
+(Schätzung für die gesamten, im Rezept eingesetzten Mengen) 
 
 ### Makro
 | Energiewerte | geschätzt |
