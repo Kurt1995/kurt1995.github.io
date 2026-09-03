@@ -19,7 +19,7 @@
 | [Tomatenrunde mit Steak](22-tomate-steak.md) | [Opa Salat](06-opa-salat.md) |
 | PILZE & ZWIEBEL | WEITERE |
 | [Bunte Pilzpfanne](03-bunte-pilzpfanne.md) | [Deftige Kartoffelsuppe](05-deftige-ksuppe.md) |
-| [Gemüse-Nudel-Pfanne mit Asia-Note](03-pilzpfanne-asia.md) | &nbsp; |
+| [Gemüse-Nudel-Pfanne mit Asia-Note](03-gem-nudel-pfanne.md) | &nbsp; |
 | [Gemüsepfanne mit Reis](11-gemmitreis.md) | [Suppe mit Hähnchenmägen](14-maegensuppe.md) |
 | [Gemüsepfanne mit Nudeln](13-zwiebel-nudel-pf.md) | &nbsp; |
 | KOHL & WINTERGEMÜSE | KOHL & WINTERGEMÜSE |
