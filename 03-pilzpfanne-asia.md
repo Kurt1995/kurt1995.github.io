@@ -87,7 +87,7 @@ Gesamtwirkung: Ein Gericht mit guter Sättigung, kontrollierter Fettmenge, moder
 ## Praxis-Check: So schmeckt es dann
 **Textur:** Pilze, Paprikastücke und Dinkel-Penne haben einen angenehm festen Biss.  
 Die Zwiebeln sind nur punktuell wahrnehmbar – kleine weiche Einsprengsel, die die Struktur nicht verändern.  
-**Geschmack:** Paprika, Pilze und Penne bilden einen gemeinsamen Grundton.  
+**Geschmack:** Paprika, Pilze und Penne bilden einen gemeinsamen Grundton. 
 Paprika und Pilze sind einzeln zu erkennen, die Zwiebeln blitzen manchmal auf.  
 Die Sojasauce liefert viel Umami und vertieft den Grundton, wird aber bewusst nicht beherrschend.  
 Das Sambal Oelek: Da es in sehr kleiner Menge hinzugefügt wird, bleibt es unaufdringlich, gibt aber eine leise Schärfe.  
