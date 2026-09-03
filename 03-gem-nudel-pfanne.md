@@ -66,6 +66,7 @@ Gesamtwirkung: Ein Gericht mit guter Sättigung, kontrollierter Fettmenge, moder
 (Schätzung für die gesamten, im Rezept eingesetzten Mengen) 
 
 ### Makro
+
 | Energiewerte | geschätzt |
 |---------|--------|
 | Kalorien | ca. 820 kcal |
