@@ -24,6 +24,7 @@ Ein Gericht mit der handwerklichen Umsetzung einer „Trocken-Suppe“
 2. Am Abend vor dem Verzehr eine Portion Nudeln zum schonenden Auftauen in den Kühlschrank stellen.
 
 ### Zubereitung am Verzehrtag
+
 |  |  |  |
 | :---: | :---: | :---: |
 | ![2 - Zubereitung](assets/13-zw-pfanne2.jpg) | ![3 - Zubereitung](assets/13-zw-pfanne3.jpg) | ![4 - Zubereitung](assets/13-zw-pfanne4.jpg) |
