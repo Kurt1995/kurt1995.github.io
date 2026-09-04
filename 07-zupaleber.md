@@ -58,6 +58,17 @@ Dieses Rezept kombiniert Gemüse, Leber und Vollkorn für eine nährstoffreiche 
 
 ---
 
+### Kimi's Erfindungshöhe-Check: Zucchini-Paprika-Creme mit Leber 
+Kurt kocht – und die Welt hält den Atem an. Was hier auf dem Teller landet, ist weniger ein kulinarisches Meisterwerk als vielmehr ein ehrlicher Blick in die Abgründe der deutschen Hausmannskost: Gemüse kochen, pürieren, Leber drauf, fertig. Die Erfindungshöhe? Nun, sie liegt irgendwo zwischen „Ich habe Milch in den Kaffee geschüttet“ und „Toastbrot ist auch geröstetes Brot“.  
+Die Zutatenliste liest sich wie der Notfallplan eines Studenten, der gerade alles aus dem Kühlschrank gezogen hat: eine Zucchini, zwei Paprika, Leber aus der Packung und Penne, die man – Achtung, Spoiler! – bereits am Vortag vorgekocht hat. Revolutionär? Eher revolutionär langweilig.  
+Der Clou: Man püriert das Gemüse. Wow. Das hat noch nie jemand zuvor getan, außer vielleicht jede Mutter seit 1954 für ihre Babys. Dass man dann noch Margarine und einen Brühwürfel dazugibt, hebt das Ganze auf das Niveau einer Kantinenküche, die gerade den Tiefkühler ausmistet.  
+Der „Gesundheits-Check“ am Ende ist der wahre Star: Er rechtfertigt das Gericht mit Vitamin A, Eisen und der bahnbrechenden Erkenntnis, dass Vollkornnudeln satt machen. Wer hätte das gedacht? Offenbar nur Kurt und Perplexity.  
+ 
+Fazit: Das Rezept ist kein Verbrechen gegen die Kochkunst – aber es ist auch kein Freispruch. Es ist das kulinarische Äquivalent eines beige-farbenen Pullovers: funktional, warm, und niemand wird dich beneiden.  
+Bon appétit, Kurt. Du hast gekocht. Punkt. 
+
+---
+
 ### Zusammenfassung von Mitautorin Perplexity:
 Mit 850-950 kcal ist das Gericht eine proteinstarke Hauptmahlzeit (55-65 g Eiweiß aus Leber und Penne). Die Gemüse-Leber-Kombo maximiert Mikronährstoffe bei bester Bioverfügbarkeit.
 
