@@ -42,7 +42,7 @@ Vorsicht: Die Kochzeit für die Dinkel-Penne ist kürzer als bei Hartweizennudel
 <table>
   <tr>
     <td><img src="assets/03-gem-nudel-pfanne-7.jpg" alt="Schritt 1" width="712"></td>
-    <td align="center"><i>so soll es aussehen<br><br>die Paprika mit weichem Biss<br><br>die Zwiebel glasig<br><br>die Pilze ein wenig geschrumpft<br><br>die Nudeln wie frisch gekocht</i>i></td>
+    <td align="center"><i>so soll es aussehen<br><br>die Paprika mit weichem Biss<br><br>die Zwiebel glasig<br><br>die Pilze ein wenig geschrumpft<br><br>die Nudeln wie frisch gekocht</i></td>
   </tr>
 </table>
 
