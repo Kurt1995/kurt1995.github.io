@@ -4,7 +4,7 @@
 
 ![Zutaten für Fruchtige Nudelpfanne Asia-Note](assets/11-paprika-reis-ei-01.jpg)
 
-## Zutaten (für 2 Portionen (vier Teller / 2 Teller je Portion)
+## Zutaten (für 2 Portionen -- vier Teller = 2 Teller je Portion)
 
 - 4 rote Paprika (ca. 600 – 700  g) 
 - 4 Esslöffel Tomatenmark 3-fach konzentriert 
