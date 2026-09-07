@@ -2,16 +2,18 @@
 
 <br>
 
-![Zutaten für Fruchtige Nudelpfanne Asia-Note](assets/18-nudel-asia-1.jpg)
+![Zutaten für Fruchtige Nudelpfanne Asia-Note](assets/11-paprika-reis-ei-01.jpg)
 
-### Zutaten
+### Zutaten (für 2 Portionen (vier Teller / 2 Teller je Portion)
 
-- **Frische Tomaten** (ca. 600 g)
-- **1 Zwiebel**
-- **150 g Hackfleisch, gemischt (halb und halb)**
-- **120 g Spiralnudeln (Trockenmenge)**
-- **2 Esslöffel Olivenöl + 1 Esslöffel Rapsöl**
-- **Gewürze**: Salz, schwarzer Pfeffer, Paprikapulver (rosenscharf), Sojasauce
+
+-   4 rote Paprika (ca. 600 – 700  g) 
+- 4 Esslöffel Tomatenmark 3-fach konzentriert 
+- 4 Eier 
+- 40 – 50 g Reis (z.B. Parboiled Langkorn & Wildreis) 
+- 1 Esslöffel Olivenöl + 1 Esslöffel Rapsöl + 1 Stich Margarine 
+- 200 – 250 ml Wasser, 1 Brühwürfel 
+- Gewürze: Salz, schwarzer Pfeffer, Paprikapulver rosenscharf  
 
 ### Zubereitung
 
