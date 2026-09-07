@@ -165,7 +165,7 @@ Dieses Rezept vereint eine Fülle an wertvollen Nährstoffen mit einer leichten,
 
 ---
 
-## Kurts Praxis Check: So schmeckt es dann
+## Kurt's Praxis Check: So schmeckt es dann
 
 Herzhaft und leicht cremig mit einem dezent säuerlich-scharfen Grundton.  
 Die Paprikastückchen haben noch einen guten Biss behalten und sorgen mit ihrer Süße für einen Kontrapunkt.  
