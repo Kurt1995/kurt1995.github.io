@@ -63,7 +63,7 @@ Dieses Rezept vereint eine Fülle an wertvollen Nährstoffen mit einer leichten,
 
 ---
 
-## Makronährstoffe
+## Makronährstoffe für 1 Portion = 2 Teller
 
 <table>
   <tr>
@@ -108,7 +108,7 @@ Dieses Rezept vereint eine Fülle an wertvollen Nährstoffen mit einer leichten,
   </tr>
 </table>
 
-## Mikronährstoffe (Vitamine & Mineralstoffe)
+## Mikronährstoffe (Vitamine & Mineralstoffe) für 1 Portion = 2 Teller
 
 <table>
   <tr>
