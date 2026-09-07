@@ -167,7 +167,8 @@ Dieses Rezept vereint eine Fülle an wertvollen Nährstoffen mit einer leichten,
 
 Herzhaft und leicht cremig mit einem dezent säuerlich-scharfen Grundton.  
 Die Paprikastückchen haben noch einen guten Biss behalten und sorgen mit ihrer Süße für einen Kontrapunkt.  
-Das Ei esse ich gerne getrennt als Beilage. Es schiebt den Grundgeschmack in den Hintergrund und besonders das flüssig-cremige Eigelb entfaltet seinen kräftigen Geschmack. 
+Das Ei esse ich gerne getrennt als Beilage.  
+Es schiebt den Grundgeschmack in den Hintergrund und besonders das flüssig-cremige Eigelb kann seinen kräftigen Geschmack entfalten. 
 
 ---
 
