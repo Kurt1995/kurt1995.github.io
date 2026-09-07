@@ -29,29 +29,14 @@ und körnig und nimmt später die feine Paprika-Tomaten-Sauce viel besser auf, o
 wandern alle Aromen der Brühe direkt tief in das Reiskorn, was bei der eher geringen Reismenge für einen intensiven Geschmack sorgt.   
 Das ist eine sehr schonende und aromatisch maximale Zubereitung. 
 
-#### Das Gemüse
+### Das Gemüse
 
-<table>
-  <tr>
-    <td><img src="assets/18-nudel-asia-2.jpg" alt="Schritt 1"></td>
-    <td><img src="assets/18-nudel-asia-3.jpg" alt="Schritt 2"></td>
-    <td><img src="assets/18-nudel-asia-4.jpg" alt="Schritt 3"></td>
-  </tr>
-  <tr>
-    <td><img src="assets/18-nudel-asia-5.jpg" alt="Schritt 4"></td>
-    <td><img src="assets/18-nudel-asia-6.jpg" alt="Schritt 5"></td>
-    <td><img src="assets/18-nudel-asia-7.jpg" alt="Schritt 6" width="1300"></td>
-  </tr>
-</table>
-
--	Die Öle in die Pfanne geben.
--	Die Tomaten in dicke Scheiben schneiden und den Pfannenboden auslegen. Mutig mit schwarzem Pfeffer würzen.
--	Die Zwiebel putzen, in kleine Würfel schneiden, dazugeben.
--	Das Hackfleisch nach Geschmack mit Salz, Pfeffer, Paprikapulver  würzen und in Flocken hinzugeben.
--	Mit den Nudeln bedecken.
--	7 – 8 Minuten bei mittlerer Hitze mit Deckel schmoren / garen.  Die Tomaten werden weich geschmort, das Hack gart im Dampf.
--	Sobald das Hackfleisch durchgegart ist, die Pfanne vom Herd nehmen. Bei Bedarf auf kleinster Stufe warmhalten.
--	Am Tisch nach Geschmack mit ein wenig Sojasauce würzen.
+-	Die Öle in der  Pfanne verteilen. 
+- Die Paprika putzen, würfeln und hinzugeben. 
+- Großzügig mit schwarzem Pfeffer und dem Rosenpaprikapulver würzen. 
+- Das Tomatenmark untermischen. 
+- 8 – 9 Minuten bei kleiner bis mittlerer Hitze mit Deckel schmoren. Öfter umrühren. 
+- Wenn die Pfanne zu trocken wird, etwas Wasser hinzugeben. 
 
 ---
 
