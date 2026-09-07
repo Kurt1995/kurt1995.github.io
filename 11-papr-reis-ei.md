@@ -2,7 +2,7 @@
 
 <br>
 
-![Zutaten für Fruchtige Nudelpfanne Asia-Note](assets/11-paprika-reis-ei-01.jpg)
+![Zutaten für Paprika Pfanne](assets/11-paprika-reis-ei-01.jpg)
 
 ## Zutaten für 2 Portionen  (vier Teller = 2 Teller je Portion)
 
@@ -47,7 +47,7 @@ Das ist eine sehr schonende Zubereitung, die dem Reis viel Aroma mitgibt und sp�
 
 ---
 
-![Fertige Fruchtige Nudelpfanne Bayrische-Art](assets/11-paprika-reis-ei-10.jpg)
+![Paprika Pfanne](assets/11-paprika-reis-ei-10.jpg)
 
 <br>
 
