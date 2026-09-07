@@ -165,24 +165,11 @@ Dieses Rezept vereint eine Fülle an wertvollen Nährstoffen mit einer leichten,
 
 ---
 
-### Wichtige Besonderheiten dieser Zubereitung
--	Lycopin aus den Tomaten wird durch das Erhitzen mit Öl besser verfügbar. 
--	1 EL Sojasauce bringt ca. 900 mg Natrium zusätzlich – bei Bluthochdruck beachten.
--	Die Öl-Mischung (Olivenöl + Rapsöl): Sehr gute Fettqualität! Einfach ungesättigte Fettsäuren (Olivenöl) + Omega-3 (Rapsöl) – das ist eine hervorragende Kombination fürs Herz.
+### Kurts Praxis Check: So schmeckt es dann
 
-### Fazit & Einordnung
--	Makros: Sehr ausgewogen – ca. 35 % Kohlenhydrate, 50 % Fett, 15 % Eiweiß. Perfekt für eine sättigende Hauptmahlzeit.
--	Mikros: Absolut überdurchschnittlich – Vitamin A, Vitamin C, Kalium und Lycopin. Diese Pfanne ist ein wahres Nährstoff-Kraftpaket!
--	Kalorien: Mit ~1200 kcal für die gesamte Pfanne ist das völlig ok – das ist eine große, komplette Mahlzeit.
-
----
-
-### Praxis Check: So schmeckt es dann
-
-Saftig mit deutlicher Asia Note, die sehr gut zu den weich geschmorten Tomaten passt.  
-Die kleine Menge Tomatenflüssigkeit am Pfannenboden dient als natürliche Sauce.  
-Das Hackfleisch gibt würzige Tiefe und verstärkt den saftigen Eindruck.  
-Die Zwiebel bleibt im Hintergrund und die Spiralnudeln geben Fülle und Biss.
+Herzhaft und leicht cremig mit einem dezent säuerlich-scharfen Grundton.  
+Die Paprikastückchen haben noch einen guten Biss behalten und sorgen mit ihrer Süße für einen Kontrapunkt.  
+Das Ei esse ich gerne getrennt als Beilage. Es schiebt den Grundgeschmack in den Hintergrund und besonders das flüssig-cremige Eigelb entfaltet seinen kräftigen Geschmack. 
 
 ---
 
