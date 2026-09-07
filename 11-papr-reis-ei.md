@@ -23,9 +23,9 @@
  
 Begründung:  
 Diese Methode kombiniert zwei sehr durchdachte und kulinarisch sinnvolle Besonderheiten:   
-- *Das 1-stündige Wässern und Abspülen:* Das Wässern entzieht den Reiskörnern überschüssige Oberflächenstärke. Dadurch klebt der Reis nach dem Kochen nicht zusammen, bleibt wunderbar locker 
+- **Das 1-stündige Wässern und Abspülen:** Das Wässern entzieht den Reiskörnern überschüssige Oberflächenstärke. Dadurch klebt der Reis nach dem Kochen nicht zusammen, bleibt wunderbar locker 
 und körnig und nimmt später die feine Paprika-Tomaten-Sauce viel besser auf, ohne matschig zu werden.   
-- Das Ausquellen im Brühwasser: Anstatt den Reis in viel Salzwasser zu kochen und abzugießen, gart er bei kleiner Hitze, bis die Flüssigkeit mit dem Brühwürfel vollständig aufsaugt wird (Quellmethode). Dadurch 
+- **Das Ausquellen im Brühwasser:** Anstatt den Reis in viel Salzwasser zu kochen und abzugießen, gart er bei kleiner Hitze, bis die Flüssigkeit mit dem Brühwürfel vollständig aufsaugt wird (Quellmethode). Dadurch 
 wandern alle Aromen der Brühe direkt tief in das Reiskorn, was bei der eher geringen Reismenge für einen intensiven Geschmack sorgt.   
 Das ist eine sehr schonende und aromatisch maximale Zubereitung. 
 
