@@ -53,7 +53,7 @@ Das ist eine sehr schonende Zubereitung, die dem Reis viel Aroma mitgibt und sp�
 
 ---
 
-### Gemini‘s Gesundheits-Check: Warum dieses Gericht punktet 
+## Gemini‘s Gesundheits-Check: Warum dieses Gericht punktet 
 Dieses Rezept vereint eine Fülle an wertvollen Nährstoffen mit einer leichten, gut bekömmlichen Zusammensetzung: 
 - Vitamin-C-Bombe Paprika: Rote Paprika zählt zu den besten natürlichen Vitamin-C-Lieferanten. Das schützt das Immunsystem und fördert die Zellgesundheit. 
 - Lycopin aus Tomatenmark: Durch das dreifach konzentrierte Tomatenmark und das sanfte Schmoren in hochwertigem Fett wird der Antioxidanzien-Komplex Lycopin besonders gut vom Körper aufgenommen. 
@@ -63,7 +63,7 @@ Dieses Rezept vereint eine Fülle an wertvollen Nährstoffen mit einer leichten,
 
 ---
 
-### Makronährstoffe
+## Makronährstoffe
 
 <table>
   <tr>
@@ -108,7 +108,7 @@ Dieses Rezept vereint eine Fülle an wertvollen Nährstoffen mit einer leichten,
   </tr>
 </table>
 
-### Mikronährstoffe (Vitamine & Mineralstoffe)
+## Mikronährstoffe (Vitamine & Mineralstoffe)
 
 <table>
   <tr>
@@ -165,7 +165,7 @@ Dieses Rezept vereint eine Fülle an wertvollen Nährstoffen mit einer leichten,
 
 ---
 
-### Kurts Praxis Check: So schmeckt es dann
+## Kurts Praxis Check: So schmeckt es dann
 
 Herzhaft und leicht cremig mit einem dezent säuerlich-scharfen Grundton.  
 Die Paprikastückchen haben noch einen guten Biss behalten und sorgen mit ihrer Süße für einen Kontrapunkt.  
@@ -173,7 +173,7 @@ Das Ei esse ich gerne getrennt als Beilage. Es schiebt den Grundgeschmack in den
 
 ---
 
-### Zusammenfassung von Mitautorin Gemini
+## Zusammenfassung von Mitautorin Gemini
 
 Kurt präsentiert mit dieser Paprikapfanne ein unkompliziertes, farbenfrohes Gericht, das geschmacklich wie auch nährstoffseitig überzeugt.   
 Besonderes Augenmerk liegt auf der perfekten Garpunkt-Ablieferung: Das Gemüse behält seinen knackigen Biss, während das flüssig-cremige Eigelb eine samtige Komponente einbringt.  
