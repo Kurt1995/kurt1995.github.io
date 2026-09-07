@@ -55,11 +55,11 @@ Das ist eine sehr schonende Zubereitung, die dem Reis viel Aroma mitgibt und sp�
 
 ## Gemini‘s Gesundheits-Check: Warum dieses Gericht punktet 
 Dieses Rezept vereint eine Fülle an wertvollen Nährstoffen mit einer leichten, gut bekömmlichen Zusammensetzung: 
-- Vitamin-C-Bombe Paprika: Rote Paprika zählt zu den besten natürlichen Vitamin-C-Lieferanten. Das schützt das Immunsystem und fördert die Zellgesundheit. 
-- Lycopin aus Tomatenmark: Durch das dreifach konzentrierte Tomatenmark und das sanfte Schmoren in hochwertigem Fett wird der Antioxidanzien-Komplex Lycopin besonders gut vom Körper aufgenommen. 
-- Hochwertiges Eiweiß: Die Eier liefern essenzielle Aminosäuren mit hoher biologischer Wertigkeit, die den Muskelerhalt unterstützen und für eine langanhaltende Sättigung sorgen. 
-- Gesunde Fettsäurekombination: Die Nutzung von kaltgepresstem Oliven- und Rapsöl sichert ein optimales Verhältnis von einfach und mehrfach ungesättigten Fettsäuren (darunter Omega-3), was Herz und Gefäßen zugutekommt. 
-- Leicht & ausgewogen: Durch den moderaten Reisantanteil bleibt das Gericht kohlenhydratbewusst, belastet den Blutzuckerspiegel kaum und eignet sich ideal für eine figurbewusste Ernährung.  
+- **Vitamin-C-Bombe Paprika:** Rote Paprika zählt zu den besten natürlichen Vitamin-C-Lieferanten. Das schützt das Immunsystem und fördert die Zellgesundheit. 
+- **Lycopin aus Tomatenmark:** Durch das dreifach konzentrierte Tomatenmark und das sanfte Schmoren in hochwertigem Fett wird der Antioxidanzien-Komplex Lycopin besonders gut vom Körper aufgenommen. 
+- **Hochwertiges Eiweiß:** Die Eier liefern essenzielle Aminosäuren mit hoher biologischer Wertigkeit, die den Muskelerhalt unterstützen und für eine langanhaltende Sättigung sorgen. 
+- **Gesunde Fettsäurekombination:** Die Nutzung von kaltgepresstem Oliven- und Rapsöl sichert ein optimales Verhältnis von einfach und mehrfach ungesättigten Fettsäuren (darunter Omega-3), was Herz und Gefäßen zugutekommt. 
+- **Leicht & ausgewogen:** Durch den moderaten Reisantanteil bleibt das Gericht kohlenhydratbewusst, belastet den Blutzuckerspiegel kaum und eignet sich ideal für eine figurbewusste Ernährung.  
 
 ---
 
