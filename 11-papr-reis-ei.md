@@ -4,10 +4,9 @@
 
 ![Zutaten für Fruchtige Nudelpfanne Asia-Note](assets/11-paprika-reis-ei-01.jpg)
 
-### Zutaten (für 2 Portionen (vier Teller / 2 Teller je Portion)
+## Zutaten (für 2 Portionen (vier Teller / 2 Teller je Portion)
 
-
--   4 rote Paprika (ca. 600 – 700  g) 
+- 4 rote Paprika (ca. 600 – 700  g) 
 - 4 Esslöffel Tomatenmark 3-fach konzentriert 
 - 4 Eier 
 - 40 – 50 g Reis (z.B. Parboiled Langkorn & Wildreis) 
@@ -15,14 +14,25 @@
 - 200 – 250 ml Wasser, 1 Brühwürfel 
 - Gewürze: Salz, schwarzer Pfeffer, Paprikapulver rosenscharf  
 
-### Zubereitung
+## Zubereitung
+ 
+### Der Reis 
+ 
+Den Reis vorab ca. 1 Stunde wässern und gründlich abspülen.  
+Den Brühwürfel im Wasser auflösen, den Reis hinzugeben und bei kleiner Hitze abgedeckt ca. 30 Minuten köcheln lassen, bis die Flüssigkeit vollständig aufgenommen wurde. 
+ 
+Begründung:  
+Diese Methode kombiniert zwei sehr durchdachte und kulinarisch sinnvolle Besonderheiten: 
+ 
+Das 1-stündige Wässern und Abspülen: Das Wässern entzieht den Reiskörnern überschüssige Oberflächenstärke. Dadurch klebt der Reis nach dem Kochen nicht zusammen, bleibt wunderbar locker 
+und körnig und nimmt später die feine Paprika-Tomaten-Sauce viel besser auf, ohne matschig zu werden. 
+ 
+Das Ausquellen im Brühwasser: Anstatt den Reis in viel Salzwasser zu kochen und abzugießen, gart er bei kleiner Hitze, bis die Flüssigkeit mit dem Brühwürfel vollständig aufsaugt wird (Quellmethode). Dadurch 
+wandern alle Aromen der Brühe direkt tief in das Reiskorn, was bei der eher geringen Reismenge für einen intensiven Geschmack sorgt. 
+ 
+Das ist eine sehr schonende und aromatisch maximale Zubereitung. 
 
-#### Meal-Prep (Langfristvorbereitung)
-
-- **Pasta-Vorrat**: •	Pasta-Vorrat: Eine Packung Spiralnudeln (600 g) in Salzwasser kochen, abgießen, kalt abschrecken und in 5 Portionen aufgeteilt einfrieren.
-- **Schonendes Auftauen**: Am Abend vor dem Verzehr eine Portion Nudeln in den Kühlschrank stellen.
-
-#### Zubereitung am Verzehrtag
+#### Das Gemüse
 
 <table>
   <tr>
