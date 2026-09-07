@@ -16,8 +16,7 @@
 
 ## Zubereitung
  
-### Der Reis 
- 
+### Der Reis  
 - Den Reis vorab ca. 1 Stunde wässern und gründlich abspülen.  
 - Den Brühwürfel im Wasser auflösen, den Reis hinzugeben und bei kleiner Hitze abgedeckt ca. 30 Minuten köcheln lassen, bis die Flüssigkeit vollständig aufgenommen wurde. 
  
@@ -38,6 +37,10 @@ Das ist eine sehr schonende und aromatisch maximale Zubereitung.
 - 8 – 9 Minuten bei kleiner bis mittlerer Hitze mit Deckel schmoren. Öfter umrühren. 
 - Wenn die Pfanne zu trocken wird, etwas Wasser hinzugeben. 
 
+### Sie Eier
+
+- Die Eier in eine separate, mit der Margarine eingefettete Pfanne geben. 
+- Zuerst offen, dann mit Deckel garen bis das Eiweiß gestockt ist, das Eigelb sollte weich oder cremig bleiben. 
 ---
 
 ![Fertige Fruchtige Nudelpfanne Bayrische-Art](assets/18-nudel-asia-8.jpg)
