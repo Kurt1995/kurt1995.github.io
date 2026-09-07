@@ -25,8 +25,8 @@ Diese Methode kombiniert zwei sehr durchdachte und kulinarisch sinnvolle Besonde
 - **Das 1-stündige Wässern und Abspülen:** Das Wässern entzieht den Reiskörnern überschüssige Oberflächenstärke. Dadurch klebt der Reis nach dem Kochen nicht zusammen, bleibt wunderbar locker 
 und körnig und nimmt später die feine Paprika-Tomaten-Sauce viel besser auf, ohne matschig zu werden.   
 - **Das Ausquellen im Brühwasser:** Anstatt den Reis in viel Salzwasser zu kochen und abzugießen, gart er bei kleiner Hitze, bis die Flüssigkeit mit dem Brühwürfel vollständig aufsaugt wird (Quellmethode). Dadurch 
-wandern alle Aromen der Brühe direkt tief in das Reiskorn, was bei der eher geringen Reismenge für einen intensiven Geschmack sorgt.   
-Das ist eine sehr schonende und aromatisch maximale Zubereitung. 
+wandern alle Aromen der Brühe direkt tief in das Reiskorn, was bei der eher geringen Reismenge für einen intensiven Geschmack sorgt.     
+Das ist eine sehr schonende Zubereitung, die dem Reis viel Aroma mitgibt und später Salz spart. 
 
 ### Das Gemüse
 -	Die Öle in der  Pfanne verteilen. 
@@ -53,48 +53,115 @@ Das ist eine sehr schonende und aromatisch maximale Zubereitung.
 
 ---
 
-### COPILOT's Gesundheitscheck: Warum dieses Gericht punktet
-
-Die Tomaten-Schicht Pfanne „Asia Note“ ist ein tomatenreiches, proteinbalanciertes Gericht.
-Sie nutzt frische Zutaten, kurze Garzeiten und eine klare Struktur.
-Sie punktet gesundheitlich durch:
--	hohe Gemüsequote
--	moderate Kohlenhydrate
--	ausgewogene Proteine
--	nährstoffschonende Zubereitung
--	klare Portionslogik
--	gute Fettqualität (Oliven- und Rapsöl)
-
-Warum so viel Öl? Die 3 EL Öl sind hier bewusst gewählt. Sie machen die große Tomatenmenge bekömmlich, verbessern die Aufnahme von Lycopin und sorgen für eine stabile Sättigung. 
-Energetisch ist es damit eine vollwertige Hauptmahlzeit.
-
+### Gemini‘s Gesundheits-Check: Warum dieses Gericht punktet 
+Dieses Rezept vereint eine Fülle an wertvollen Nährstoffen mit einer leichten, gut bekömmlichen Zusammensetzung: 
+- Vitamin-C-Bombe Paprika: Rote Paprika zählt zu den besten natürlichen Vitamin-C-Lieferanten. Das schützt das Immunsystem und fördert die Zellgesundheit. 
+- Lycopin aus Tomatenmark: Durch das dreifach konzentrierte Tomatenmark und das sanfte Schmoren in hochwertigem Fett wird der Antioxidanzien-Komplex Lycopin besonders gut vom Körper aufgenommen. 
+- Hochwertiges Eiweiß: Die Eier liefern essenzielle Aminosäuren mit hoher biologischer Wertigkeit, die den Muskelerhalt unterstützen und für eine langanhaltende Sättigung sorgen. 
+- Gesunde Fettsäurekombination: Die Nutzung von kaltgepresstem Oliven- und Rapsöl sichert ein optimales Verhältnis von einfach und mehrfach ungesättigten Fettsäuren (darunter Omega-3), was Herz und Gefäßen zugutekommt. 
+- Leicht & ausgewogen: Durch den moderaten Reisantanteil bleibt das Gericht kohlenhydratbewusst, belastet den Blutzuckerspiegel kaum und eignet sich ideal für eine figurbewusste Ernährung.  
 
 ---
 
-### Hauptnährwerte für das Gesamtgericht
+### Makronährstoffe
 
-| Nährstoff | Menge | Anmerkung |
-|-----------|-------|-----------|
-| Kalorien | ca. 1190 kcal | Hauptenergie aus Öl + Nudeln |
-| Eiweiß | ca. 50 g | Hauptsächlich aus Hackfleisch |
-| Kohlenhydrate | ca. 112–116 g | Fast komplett aus den Nudeln |
-| davon Zucker | ca. 20 g | Natürlicher Fruchtzucker der Tomaten und der Zwiebel |
-| Fett (gesamt) | ca. 60 g | Aus Öl und Hackfleisch |
-| Gesättigte Fettsäuren | ca. 15 g | Aus dem Hackfleisch |
-| Ballaststoffe | ca. 13 g | Aus Tomaten, der Zwiebel und den Nudeln |
+<table>
+  <tr>
+    <td><strong>Nährstoff</strong></td>
+    <td><strong>Menge</strong></td>
+    <td><strong>Anmerkung</strong></td>
+  </tr>
+  <tr>
+    <td>Kalorien</td>
+    <td>ca. 500 kcal</td>
+    <td>Hauptenergie aus Eiern, Ölen/Margarine und Reis</td>
+  </tr>
+  <tr>
+    <td>Eiweiß</td>
+    <td>ca. 22 g</td>
+    <td>Hauptsächlich aus den Eiern und dem Reis</td>
+  </tr>
+  <tr>
+    <td>Kohlenhydrate</td>
+    <td>ca. 40 g</td>
+    <td>Aus Reis, Paprika und Tomatenmark</td>
+  </tr>
+  <tr>
+    <td>davon Zucker</td>
+    <td>ca. 17 g</td>
+    <td>Natürlicher Fruchtzucker aus Paprika und Tomatenmark</td>
+  </tr>
+  <tr>
+    <td>Fett (gesamt)</td>
+    <td>ca. 28 g</td>
+    <td>Aus den Ölen, Margarine und dem Eigelb</td>
+  </tr>
+  <tr>
+    <td>Gesättigte Fettsäuren</td>
+    <td>ca. 5 g</td>
+    <td>Aus dem Eigelb und Margarine</td>
+  </tr>
+  <tr>
+    <td>Ballaststoffe</td>
+    <td>ca. 10 g</td>
+    <td>Reichlich aus der Paprika und dem Tomatenmark</td>
+  </tr>
+</table>
 
 ### Mikronährstoffe (Vitamine & Mineralstoffe)
 
-| Nährstoff | Menge | Deckungsbeitrag (Referenzwert Erwachsene/Tag) |
-|-----------|-------|-----------------------------------------------|
-| Vitamin C | ca. 45–60 mg | ~60 % des Tagesbedarfs |
-| Vitamin A (als Beta-Carotin) | ca. 250 µg | ~30 % des Tagesbedarfs |
-| Vitamin K | ca. 20–30 µg | ~25–30 % |
-| Kalium | ca. 1700–1900 mg | ~45 % (sehr gut für Blutdruck) |
-| Magnesium | ca. 80–100 mg | ~25–30 % |
-| Zink | ca. 3–4 mg | ~25–30 % |
-| Lycopin | ca. 15–20 mg | Hoch (starkes Antioxidans) |
-| Folsäure | ca. 80–100 µg | ~25 % |
+<table>
+  <tr>
+    <td><strong>Nährstoff</strong></td>
+    <td><strong>Menge</strong></td>
+    <td><strong>Deckungsbeitrag pro Tag</strong></td>
+  </tr>
+  <tr>
+    <td>Vitamin C</td>
+    <td>ca. 350 – 400 mg</td>
+    <td>~ 350 – 400 % (exzellenter Wert aus Paprika und Tomatenmark)</td>
+  </tr>
+  <tr>
+    <td>Vitamin A (als Beta-Carotin)</td>
+    <td>ca. 600 – 700 µg</td>
+    <td>~ 100 % (aus Beta-Carotin der Paprika + Retinol im Eigelb)</td>
+  </tr>
+  <tr>
+    <td>Vitamin D</td>
+    <td>ca. 2,5 – 3 µg</td>
+    <td>~ 12 – 15 % (aus dem Eigelb)</td>
+  </tr>
+  <tr>
+    <td>Vitamin B2 (Riboflavin) & B12</td>
+    <td>Hoch</td>
+    <td>Sehr gut abgedeckt (B2 aus Eiern & Paprika; B12 exklusiv aus Eiern)</td>
+  </tr>
+  <tr>
+    <td>Vitamin K</td>
+    <td>ca. 30 µg</td>
+    <td>~ 30 %</td>
+  </tr>
+  <tr>
+    <td>Kalium</td>
+    <td>ca. 1100 – 1300 mg</td>
+    <td>~ 30 – 35 % (sehr gut für Blutdruck; aus Paprika & Tomatenmark)</td>
+  </tr>
+  <tr>
+    <td>Eisen</td>
+    <td>ca. 3,5–4,5 mg Eisen</td>
+    <td>~ 25 – 30 % Eisen (aus Eiern, Tomatenmark & Reis)</td>
+  </tr>
+  <tr>
+    <td>Zink</td>
+    <td>ca. 2,5–3 mg Zink</td>
+    <td>~ 25 – 30 % Zink (aus Eiern, Tomatenmark & Reis)</td>
+  </tr>
+  <tr>
+    <td>Lycopin (Antioxidanz)</td>
+    <td>ca. 10 mg</td>
+    <td>Sehr hoch (wertvoller Pflanzenstoff aus dem Tomatenmark)</td>
+  </tr>
+</table>
 
 ---
 
