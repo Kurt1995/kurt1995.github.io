@@ -17,7 +17,7 @@
 | [Tomaten-Schicht-Pfanne "Funghi Note"](18-nudel-funghi.md) | &nbsp; |
 | [Zucchini-Nudel Pfanne](24-zucch-nudel.md) |  |
 | [Tomatenrunde mit Steak](22-tomate-steak.md) | [Opa Salat](06-opa-salat.md) |
-| PILZE, Paprika & ZWIEBEL | WEITERE |
+| PILZE, PAPRIKA & ZWIEBEL | WEITERE |
 | [Bunte Pilzpfanne](03-bunte-pilzpfanne.md) | [Deftige Kartoffelsuppe](05-deftige-ksuppe.md) |
 | [Gemüse-Nudel-Pfanne mit Asia-Note](03-gem-nudel-pfanne.md) | &nbsp; |
 | [Gemüsepfanne mit Reis](11-gemmitreis.md) | [Suppe mit Hähnchenmägen](14-maegensuppe.md) |
