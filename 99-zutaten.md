@@ -65,7 +65,7 @@ Wer anders einkauft: Ähnliche Produkte gibt es in gut sortierten Supermärkten,
     <td><h4>Schwarzer Pfeffer</h4></td>
     <td style="text-align:center"><img src="assets/99-wuerzen-01.jpg" alt="schwarzer Pfeffer" width="80"></td>
     <td>Edeka<br><span style="font-size: 0.7em;">GUT & GÜNSTIG</span></td>
-    <td>ca. 0,85 € je 50 g Glas</td>
+    <td>ca. 0,85 € je 50 g Streuer</td>
     <td>moderate Schärfe<br>intensives Aroma</td>
   </tr>
   <tr>
