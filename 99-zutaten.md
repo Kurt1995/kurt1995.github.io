@@ -44,6 +44,24 @@ Wer anders einkauft: Ähnliche Produkte gibt es in gut sortierten Supermärkten,
   </tr>
 </table>
 
+## Die Gewürze
+
+<table>
+  <tr>
+    <th><h3>Produkt</h3></th>
+    <th><h3>Produktfoto</h3></th>
+    <th><h3>Markt</h3></th>
+    <th><h3>Ungefährer Preis</h3></th>
+    <th><h3>Sensorische Beschreibung</h3></th>
+  </tr>
+  <tr>
+    <td><h4>Schwarzer Pfeffer</h4></td>
+    <td style="text-align:center"><img src="assets/99-wuerzen-01d.jpg" alt="schwarzer Pfeffer" width="80"></td>
+    <td>Edeka</td>
+    <td>ca. 0,85 € je 50 g Glas</td>
+    <td>milder Geschmack<br>auffallend fruchtig</td>
+  </tr>
+</table>
 *Hinweis: Markennennungen sind Beispiele aus meinem eigenen Einkauf, keine Werbung.*
 
 ---
