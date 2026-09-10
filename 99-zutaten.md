@@ -9,7 +9,7 @@ Wer anders einkauft: Ähnliche Produkte gibt es in gut sortierten Supermärkten,
   <tr>
     <td><h3>Produkt</td>
     <td><h3>Produktfoto</td>
-    <td><h3>Einkaufsmöglichkeit</td>
+    <td><h3>Markt</td>
     <td><h3>Ungefährer Preis</td>
     <td><h3>Sensorische Beschreibung</td>
   </tr>
