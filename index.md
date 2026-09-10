@@ -1,7 +1,8 @@
 # Kurt kocht &nbsp; – &nbsp; Ideen für den Alltag
 ## *einfache Zutaten, schnelle Zubereitung und bewusstes Essen<br>in einer gemüsefreundlichen Küche*
 
-##### Tipp: Handy quer, dann passen die Seiten besser.
+##### Tipp 1: Handy quer, dann passen die Seiten besser.
+##### Tipp 2: Hier gibt es eine Übersicht über [Zutaten](99-zutaten.md) Zutaten, die ich verwende.
 
 ---
 
