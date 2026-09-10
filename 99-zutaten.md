@@ -2,7 +2,7 @@
 Ich wohne auf dem Land und fahre einmal in der Woche zum Einkaufen. Ein NETTO und ein EDEKA Markt sind für mich am besten zu erreichen.
 Deshalb verwende ich vor allem Zutaten, die es dort gibt.<br>
 Wer anders einkauft: Ähnliche Produkte gibt es in gut sortierten Supermärkten, beim Discounter, eventuell auf dem Wochenmarkt oder im Bio-Laden.<br>
-*Aber - diese Zutatenliste ist entstanden, weil ich nach eigenem Probieren genau bei diesen Produkten geblieben bin.*
+*Aber - diese Zutatenliste ist entstanden, weil ich nach Probieren von Vergleichsprodukten genau bei diesen Produkten geblieben bin.*
 
 ## Die Nudeln / Der Reis
 
