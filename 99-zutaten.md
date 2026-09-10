@@ -47,7 +47,7 @@ Wer anders einkauft: Ähnliche Produkte gibt es in gut sortierten Supermärkten,
     <td style="text-align:center"><img src="assets/99-reis-01.jpg" alt="Reis" width="80"></td>
     <td>Netto</td>
     <td>ca. 2,00 € je 500 g Packung</td>
-    <td>guter Geschmack<br>klebt nicht</td>
+    <td>guter Geschmack<br>passt gut zu meiner Zubereitungsmethode</td>
   </tr>
 </table>
 
