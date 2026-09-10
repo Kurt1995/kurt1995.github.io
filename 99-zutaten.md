@@ -16,17 +16,31 @@ Wer anders einkauft: Ähnliche Produkte gibt es in gut sortierten Supermärkten,
   </tr>
   <tr>
     <td><h4>Vollkornpenne</h4></td>
-    <td style="text-align:center"><img src="assets/99-nudel-01.jpg" alt="Vollkornpenne 500g" width="80"></td>
+    <td style="text-align:center"><img src="assets/99-nudel-01.jpg" alt="Vollkornpenne" width="80"></td>
     <td>Netto</td>
     <td>ca. 0,75 € je 500 g Packung</td>
-    <td>milder Geschmack, nur geringe 'sandige' Textur</td>
+    <td>milder Geschmack<br>nur geringe 'sandige' Textur</td>
   </tr>
   <tr>
     <td><h4>Spiralnuden</h4></td>
-    <td style="text-align:center"><img src="assets/99-nudel-02.jpg" alt="Spiralnudeln 600g" width="80"></td>
+    <td style="text-align:center"><img src="assets/99-nudel-02.jpg" alt="Spiralnudeln" width="80"></td>
     <td>Netto</td>
     <td>ca. 1,90 € je 600 g Packung</td>
-    <td>guter Biss, nehmen die Soße/den Sud geschmacklich an</td>
+    <td>guter Biss<br>nehmen die Soße/den Sud geschmacklich an</td>
+  </tr>
+  <tr>
+    <td><h4>Dinkel Penne</h4></td>
+    <td style="text-align:center"><img src="assets/99-nudel-03.jpg" alt="Dinkel Penne" width="80"></td>
+    <td>Netto</td>
+    <td>ca. 1,60 € je 500 g Packung</td>
+    <td>angenehmer Biss<br>setzen einen leichten, eigenen Geschmacksakzent</td>
+  </tr>
+  <tr>
+    <td><h4>Spaghetti</h4></td>
+    <td style="text-align:center"><img src="assets/99-nudel-04.jpg" alt="Spaghetti" width="80"></td>
+    <td>Netto</td>
+    <td>ca. 0,70 € je 500 g Packung</td>
+    <td>guter Biss<br>lassen sich gut passend kochen</td>
   </tr>
 </table>
 
