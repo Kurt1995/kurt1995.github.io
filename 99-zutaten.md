@@ -4,7 +4,7 @@ Deshalb verwende ich vor allem Zutaten, die es dort gibt.
 Wer anders einkauft: Ähnliche Produkte gibt es in gut sortierten Supermärkten, beim Discounter, eventuell auf dem Wochenmarkt oder im Bio-Laden.
 
 
-## Die Nudeln
+## Die Nudeln / Der Reis
 
 <table>
   <tr>
@@ -41,6 +41,13 @@ Wer anders einkauft: Ähnliche Produkte gibt es in gut sortierten Supermärkten,
     <td>Netto</td>
     <td>ca. 0,70 € je 500 g Packung</td>
     <td>guter Biss<br>lassen sich gut passend kochen</td>
+  </tr>
+  <tr>
+    <td><h4>Reis mit Wildreis</h4></td>
+    <td style="text-align:center"><img src="assets/99-reis-01.jpg" alt="Reis" width="80"></td>
+    <td>Netto</td>
+    <td>ca. 2,00 € je 500 g Packung</td>
+    <td>guter Geschmack<br>klebt nicht</td>
   </tr>
 </table>
 
