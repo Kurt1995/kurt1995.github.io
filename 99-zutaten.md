@@ -21,6 +21,13 @@ Wer anders einkauft: Ähnliche Produkte gibt es in gut sortierten Supermärkten,
     <td>ca. 0,75 € je 500 g Packung</td>
     <td>milder Geschmack, nur geringe 'sandige' Textur</td>
   </tr>
+  <tr>
+    <td><h4>Spiralnuden</h4></td>
+    <td style="text-align:center"><img src="assets/99-nudel-02.jpg" alt="Spiralnudeln 600g" width="80"></td>
+    <td>Netto</td>
+    <td>ca. 1,90 € je 600 g Packung</td>
+    <td>guter Biss, nehmen die Soße/den Sud geschmacklich an</td>
+  </tr>
 </table>
 
 *Hinweis: Markennennungen sind Beispiele aus meinem eigenen Einkauf, keine Werbung.*
