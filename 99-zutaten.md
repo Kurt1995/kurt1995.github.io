@@ -56,10 +56,17 @@ Wer anders einkauft: Ähnliche Produkte gibt es in gut sortierten Supermärkten,
   </tr>
   <tr>
     <td><h4>Schwarzer Pfeffer</h4></td>
-    <td style="text-align:center"><img src="assets/99-wuerzen-01d.jpg" alt="schwarzer Pfeffer" width="80"></td>
+    <td style="text-align:center"><img src="assets/99-wuerzen-01.jpg" alt="schwarzer Pfeffer" width="80"></td>
     <td>Edeka<br><span style="font-size: 0.7em;">GUT & GÜNSTIG</span></td>
     <td>ca. 0,85 € je 50 g Glas</td>
-    <td>geringe Schärfe<br>auffallend fruchtig</td>
+    <td>geringe Schärfe<br>fruchtiges Aeoma</td>
+  </tr>
+  <tr>
+    <td><h4>Sojasauce</h4></td>
+    <td style="text-align:center"><img src="assets/99-wuerzen-02.jpg" alt="Sojasauce" width="80"></td>
+    <td>Edeka<br><span style="font-size: 0.7em;">oder</span><br>Netto</td>
+    <td>ca. 7,00 € für die 500 ml Flasche</td>
+    <td>ausgewogener Geschmack<br>intensive Würzung</td>
   </tr>
 </table>
 *Hinweis: Markennennungen sind Beispiele aus meinem eigenen Einkauf, keine Werbung.*
