@@ -46,5 +46,6 @@ Wer anders einkauft: Ähnliche Produkte gibt es in gut sortierten Supermärkten,
 
 *Hinweis: Markennennungen sind Beispiele aus meinem eigenen Einkauf, keine Werbung.*
 
-
+---
+[← Zurück zur Übersicht](index.md)
 
