@@ -59,7 +59,7 @@ Wer anders einkauft: Ähnliche Produkte gibt es in gut sortierten Supermärkten,
     <td style="text-align:center"><img src="assets/99-wuerzen-01d.jpg" alt="schwarzer Pfeffer" width="80"></td>
     <td>Edeka<br><span style="font-size: 0.7em;">GUT & GÜNSTIG</span></td>
     <td>ca. 0,85 € je 50 g Glas</td>
-    <td>milder Geschmack<br>auffallend fruchtig</td>
+    <td>geringe Schärfe<br>auffallend fruchtig</td>
   </tr>
 </table>
 *Hinweis: Markennennungen sind Beispiele aus meinem eigenen Einkauf, keine Werbung.*
