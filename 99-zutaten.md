@@ -15,7 +15,7 @@ Wer anders einkauft: Ähnliche Produkte gibt es in gut sortierten Supermärkten,
     <th><h3>Sensorische Beschreibung</h3></th>
   </tr>
   <tr>
-    <td><h4>Vollkornpenne</h4></td>
+    <td><h4>Vollkorn Penne</h4></td>
     <td style="text-align:center"><img src="assets/99-nudel-01.jpg" alt="Vollkornpenne" width="80"></td>
     <td>Netto</td>
     <td>ca. 0,75 € je 500 g Packung</td>
