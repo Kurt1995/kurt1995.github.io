@@ -19,7 +19,7 @@ Wer anders einkauft: Ähnliche Produkte gibt es in gut sortierten Supermärkten,
     <td style="text-align:center"><img src="assets/99-nudel-01.jpg" alt="Vollkornpenne" width="80"></td>
     <td>Netto</td>
     <td>ca. 0,75 € je 500 g Packung</td>
-    <td>milder Geschmack<br>nur geringe 'sandige' Textur</td>
+    <td>milder Geschmack<br>nur geringe 'sandig/krümelige' Textur</td>
   </tr>
   <tr>
     <td><h4>Spiralnuden</h4></td>
