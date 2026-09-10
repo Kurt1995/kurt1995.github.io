@@ -73,7 +73,7 @@ Wer anders einkauft: Ähnliche Produkte gibt es in gut sortierten Supermärkten,
     <td style="text-align:center"><img src="assets/99-wuerzen-02.jpg" alt="Sojasauce" width="80"></td>
     <td>Edeka/Netto<br><span style="font-size: 0.7em;">oder</span><br>andere</td>
     <td>ca. 5,00 € für die 500 ml Flasche</td>
-    <td>ausgewogener Geschmack<br>intensive Würzung</td>
+    <td>ausgewogener Geschmack<br>kräftige Würzung</td>
   </tr>
 </table>
 
