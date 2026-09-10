@@ -40,7 +40,7 @@ Wer anders einkauft: Ähnliche Produkte gibt es in gut sortierten Supermärkten,
     <td style="text-align:center"><img src="assets/99-nudel-04.jpg" alt="Spaghetti" width="80"></td>
     <td>Netto</td>
     <td>ca. 0,70 € je 500 g Packung</td>
-    <td>leckerer Biss<br>lassen sich gut 'al dente' kochen</td>
+    <td>leckerer Biss auf der Gabel<br>lassen sich gut 'al dente' kochen</td>
   </tr>
   <tr>
     <td><h4>Reis mit Wildreis</h4></td>
