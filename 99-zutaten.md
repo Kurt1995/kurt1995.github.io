@@ -8,8 +8,15 @@ Wer anders einkauft: Ähnliche Produkte gibt es in gut sortierten Supermärkten,
 <table>
   <tr>
     <td>Vollkornpenne</td>
-    <td><img src="assets/99-nudel-01.jpg" alt="Vollkornpenne"></td>
+    <td><img src="assets/99-nudel-01.jpg" alt="Vollkornpenne" width="100"></td>
     <td>Netto</td>
     <td>ca. 1,50 € je 500 g Packung</td>
   </tr>
 </table>
+
+
+
+
+
+
+*Hinweis: Markennungen sind Beispiele aus meinem eigenen Einkauf, keine Werbung.*
