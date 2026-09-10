@@ -7,10 +7,18 @@ Wer anders einkauft: Ähnliche Produkte gibt es in gut sortierten Supermärkten,
 
 <table>
   <tr>
-    <td>Vollkornpenne</td>
+    <td><h3>Produkt</td>
+    <td><h3>Produktfoto</td>
+    <td><h3>Einkaufsmöglichkeit</td>
+    <td><h3>Ungefährer Preis</td>
+    <td><h3>Sensorische Beschreibung</td>
+  </tr>
+  <tr>
+    <td><h4>Vollkornpenne</td>
     <td><img src="assets/99-nudel-01.jpg" alt="Vollkornpenne" width="100"></td>
     <td>Netto</td>
     <td>ca. 1,50 € je 500 g Packung</td>
+    <td>diese Vollkornpenne haben einen milden Geschmack<br>und eine wenig 'sandige' Textur</td>
   </tr>
 </table>
 
