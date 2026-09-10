@@ -26,7 +26,7 @@ Wer anders einkauft: Ähnliche Produkte gibt es in gut sortierten Supermärkten,
     <td style="text-align:center"><img src="assets/99-nudel-02.jpg" alt="Spiralnudeln" width="80"></td>
     <td>Netto</td>
     <td>ca. 1,90 € je 600 g Packung</td>
-    <td>guter Biss<br>nehmen die Soße/den Sud geschmacklich an</td>
+    <td>zurückhaltender Biss<br>nehmen die Soße/den Sud geschmacklich auf</td>
   </tr>
   <tr>
     <td><h4>Dinkel Penne</h4></td>
