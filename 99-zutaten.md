@@ -76,6 +76,7 @@ Wer anders einkauft: Ähnliche Produkte gibt es in gut sortierten Supermärkten,
     <td>ausgewogener Geschmack<br>intensive Würzung</td>
   </tr>
 </table>
+
 *Hinweis: Markennennungen sind Beispiele aus meinem eigenen Einkauf, keine Werbung.*
 
 ---
