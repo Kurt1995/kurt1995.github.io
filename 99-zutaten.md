@@ -33,7 +33,7 @@ Wer anders einkauft: Ähnliche Produkte gibt es in gut sortierten Supermärkten,
     <td style="text-align:center"><img src="assets/99-nudel-03.jpg" alt="Dinkel Penne" width="80"></td>
     <td>Netto</td>
     <td>ca. 1,60 € je 500 g Packung</td>
-    <td>angenehmer Biss<br>setzen einen leichten, eigenen Geschmacksakzent</td>
+    <td>erkennbarer Biss<br>setzen einen leichten, eigenen Geschmacksakzent</td>
   </tr>
   <tr>
     <td><h4>Spaghetti</h4></td>
