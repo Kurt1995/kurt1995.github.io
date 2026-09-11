@@ -51,7 +51,7 @@ Wer anders einkauft: Ähnliche Produkte gibt es in gut sortierten Supermärkten,
   </tr>
 </table>
 
-## Die Gewürze
+## Die Gewürze / Das Öl
 
 <table>
   <tr>
@@ -74,6 +74,12 @@ Wer anders einkauft: Ähnliche Produkte gibt es in gut sortierten Supermärkten,
     <td>Edeka/Netto<br><span style="font-size: 0.7em;">oder</span><br>andere</td>
     <td>ca. 5,00 € für die 500 ml Flasche</td>
     <td>ausgewogener Geschmack<br>kräftige Würzung</td>
+  </tr>
+  <td><h4>Olivenöl</h4></td>
+    <td style="text-align:center"><img src="assets/99-wuerzen-06.jpg" alt="Olivenöl" width="80"></td>
+    <td>Netto</td>
+    <td>ca. 7,00 € je 750 ml Flasche</td>
+    <td>moderater Eigengeschmack<br>ein gutes Öl der Mittelklasse</td>
   </tr>
 </table>
 
