@@ -89,7 +89,7 @@ Das ist eine sehr schonende Zubereitung, die dem Reis viel Aroma mitgibt und spÃ
     <td><img src="assets/11-paprika-reis-ei-25.jpg" alt="Schritt 5" width="140"></td>
   </tr>
   <tr>
-    <td align="center"><span style="font-size: 0.8em;">Die Pfanne fetten</span></td>
+    <td align="center"><span style="font-size: 0.8em;">Die Margarine in die Pfanne<br>schmelzen lassen</span></td>
     <td align="center"><span style="font-size: 0.8em;">Eier hineingeben</span></td>
     <td align="center"><span style="font-size: 0.8em;">Mit Deckel garen</span></td>
     <td align="center"><span style="font-size: 0.8em;">Die Eigelb<br>weich bis cremig</span></td>
