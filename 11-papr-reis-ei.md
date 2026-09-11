@@ -98,7 +98,7 @@ Das Ergebnis: Nach 30 Minuten bei kleiner Hitze mit Deckel ist die gesamte Brüh
     <td align="center"><span style="font-size: 0.8em;">Margarine in die Pfanne<br>und schmelzen lassen</span></td>
     <td align="center"><span style="font-size: 0.8em;">Eier hineingeben</span></td>
     <td align="center"><span style="font-size: 0.8em;">Mit Deckel garen</span></td>
-    <td align="center"><span style="font-size: 0.8em;">Die Eigelb<br>weich bis cremig</span></td>
+    <td align="center"><span style="font-size: 0.8em;">Die Eigelb<br>weich / cremig</span></td>
     <td align="center"><span style="font-size: 0.8em;">Über die Paprika<br>legen</span></td>
 </tr>
 </table>
