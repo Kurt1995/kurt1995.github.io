@@ -43,7 +43,6 @@
 - Bei kleiner Hitze abgedeckt ca. 30 Minuten köcheln lassen, bis die Flüssigkeit vollständig aufgenommen wurde. 
  
 **Begründung:**  
-Diese Methode kombiniert zwei sehr durchdachte und kulinarisch sinnvolle Besonderheiten:   
 - **Das 1-stündige Wässern und Abspülen:** Das 1-stündige Wässern und anschließende gründliche Abspülen entzieht den Reiskörnern überschüssige Oberflächenstärke – und gleichzeitig einen Teil des natürlich vorkommenden anorganischen Arsens, das sich vor allem außen am Korn anlagert.  
 Dadurch klebt der Reis nach dem Kochen nicht zusammen, bleibt locker und körnig und nimmt später die feine Paprika-Tomaten-Sauce besser auf.   
 - **Das Ausquellen im Brühwasser:** Anstatt den Reis in viel Salzwasser zu kochen und abzugießen, gart er bei kleiner Hitze, bis die Flüssigkeit mit dem Brühwürfel vollständig aufsaugt wird (Quellmethode). Dadurch 
