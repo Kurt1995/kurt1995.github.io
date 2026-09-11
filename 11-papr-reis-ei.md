@@ -62,12 +62,12 @@ Das ist eine sehr schonende Zubereitung, die dem Reis viel Aroma mitgibt und sp√
     <td><img src="assets/11-paprika-reis-ei-16.jpg" alt="Schritt 6" width="140"></td>
   </tr>
   <tr>
-    <td align="center"><span style="font-size: 0.7em;">Paprika in die Pfanne</span></td>
-    <td align="center"><span style="font-size: 0.7em;">Tomatenmark dazu</span></td>
-    <td align="center"><span style="font-size: 0.7em;">Durchmischen</span></td>
-    <td align="center"><span style="font-size: 0.7em;">Mit Deckel schmoren</span></td>
-    <td align="center"><span style="font-size: 0.7em;">Den Reis dazu</span></td>
-    <td align="center"><span style="font-size: 0.7em;">Vermischen</span></td>
+    <td align="center"><span style="font-size: 0.8em;">Paprika in die Pfanne</span></td>
+    <td align="center"><span style="font-size: 0.8em;">Tomatenmark dazu</span></td>
+    <td align="center"><span style="font-size: 0.8em;">Durchmischen</span></td>
+    <td align="center"><span style="font-size: 0.8em;">Mit Deckel schmoren</span></td>
+    <td align="center"><span style="font-size: 0.8em;">Den Reis dazu</span></td>
+    <td align="center"><span style="font-size: 0.8em;">Vermischen</span></td>
   </tr>
 </table>
 
@@ -89,11 +89,11 @@ Das ist eine sehr schonende Zubereitung, die dem Reis viel Aroma mitgibt und sp√
     <td><img src="assets/11-paprika-reis-ei-25.jpg" alt="Schritt 5" width="140"></td>
   </tr>
   <tr>
-    <td align="center"><span style="font-size: 0.7em;">Die Pfanne fetten</span></td>
-    <td align="center"><span style="font-size: 0.7em;">Eier hineingeben</span></td>
-    <td align="center"><span style="font-size: 0.7em;">Mit Deckel garen</span></td>
-    <td align="center"><span style="font-size: 0.7em;">Die Eigelb<br>weich bis cremig</span></td>
-    <td align="center"><span style="font-size: 0.7em;">√úber die Paprika<br>legen</span></td>
+    <td align="center"><span style="font-size: 0.8em;">Die Pfanne fetten</span></td>
+    <td align="center"><span style="font-size: 0.8em;">Eier hineingeben</span></td>
+    <td align="center"><span style="font-size: 0.8em;">Mit Deckel garen</span></td>
+    <td align="center"><span style="font-size: 0.8em;">Die Eigelb<br>weich bis cremig</span></td>
+    <td align="center"><span style="font-size: 0.8em;">√úber die Paprika<br>legen</span></td>
 </tr>
 </table>
 
