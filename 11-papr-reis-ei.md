@@ -79,6 +79,26 @@ Das ist eine sehr schonende Zubereitung, die dem Reis viel Aroma mitgibt und spÃ
 - Wenn die Pfanne zu trocken wird, etwas Wasser hinzugeben. 
 
 ### Die Eier
+
+<table>
+  <tr>
+    <td><img src="assets/11-paprika-reis-ei-11.jpg" alt="Schritt 1" width="140"></td>
+    <td><img src="assets/11-paprika-reis-ei-12.jpg" alt="Schritt 2" width="140"></td>
+    <td><img src="assets/11-paprika-reis-ei-13.jpg" alt="Schritt 3" width="140"></td>
+    <td><img src="assets/11-paprika-reis-ei-14.jpg" alt="Schritt 4" width="140"></td>
+    <td><img src="assets/11-paprika-reis-ei-15.jpg" alt="Schritt 5" width="140"></td>
+    <td><img src="assets/11-paprika-reis-ei-16.jpg" alt="Schritt 6" width="140"></td>
+  </tr>
+  <tr>
+    <td align="center"><span style="font-size: 0.7em;">Paprika in die Pfanne</span></td>
+    <td align="center"><span style="font-size: 0.7em;">Tomatenmark dazu</span></td>
+    <td align="center"><span style="font-size: 0.7em;">Durchmischen</span></td>
+    <td align="center"><span style="font-size: 0.7em;">Mit Deckel schmoren</span></td>
+    <td align="center"><span style="font-size: 0.7em;">Den Reis dazu</span></td>
+    <td align="center"><span style="font-size: 0.7em;">Vermischen</span></td>
+  </tr>
+</table>
+
 - Die Eier in eine separate, mit der Margarine eingefettete Pfanne geben. 
 - Zuerst offen, dann mit Deckel garen bis das EiweiÃŸ gestockt ist, das Eigelb sollte weich oder cremig bleiben.
 
