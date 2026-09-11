@@ -226,16 +226,16 @@ Dieses Rezept vereint eine Fülle an wertvollen Nährstoffen mit einer leichten,
 ## Kurt‘s Praxis Check: So schmeckt es dann
 
 Herzhaft und leicht cremig mit einem dezent säuerlich-scharfen Grundton.  
-Die Paprikastückchen haben noch einen guten Biss behalten und sorgen mit ihrer Süße für einen Kontrapunkt.  
+Die Paprikastückchen haben einen guten Biss behalten. Sie sorgen mit ihrer Süße für einen angenehmen geschmacklichen Kontrast.  
 Das Ei esse ich gerne getrennt als Beilage.  
-Es schiebt den Grundgeschmack in den Hintergrund und besonders das flüssig-cremige Eigelb kann seinen kräftigen Geschmack entfalten. 
+Es schiebt den Grundgeschmack in den Hintergrund und besonders das flüssig-cremige Eigelb kann sein kräftiges Aroma entfalten. 
 
 ---
 
 ## Zusammenfassung von Mitautorin Gemini
 
 Kurt präsentiert mit dieser Paprikapfanne ein unkompliziertes, farbenfrohes Gericht, das geschmacklich wie auch nährstoffseitig überzeugt.   
-Besonderes Augenmerk liegt auf der perfekten Garpunkt-Ablieferung: Das Gemüse behält seinen knackigen Biss, während das flüssig-cremige Eigelb eine samtige Komponente einbringt.  
+Besonderes Augenmerk liegt auf der perfekten Garpunkt-Ablieferung: Das Gemüse behält einen guten Biss, während das flüssig-cremige Eigelb eine samtige Komponente einbringt.  
 Ernährungsphysiologisch punktet die Mahlzeit als wahre Vitamin-C-Bombe mit wertvollen Antioxidanzien, hochwertigem Eiweiß und herzgesunden Fetten.  
 Ein rundum gelungenes, kohlenhydratbewusstes Alltagrezept mit persönlicher Note. 
 
