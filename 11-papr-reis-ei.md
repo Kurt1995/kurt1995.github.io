@@ -29,12 +29,12 @@
     <td><img src="assets/11-paprika-reis-ei-07.jpg" alt="Schritt 6" width="140"></td>
   </tr>
   <tr>
-    <td align="center"><span style="font-size: 0.7em;">Wässern</span></td>
-    <td align="center"><span style="font-size: 0.7em;">Abspülen</span></td>
-    <td align="center"><span style="font-size: 0.7em;">Brühwürfel dazu</span></td>
-    <td align="center"><span style="font-size: 0.7em;">Wasser dazu</span></td>
-    <td align="center"><span style="font-size: 0.7em;">Köcheln</span></td>
-    <td align="center"><span style="font-size: 0.7em;">Das Wasser ist<br>aufgenommen</span></td>
+    <td align="center"><span style="font-size: 0.8em;">Wässern</span></td>
+    <td align="center"><span style="font-size: 0.8em;">Abspülen</span></td>
+    <td align="center"><span style="font-size: 0.8em;">Brühwürfel dazu</span></td>
+    <td align="center"><span style="font-size: 0.8em;">Wasser dazu</span></td>
+    <td align="center"><span style="font-size: 0.8em;">Köcheln</span></td>
+    <td align="center"><span style="font-size: 0.8em;">Das Wasser ist<br>aufgenommen</span></td>
   </tr>
 </table>
 
