@@ -26,12 +26,15 @@
     <td><img src="assets/11-paprika-reis-ei-06.jpg" alt="Schritt 5"></td>
     <td><img src="assets/11-paprika-reis-ei-07.jpg" alt="Schritt 6"></td>
   </tr>
+  <tr>
+    <td><img src="assets/11-paprika-reis-ei-02.jpg" alt="Schritt 1"></td>
 </table>
 
  
 ### Der Reis  
 - Den Reis vorab ca. 1 Stunde wässern und gründlich abspülen.  
-- Den Brühwürfel im Wasser auflösen, den Reis hinzugeben und bei kleiner Hitze abgedeckt ca. 30 Minuten köcheln lassen, bis die Flüssigkeit vollständig aufgenommen wurde. 
+- Reis, Brühwürfel und Wasser in einen Topf geben.  
+- Bei kleiner Hitze abgedeckt ca. 30 Minuten köcheln lassen, bis die Flüssigkeit vollständig aufgenommen wurde. 
  
 **Begründung:**  
 Diese Methode kombiniert zwei sehr durchdachte und kulinarisch sinnvolle Besonderheiten:   
