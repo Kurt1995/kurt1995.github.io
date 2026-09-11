@@ -82,21 +82,19 @@ Das ist eine sehr schonende Zubereitung, die dem Reis viel Aroma mitgibt und spÃ
 
 <table>
   <tr>
-    <td><img src="assets/11-paprika-reis-ei-11.jpg" alt="Schritt 1" width="140"></td>
-    <td><img src="assets/11-paprika-reis-ei-12.jpg" alt="Schritt 2" width="140"></td>
-    <td><img src="assets/11-paprika-reis-ei-13.jpg" alt="Schritt 3" width="140"></td>
-    <td><img src="assets/11-paprika-reis-ei-14.jpg" alt="Schritt 4" width="140"></td>
-    <td><img src="assets/11-paprika-reis-ei-15.jpg" alt="Schritt 5" width="140"></td>
-    <td><img src="assets/11-paprika-reis-ei-16.jpg" alt="Schritt 6" width="140"></td>
+    <td><img src="assets/11-paprika-reis-ei-21.jpg" alt="Schritt 1" width="140"></td>
+    <td><img src="assets/11-paprika-reis-ei-22.jpg" alt="Schritt 2" width="140"></td>
+    <td><img src="assets/11-paprika-reis-ei-23.jpg" alt="Schritt 3" width="140"></td>
+    <td><img src="assets/11-paprika-reis-ei-24.jpg" alt="Schritt 4" width="140"></td>
+    <td><img src="assets/11-paprika-reis-ei-25.jpg" alt="Schritt 5" width="140"></td>
   </tr>
   <tr>
-    <td align="center"><span style="font-size: 0.7em;">Paprika in die Pfanne</span></td>
-    <td align="center"><span style="font-size: 0.7em;">Tomatenmark dazu</span></td>
-    <td align="center"><span style="font-size: 0.7em;">Durchmischen</span></td>
-    <td align="center"><span style="font-size: 0.7em;">Mit Deckel schmoren</span></td>
-    <td align="center"><span style="font-size: 0.7em;">Den Reis dazu</span></td>
-    <td align="center"><span style="font-size: 0.7em;">Vermischen</span></td>
-  </tr>
+    <td align="center"><span style="font-size: 0.7em;">Die Pfanne fetten</span></td>
+    <td align="center"><span style="font-size: 0.7em;">Eier hineingeben</span></td>
+    <td align="center"><span style="font-size: 0.7em;">Mit Deckel garen</span></td>
+    <td align="center"><span style="font-size: 0.7em;">Die Eigelb weich bis cremig</span></td>
+    <td align="center"><span style="font-size: 0.7em;">Ãœber die Paprika legen</span></td>
+</tr>
 </table>
 
 - Die Eier in eine separate, mit der Margarine eingefettete Pfanne geben. 
