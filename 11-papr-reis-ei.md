@@ -24,7 +24,7 @@
     <td><img src="assets/11-paprika-reis-ei-02.jpg" alt="Schritt 1" width="140"></td>
     <td><img src="assets/11-paprika-reis-ei-03.jpg" alt="Schritt 2" width="140"></td>
     <td><img src="assets/11-paprika-reis-ei-04.jpg" alt="Schritt 3" width="140"></td>
-    <td><img src="assets/11-paprika-reis-ei-05.jpg" alt="Schritt 4" width="140"></td>
+    <td><img src="assets/11-paprika-reis-ei-05b.jpg" alt="Schritt 4" width="140"></td>
     <td><img src="assets/11-paprika-reis-ei-06.jpg" alt="Schritt 5" width="140"></td>
     <td><img src="assets/11-paprika-reis-ei-07.jpg" alt="Schritt 6" width="140"></td>
   </tr>
