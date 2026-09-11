@@ -104,7 +104,7 @@ Das Ergebnis: Nach 30 Minuten bei kleiner Hitze mit Deckel ist die gesamte Brüh
 </table>
 
 - Die Eier in eine separate, mit der Margarine eingefettete Pfanne geben. 
-- Zuerst offen, dann mit Deckel garen bis das Eiweiß gestockt ist, das Eigelb sollte weich oder cremig bleiben.
+- Zuerst offen, dann mit Deckel garen bis das Eiweiß gestockt ist. Das Eigelb sollte weich oder cremig bleiben.
 
 ### Das Finish 
 - Den fertig gekochten Reis in die Gemüsepfanne mischen. 
