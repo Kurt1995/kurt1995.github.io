@@ -9,9 +9,10 @@
 - 4 rote Paprika (ca. 600 – 700  g) 
 - 4 Esslöffel Tomatenmark 3-fach konzentriert 
 - 4 Eier 
-- 40 – 50 g Reis (z.B. Parboiled Langkorn & Wildreis) 
-- 1 Esslöffel Olivenöl + 1 Esslöffel Rapsöl + 1 Stich Margarine 
-- 200 – 250 ml Wasser, 1 Brühwürfel 
+- 50 – 60 g Reis (z.B. Parboiled Langkorn & Wildreis)
+- 250 – 350 ml Wasser, 1 Brühwürfel
+- 1 Esslöffel Olivenöl + 1 Esslöffel Rapsöl 
+- 1 Stich Margarine für die Eierpfanne
 - Gewürze: Salz, schwarzer Pfeffer, Paprikapulver rosenscharf  
 
 ## Zubereitung
