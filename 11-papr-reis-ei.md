@@ -17,6 +17,8 @@
 
 ## Zubereitung
 
+### Der Reis
+
 <table>
   <tr>
     <td><img src="assets/11-paprika-reis-ei-02.jpg" alt="Schritt 1" width="140"></td>
@@ -36,8 +38,6 @@
   </tr>
 </table>
 
- 
-### Der Reis  
 - Den Reis vorab ca. 1 Stunde wässern und gründlich abspülen.  
 - Reis, Brühwürfel und Wasser in einen Topf geben.  
 - Bei kleiner Hitze abgedeckt ca. 30 Minuten köcheln lassen, bis die Flüssigkeit vollständig aufgenommen wurde. 
@@ -48,9 +48,29 @@ Diese Methode kombiniert zwei sehr durchdachte und kulinarisch sinnvolle Besonde
 Dadurch klebt der Reis nach dem Kochen nicht zusammen, bleibt locker und körnig und nimmt später die feine Paprika-Tomaten-Sauce besser auf.   
 - **Das Ausquellen im Brühwasser:** Anstatt den Reis in viel Salzwasser zu kochen und abzugießen, gart er bei kleiner Hitze, bis die Flüssigkeit mit dem Brühwürfel vollständig aufsaugt wird (Quellmethode). Dadurch 
 wandern alle Aromen der Brühe direkt tief in das Reiskorn, was bei der eher geringen Reismenge für einen intensiven Geschmack sorgt.     
-Das ist eine sehr schonende Zubereitung, die dem Reis viel Aroma mitgibt und später Salz spart. 
+Das ist eine sehr schonende Zubereitung, die dem Reis viel Aroma mitgibt und später Salz spart.
 
 ### Das Gemüse
+
+<table>
+  <tr>
+    <td><img src="assets/11-paprika-reis-ei-02.jpg" alt="Schritt 1" width="140"></td>
+    <td><img src="assets/11-paprika-reis-ei-03.jpg" alt="Schritt 2" width="140"></td>
+    <td><img src="assets/11-paprika-reis-ei-04.jpg" alt="Schritt 3" width="140"></td>
+    <td><img src="assets/11-paprika-reis-ei-05.jpg" alt="Schritt 4" width="140"></td>
+    <td><img src="assets/11-paprika-reis-ei-06.jpg" alt="Schritt 5" width="140"></td>
+    <td><img src="assets/11-paprika-reis-ei-07.jpg" alt="Schritt 6" width="140"></td>
+  </tr>
+  <tr>
+    <td align="center"><span style="font-size: 0.7em;">Wässern</span></td>
+    <td align="center"><span style="font-size: 0.7em;">Abspülen</span></td>
+    <td align="center"><span style="font-size: 0.7em;">Brühwürfel dazu</span></td>
+    <td align="center"><span style="font-size: 0.7em;">Wasser dazu</span></td>
+    <td align="center"><span style="font-size: 0.7em;">Köcheln</span></td>
+    <td align="center"><span style="font-size: 0.7em;">Das Wasser ist<br>aufgenommen</span></td>
+  </tr>
+</table>
+
 -	Die Öle in der  Pfanne verteilen. 
 - Die Paprika putzen, würfeln und hinzugeben. 
 - Großzügig mit schwarzem Pfeffer und dem Rosenpaprikapulver würzen. 
