@@ -53,8 +53,9 @@ Das ist eine sehr schonende Zubereitung, die dem Reis viel Aroma mitgibt und sp�
 Hier ist jedoch die spezifische Reiszusammensetzung entscheidend:
   - Parboiled Langkornreis wird industriell unter Druck gedämpft, wodurch die Stärke im Korninneren verkleistert und stabilisiert wird. Das macht die Körner extrem widerstandsfähig – sie zerfallen selbst bei hohem Wasseranteil nicht zu Brei, sondern bleiben fest und getrennt.
   - Wildreis (botanisch ein Sumpfgras-Samen) besitzt eine sehr harte, zähe Außenhülle und benötigt von Natur aus deutlich mehr Flüssigkeit und längere Garzeit, um vollständig aufzuquellen.
-  - Das gründliche Abspülen nach dem Wässern entfernt die lose Oberflächenstärke – genau jene Komponente, die bei hohem Wasseranteil normalerweise einen klebrigen „Matsch" erzeugt.
-Das Ergebnis: Nach 30 Minuten bei kleiner Hitze ist die gesamte Brühe aufgenommen, der Wildreis ist weich und aromatisch, der Parboiled-Reis locker und körnig – genau wie in Bild 6 dokumentiert.
+  - Das gründliche Abspülen nach dem Wässern entfernt die lose Oberflächenstärke – genau jene Komponente, die bei hohem Wasseranteil normalerweise einen klebrigen „Matsch" erzeugt.  
+
+Das Ergebnis: Nach 30 Minuten bei kleiner Hitze ist die gesamte Brühe aufgenommen, der Wildreis ist weich und aromatisch, der Parboiled-Reis locker und körnig – genau wie in Bild 6 oben dokumentiert.
 
 ### Das Gemüse
 
