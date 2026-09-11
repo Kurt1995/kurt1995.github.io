@@ -19,12 +19,12 @@
 
 <table>
   <tr>
-    <td><img src="assets/11-paprika-reis-ei-02.jpg" alt="Schritt 1"></td>
-    <td><img src="assets/11-paprika-reis-ei-03.jpg" alt="Schritt 2"></td>
-    <td><img src="assets/11-paprika-reis-ei-04.jpg" alt="Schritt 3"></td>
-    <td><img src="assets/11-paprika-reis-ei-05.jpg" alt="Schritt 4"></td>
-    <td><img src="assets/11-paprika-reis-ei-06.jpg" alt="Schritt 5"></td>
-    <td><img src="assets/11-paprika-reis-ei-07.jpg" alt="Schritt 6"></td>
+    <td><img src="assets/11-paprika-reis-ei-02.jpg" alt="Schritt 1" width="132"></td>
+    <td><img src="assets/11-paprika-reis-ei-03.jpg" alt="Schritt 2" width="132"></td>
+    <td><img src="assets/11-paprika-reis-ei-04.jpg" alt="Schritt 3" width="132"></td>
+    <td><img src="assets/11-paprika-reis-ei-05.jpg" alt="Schritt 4" width="132"></td>
+    <td><img src="assets/11-paprika-reis-ei-06.jpg" alt="Schritt 5" width="132"></td>
+    <td><img src="assets/11-paprika-reis-ei-07.jpg" alt="Schritt 6" width="132"></td>
   </tr>
   <tr>
     <td align="center"><span style="font-size: 0.7em;">Wässern</span></td>
