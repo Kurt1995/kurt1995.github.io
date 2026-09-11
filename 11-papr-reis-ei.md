@@ -49,7 +49,7 @@ Dadurch klebt der Reis nach dem Kochen nicht zusammen, bleibt locker und körnig
 - **Das Ausquellen im Brühwasser:** Anstatt den Reis in viel Salzwasser zu kochen und abzugießen, gart er bei kleiner Hitze, bis die Flüssigkeit mit dem Brühwürfel vollständig aufsaugt wird (Quellmethode). Dadurch 
 wandern alle Aromen der Brühe direkt tief in das Reiskorn, was bei der eher geringen Reismenge für einen intensiven Geschmack sorgt.     
 Das ist eine sehr schonende Zubereitung, die dem Reis viel Aroma mitgibt und später Salz spart.
-- **Das Verhältnis 1:5 (Reis : Wasser) bei der Quellmethode:** Auf den ersten Blick mag diese Wassermenge für die Quellmethode ungewöhnlich hoch erscheinen – die klassische Faustregel für Weißreis liegt bei 1:1,5.  
+- **Das Verhältnis 1 : 5 (Reis : Wasser) bei der Quellmethode:** Auf den ersten Blick mag diese Wassermenge für die Quellmethode ungewöhnlich hoch erscheinen – die klassische Faustregel für Weißreis liegt bei 1:1,5.  
 Hier ist jedoch die spezifische Reiszusammensetzung entscheidend:
   - Parboiled Langkornreis wird industriell unter Druck gedämpft, wodurch die Stärke im Korninneren verkleistert und stabilisiert wird. Das macht die Körner extrem widerstandsfähig – sie zerfallen selbst bei hohem Wasseranteil nicht zu Brei, sondern bleiben fest und getrennt.
   - Wildreis (botanisch ein Sumpfgras-Samen) besitzt eine sehr harte, zähe Außenhülle und benötigt von Natur aus deutlich mehr Flüssigkeit und längere Garzeit, um vollständig aufzuquellen.
