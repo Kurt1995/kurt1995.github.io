@@ -15,6 +15,18 @@
 - Gewürze: Salz, schwarzer Pfeffer, Paprikapulver rosenscharf  
 
 ## Zubereitung
+
+<table>
+  <tr>
+    <td><img src="assets/11-paprika-reis-ei-02.jpg" alt="Schritt 1"></td>
+    <td><img src="assets/11-paprika-reis-ei-03.jpg" alt="Schritt 2"></td>
+    <td><img src="assets/11-paprika-reis-ei-04.jpg" alt="Schritt 3"></td>
+    <td><img src="assets/11-paprika-reis-ei-05.jpg" alt="Schritt 4"></td>
+    <td><img src="assets/11-paprika-reis-ei-06.jpg" alt="Schritt 5"></td>
+    <td><img src="assets/11-paprika-reis-ei-07.jpg" alt="Schritt 6"></td>
+  </tr>
+</table>
+
  
 ### Der Reis  
 - Den Reis vorab ca. 1 Stunde wässern und gründlich abspülen.  
