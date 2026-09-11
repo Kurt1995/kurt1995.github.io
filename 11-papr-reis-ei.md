@@ -131,27 +131,27 @@ Dieses Rezept vereint eine Fülle an wertvollen Nährstoffen mit einer leichten,
   </tr>
   <tr>
     <td>Kalorien</td>
-    <td>ca. 500 kcal</td>
+    <td>ca. 530 kcal</td>
     <td>Hauptenergie aus Eiern, Ölen/Margarine und Reis</td>
   </tr>
   <tr>
     <td>Eiweiß</td>
-    <td>ca. 22 g</td>
+    <td>ca. 21 g</td>
     <td>Hauptsächlich aus den Eiern und dem Reis</td>
   </tr>
   <tr>
     <td>Kohlenhydrate</td>
-    <td>ca. 40 g</td>
+    <td>ca. 49 g</td>
     <td>Aus Reis, Paprika und Tomatenmark</td>
   </tr>
   <tr>
     <td>davon Zucker</td>
-    <td>ca. 17 g</td>
+    <td>ca. 20 g</td>
     <td>Natürlicher Fruchtzucker aus Paprika und Tomatenmark</td>
   </tr>
   <tr>
     <td>Fett (gesamt)</td>
-    <td>ca. 28 g</td>
+    <td>ca. 24 g</td>
     <td>Aus den Ölen, Margarine und dem Eigelb</td>
   </tr>
   <tr>
@@ -161,7 +161,7 @@ Dieses Rezept vereint eine Fülle an wertvollen Nährstoffen mit einer leichten,
   </tr>
   <tr>
     <td>Ballaststoffe</td>
-    <td>ca. 10 g</td>
+    <td>ca. 9 g</td>
     <td>Reichlich aus der Paprika und dem Tomatenmark</td>
   </tr>
 </table>
@@ -181,8 +181,8 @@ Dieses Rezept vereint eine Fülle an wertvollen Nährstoffen mit einer leichten,
   </tr>
   <tr>
     <td>Vitamin A (als Beta-Carotin)</td>
-    <td>ca. 600 – 700 µg</td>
-    <td>~ 100 % (aus Beta-Carotin der Paprika + Retinol im Eigelb)</td>
+    <td>ca. 550 – 600 µg</td>
+    <td>~ 80 % (aus Beta-Carotin der Paprika + Retinol im Eigelb)</td>
   </tr>
   <tr>
     <td>Vitamin D</td>
@@ -197,7 +197,7 @@ Dieses Rezept vereint eine Fülle an wertvollen Nährstoffen mit einer leichten,
   <tr>
     <td>Vitamin K</td>
     <td>ca. 30 µg</td>
-    <td>~ 30 %</td>
+    <td>~ 40 %</td>
   </tr>
   <tr>
     <td>Kalium</td>
@@ -206,13 +206,13 @@ Dieses Rezept vereint eine Fülle an wertvollen Nährstoffen mit einer leichten,
   </tr>
   <tr>
     <td>Eisen</td>
-    <td>ca. 3,5–4,5 mg Eisen</td>
-    <td>~ 25 – 30 % Eisen (aus Eiern, Tomatenmark & Reis)</td>
+    <td>ca. 3 mg Eisen</td>
+    <td>~ 20 – 25 % (aus Eiern, Tomatenmark & Reis)</td>
   </tr>
   <tr>
     <td>Zink</td>
-    <td>ca. 2,5–3 mg Zink</td>
-    <td>~ 25 – 30 % Zink (aus Eiern, Tomatenmark & Reis)</td>
+    <td>ca. 2 mg Zink</td>
+    <td>~ 20 – 25 % (aus Eiern, Tomatenmark & Reis)</td>
   </tr>
   <tr>
     <td>Lycopin (Antioxidanz)</td>
