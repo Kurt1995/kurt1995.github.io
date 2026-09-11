@@ -107,7 +107,7 @@ Das ist eine sehr schonende Zubereitung, die dem Reis viel Aroma mitgibt und spÃ
 
 ---
 
-![Paprika Pfanne](assets/11-paprika-reis-ei-10.jpg)
+![Paprika Pfanne](assets/11-paprika-reis-ei-30.jpg)
 
 ---
 
