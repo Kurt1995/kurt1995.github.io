@@ -34,7 +34,7 @@
     <td align="center"><span style="font-size: 0.8em;">Brühwürfel dazu</span></td>
     <td align="center"><span style="font-size: 0.8em;">Wasser dazu</span></td>
     <td align="center"><span style="font-size: 0.8em;">Köcheln</span></td>
-    <td align="center"><span style="font-size: 0.8em;">Das Wasser ist<br>aufgenommen</span></td>
+    <td align="center"><span style="font-size: 0.8em;">Die Brühe ist<br>aufgenommen</span></td>
   </tr>
 </table>
 
