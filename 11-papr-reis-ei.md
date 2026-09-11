@@ -151,7 +151,7 @@ Dieses Rezept vereint eine Fülle an wertvollen Nährstoffen mit einer leichten,
   </tr>
   <tr>
     <td>Fett (gesamt)</td>
-    <td>ca. 24 g</td>
+    <td>ca. 27 g</td>
     <td>Aus den Ölen, Margarine und dem Eigelb</td>
   </tr>
   <tr>
