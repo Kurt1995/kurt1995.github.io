@@ -1,4 +1,4 @@
-# Zutaten
+# Zutaten und Küchenhelfer
 Ich wohne auf dem Land und fahre einmal in der Woche zum Einkaufen. Ein NETTO und ein EDEKA Markt sind für mich am besten zu erreichen.
 Deshalb verwende ich vor allem Zutaten, die es dort gibt.<br>
 Wer anders einkauft: Ähnliche Produkte gibt es in gut sortierten Supermärkten, beim Discounter, eventuell auf dem Wochenmarkt oder im Bio-Laden.<br>
