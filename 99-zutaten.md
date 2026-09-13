@@ -51,7 +51,7 @@ Wer anders einkauft: Ähnliche Produkte gibt es in gut sortierten Supermärkten,
   </tr>
 </table>
 
-## Die Gewürze / Das Öl / Küchenhelfer
+## Die Gewürze / Das Öl
 
 <table>
   <tr>
