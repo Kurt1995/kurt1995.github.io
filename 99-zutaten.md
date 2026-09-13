@@ -59,7 +59,7 @@ Wer anders einkauft: Ähnliche Produkte gibt es in gut sortierten Supermärkten,
     <th><h3>Produktfoto</h3></th>
     <th><h3>Markt</h3></th>
     <th><h3>Ungefährer Preis</h3></th>
-    <th><h3>Sensoriswche Beschreibung</h3></th>
+    <th><h3>Sensorische Beschreibung</h3></th>
   </tr>
   <tr>
     <td><h4>Schwarzer Pfeffer</h4></td>
