@@ -106,7 +106,7 @@ Wer anders einkauft: Ähnliche Produkte gibt es in gut sortierten Supermärkten,
     <td style="text-align:center"><img src="assets/99-roesle-hobel.jpg" alt="Hobel" width="80"></td>
     <td>Verschiedene</td>
     <td>ca. 50,00 € </td>
-    <td>Rösle Gemüsehobel<br>scharf, stabil und liegt perfekt auf<br>Töpfen oder Pfannen</td>
+    <td>Rösle Gemüsehobel<br>scharf, stabil und liegt perfekt<br>auf Töpfen oder Pfannen</td>
   </tr>
 </table>
 
