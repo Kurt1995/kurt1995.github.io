@@ -26,7 +26,7 @@ Wer anders einkauft: Ähnliche Produkte gibt es in gut sortierten Supermärkten,
     <td style="text-align:center"><img src="assets/99-nudel-02.jpg" alt="Spiralnudeln" width="80"></td>
     <td>Edeka/Netto<br><span style="font-size: 0.7em;">oder</span><br>andere</td>
     <td>ca. 1,90 € je 600 g Packung</td>
-    <td>zurückhaltender Biss<br>nehmen die Soße/den Sud geschmacklich auf</td>
+    <td>zurückhaltender Biss<br>nehmen die Soße/den Sud geschmacklich gut auf</td>
   </tr>
   <tr>
     <td><h4>Dinkel Penne</h4></td>
@@ -99,7 +99,7 @@ Wer anders einkauft: Ähnliche Produkte gibt es in gut sortierten Supermärkten,
     <td style="text-align:center"><img src="assets/99-ror-messer.jpg" alt="Messer" width="80"></td>
     <td>Verschiedene</td>
     <td>ca. 15,00 € je Messer (incl. Versand)</td>
-    <td>RÖR Solingen<br>noch nach Jahren gefährlich scharf</td>
+    <td>RÖR Solingen<br>noch nach Jahren<br>gefährlich scharf</td>
   </tr>
 </table>
 
