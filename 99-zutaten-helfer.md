@@ -102,7 +102,7 @@ Wer anders einkauft: Ähnliche Produkte gibt es in gut sortierten Supermärkten,
     <td>RÖR Solingen<br>noch nach Jahren gefährlich scharf</td>
   </tr>
    <tr>
-  <td><h4>Brot/Gemüse Hobel</h4></td>
+  <td><h4>Gemüse Hobel</h4></td>
     <td style="text-align:center"><img src="assets/99-roesle-hobel.jpg" alt="Hobel" width="80"></td>
     <td>Verschiedene</td>
     <td>ca. 50,00 € </td>
