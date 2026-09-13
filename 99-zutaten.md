@@ -85,6 +85,7 @@ Wer anders einkauft: Ähnliche Produkte gibt es in gut sortierten Supermärkten,
     <td style="text-align:center"><img src="assets/99-ror-messer.jpg" alt="Messer" width="80"></td>
     <td>Verschiedene</td>
     <td>ca. 15,00 € je Messer (incl. Versand)</td>
+    <td>Verschiedene</td>
   </tr>
 </table>
 
