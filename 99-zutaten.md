@@ -51,7 +51,7 @@ Wer anders einkauft: Ähnliche Produkte gibt es in gut sortierten Supermärkten,
   </tr>
 </table>
 
-## Die Gewürze / Das Öl
+## Die Gewürze / Das Öl / Küchenhelfer
 
 <table>
   <tr>
@@ -80,6 +80,12 @@ Wer anders einkauft: Ähnliche Produkte gibt es in gut sortierten Supermärkten,
     <td>Netto</td>
     <td>ca. 7,00 € je 750 ml Flasche</td>
     <td>moderater Eigengeschmack<br>ein gutes Öl der Mittelklasse</td>
+  </tr>
+  <td><h4>Olivenöl</h4></td>
+    <td style="text-align:center"><img src="assets/99-ror-messer.jpg" alt="Messer" width="80"></td>
+    <td>Verschiedene/td>
+    <td>ca. 15,00 € je Messer (incl. Versand)</td>
+    <td>überraschend scharf<br>noch nach Jahren</td>
   </tr>
 </table>
 
