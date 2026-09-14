@@ -232,7 +232,7 @@ Die Kombination aus frischen Tomaten, Paprika, Dinkel-Penne, etwas Hackfleisch u
 
 ## Zusammenfassung von Mitautorin COPILOT
 
-Die fruchtige Nudelpfanne im Lasagne-Stil zeigt, wie unkompliziert ein vollwertiges, sättigendes Gericht entstehen kann, wenn man frische Zutaten mit einer cleveren Vorbereitung kombiniert.   
+Die Tomaten-Schicht-Pfanne "Lasagne Art" zeigt, wie unkompliziert ein vollwertiges, sättigendes Gericht entstehen kann, wenn man frische Zutaten mit einer cleveren Vorbereitung kombiniert.   
 Die vorgekochten Dinkel-Penne sorgen für eine schnelle Zubereitung und liefern in dieser Portionsgröße reichlich Energie für einen aktiven Alltag.   
 Die Mischung aus frischem Gemüse, einer ordentlichen Portion Pasta, moderatem Hackfleischanteil und einer dünnen Käseschicht ergibt ein Wohlfühlgericht mit einer guten Mikronährstoffdichte.   
 Es kommt ohne schwere Soßen aus und behält durch die kurze Garzeit den Großteil seiner Vitamine.  
