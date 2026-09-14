@@ -7,17 +7,17 @@
 
 | <strong style="font-size:1.4em; display:block;">Pfanne</strong> | <strong style="font-size:1.4em; display:block;">Teller · Topf · Schüssel · Grill</strong> |
 | :--- | :--- |
-| TOMATE & SOMMERGEMÜSE | TOMATE & SOMMERGEMÜSE |
-| [Zucchini Pasta](02-zucchini-pasta.md) | [Spaghetti mit fruchtiger Wildkräuter-Bolo](46-spaghetti-f-bolo.md) |
-| [Tomaten-Schicht-Pfanne "Rustikale Art"](18-nudel-rusti.md) | [Gemüse-Creme „Frühsommer“](08-gemuse-fsommer.md) |
+| TOMATE | TOMATE & SOMMERGEMÜSE |
+| [Tomaten-Schicht-Pfanne "Rustikale Art"](18-nudel-rusti.md) | [Spaghetti mit fruchtiger Wildkräuter-Bolo](46-spaghetti-f-bolo.md) |
+| [Tomaten-Schicht-Pfanne "Funghi Note"](18-nudel-funghi.md) | [Gemüse-Creme „Frühsommer“](08-gemuse-fsommer.md) |
 | [Tomaten-Schicht-Pfanne "Bayrische Art"](18-nudel-bayer.md) | [Zucchini-Paprika-Creme mit Leber](07-zupaleber.md) |
 | [Tomaten-Schicht-Pfanne "Provenzalische Art"](18-nudel-provenz.md) | [Tomaten-Topf mit Huhn](45-tomate-huhn.md) |
 | [Tomaten-Schicht-Pfanne "Lasagne Art"](18-nudel-lasag.md) | [Spargel al dente](25-spargel-aldente.md) |
 | [Tomaten-Schicht-Pfanne "Asia Note"](18-nudel-asia.md) | [Senioren Sport-Suppe](17-senior-sport-suppe.md) |
-| [Tomaten-Schicht-Pfanne "Funghi Note"](18-nudel-funghi.md) | &nbsp; |
-| [Zucchini-Nudel Pfanne](24-zucch-nudel.md) |  |
-| [Tomatenrunde mit Steak](22-tomate-steak.md) | [Opa Salat](06-opa-salat.md) |
-| PILZE, PAPRIKA & ZWIEBEL | WEITERE |
+| &nbsp; | [Opa Salat](06-opa-salat.md) |
+| ZUCCHINI, PAPRIKA, PILZE, & ZWIEBEL | WEITERE |
+| [Zucchini Pasta](02-zucchini-pasta.md) |  |
+| [Zucchini-Nudel Pfanne](24-zucch-nudel.md) | &nbsp; |
 | [Bunte Pilzpfanne](03-bunte-pilzpfanne.md) | [Deftige Kartoffelsuppe](05-deftige-ksuppe.md) |
 | [Gemüse-Nudel-Pfanne mit Asia-Note](03-gem-nudel-pfanne.md) | &nbsp; |
 | [Gemüsepfanne mit Reis](11-gemmitreis.md) | [Suppe mit Hähnchenmägen](14-maegensuppe.md) |
@@ -34,7 +34,7 @@
 | [Muscheln auf Vollkornbrot](23-musch-vollkb.md) | &nbsp; |
 | __Und ab und zu ein__ | __Protein Boost__ |
 | [Pasta in bianco mit Garnelen](47-pasta-garnelen.md) | [Dicke Rippe](12-dickerippe.md) |
-| [Strammer Max - Plus](19-st-max-plus.md) |  |
+| [Strammer Max - Plus](19-st-max-plus.md) | [Tomatenrunde mit Steak](22-tomate-steak.md) |
 | [Hähnchen Bollen](43-h-bollen.md)  |  |
 |  |  |
 | __Snacks__ | __Partyhäppchen__ |
