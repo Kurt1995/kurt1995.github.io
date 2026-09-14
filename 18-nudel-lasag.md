@@ -78,13 +78,149 @@ Die Kombination aus frischen Tomaten, Paprika, Dinkel-Penne, etwas Hackfleisch u
 
 ## Geschätzte Nährwerte für die gesamte Pfanne
 
-| Nährwert      | Menge pro Portion     |
-|---------------|------------------------|
-| Kalorien      | ca. 950–1.050 kcal     |
-| Eiweiß        | ca. 40–45 g            |
-| Kohlenhydrate | ca. 90–100 g           |
-| Fett          | ca. 40–50 g            |
-| Ballaststoffe | ca. 10–12 g            |
+### Makronährstoffe
+
+<table>
+  <col width="196" style="mso-width-source:userset;mso-width-alt:7168;width:147pt">
+  <col width="210" style="mso-width-source:userset;mso-width-alt:7680;width:158pt">
+  <col width="490" style="mso-width-source:userset;mso-width-alt:17920;width:368pt">
+  <tr height="20" style="height:15.0pt">
+    <td height="20" class="xl65" width="196" style="height:15.0pt;width:147pt">Nährstoff</td>
+    <td class="xl65" width="210" style="width:158pt">Menge pro Pfanne (1
+      Portion)</td>
+    <td class="xl65" width="490" style="width:368pt">Anmerkung</td>
+  </tr>
+  <tr height="20" style="height:15.0pt">
+    <td height="20" class="xl66" width="196" style="height:15.0pt;width:147pt">Kalorien</td>
+    <td class="xl66" width="210" style="width:158pt">ca. 1100 - 1200 kcal</td>
+    <td class="xl66" width="490" style="width:368pt">Hauptenergie aus
+      Dinkel-Penne, Hackfleisch, Käse und Olivenöl</td>
+  </tr>
+  <tr height="20" style="height:15.0pt">
+    <td height="20" class="xl66" width="196" style="height:15.0pt;width:147pt">Eiweiß</td>
+    <td class="xl66" width="210" style="width:158pt">ca. 48 - 55 g</td>
+    <td class="xl66" width="490" style="width:368pt">Hochwertig aus Hackfleisch
+      und Käse, ergänzt durch Dinkel</td>
+  </tr>
+  <tr height="20" style="height:15.0pt">
+    <td height="20" class="xl66" width="196" style="height:15.0pt;width:147pt">Kohlenhydrate</td>
+    <td class="xl66" width="210" style="width:158pt">ca. 95 - 110 g</td>
+    <td class="xl66" width="490" style="width:368pt">Fast komplett aus
+      Dinkel-Penne und Tomaten</td>
+  </tr>
+  <tr height="20" style="height:15.0pt">
+    <td height="20" class="xl66" width="196" style="height:15.0pt;width:147pt">davon
+      Zucker</td>
+    <td class="xl66" width="210" style="width:158pt">ca. 22 - 28 g</td>
+    <td class="xl66" width="490" style="width:368pt">Natürlicher Fruchtzucker
+      aus Tomaten und Paprika</td>
+  </tr>
+  <tr height="20" style="height:15.0pt">
+    <td height="20" class="xl66" width="196" style="height:15.0pt;width:147pt">Fett
+      (gesamt)</td>
+    <td class="xl66" width="210" style="width:158pt">ca. 45 - 55 g</td>
+    <td class="xl66" width="490" style="width:368pt">Aus Hack, Käse und Olivenöl</td>
+  </tr>
+  <tr height="20" style="height:15.0pt">
+    <td height="20" class="xl66" width="196" style="height:15.0pt;width:147pt">Gesättigte
+      Fettsäuren</td>
+    <td class="xl66" width="210" style="width:158pt">ca. 18 - 22 g</td>
+    <td class="xl66" width="490" style="width:368pt">Überwiegend aus
+      Hackfleisch und Käse</td>
+  </tr>
+  <tr height="20" style="height:15.0pt">
+    <td height="20" class="xl66" width="196" style="height:15.0pt;width:147pt">Ballaststoffe</td>
+    <td class="xl66" width="210" style="width:158pt">ca. 12 - 15 g</td>
+    <td class="xl66" width="490" style="width:368pt">Aus Dinkel-Penne, Tomaten
+      und Paprika - Sättigung</td>
+  </tr>
+  <tr height="20" style="height:15.0pt">
+    <td height="20" class="xl66" width="196" style="height:15.0pt;width:147pt">Resistente
+      Stärke</td>
+    <td class="xl66" width="210" style="width:158pt">erhöht</td>
+    <td class="xl66" width="490" style="width:368pt">Durch Vorkochen, Einfrieren
+      und Wiedererwärmen</td>
+  </tr>
+</table>
+
+### Mikronährstoffe
+
+<table>
+  <col width="210" style="mso-width-source:userset;mso-width-alt:7680;width:158pt">
+  <col width="196" style="mso-width-source:userset;mso-width-alt:7168;width:147pt">
+  <col width="560" style="mso-width-source:userset;mso-width-alt:20480;width:420pt">
+  <tr height="20" style="height:15.0pt">
+    <td height="20" class="xl65" width="210" style="height:15.0pt;width:158pt">Vitamin
+      C</td>
+    <td class="xl65" width="196" style="width:147pt">ca. 180 - 220 mg</td>
+    <td class="xl65" width="560" style="width:420pt">Sehr hoch durch 500g
+      Tomaten + Paprika - trotz kurzem Erhitzen erhalten</td>
+  </tr>
+  <tr height="20" style="height:15.0pt">
+    <td height="20" class="xl65" width="210" style="height:15.0pt;width:158pt">Lycopin</td>
+    <td class="xl65" width="196" style="width:147pt">ca. 15 - 20 mg</td>
+    <td class="xl65" width="560" style="width:420pt">Aus Tomaten, durch Erhitzen
+      mit Öl besonders gut verfügbar - Zellschutz</td>
+  </tr>
+  <tr height="20" style="height:15.0pt">
+    <td height="20" class="xl65" width="210" style="height:15.0pt;width:158pt">Vitamin
+      A / Beta-Carotin</td>
+    <td class="xl65" width="196" style="width:147pt">ca. 800 - 1000 µg</td>
+    <td class="xl65" width="560" style="width:420pt">Aus Tomaten und Paprika -
+      Haut und Augen</td>
+  </tr>
+  <tr height="20" style="height:15.0pt">
+    <td height="20" class="xl65" width="210" style="height:15.0pt;width:158pt">Vitamin
+      B12</td>
+    <td class="xl65" width="196" style="width:147pt">ca. 2,5 - 3,5 µg</td>
+    <td class="xl65" width="560" style="width:420pt">Aus 150g Hack + Käse -
+      deckt 60-85% Tagesbedarf, wichtig für Nerven/Blutbildung</td>
+  </tr>
+  <tr height="20" style="height:15.0pt">
+    <td height="20" class="xl65" width="210" style="height:15.0pt;width:158pt">Vitamin
+      B6</td>
+    <td class="xl65" width="196" style="width:147pt">ca. 0,9 - 1,1 mg</td>
+    <td class="xl65" width="560" style="width:420pt">Aus Hack, Paprika und
+      Dinkel - Eiweißstoffwechsel</td>
+  </tr>
+  <tr height="20" style="height:15.0pt">
+    <td height="20" class="xl65" width="210" style="height:15.0pt;width:158pt">Folat
+      (B9)</td>
+    <td class="xl65" width="196" style="width:147pt">ca. 80 - 110 µg</td>
+    <td class="xl65" width="560" style="width:420pt">Aus Tomaten und Dinkel -
+      Zellteilung</td>
+  </tr>
+  <tr height="20" style="height:15.0pt">
+    <td height="20" class="xl65" width="210" style="height:15.0pt;width:158pt">Kalium</td>
+    <td class="xl65" width="196" style="width:147pt">ca. 1700 - 2000 mg</td>
+    <td class="xl65" width="560" style="width:420pt">Sehr reichlich aus
+      Tomaten/Paprika - Blutdruck/Herz</td>
+  </tr>
+  <tr height="20" style="height:15.0pt">
+    <td height="20" class="xl65" width="210" style="height:15.0pt;width:158pt">Calcium</td>
+    <td class="xl65" width="196" style="width:147pt">ca. 350 - 450 mg</td>
+    <td class="xl65" width="560" style="width:420pt">Aus 3 Scheiben Käse - ca.
+      35% Tagesbedarf, Knochen</td>
+  </tr>
+  <tr height="20" style="height:15.0pt">
+    <td height="20" class="xl65" width="210" style="height:15.0pt;width:158pt">Eisen</td>
+    <td class="xl65" width="196" style="width:147pt">ca. 5 - 6,5 mg</td>
+    <td class="xl65" width="560" style="width:420pt">Aus Hack (Häm-Eisen gut
+      verfügbar) und Dinkel</td>
+  </tr>
+  <tr height="20" style="height:15.0pt">
+    <td height="20" class="xl65" width="210" style="height:15.0pt;width:158pt">Zink</td>
+    <td class="xl65" width="196" style="width:147pt">ca. 5 - 6 mg</td>
+    <td class="xl65" width="560" style="width:420pt">Aus Hack und Käse -
+      Immunsystem</td>
+  </tr>
+  <tr height="20" style="height:15.0pt">
+    <td height="20" class="xl65" width="210" style="height:15.0pt;width:158pt">Natrium</td>
+    <td class="xl65" width="196" style="width:147pt">ca. 700 - 1000 mg</td>
+    <td class="xl65" width="560" style="width:420pt">Aus Käse, Hack, Salz - bei
+      normalem Salzen im grünen Bereich</td>
+  </tr>
+</table>
 
 ---
 
