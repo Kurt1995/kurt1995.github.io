@@ -8,9 +8,9 @@
 
 ## Zutaten
 
-- Frische Tomaten (ca. 500 g)
+- Tomaten (ca. 500 g)
 - 1 kleine rote Paprika
-- 125 g Gehacktes, gemischt (halb und halb)
+- 150 g Gehacktes, gemischt (halb und halb)
 - 125 g (ungekocht ¼ Packung) Dinkel-Penne
 - 3 Scheiben Käse (Tilsiter, Edamer oder junger Gouda)
 - 1–2 Esslöffel Olivenöl
@@ -35,12 +35,12 @@
 
 ---
 
-1. Ein wenig Olivenöl in die Pfanne geben.  
+1. Das Olivenöl in die Pfanne geben.  
 2. Die Tomaten in Scheiben schneiden und den Pfannenboden auslegen.  
-3. Die Paprika sehr klein würfeln und dazugeben.  
+3. Die Paprika sehr klein würfeln und über den Tomaten verteilen.  
 4. Das Gehackte nach Geschmack würzen (Salz, Pfeffer, …) und in Flocken hinzugeben.  
 5. Mit den Nudeln abdecken.  
-6. 4-5 Minuten bei mittlerer Hitze ohne Deckel schmoren.
+6. 3-4 Minuten bei mittlerer Hitze mit Deckel schmoren.
 7. Die Pfanne mit dem Käse belegen.
 8. Mit Deckel weitere 3–4 Minuten garen, bis der Käse beginnt zu zerlaufen.  
 9. Die Pfanne vom Feuer nehmen (kann auch auf ganz kleiner Flamme warm gehalten werden) und servieren.
@@ -76,7 +76,7 @@ Die Kombination aus frischen Tomaten, Paprika, Dinkel-Penne, etwas Hackfleisch u
 
 ---
 
-## Geschätzte Nährwerte pro Portion
+## Geschätzte Nährwerte für die gesamte Pfanne
 
 | Nährwert      | Menge pro Portion     |
 |---------------|------------------------|
@@ -86,30 +86,15 @@ Die Kombination aus frischen Tomaten, Paprika, Dinkel-Penne, etwas Hackfleisch u
 | Fett          | ca. 40–50 g            |
 | Ballaststoffe | ca. 10–12 g            |
 
-Diese Werte spiegeln ein kräftiges, vollwertiges Gericht wider, das durch seinen hohen Gemüseanteil dennoch eine gute Mikronährstoffdichte erreicht.  
-Die Kombination aus reichlich Dinkel-Penne, frischen Tomaten, Paprika, Hackfleisch und einer dünnen Käseschicht ergibt eine energiereiche Mahlzeit, die lange satt hält und besonders an aktiven Tagen ideal ist.
-
----
-
-## Kimi’s Erfindungshöhe-Check
-Die kühnste aller Varianten: Käse. Oben drauf.<br>
-Hier wird die Grenze des Möglichen ausgereizt. Kurt legt nicht nur Dinge in eine Pfanne, nein – er legt Käse auf die Dinge in der Pfanne. Und nicht irgendeinen Käse, sondern Tilsiter, Edamer oder jungen Gouda. Das ist Reichtum der Auswahl, das ist kulinarische Demokratie.<br>
-COPILOT nennt das „Lasagne-Stil“, was mutig ist, denn eine Lasagne besteht aus Nudelplatten, Bechamel, Ragù und geschichtetem Käse, während hier einfach drei Scheiben Käse auf gekochte Penne gelegt werden. Das ist wie wenn ich ein Tuch über einen Stuhl werfe und es „Thron nenne“.<br>
-Die Methode ist ebenfalls raffiniert: Erst ohne Deckel schmoren, dann Käse drauf, dann mit Deckel weitergaren. Das ist tatsächlich eine technische Innovation innerhalb der Serie. Man könnte sagen: Kurt hat hier den Deckel zweimal verwendet – einmal als Abwesenheit, einmal als Präsenz. Tiefe.
-COPILOT feiert „resistente Stärke durch Vorkochen & Wiedererwärmen“ – was wissenschaftlich korrekt ist und gleichzeitig die traurigste Art ist, Nudeln zu beschreiben, die man eingefroren hat.<br>
-Fazit: Höchste Erfindungshöhe der Serie, gemessen am Verhältnis von Aufwand zu Selbstüberschätzung. Das ist nicht Lasagne. Das ist eine Pfanne, die sich Lasagne auf den Spiegel schreibt.<br>
-Die KI-Mitautorin COPILOT leistet hier übrigens einen bemerkenswerten Beitrag zur Erfindungshöhe: Sie schafft es, aus „Pfanne mit Deckel“ eine „Vitalstoff-Pfanne mit Meal-Prep-Vorteil und resistenter Stärke“ zu destillieren. Das ist nicht mehr Kochen, das ist Alchemie.<br>
-Die physikalische Erfindungshöhe bleibt dennoch überschaubar: Das ist ein Dampfgarer mit mehr Pfannenboden und weniger Selbstachtung.
-Aber ehrlich? Ich würde es essen. Alle vier Varianten. Nacheinander.
-
 ---
 
 ## Zusammenfassung von Mitautorin COPILOT
 
 Die fruchtige Nudelpfanne im Lasagne-Stil zeigt, wie unkompliziert ein vollwertiges, sättigendes Gericht entstehen kann, wenn man frische Zutaten mit einer cleveren Vorbereitung kombiniert.   
 Die vorgekochten Dinkel-Penne sorgen für eine schnelle Zubereitung und liefern in dieser Portionsgröße reichlich Energie für einen aktiven Alltag.   
-Die Mischung aus frischem Gemüse, einer ordentlichen Portion Pasta, moderatem Hackfleischanteil und einer dünnen Käseschicht ergibt ein kräftiges Wohlfühlgericht, das ohne schwere Soßen auskommt und durch die kurze Garzeit seine Vitamine behält.  
-Eine moderne, unkomplizierte Mahlzeit mit hoher Sättigung und guter Nährstoffbilanz.
+Die Mischung aus frischem Gemüse, einer ordentlichen Portion Pasta, moderatem Hackfleischanteil und einer dünnen Käseschicht ergibt ein Wohlfühlgericht mit einer guten Mikronährstoffdichte.   
+Es kommt ohne schwere Soßen aus und behält durch die kurze Garzeit den Großteil seiner Vitamine.  
+Eine moderne, unkomplizierte Mahlzeit.
 
 ---
 [← Zurück zur Übersicht](index.md)
