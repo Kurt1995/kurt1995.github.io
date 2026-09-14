@@ -49,7 +49,12 @@
 
 ## Servieren
 
-![](assets/18-nudel-lasag-8.jpg)
+<table>
+  <tr>
+    <td><img src="assets/18-nudel-lasag-8.jpg" alt="Schritt 1" width="712"></td>
+    <td align="center"><i>so soll es aussehen<br><br>die Tomaten noch mit weichem Biss<br><br>das Gehackte durchgegart<br><br>die Nudeln wie frisch gekocht<br><br>die Käsescheiben zerlaufen<br>aber noch nicht aufgelöst</i></td>
+  </tr>
+</table>
 
 ![](assets/18-nudel-lasag-9.jpg)
 *Vorsicht! Die Tomatenstücke bleiben unerwartet lange heiss!*
