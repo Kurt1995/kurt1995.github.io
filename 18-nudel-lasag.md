@@ -85,10 +85,10 @@ Die Kombination aus frischen Tomaten, Paprika, Dinkel-Penne, etwas Hackfleisch u
   <col width="210" style="mso-width-source:userset;mso-width-alt:7680;width:158pt">
   <col width="490" style="mso-width-source:userset;mso-width-alt:17920;width:368pt">
   <tr height="20" style="height:15.0pt">
-    <td height="20" class="xl65" width="196" style="height:15.0pt;width:147pt">Nährstoff</td>
-    <td class="xl65" width="210" style="width:158pt">Menge pro Pfanne (1
-      Portion)</td>
-    <td class="xl65" width="490" style="width:368pt">Anmerkung</td>
+    <td height="20" class="xl65" width="196" style="height:15.0pt;width:147pt"><b><font size="3">Nährstoff</font></b></td>
+    <td class="xl65" width="210" style="width:158pt"><b><font size="3">Menge pro
+      Pfanne</font></b></td>
+    <td class="xl65" width="490" style="width:368pt"><b><font size="3">Anmerkung</font></b></td>
   </tr>
   <tr height="20" style="height:15.0pt">
     <td height="20" class="xl66" width="196" style="height:15.0pt;width:147pt">Kalorien</td>
@@ -146,9 +146,15 @@ Die Kombination aus frischen Tomaten, Paprika, Dinkel-Penne, etwas Hackfleisch u
 ### Mikronährstoffe
 
 <table>
-  <col width="210" style="mso-width-source:userset;mso-width-alt:7680;width:158pt">
   <col width="196" style="mso-width-source:userset;mso-width-alt:7168;width:147pt">
-  <col width="560" style="mso-width-source:userset;mso-width-alt:20480;width:420pt">
+  <col width="210" style="mso-width-source:userset;mso-width-alt:7680;width:158pt">
+  <col width="490" style="mso-width-source:userset;mso-width-alt:17920;width:368pt">
+  <tr height="20" style="height:15.0pt">
+    <td height="20" class="xl65" width="196" style="height:15.0pt;width:147pt"><b><font size="3">Nährstoff</font></b></td>
+    <td class="xl65" width="210" style="width:158pt"><b><font size="3">Menge pro
+      Pfanne</font></b></td>
+    <td class="xl65" width="490" style="width:368pt"><b><font size="3">Anmerkung</font></b></td>
+  </tr>
   <tr height="20" style="height:15.0pt">
     <td height="20" class="xl65" width="210" style="height:15.0pt;width:158pt">Vitamin
       C</td>
