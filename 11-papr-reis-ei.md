@@ -7,7 +7,7 @@
 ## Zutaten für 2 Portionen  (vier Teller = 2 Teller je Portion)
 
 - 4 rote Paprika (ca. 600 – 700  g) 
-- 4 Esslöffel Tomatenmark 3-fach konzentriert 
+- 3 Esslöffel Tomatenmark 3-fach konzentriert 
 - 4 Eier 
 - 50 – 60 g Reis (z.B. Parboiled Langkorn & Wildreis)
 - 250 – 350 ml Wasser, 1 Brühwürfel
@@ -24,7 +24,7 @@
     <td><img src="assets/11-paprika-reis-ei-02.jpg" alt="Schritt 1" width="140"></td>
     <td><img src="assets/11-paprika-reis-ei-03.jpg" alt="Schritt 2" width="140"></td>
     <td><img src="assets/11-paprika-reis-ei-04.jpg" alt="Schritt 3" width="140"></td>
-    <td><img src="assets/11-paprika-reis-ei-05b.jpg" alt="Schritt 4" width="140"></td>
+    <td><img src="assets/11-paprika-reis-ei-05.jpg" alt="Schritt 4" width="140"></td>
     <td><img src="assets/11-paprika-reis-ei-06.jpg" alt="Schritt 5" width="140"></td>
     <td><img src="assets/11-paprika-reis-ei-07.jpg" alt="Schritt 6" width="140"></td>
   </tr>
@@ -52,7 +52,8 @@ Das ist eine sehr schonende Zubereitung, die dem Reis viel Aroma mitgibt und sp�
 Hier sind jedoch die spezifische Reiszusammensetzung und die Vorbereitung entscheidend:
   - Parboiled Langkornreis wird industriell unter Druck gedämpft, wodurch die Stärke im Korninneren verkleistert und stabilisiert wird. Das macht die Körner extrem widerstandsfähig – sie zerfallen selbst bei hohem Wasseranteil nicht zu Brei, sondern bleiben fest und getrennt.
   - Wildreis (botanisch ein Sumpfgras-Samen) besitzt eine sehr harte, zähe Außenhülle und benötigt von Natur aus deutlich mehr Flüssigkeit und längere Garzeit, um vollständig aufzuquellen.
-  - Das gründliche Abspülen nach dem Wässern entfernt die lose Oberflächenstärke – genau jene Komponente, die bei hohem Wasseranteil normalerweise einen klebrigen „Matsch" erzeugt.  
+  - Das gründliche Abspülen nach dem Wässern entfernt die lose Oberflächenstärke – genau jene Komponente, die bei hohem Wasseranteil normalerweise einen klebrigen „Matsch" erzeugt.
+  - Und in 30 min verdampft und entweicht natürlich ein Teil des Wassers trotz Deckel.
 
 Das Ergebnis: Nach 30 Minuten bei kleiner Hitze mit Deckel ist die gesamte Brühe aufgenommen, der Wildreis ist weich und aromatisch, der Parboiled-Reis locker und körnig – genau wie im letzten Bild oben dokumentiert.
 
