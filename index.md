@@ -5,7 +5,7 @@
 
 ---
 
-| <strong style="font-size:1.4em; display:block;">Pfanne</strong> | <strong style="font-size:1.4em; display:block;">Teller · Topf · Schüssel · Grill</strong> |
+| <strong style="font-size:1,4em; display:block;">Pfanne</strong> | <strong style="font-size:1.4em; display:block;">Teller · Topf · Schüssel · Grill</strong> |
 | :--- | :--- |
 | TOMATE | TOMATE & SOMMERGEMÜSE |
 | [Tomaten-Schicht-Pfanne "Rustikale Art"](18-nudel-rusti.md) | [Spaghetti mit fruchtiger Wildkräuter-Bolo](46-spaghetti-f-bolo.md) |
