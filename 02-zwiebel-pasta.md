@@ -63,123 +63,52 @@ Ein kleiner Hinweis: Soja- und Teriyakisauce bringen viel Umami, aber auch Natri
 ## Nährwerte für die gesamte Zutatenmenge (2 Portionen)
 ### 1. Makronährstoffe
 
-<body bgcolor="#ffffff" leftmargin=5 topmargin=5 rightmargin=5 bottommargin=5>
-<font size=3 color="#000000" face="Times New Roman">
-<div><table width=820 border=1 cellpadding=4 bordercolor="#000000" cellspacing=-1 style="border-collapse: collapse;">
-<tr valign=top>
-<td width=169 valign=middle style="border-color: #000000;"><font size=3 color="#000000" face="Times New Roman">
-<div><font color="#000000" face="Calibri"><b>Nährstoff</b></font></div>
-</font>
-</td>
-<td width=154 valign=middle style="border-color: #000000;"><font size=3 color="#000000" face="Times New Roman">
-<div align=center><font color="#000000" face="Calibri"><b>Menge</b></font></div>
-</font>
-</td>
-<td width=456 valign=middle style="border-color: #000000;"><font size=3 color="#000000" face="Times New Roman">
-<div><font color="#000000" face="Calibri"><b>Anmerkung</b></font></div>
-</font>
-</td>
-</tr>
-<tr valign=top>
-<td width=169 valign=middle style="border-color: #000000;"><font size=3 color="#000000" face="Times New Roman">
-<div><font color="#000000" face="Calibri">Kalorien</font></div>
-</font>
-</td>
-<td width=154 valign=middle style="border-color: #000000;"><font size=3 color="#000000" face="Times New Roman">
-<div align=center><font color="#000000" face="Calibri">ca. 1300 kcal</font></div>
-</font>
-</td>
-<td width=456 valign=middle style="border-color: #000000;"><font size=3 color="#000000" face="Times New Roman">
-<div><font color="#000000" face="Calibri">Hauptenergie aus Öl + Nudeln</font></div>
-</font>
-</td>
-</tr>
-<tr valign=top>
-<td width=169 valign=middle style="border-color: #000000;"><font size=3 color="#000000" face="Times New Roman">
-<div><font color="#000000" face="Calibri">Eiweiß</font></div>
-</font>
-</td>
-<td width=154 valign=middle style="border-color: #000000;"><font size=3 color="#000000" face="Times New Roman">
-<div align=center><font color="#000000" face="Calibri">ca. 30 g</font></div>
-</font>
-</td>
-<td width=456 valign=middle style="border-color: #000000;"><font size=3 color="#000000" face="Times New Roman">
-<div><font color="#000000" face="Calibri">Hauptsächlich aus Spaghetti und Pilzen</font></div>
-</font>
-</td>
-</tr>
-<tr valign=top>
-<td width=169 valign=middle style="border-color: #000000;"><font size=3 color="#000000" face="Times New Roman">
-<div><font color="#000000" face="Calibri">Kohlenhydrate</font></div>
-</font>
-</td>
-<td width=154 valign=middle style="border-color: #000000;"><font size=3 color="#000000" face="Times New Roman">
-<div align=center><font color="#000000" face="Calibri">ca. 190 - 195 g</font></div>
-</font>
-</td>
-<td width=456 valign=middle style="border-color: #000000;"><font size=3 color="#000000" face="Times New Roman">
-<div><font color="#000000" face="Calibri">Fast komplett aus den Nudeln und Zwiebeln</font></div>
-</font>
-</td>
-</tr>
-<tr valign=top>
-<td width=169 valign=middle style="border-color: #000000;"><font size=3 color="#000000" face="Times New Roman">
-<div><font color="#000000" face="Calibri">davon Zucker</font></div>
-</font>
-</td>
-<td width=154 valign=middle style="border-color: #000000;"><font size=3 color="#000000" face="Times New Roman">
-<div align=center><font color="#000000" face="Calibri">ca. 35 - 40 g</font></div>
-</font>
-</td>
-<td width=456 valign=middle style="border-color: #000000;"><font size=3 color="#000000" face="Times New Roman">
-<div><font color="#000000" face="Calibri">Natürlicher Fruchtzucker der Zwiebeln, dazu etwas aus Teriyaki</font></div>
-</font>
-</td>
-</tr>
-<tr valign=top>
-<td width=169 valign=middle style="border-color: #000000;"><font size=3 color="#000000" face="Times New Roman">
-<div><font color="#000000" face="Calibri">Fett (gesamt)</font></div>
-</font>
-</td>
-<td width=154 valign=middle style="border-color: #000000;"><font size=3 color="#000000" face="Times New Roman">
-<div align=center><font color="#000000" face="Calibri">ca. 45 g</font></div>
-</font>
-</td>
-<td width=456 valign=middle style="border-color: #000000;"><font size=3 color="#000000" face="Times New Roman">
-<div><font color="#000000" face="Calibri">Überwiegend aus dem Öl</font></div>
-</font>
-</td>
-</tr>
-<tr valign=top>
-<td width=169 valign=middle style="border-color: #000000;"><font size=3 color="#000000" face="Times New Roman">
-<div><font color="#000000" face="Calibri">Gesättigte Fettsäuren</font></div>
-</font>
-</td>
-<td width=154 valign=middle style="border-color: #000000;"><font size=3 color="#000000" face="Times New Roman">
-<div align=center><font color="#000000" face="Calibri">ca. 6 g</font></div>
-</font>
-</td>
-<td width=456 valign=middle style="border-color: #000000;"><font size=3 color="#000000" face="Times New Roman">
-<div><font color="#000000" face="Calibri">Aus dem Olivenöl (überwiegend einfach ungesättigt)</font></div>
-</font>
-</td>
-</tr>
-<tr valign=top>
-<td width=169 valign=middle style="border-color: #000000;"><font size=3 color="#000000" face="Times New Roman">
-<div><font color="#000000" face="Calibri">Ballaststoffe</font></div>
-</font>
-</td>
-<td width=154 valign=middle style="border-color: #000000;"><font size=3 color="#000000" face="Times New Roman">
-<div align=center><font color="#000000" face="Calibri">ca. 20 - 23 g</font></div>
-</font>
-</td>
-<td width=456 valign=middle style="border-color: #000000;"><font size=3 color="#000000" face="Times New Roman">
-<div><font color="#000000" face="Calibri">Aus Zwiebeln, Pilzen und Nudeln</font></div>
-</font>
-</td>
-</tr>
+<table style="width: 800px; border-collapse: collapse; font-family: sans-serif;">
+  <thead>
+    <tr style="border-bottom: 2px solid #000;">
+      <th style="width: 170px; text-align: left; padding: 8px; border: 1px solid #000;">Nährstoff</th>
+      <th style="width: 170px; text-align: center; padding: 8px; border: 1px solid #000;">Menge</th>
+      <th style="text-align: left; padding: 8px; border: 1px solid #000;">Anmerkung</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #000;">Kalorien</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 1300 kcal</td>
+      <td style="padding: 8px; border: 1px solid #000;">Hauptenergie aus Öl + Nudeln</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #000;">Eiweiß</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 30 g</td>
+      <td style="padding: 8px; border: 1px solid #000;">Hauptsächlich aus Spaghetti und Pilzen</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #000;">Kohlenhydrate</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 190 - 195 g</td>
+      <td style="padding: 8px; border: 1px solid #000;">Fast komplett aus den Nudeln und Zwiebeln</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #000;">davon Zucker</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 35 - 40 g</td>
+      <td style="padding: 8px; border: 1px solid #000;">Natürlicher Fruchtzucker der Zwiebeln, dazu etwas aus Teriyaki</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #000;">Fett (gesamt)</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 45 g</td>
+      <td style="padding: 8px; border: 1px solid #000;">Überwiegend aus dem Öl</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #000;">Gesättigte Fettsäuren</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 6 g</td>
+      <td style="padding: 8px; border: 1px solid #000;">Aus dem Olivenöl (überwiegend einfach ungesättigt)</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #000;">Ballaststoffe</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 20 - 23 g</td>
+      <td style="padding: 8px; border: 1px solid #000;">Aus Zwiebeln, Pilzen und Nudeln</td>
+    </tr>
+  </tbody>
 </table>
-</div>
 
 ### 2. Mikronährstoffe
 
