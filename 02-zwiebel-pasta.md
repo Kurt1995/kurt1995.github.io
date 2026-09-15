@@ -49,19 +49,20 @@
 
 ---
 
-## META's Gesundheits-Check: Warum dieses Gericht punktet
-Diese Pfanne kombiniert vier Sachen, die im Alltag gut funktionieren:  
-**1. Gemüse als Basis:** Pilze bringen viel Volumen, wenig Energie, dazu Ballaststoffe und Umami. Paprika und Zwiebeln ergänzen Vitamine, Farbe und natürliche Süße.  
-**2. Dinkel-Penne als Beilage:** Etwas mehr Mineralstoffe und Biss als normale Pasta.  
-**3. Würze:** Ein kleiner Schuss Sojasauce bringt Salz und Tiefe, Sambal bringt Schärfe und leichte Säure.  
-**4. Die Öle:** Sie liefern die nötigen ungesättigten Fettsäuren.  
-Gesamtwirkung: Ein Gericht mit guter Sättigung, kontrollierter Fettmenge, moderatem Salzgehalt und klarer Struktur. 
+## Qwen Studio’s Gesundheits-Check: Warum dieses Gericht punktet
+- Zwiebel-Power für den Darm: Gemüsezwiebeln sind echte Gesundheitsbomben. Sie liefern viel Quercetin (ein starkes Antioxidans mit entzündungshemmender Wirkung) sowie Präbiotika wie Inulin. Das dient als Futter für die guten Darmbakterien.
+- Pilze für den Stoffwechsel: Champignons stecken voller B-Vitamine (wichtig für den Energiestoffwechsel und das Nervensystem) und liefern mit Ergothionein einen wertvollen Zellschutz.
+- Gute Fette & Vitaminaufnahme: Das native Olivenöl extra liefert gesunde, einfach ungesättigte Fettsäuren. Das Fett hilft dem Körper gleichzeitig, die fettlöslichen Vitamine aus dem Gemüse besser aufzunehmen.
+- Blutzucker-Friendly: Der Schuss Apfelessig oder Balsamico ist nicht nur ein Geschmacksträger. Essigsäure kann helfen, den Blutzuckerspiegel nach der Mahlzeit stabiler zu halten und das Sättigungsgefühl zu verlängern.
+- Kalorienbewusst & sättigend: Trotz der großen Gemüsemenge bleibt das Gericht kalorienarm. Die vielen Ballaststoffe aus den Zwiebeln und Pilzen sorgen für eine langanhaltende Sättigung ohne das typische "Nudel-Koma".
 
+Ein kleiner Hinweis: Soja- und Teriyakisauce bringen viel Umami, aber auch Natrium mit. Wer auf den Salzgehalt achtet, sollte das Nachsalzen mit der Salzstreuer erst einmal weglassen und nur mit den Saucen abschmecken.
 
-## Energiewerte – Makro / Mikro dieser Mahlzeit 
-(Schätzung für die gesamten, im Rezept eingesetzten Mengen) 
+---
 
-### Makro
+## Nährwerte für die gesamte Zutatenmenge (2 Portionen)
+### 1. Makronährstoffe
+
 
 | Energiewerte | geschätzt |
 |---------|--------|
