@@ -1,55 +1,50 @@
 # Kurt kocht &nbsp;– &nbsp;Zwiebel Pasta mit Pilzen
 
-![Zutatenübersicht](assets/02-zwiebel-pasta-01)
+![Zutatenübersicht](assets/02-zwiebel-pasta-01.jpg)
 
-## Zutaten
-* **Ca. 250 g Champignons**
-* **2 kleine Ziebeln**
-* **1 rote Paprika**
-* **125 g** (Trockengewicht - 1/4 Packung) **Dinkel-Penne**
-* 2 Esslöffel Olivenöl und 1 Esslöffel Rapsöl**
-* **Gewürze:** Schwarzer Pfeffer, Soja Sauce, Sambal Oelek und Salz
-* **Finish:** Einige Tropfen Apfelessig (Reisessig / heller Balsamico)
+## Zutaten für 2 Portionen
+- 2 Gemüsezwiebeln (ca. 600 - 700 g)
+- 250 g Champignons (weiß oder braun)
+- 170 g Spaghetti (Trockenmenge = 1/3 Packung)
+- 3 Esslöffel Olivenöl 
+- Gewürze: schwarzer Pfeffer,
+- Später am Tisch: Salz, Sojasauce, Teriyaki Sauce
 
 ---
 
 ## Zubereitung
 
 ### Langfristvorbereitung (Meal Prep)
-* **Penne-Vorrat:** Eine Packung Dinkel-Penne (500 g) in Salzwasser kochen, abgießen, kalt abschrecken und in 4 Portionen aufgeteilt einfrieren.<br>
-Vorsicht: Die Kochzeit für die Dinkel-Penne ist kürzer als bei Hartweizennudeln. Nach ca. 8 min beginnen, den Biss zu testen.
+* **Pasta-Vorrat:** Eine Packung Spaghetti (500 g) in Salzwasser kochen, abgießen, kalt abschrecken und in 3 Portionen aufgeteilt einfrieren.
 * **Schonendes Auftauen:** Am Vorabend eine Portion Nudeln in den Kühlschrank stellen, damit sie am Verzehrtag direkt einsatzbereit sind.
 
 ### Zubereitung am Verzehrtag
 
 <table>
   <tr>
-    <td><img src="assets/03-gem-nudel-pfanne-2.jpg" alt="Schritt 1"></td>
-    <td><img src="assets/03-gem-nudel-pfanne-4.jpg" alt="Schritt 2"></td>
-    <td><img src="assets/03-gem-nudel-pfanne-5.jpg" alt="Schritt 3"></td>
-    <td><img src="assets/03-gem-nudel-pfanne-6.jpg" alt="Schritt 4"></td>
+    <td><img src="assets/02-zwiebel-pasta-03.jpg" alt="Schritt 1"></td>
+    <td><img src="assets/02-zwiebel-pasta-04.jpg" alt="Schritt 2"></td>
+    <td><img src="assets/02-zwiebel-pasta-06.jpg" alt="Schritt 3"></td>
+    <td><img src="assets/02-zwiebel-pasta-07.jpg" alt="Schritt 4"></td>
+    <td><img src="assets/02-zwiebel-pasta-08.jpg" alt="Schritt 5"></td>
   </tr>
 </table>
 
-* Olivenöl und Rapsöl in die Pfanne geben.
-* Die Zwiebeln und die Paprika würfeln, in die Pfanne geben.
-* Die Pilze putzen und eher grob würfeln. Mit Zwiebeln und Paprika vermischen.
-* Mutig mit schwarzem Pfeffer würzen.
-* Kurz anbraten, dabei öfter wenden und abgedeckt ca. 7 – 8 Minuten schmoren. Kontrolle zwischendurch: Wenn die Pfanne zu trocken wird, einen Schuss Wasser hinzugeben.
-* Die Penne unterheben und bei stetigem Wenden ca. 2 Minuten erwärmen.
-* Die Pfanne vom Herd nehmen. Bei Bedarf auf kleinster Flamme warmhalten und servieren. 
+- Das Öl in die Pfanne geben.
+- Die Zwiebeln in dicke Scheiben schneiden und in der Pfanne anschmoren.
+- Die Champignons putzen, in kleine Würfel schneiden, dazugeben.
+- 7 bis 8 Minuten bei mittlerer Hitze mit Deckel schmoren / garen. Die Zwiebeln werden weich geschmort, die Pilze garen mit.
+- Öfter wenden. Wenn die Pfanne zu trocken wird, ein wenig Wasser zugeben.
+- Die aufgetauten Nudeln in der Mikrowelle vorwärmen (ca. 1 - 1,5 Minuten).
+- Wenn die Zwiebeln anfangen glasig zu werden, die Spaghetti hinzugeben.
+- Großzügig mit schwarzem Pfeffer würzen.
+- Noch ein wenig durchwärmen lassen und vom Feuer nehmen. (Bei Bedarf auf kleinster Stufe warmhalten.)
+- Auf einem vorgewärmten Teller servieren.
+- Genuss mit Zeit: Den Teller auf ein 2-flammiges Stövchen stellen. So bleibt das Gericht bis zum letzten Bissen heiß.
+- Am Tisch nach Geschmack mit Salz nachwürzen. Ich ergänze ein wenig Soja- und Teriyaki Sauce, von beiden ca. 30 Tropfen = 1,5 ml je Teller.
+- Tipp: Außerdem ein paar Tropfen (3 - 4) Apfelessig oder Balsamico dazu geben. Das hebt den Gesamtgeschmack – Ausprobieren. 
 
-<table>
-  <tr>
-    <td><img src="assets/03-gem-nudel-pfanne-7.jpg" alt="Schritt 1" width="712"></td>
-    <td align="center"><i>so soll es aussehen<br><br>die Paprika mit weichem Biss<br><br>die Zwiebel glasig<br><br>die Pilze ein wenig geschrumpft<br><br>die Nudeln wie frisch gekocht</i></td>
-  </tr>
-</table>
-
-* Am Tisch mit einer Messerspitze Sambal Oelek, ein paar Körnern Salz und etwas Sojasauce würzen.
-* Zwei oder drei Tropfen Apfelessig (Reisessig / heller Balsamico) ergänzen. 
-
-![Fertiges Gericht](assets/03-gem-nudel-pfanne-8.jpg)
+![Fertiges Gericht](assets/02-zwiebel-pasta-09.jpg)
 
 ---
 
