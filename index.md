@@ -15,14 +15,14 @@
 | [Tomaten-Schicht-Pfanne "Lasagne Art"](18-nudel-lasag.md) | [Spargel al dente](25-spargel-aldente.md) |
 | [Tomaten-Schicht-Pfanne "Asia Note"](18-nudel-asia.md) | [Senioren Sport-Suppe](17-senior-sport-suppe.md) |
 | &nbsp; | [Opa Salat](06-opa-salat.md) |
-| ZUCCHINI, PAPRIKA, PILZE, & ZWIEBEL | WEITERE |
-| [Zucchini Pasta](02-zucchini-pasta.md) |  |
-| [Zucchini-Nudel Pfanne](24-zucch-nudel.md) | &nbsp; |
-| [Bunte Pilzpfanne](03-bunte-pilzpfanne.md) | [Deftige Kartoffelsuppe](05-deftige-ksuppe.md) |
-| [Gemüse-Nudel-Pfanne mit Asia-Note](03-gem-nudel-pfanne.md) | &nbsp; |
-| [Gemüsepfanne mit Reis](11-gemmitreis.md) | [Suppe mit Hähnchenmägen](14-maegensuppe.md) |
+| ZUCCHINI, PAPRIKA, PILZE, & ZWIEBEL | WEITERE *auch Pfanne* |
+| [Zucchini Pasta](02-zucchini-pasta.md) | [Zwiebel Pasta](02-zwiebel-pasta.md) |
+| [Zucchini-Nudel Pfanne](24-zucch-nudel.md) | [Paprikapfanne mit Reis und Ei](11-papr-reis-ei.md) |
+| [Bunte Pilzpfanne](03-bunte-pilzpfanne.md) | &nbsp; |
+| [Gemüse-Nudel-Pfanne mit Asia-Note](03-gem-nudel-pfanne.md) | [Suppe mit Hähnchenmägen](14-maegensuppe.md) |
+| [Gemüsepfanne mit Reis](11-gemmitreis.md) |[Deftige Kartoffelsuppe](05-deftige-ksuppe.md) |
 | [Gemüsepfanne mit Nudeln](13-zwiebel-nudel-pf.md) | &nbsp; |
-| [Paprikapfanne mit Reis und Ei](11-papr-reis-ei.md) | &nbsp; |
+| &nbsp; | &nbsp; |
 | KOHL & WINTERGEMÜSE | KOHL & WINTERGEMÜSE |
 | [Leichte Brokkoli-Pfanne](04-brokkolipfanne.md) | [Verlorenes Ei in Winter-Tomate](15-ei-in-wtomate.md) |
 | [Deftige Brokkoli-Pfanne](44-deftig-b-pfanne.md) | [Nudeln in Winter-Tomate](08-nudelinwt.md) |
