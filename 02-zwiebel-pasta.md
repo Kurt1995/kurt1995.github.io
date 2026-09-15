@@ -112,109 +112,47 @@ Ein kleiner Hinweis: Soja- und Teriyakisauce bringen viel Umami, aber auch Natri
 
 ### 2. Mikronährstoffe
 
-<div><table width=820 border=1 style="border-width : 0px" cellpadding=4 bordercolor="#000000" cellspacing=-1 style="border-collapse: collapse;">
-<tr valign=top>
-<td width=169 valign=middle style="border-width : 1px; border-color: #000000;"><font size=3 color="#000000" face="Times New Roman">
-<div><font color="#000000" face="Calibri"><b>Nährstoff</b></font></div>
-</font>
-</td>
-<td width=157 valign=middle style="border-width : 1px; border-color: #000000;"><font size=3 color="#000000" face="Times New Roman">
-<div align=center><font color="#000000" face="Calibri"><b>Menge</b></font></div>
-</font>
-</td>
-<td width=462 valign=middle style="border-width : 1px; border-color: #000000;"><font size=3 color="#000000" face="Times New Roman">
-<div><font color="#000000" face="Calibri"><b>Anmerkung</b></font></div>
-</font>
-</td>
-</tr>
-<tr valign=top>
-<td width=169 valign=middle style="border-width : 1px; border-color: #000000;"><font size=3 color="#000000" face="Times New Roman">
-<div><font color="#000000" face="Calibri">Vitamin B2 (Riboflavin)</font></div>
-</font>
-</td>
-<td width=157 valign=middle style="border-width : 1px; border-color: #000000;"><font size=3 color="#000000" face="Times New Roman">
-<div align=center><font color="#000000" face="Calibri">ca. 0,6 mg</font></div>
-</font>
-</td>
-<td width=462 valign=middle style="border-width : 1px; border-color: #000000;"><font size=3 color="#000000" face="Times New Roman">
-<div><font color="#000000" face="Calibri">Aus den Champignons </font><font color="#000000" face="Calibri">&#8211;</font><font color="#000000" face="Calibri"> wichtig für den Energiestoffwechsel</font></div>
-</font>
-</td>
-</tr>
-<tr valign=top>
-<td width=169 valign=middle style="border-width : 1px; border-color: #000000;"><font size=3 color="#000000" face="Times New Roman">
-<div><font color="#000000" face="Calibri">Vitamin B3 (Niacin)</font></div>
-</font>
-</td>
-<td width=157 valign=middle style="border-width : 1px; border-color: #000000;"><font size=3 color="#000000" face="Times New Roman">
-<div align=center><font color="#000000" face="Calibri">ca. 8 mg</font></div>
-</font>
-</td>
-<td width=462 valign=middle style="border-width : 1px; border-color: #000000;"><font size=3 color="#000000" face="Times New Roman">
-<div><font color="#000000" face="Calibri">Aus Pilzen und Nudeln </font><font color="#000000" face="Calibri">&#8211;</font><font color="#000000" face="Calibri"> unterstützt das Nervensystem</font></div>
-</font>
-</td>
-</tr>
-<tr valign=top>
-<td width=169 valign=middle style="border-width : 1px; border-color: #000000;"><font size=3 color="#000000" face="Times New Roman">
-<div><font color="#000000" face="Calibri">Kalium</font></div>
-</font>
-</td>
-<td width=157 valign=middle style="border-width : 1px; border-color: #000000;"><font size=3 color="#000000" face="Times New Roman">
-<div align=center><font color="#000000" face="Calibri">ca. 1100 mg</font></div>
-</font>
-</td>
-<td width=462 valign=middle style="border-width : 1px; border-color: #000000;"><font size=3 color="#000000" face="Times New Roman">
-<div><font color="#000000" face="Calibri">Reichlich in Zwiebeln und Pilzen </font><font color="#000000" face="Calibri">&#8211;</font><font color="#000000" face="Calibri"> wichtig für den Blutdruck</font></div>
-</font>
-</td>
-</tr>
-<tr valign=top>
-<td width=169 valign=middle style="border-width : 1px; border-color: #000000;"><font size=3 color="#000000" face="Times New Roman">
-<div><font color="#000000" face="Calibri">Selen</font></div>
-</font>
-</td>
-<td width=157 valign=middle style="border-width : 1px; border-color: #000000;"><font size=3 color="#000000" face="Times New Roman">
-<div align=center><font color="#000000" face="Calibri">ca. 30 µg</font></div>
-</font>
-</td>
-<td width=462 valign=middle style="border-width : 1px; border-color: #000000;"><font size=3 color="#000000" face="Times New Roman">
-<div><font color="#000000" face="Calibri">Champignons sind eine gute pflanzliche Selenquelle</font></div>
-</font>
-</td>
-</tr>
-<tr valign=top>
-<td width=169 valign=middle style="border-width : 1px; border-color: #000000;"><font size=3 color="#000000" face="Times New Roman">
-<div><font color="#000000" face="Calibri">Kupfer</font></div>
-</font>
-</td>
-<td width=157 valign=middle style="border-width : 1px; border-color: #000000;"><font size=3 color="#000000" face="Times New Roman">
-<div align=center><font color="#000000" face="Calibri">ca. 0,7 mg</font></div>
-</font>
-</td>
-<td width=462 valign=middle style="border-width : 1px; border-color: #000000;"><font size=3 color="#000000" face="Times New Roman">
-<div><font color="#000000" face="Calibri">Aus den Pilzen </font><font color="#000000" face="Calibri">&#8211;</font><font color="#000000" face="Calibri"> wichtig für Zellschutz und Eisenstoffwechsel</font></div>
-</font>
-</td>
-</tr>
-<tr valign=top>
-<td width=169 valign=middle style="border-width : 1px; border-color: #000000;"><font size=3 color="#000000" face="Times New Roman">
-<div><font color="#000000" face="Calibri">Natrium</font></div>
-</font>
-</td>
-<td width=157 valign=middle style="border-width : 1px; border-color: #000000;"><font size=3 color="#000000" face="Times New Roman">
-<div align=center><font color="#000000" face="Calibri">ca. 300 mg</font></div>
-</font>
-</td>
-<td width=462 valign=middle style="border-width : 1px; border-color: #000000;"><font size=3 color="#000000" face="Times New Roman">
-<div><font color="#000000" face="Calibri">Aus Soja- und Teriyaki Sauce</font></div>
-</font>
-</td>
-</tr>
+<table style="width: 800px; border-collapse: collapse; font-family: sans-serif;">
+  <thead>
+    <tr style="border-bottom: 2px solid #000;">
+      <th style="width: 170px; text-align: left; padding: 8px; border: 1px solid #000;">Nährstoff</th>
+      <th style="width: 170px; text-align: center; padding: 8px; border: 1px solid #000;">Menge</th>
+      <th style="text-align: left; padding: 8px; border: 1px solid #000;">Anmerkung</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #000;">Vitamin B2 (Riboflavin)</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 0,6 mg</td>
+      <td style="padding: 8px; border: 1px solid #000;">Aus den Champignons – wichtig für den Energiestoffwechsel</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #000;">Vitamin B3 (Niacin)</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 8 mg</td>
+      <td style="padding: 8px; border: 1px solid #000;">Aus Pilzen und Nudeln – unterstützt das Nervensystem</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #000;">Kalium</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 1100 mg</td>
+      <td style="padding: 8px; border: 1px solid #000;">Reichlich in Zwiebeln und Pilzen – wichtig für den Blutdruck</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #000;">Selen</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 30 µg</td>
+      <td style="padding: 8px; border: 1px solid #000;">Champignons sind eine gute pflanzliche Selenquelle</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #000;">Kupfer</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 0,7 mg</td>
+      <td style="padding: 8px; border: 1px solid #000;">Aus den Pilzen – wichtig für Zellschutz und Eisenstoffwechsel</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #000;">Natrium</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 300 mg</td>
+      <td style="padding: 8px; border: 1px solid #000;">Aus Soja- und Teriyaki Sauce</td>
+    </tr>
+  </tbody>
 </table>
-</div>
-</font>
-</body>
 
 #### Hinweis zu Vitamin B12:
 Dieses rein pflanzliche Gericht enthält naturgemäß kein Vitamin B12.  
