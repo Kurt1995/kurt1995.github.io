@@ -43,6 +43,7 @@
 - Genuss mit Zeit: Den Teller auf ein 2-flammiges Stövchen stellen. So bleibt das Gericht bis zum letzten Bissen heiß.
 - Am Tisch nach Geschmack mit Salz nachwürzen. Ich ergänze ein wenig Soja- und Teriyaki Sauce, von beiden ca. 30 Tropfen = 1,5 ml je Teller.
 - Tipp: Außerdem ein paar Tropfen (3 - 4) Apfelessig oder Balsamico dazu geben. Das hebt den Gesamtgeschmack – Ausprobieren. 
+<br>
 
 ![Fertiges Gericht](assets/02-zwiebel-pasta-09.jpg)
 
