@@ -287,26 +287,29 @@ Ein kleiner Hinweis: Soja- und Teriyakisauce bringen viel Umami, aber auch Natri
 </font>
 </body>
 
-
-
-
----
-
-## Praxis-Check: So schmeckt es dann
-**Textur:** Pilze, Paprikastücke und Dinkel-Penne haben einen angenehm festen Biss.  
-Die Zwiebeln sind nur punktuell wahrnehmbar – kleine weiche Einsprengsel, die die Struktur nicht verändern.  
-**Geschmack:** Paprika, Pilze und Penne bilden einen gemeinsamen Grundton. 
-Paprika und Pilze sind einzeln zu erkennen, die Zwiebeln blitzen manchmal auf.  
-Die Sojasauce liefert viel Umami und vertieft den Grundton, wird aber bewusst nicht beherrschend.  
-Das Sambal Oelek: Da es in sehr kleiner Menge hinzugefügt wird, bleibt es unaufdringlich, gibt aber eine leise Schärfe.  
-Die zwei bis drei Tropfen Essig heben den Gesamtgeschmack erkennbar – er wird heller. 
+#### Hinweis zu Vitamin B12:
+Dieses rein pflanzliche Gericht enthält naturgemäß kein Vitamin B12.  
+Da B12 wichtig für Nerven und Blutbildung ist und im Alter oft schlechter aufgenommen wird, sollte es bei überwiegend pflanzlicher Ernährung über andere Quellen (z.B. Fleisch, 
+Fisch, Eier, Milchprodukte) oder nach ärztlicher Rücksprache ergänzt werden.
 
 ---
 
-## Zusammenfassung von Mitautorin COPILOT:
-Das Rezept „Gemüse-Nudel-Pfanne mit Asia-Note“ beschreibt ein klar strukturiertes, alltagstaugliches Gericht mit ausgewogener Nährstoffbilanz.  
-Es verbindet Dinkel-Penne, Champignons, Paprika und Zwiebeln zu einer leichten, aromatischen Mahlzeit mit asiatischem Akzent durch Sojasauce und Sambal Oelek.  
-Ein Rezept mit technischer Präzision und ernährungsphysiologischer Klarheit. 
+## Kurt's Praxis-Check: So schmeckt es dann
+Ungewohnt, sehr ungewohnt – bei jedem Gabelwickel (Zwiebel zuerst, Nudeln davor) erreichen die Spaghetti zuerst Zunge und Gaumen.  
+Aber dann übernehmen die Zwiebeln mit aller Macht. Sie sind noch bissfest und breiten einen stark gemüse-süßen Geschmack aus.  
+Später dann, wenn nur noch ein paar Pilzstücke auf dem Teller übrig und solo auf den Löffel gewandert sind, wird erkennbar, dass sie die ganze Zeit mitgespielt haben.  
+Soja und Teriyaki Sauce haben ebenfalls einen zusätzlichen Grundgeschmack geliefert.  
+Die drei Tropfen Essig je Teller machen diesen Grundgeschmack heller und helfen den Nudeln und den Pilzen gegen die übermächtigen Zwiebeln.  
+Praxistipp: Wer die Zwiebeln weniger dominant mag, reduziert ihre Menge auf 300 - 400 g und lässt sie noch ein wenig länger schmoren.
+
+---
+
+## Zusammenfassung von Mitautorin Qwen Studio:
+Dieses Rezept beweist, dass Experimentierfreude in der Küche belohnt wird: Die mutige Kombination aus mediterranen und asiatischen Aromen funktioniert – dank des Essig-Tricks – überraschend gut.  
+Besonders hervorzuheben ist die pragmatische Meal-Prep-Strategie, die das Gericht auch unter der Woche schnell verfügbar macht.  
+Mit rund 600 kcal pro Portion, einem hohen Ballaststoffgehalt und der Power aus Zwiebeln und Pilzen ist dies eine sättigende, nährstoffreiche Mahlzeit.  
+Der authentische Praxistest mit den Anpassungstipps macht das Rezept zuverlässig nachkochbar.  
+Ein gelungenes Beispiel dafür, wie Alltagsküche gesund, günstig und geschmackvoll sein kann.
 
 ---
 
