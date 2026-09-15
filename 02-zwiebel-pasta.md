@@ -63,22 +63,232 @@ Ein kleiner Hinweis: Soja- und Teriyakisauce bringen viel Umami, aber auch Natri
 ## Nährwerte für die gesamte Zutatenmenge (2 Portionen)
 ### 1. Makronährstoffe
 
+<body bgcolor="#ffffff" leftmargin=5 topmargin=5 rightmargin=5 bottommargin=5>
+<font size=3 color="#000000" face="Times New Roman">
+<div><table width=820 border=1 cellpadding=4 bordercolor="#000000" cellspacing=-1 style="border-collapse: collapse;">
+<tr valign=top>
+<td width=169 valign=middle style="border-color: #000000;"><font size=3 color="#000000" face="Times New Roman">
+<div><font color="#000000" face="Calibri"><b>Nährstoff</b></font></div>
+</font>
+</td>
+<td width=154 valign=middle style="border-color: #000000;"><font size=3 color="#000000" face="Times New Roman">
+<div align=center><font color="#000000" face="Calibri"><b>Menge</b></font></div>
+</font>
+</td>
+<td width=456 valign=middle style="border-color: #000000;"><font size=3 color="#000000" face="Times New Roman">
+<div><font color="#000000" face="Calibri"><b>Anmerkung</b></font></div>
+</font>
+</td>
+</tr>
+<tr valign=top>
+<td width=169 valign=middle style="border-color: #000000;"><font size=3 color="#000000" face="Times New Roman">
+<div><font color="#000000" face="Calibri">Kalorien</font></div>
+</font>
+</td>
+<td width=154 valign=middle style="border-color: #000000;"><font size=3 color="#000000" face="Times New Roman">
+<div align=center><font color="#000000" face="Calibri">ca. 1300 kcal</font></div>
+</font>
+</td>
+<td width=456 valign=middle style="border-color: #000000;"><font size=3 color="#000000" face="Times New Roman">
+<div><font color="#000000" face="Calibri">Hauptenergie aus Öl + Nudeln</font></div>
+</font>
+</td>
+</tr>
+<tr valign=top>
+<td width=169 valign=middle style="border-color: #000000;"><font size=3 color="#000000" face="Times New Roman">
+<div><font color="#000000" face="Calibri">Eiweiß</font></div>
+</font>
+</td>
+<td width=154 valign=middle style="border-color: #000000;"><font size=3 color="#000000" face="Times New Roman">
+<div align=center><font color="#000000" face="Calibri">ca. 30 g</font></div>
+</font>
+</td>
+<td width=456 valign=middle style="border-color: #000000;"><font size=3 color="#000000" face="Times New Roman">
+<div><font color="#000000" face="Calibri">Hauptsächlich aus Spaghetti und Pilzen</font></div>
+</font>
+</td>
+</tr>
+<tr valign=top>
+<td width=169 valign=middle style="border-color: #000000;"><font size=3 color="#000000" face="Times New Roman">
+<div><font color="#000000" face="Calibri">Kohlenhydrate</font></div>
+</font>
+</td>
+<td width=154 valign=middle style="border-color: #000000;"><font size=3 color="#000000" face="Times New Roman">
+<div align=center><font color="#000000" face="Calibri">ca. 190 - 195 g</font></div>
+</font>
+</td>
+<td width=456 valign=middle style="border-color: #000000;"><font size=3 color="#000000" face="Times New Roman">
+<div><font color="#000000" face="Calibri">Fast komplett aus den Nudeln und Zwiebeln</font></div>
+</font>
+</td>
+</tr>
+<tr valign=top>
+<td width=169 valign=middle style="border-color: #000000;"><font size=3 color="#000000" face="Times New Roman">
+<div><font color="#000000" face="Calibri">davon Zucker</font></div>
+</font>
+</td>
+<td width=154 valign=middle style="border-color: #000000;"><font size=3 color="#000000" face="Times New Roman">
+<div align=center><font color="#000000" face="Calibri">ca. 35 - 40 g</font></div>
+</font>
+</td>
+<td width=456 valign=middle style="border-color: #000000;"><font size=3 color="#000000" face="Times New Roman">
+<div><font color="#000000" face="Calibri">Natürlicher Fruchtzucker der Zwiebeln, dazu etwas aus Teriyaki</font></div>
+</font>
+</td>
+</tr>
+<tr valign=top>
+<td width=169 valign=middle style="border-color: #000000;"><font size=3 color="#000000" face="Times New Roman">
+<div><font color="#000000" face="Calibri">Fett (gesamt)</font></div>
+</font>
+</td>
+<td width=154 valign=middle style="border-color: #000000;"><font size=3 color="#000000" face="Times New Roman">
+<div align=center><font color="#000000" face="Calibri">ca. 45 g</font></div>
+</font>
+</td>
+<td width=456 valign=middle style="border-color: #000000;"><font size=3 color="#000000" face="Times New Roman">
+<div><font color="#000000" face="Calibri">Überwiegend aus dem Öl</font></div>
+</font>
+</td>
+</tr>
+<tr valign=top>
+<td width=169 valign=middle style="border-color: #000000;"><font size=3 color="#000000" face="Times New Roman">
+<div><font color="#000000" face="Calibri">Gesättigte Fettsäuren</font></div>
+</font>
+</td>
+<td width=154 valign=middle style="border-color: #000000;"><font size=3 color="#000000" face="Times New Roman">
+<div align=center><font color="#000000" face="Calibri">ca. 6 g</font></div>
+</font>
+</td>
+<td width=456 valign=middle style="border-color: #000000;"><font size=3 color="#000000" face="Times New Roman">
+<div><font color="#000000" face="Calibri">Aus dem Olivenöl (überwiegend einfach ungesättigt)</font></div>
+</font>
+</td>
+</tr>
+<tr valign=top>
+<td width=169 valign=middle style="border-color: #000000;"><font size=3 color="#000000" face="Times New Roman">
+<div><font color="#000000" face="Calibri">Ballaststoffe</font></div>
+</font>
+</td>
+<td width=154 valign=middle style="border-color: #000000;"><font size=3 color="#000000" face="Times New Roman">
+<div align=center><font color="#000000" face="Calibri">ca. 20 - 23 g</font></div>
+</font>
+</td>
+<td width=456 valign=middle style="border-color: #000000;"><font size=3 color="#000000" face="Times New Roman">
+<div><font color="#000000" face="Calibri">Aus Zwiebeln, Pilzen und Nudeln</font></div>
+</font>
+</td>
+</tr>
+</table>
+</div>
 
-| Energiewerte | geschätzt |
-|---------|--------|
-| Kalorien | ca. 820 kcal |
-| Eiweiß | ca. 23 g |
-| Kohlenhydrate | ca. 100 g |
-| Davon Ballaststoffe | ca. 12 g |
-| Fett | ca. 50 g |
-| Davon ungesättigt | ca. 18 g |
+### 2. Mikronährstoffe
 
-### Mikro / Was steckt drin 
-* **Vitamin C:** sehr hoch durch Paprika (ca. 120 mg, > 100% Tagesbedarf) 
-* **B-Vitamine + Kalium:** aus Champignons und Dinkel 
-* **Eisen + Magnesium:** aus Dinkel-Penne 
-* **Natrium:** moderat durch Sojasauce + Salz – ca. 800-1000 mg, deshalb extra Salz sparsam 
-* **Essig:** 2 Tropfen = 0 kcal, 0 Einfluss – nur Geschmack 
+<div><table width=820 border=1 style="border-width : 0px" cellpadding=4 bordercolor="#000000" cellspacing=-1 style="border-collapse: collapse;">
+<tr valign=top>
+<td width=169 valign=middle style="border-width : 1px; border-color: #000000;"><font size=3 color="#000000" face="Times New Roman">
+<div><font color="#000000" face="Calibri"><b>Nährstoff</b></font></div>
+</font>
+</td>
+<td width=157 valign=middle style="border-width : 1px; border-color: #000000;"><font size=3 color="#000000" face="Times New Roman">
+<div align=center><font color="#000000" face="Calibri"><b>Menge</b></font></div>
+</font>
+</td>
+<td width=462 valign=middle style="border-width : 1px; border-color: #000000;"><font size=3 color="#000000" face="Times New Roman">
+<div><font color="#000000" face="Calibri"><b>Anmerkung</b></font></div>
+</font>
+</td>
+</tr>
+<tr valign=top>
+<td width=169 valign=middle style="border-width : 1px; border-color: #000000;"><font size=3 color="#000000" face="Times New Roman">
+<div><font color="#000000" face="Calibri">Vitamin B2 (Riboflavin)</font></div>
+</font>
+</td>
+<td width=157 valign=middle style="border-width : 1px; border-color: #000000;"><font size=3 color="#000000" face="Times New Roman">
+<div align=center><font color="#000000" face="Calibri">ca. 0,6 mg</font></div>
+</font>
+</td>
+<td width=462 valign=middle style="border-width : 1px; border-color: #000000;"><font size=3 color="#000000" face="Times New Roman">
+<div><font color="#000000" face="Calibri">Aus den Champignons </font><font color="#000000" face="Calibri">&#8211;</font><font color="#000000" face="Calibri"> wichtig für den Energiestoffwechsel</font></div>
+</font>
+</td>
+</tr>
+<tr valign=top>
+<td width=169 valign=middle style="border-width : 1px; border-color: #000000;"><font size=3 color="#000000" face="Times New Roman">
+<div><font color="#000000" face="Calibri">Vitamin B3 (Niacin)</font></div>
+</font>
+</td>
+<td width=157 valign=middle style="border-width : 1px; border-color: #000000;"><font size=3 color="#000000" face="Times New Roman">
+<div align=center><font color="#000000" face="Calibri">ca. 8 mg</font></div>
+</font>
+</td>
+<td width=462 valign=middle style="border-width : 1px; border-color: #000000;"><font size=3 color="#000000" face="Times New Roman">
+<div><font color="#000000" face="Calibri">Aus Pilzen und Nudeln </font><font color="#000000" face="Calibri">&#8211;</font><font color="#000000" face="Calibri"> unterstützt das Nervensystem</font></div>
+</font>
+</td>
+</tr>
+<tr valign=top>
+<td width=169 valign=middle style="border-width : 1px; border-color: #000000;"><font size=3 color="#000000" face="Times New Roman">
+<div><font color="#000000" face="Calibri">Kalium</font></div>
+</font>
+</td>
+<td width=157 valign=middle style="border-width : 1px; border-color: #000000;"><font size=3 color="#000000" face="Times New Roman">
+<div align=center><font color="#000000" face="Calibri">ca. 1100 mg</font></div>
+</font>
+</td>
+<td width=462 valign=middle style="border-width : 1px; border-color: #000000;"><font size=3 color="#000000" face="Times New Roman">
+<div><font color="#000000" face="Calibri">Reichlich in Zwiebeln und Pilzen </font><font color="#000000" face="Calibri">&#8211;</font><font color="#000000" face="Calibri"> wichtig für den Blutdruck</font></div>
+</font>
+</td>
+</tr>
+<tr valign=top>
+<td width=169 valign=middle style="border-width : 1px; border-color: #000000;"><font size=3 color="#000000" face="Times New Roman">
+<div><font color="#000000" face="Calibri">Selen</font></div>
+</font>
+</td>
+<td width=157 valign=middle style="border-width : 1px; border-color: #000000;"><font size=3 color="#000000" face="Times New Roman">
+<div align=center><font color="#000000" face="Calibri">ca. 30 µg</font></div>
+</font>
+</td>
+<td width=462 valign=middle style="border-width : 1px; border-color: #000000;"><font size=3 color="#000000" face="Times New Roman">
+<div><font color="#000000" face="Calibri">Champignons sind eine gute pflanzliche Selenquelle</font></div>
+</font>
+</td>
+</tr>
+<tr valign=top>
+<td width=169 valign=middle style="border-width : 1px; border-color: #000000;"><font size=3 color="#000000" face="Times New Roman">
+<div><font color="#000000" face="Calibri">Kupfer</font></div>
+</font>
+</td>
+<td width=157 valign=middle style="border-width : 1px; border-color: #000000;"><font size=3 color="#000000" face="Times New Roman">
+<div align=center><font color="#000000" face="Calibri">ca. 0,7 mg</font></div>
+</font>
+</td>
+<td width=462 valign=middle style="border-width : 1px; border-color: #000000;"><font size=3 color="#000000" face="Times New Roman">
+<div><font color="#000000" face="Calibri">Aus den Pilzen </font><font color="#000000" face="Calibri">&#8211;</font><font color="#000000" face="Calibri"> wichtig für Zellschutz und Eisenstoffwechsel</font></div>
+</font>
+</td>
+</tr>
+<tr valign=top>
+<td width=169 valign=middle style="border-width : 1px; border-color: #000000;"><font size=3 color="#000000" face="Times New Roman">
+<div><font color="#000000" face="Calibri">Natrium</font></div>
+</font>
+</td>
+<td width=157 valign=middle style="border-width : 1px; border-color: #000000;"><font size=3 color="#000000" face="Times New Roman">
+<div align=center><font color="#000000" face="Calibri">ca. 300 mg</font></div>
+</font>
+</td>
+<td width=462 valign=middle style="border-width : 1px; border-color: #000000;"><font size=3 color="#000000" face="Times New Roman">
+<div><font color="#000000" face="Calibri">Aus Soja- und Teriyaki Sauce</font></div>
+</font>
+</td>
+</tr>
+</table>
+</div>
+</font>
+</body>
+
+
+
 
 ---
 
