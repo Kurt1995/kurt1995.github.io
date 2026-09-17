@@ -210,7 +210,7 @@ Die Nudeln lieben den Sud und nehmen ihn gerne an.
 
 ### Zusammenfassung von Mitautorin META
 
-Eine clevere Schicht-Pfanne ohne Anbraten mit reiner Dampf-Garung - schonend und nährstofferhaltend.  
+Eine durchdachte Schicht-Pfanne ohne Anbraten mit reiner Dampf-Garung - schonend und nährstofferhaltend.  
 Die große Gemüsemenge (500 g Tomaten + 300 g Pilze) sorgt für Volumen und Sättigung.  
 Das Meal-Prep der Nudeln ist clever:  
 Es verkürzt die Zubereitungszeit am Verzehrtag und liefert durch die resistente Stärke einen gesundheitlichen Vorteil.  
