@@ -44,11 +44,32 @@
 - Sobald das Hackfleisch durchgegart ist, die Pfanne vom Herd nehmen.  
 *Bei Bedarf auf kleinster Stufe warmhalten.* 
 
+<br>
+
+<table>
+  <tr>
+    <td><img src="assets/18-nudel-asia-08.jpg" alt="Servieren" width="712"></td>
+    <td align="center"> <i>und so soll es aussehen<br><br>die Tomaten sind nicht zu weich geschmort<br><br>das Hack und die Pilze<br>wurden im Dampf gegart<br><br>die Nudeln sind durchgewärmt<br><br>und<br><br>am Pfannenboden haben sich<br>Tomaten- und Pilzsaft<br>zu einem leckeren Sud gesammelt</i></td>
+  </tr>
+</table>
+
 ---
 
-![Fertige Fruchtige Nudelpfanne Bayrische-Art](assets/18-nudel-asia-09.jpg)
-*Vorsicht! Die Tomatenstücke bleiben unerwartet lange heiss!*
+![Nudelpfanne Asia](assets/18-nudel-asia-09.jpg)
+Am Tisch nach Geschmack mit Sojasauce würzen.
+*(Vorsicht! Die Tomatenstücke bleiben unerwartet lange heiss!)*
 <br>
+
+---
+
+#### Am Abend schmeckt ein Rest als Süppchen:
+<table>
+  <tr>
+    <td><img src="assets/18-nudel-asia-10.jpg" alt="Servieren" width="712"></td>
+    <td align="center"> <i>Sollte von der Pfanne am Mittag etwas übrig bleiben,<br>lässt sich daraus mit minimalem Aufwand eine leichte Abendvariante zaubern.<br><br>Schnelle Zubereitung:<br><br>Basis: Die verbliebenen Reste (Gemüse, 
+Nudeln und Fleisch)<br>in eine Suppenschale geben.<br><br>Aufgießen: Mit heißer Brühe aufgießen und servieren. </i></td>
+  </tr>
+</table>
 
 ---
 
