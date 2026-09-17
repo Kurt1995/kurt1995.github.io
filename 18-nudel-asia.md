@@ -87,8 +87,8 @@ Besondere Stärken:
 
 ---
 
-### Nährwerte für die gesamte Pfanne 
-#### 1. Makronährstoffe (Gesamtmenge) 
+### Nährwerte
+#### 1. Makronährstoffe (bezogen auf die gesamte Zutatenmenge) 
 
 <table style="width: 800px; border-collapse: collapse; font-family: sans-serif;">
   <thead>
@@ -137,7 +137,7 @@ Besondere Stärken:
   </tbody>
 </table>
 
-#### 2. Mikronährstoffe
+#### 2. Mikronährstoffe (bezogen auf die gesamte Zutatenmenge)
 
 <table style="width: 800px; border-collapse: collapse; font-family: sans-serif;">
   <thead>
