@@ -4,7 +4,7 @@
 
 ![Zutaten für Fruchtige Nudelpfanne Asia-Note](assets/18-nudel-asia-01.jpg)
 
-### Zutaten
+### Zutaten (für eine Riesen- oder zwei Normalportionen)
 
 - Tomaten (ca. 500 g - diese sind aus dem eigenen Garten) 
 - Champignons (250 – 300 g) 
