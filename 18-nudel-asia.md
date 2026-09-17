@@ -49,7 +49,7 @@
 <table>
   <tr>
     <td><img src="assets/18-nudel-asia-08.jpg" alt="Servieren" width="712"></td>
-    <td align="center"> <i>und so soll es aussehen<br><br>die Tomaten sind nicht zu weich<br><br>das Hack und die Pilze<br>wurden im Dampf gegart<br><br>die Nudeln sind durchgewärmt<br><br>und<br><br>am Pfannenboden haben sich<br>Tomaten- und Pilzsaft<br>zu einem leckeren Sud gesammelt</i></td>
+    <td align="center"> <i>und so soll es aussehen<br><br>die Tomaten sind noch nicht zu weich<br><br>das Hack und die Pilze<br>wurden im Dampf gegart<br><br>die Nudeln sind durchgewärmt<br><br>und<br><br>am Pfannenboden haben sich<br>Tomaten- und Pilzsaft<br>zu einem leckeren Sud gesammelt</i></td>
   </tr>
 </table>
 
