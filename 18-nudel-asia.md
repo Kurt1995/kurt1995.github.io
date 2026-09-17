@@ -73,48 +73,128 @@ Nudeln und Fleisch)<br>in eine Suppenschale geben.<br><br>Aufgießen: Mit heiße
 
 ---
 
-### COPILOT's Gesundheitscheck: Warum dieses Gericht punktet
+### META's Gesundheitscheck: Warum dieses Gericht punktet
 
-Die Tomaten-Schicht Pfanne „Asia Note“ ist ein tomatenreiches, proteinbalanciertes Gericht.
-Sie nutzt frische Zutaten, kurze Garzeiten und eine klare Struktur.
-Sie punktet gesundheitlich durch:
--	hohe Gemüsequote
--	moderate Kohlenhydrate
--	ausgewogene Proteine
--	nährstoffschonende Zubereitung
--	klare Portionslogik
--	gute Fettqualität (Oliven- und Rapsöl)
-
-Warum so viel Öl? Die 3 EL Öl sind hier bewusst gewählt. Sie machen die große Tomatenmenge bekömmlich, verbessern die Aufnahme von Lycopin und sorgen für eine stabile Sättigung. 
-Energetisch ist es damit eine vollwertige Hauptmahlzeit.
-
+Diese Schicht-Pfanne ist mehr als nur schnell zubereitet – sie ist ein wahres Nährstoffkraftpaket.  
+Die reine Dampf-Garung ohne Anbraten schont nicht nur die Zutaten, sondern verhindert auch die Bildung unerwünschter Röststoffe.  
+Alle Nährstoffe und Aromen bleiben im Gericht erhalten.  
+Besondere Stärken: 
+- Lycopin-Power: Durch das Erhitzen der 500 g Tomaten wird das sekundäre Pflanzenstoff Lycopin besonders gut für den Körper verfügbar – ein starker Antioxidans für Zellschutz und Herzgesundheit. 
+- Kalium-Reichtum: Die Kombination aus Tomaten und Champignons liefert außergewöhnlich viel Kalium, das zur Regulierung des Blutdrucks beiträgt.
+- Komplette B-Vitamine:  Das Hackfleisch deckt den Tagesbedarf an B12, Pilze und Nudeln liefern B6 und Folat.
+- Volumen ohne Reue:  800 g Gemüse pro Pfanne = enorme Sättigung bei moderater Kaloriendichte. 
+- Resistente Stärke: Die vorgekochten und wieder abgekühlten Nudeln enthalten resistente Stärke, gut für die Darmgesundheit. 
 
 ---
 
-### Hauptnährwerte für das Gesamtgericht
+### Nährwerte für die gesamte Pfanne 
+#### 1. Makronährstoffe (Gesamtmenge) 
 
-| Nährstoff | Menge | Anmerkung |
-|-----------|-------|-----------|
-| Kalorien | ca. 1190 kcal | Hauptenergie aus Öl + Nudeln |
-| Eiweiß | ca. 50 g | Hauptsächlich aus Hackfleisch |
-| Kohlenhydrate | ca. 112–116 g | Fast komplett aus den Nudeln |
-| davon Zucker | ca. 20 g | Natürlicher Fruchtzucker der Tomaten und der Zwiebel |
-| Fett (gesamt) | ca. 60 g | Aus Öl und Hackfleisch |
-| Gesättigte Fettsäuren | ca. 15 g | Aus dem Hackfleisch |
-| Ballaststoffe | ca. 13 g | Aus Tomaten, der Zwiebel und den Nudeln |
+<table style="width: 800px; border-collapse: collapse; font-family: sans-serif;">
+  <thead>
+    <tr style="border-bottom: 2px solid #000;">
+      <th style="width: 170px; text-align: left; padding: 8px; border: 1px solid #000;">Nährstoff</th>
+      <th style="width: 170px; text-align: center; padding: 8px; border: 1px solid #000;">Menge</th>
+      <th style="text-align: left; padding: 8px; border: 1px solid #000;">Anmerkung</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #000;"><strong>Kalorien</strong></td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 1250 kcal</td>
+      <td style="padding: 8px; border: 1px solid #000;">Vor allem durch Nudeln, Hack und Öl</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #000;"><strong>Eiweiß</strong></td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 55 g</td>
+      <td style="padding: 8px; border: 1px solid #000;">Sehr gut! Durch Fleisch, Nudeln und Pilze</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #000;"><strong>Kohlenhydrate</strong></td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 95 g</td>
+      <td style="padding: 8px; border: 1px solid #000;">Hauptenergiequelle durch Nudeln</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #000;"><strong>davon Zucker</strong></td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 12 g</td>
+      <td style="padding: 8px; border: 1px solid #000;">Natürlich durch Tomaten</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #000;"><strong>Fett (gesamt)</strong></td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 65 g</td>
+      <td style="padding: 8px; border: 1px solid #000;">3 EL Öl + Hackfleisch</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #000;"><strong>Gesättigte Fettsäuren</strong></td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 15 g</td>
+      <td style="padding: 8px; border: 1px solid #000;">Durch das gemischte Hack</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #000;"><strong>Ballaststoffe</strong></td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 10 g</td>
+      <td style="padding: 8px; border: 1px solid #000;">Sehr gut durch große Gemüsemenge</td>
+    </tr>
+  </tbody>
+</table>
 
-### Mikronährstoffe (Vitamine & Mineralstoffe)
+#### 2. Mikronährstoffe
 
-| Nährstoff | Menge | Deckungsbeitrag (Referenzwert Erwachsene/Tag) |
-|-----------|-------|-----------------------------------------------|
-| Vitamin C | ca. 45–60 mg | ~60 % des Tagesbedarfs |
-| Vitamin A (als Beta-Carotin) | ca. 250 µg | ~30 % des Tagesbedarfs |
-| Vitamin K | ca. 20–30 µg | ~25–30 % |
-| Kalium | ca. 1700–1900 mg | ~45 % (sehr gut für Blutdruck) |
-| Magnesium | ca. 80–100 mg | ~25–30 % |
-| Zink | ca. 3–4 mg | ~25–30 % |
-| Lycopin | ca. 15–20 mg | Hoch (starkes Antioxidans) |
-| Folsäure | ca. 80–100 µg | ~25 % |
+<table style="width: 800px; border-collapse: collapse; font-family: sans-serif;">
+  <thead>
+    <tr style="border-bottom: 2px solid #000;">
+      <th style="width: 170px; text-align: left; padding: 8px; border: 1px solid #000;">Nährstoff</th>
+      <th style="width: 170px; text-align: center; padding: 8px; border: 1px solid #000;">Menge</th>
+      <th style="text-align: left; padding: 8px; border: 1px solid #000;">Deckungsbeitrag (Referenzwert Erwachsene/Tag)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #000;"><strong>Vitamin C</strong></td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 65 mg</td>
+      <td style="padding: 8px; border: 1px solid #000;">65 % (hoher Gehalt durch Tomaten)</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #000;"><strong>Vitamin A (Beta-Carotin)</strong></td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 1,2 mg</td>
+      <td style="padding: 8px; border: 1px solid #000;">150 % (aus Tomaten)</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #000;"><strong>Vitamin B12</strong></td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 2,5 µg</td>
+      <td style="padding: 8px; border: 1px solid #000;">100 % (aus Hackfleisch)</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #000;"><strong>Vitamin B6</strong></td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 1,5 mg</td>
+      <td style="padding: 8px; border: 1px solid #000;">100 % (Hack, Pilze, Nudeln)</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #000;"><strong>Folat (B9)</strong></td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 120 µg</td>
+      <td style="padding: 8px; border: 1px solid #000;">60 % (Pilze, Tomaten, Nudeln)</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #000;"><strong>Kalium</strong></td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 1900 mg</td>
+      <td style="padding: 8px; border: 1px solid #000;">90 % (sehr hoch in Tomaten & Pilzen)</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #000;"><strong>Magnesium</strong></td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 150 mg</td>
+      <td style="padding: 8px; border: 1px solid #000;">40 % (Pilze, Nudeln)</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #000;"><strong>Zink</strong></td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 5 mg</td>
+      <td style="padding: 8px; border: 1px solid #000;">50 % (aus Hackfleisch)</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #000;"><strong>Lycopin</strong></td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 15 mg</td>
+      <td style="padding: 8px; border: 1px solid #000;">sehr hoch (durch gekochte Tomaten optimal verfügbar)</td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
