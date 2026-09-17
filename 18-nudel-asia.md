@@ -6,7 +6,7 @@
 
 ### Zutaten
 
-- Tomaten (ca. 500 g - hier aus dem eigenen Garten) 
+- Tomaten (ca. 500 g - diese sind aus dem eigenen Garten) 
 - Champignons (250 – 300 g) 
 - 150 g Hackfleisch, gemischt (halb und halb) 
 - 120 g Spiralnudeln (Trockenmenge) 
