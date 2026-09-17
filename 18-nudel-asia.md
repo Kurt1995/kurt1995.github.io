@@ -2,51 +2,51 @@
 
 <br>
 
-![Zutaten für Fruchtige Nudelpfanne Asia-Note](assets/18-nudel-asia-1.jpg)
+![Zutaten für Fruchtige Nudelpfanne Asia-Note](assets/18-nudel-asia-01.jpg)
 
 ### Zutaten
 
-- **Frische Tomaten** (ca. 600 g)
-- **1 Zwiebel**
-- **150 g Hackfleisch, gemischt (halb und halb)**
-- **120 g Spiralnudeln (Trockenmenge)**
-- **2 Esslöffel Olivenöl + 1 Esslöffel Rapsöl**
-- **Gewürze**: Salz, schwarzer Pfeffer, Paprikapulver (rosenscharf), Sojasauce
+- Tomaten (ca. 500 g) 
+- Champignons (250 – 300 g) 
+- 150 g Hackfleisch, gemischt (halb und halb) 
+- 120 g Spiralnudeln (Trockenmenge) 
+- 2 Esslöffel Olivenöl + 1 Esslöffel Rapsöl 
+- Gewürze: Salz, schwarzer Pfeffer, Paprikapulver rosenscharf, Sojasauce
 
 ### Zubereitung
 
 #### Meal-Prep (Langfristvorbereitung)
 
-- **Pasta-Vorrat**: •	Pasta-Vorrat: Eine Packung Spiralnudeln (600 g) in Salzwasser kochen, abgießen, kalt abschrecken und in 5 Portionen aufgeteilt einfrieren.
+- **Nudel-Vorrat**: Eine Packung Spiralnudeln (600 g) in Salzwasser kochen, abgießen, kalt abschrecken und in 5 Portionen aufgeteilt einfrieren.
 - **Schonendes Auftauen**: Am Abend vor dem Verzehr eine Portion Nudeln in den Kühlschrank stellen.
 
 #### Zubereitung am Verzehrtag
 
 <table>
   <tr>
-    <td><img src="assets/18-nudel-asia-2.jpg" alt="Schritt 1"></td>
-    <td><img src="assets/18-nudel-asia-3.jpg" alt="Schritt 2"></td>
-    <td><img src="assets/18-nudel-asia-4.jpg" alt="Schritt 3"></td>
+    <td><img src="assets/18-nudel-asia-02.jpg" alt="Schritt 1"></td>
+    <td><img src="assets/18-nudel-asia-03.jpg" alt="Schritt 2"></td>
+    <td><img src="assets/18-nudel-asia-04.jpg" alt="Schritt 3"></td>
   </tr>
   <tr>
-    <td><img src="assets/18-nudel-asia-5.jpg" alt="Schritt 4"></td>
-    <td><img src="assets/18-nudel-asia-6.jpg" alt="Schritt 5"></td>
-    <td><img src="assets/18-nudel-asia-7.jpg" alt="Schritt 6" width="1300"></td>
+    <td><img src="assets/18-nudel-asia-05.jpg" alt="Schritt 4"></td>
+    <td><img src="assets/18-nudel-asia-06.jpg" alt="Schritt 5"></td>
+    <td><img src="assets/18-nudel-asia-07.jpg" alt="Schritt 6" width="1300"></td>
   </tr>
 </table>
 
 -	Die Öle in die Pfanne geben.
--	Die Tomaten in dicke Scheiben schneiden und den Pfannenboden auslegen. Mutig mit schwarzem Pfeffer würzen.
--	Die Zwiebel putzen, in kleine Würfel schneiden, dazugeben.
--	Das Hackfleisch nach Geschmack mit Salz, Pfeffer, Paprikapulver  würzen und in Flocken hinzugeben.
--	Mit den Nudeln bedecken.
--	7 – 8 Minuten bei mittlerer Hitze mit Deckel schmoren / garen.  Die Tomaten werden weich geschmort, das Hack gart im Dampf.
--	Sobald das Hackfleisch durchgegart ist, die Pfanne vom Herd nehmen. Bei Bedarf auf kleinster Stufe warmhalten.
--	Am Tisch nach Geschmack mit ein wenig Sojasauce würzen.
+-	Die Tomaten in dicke Scheiben schneiden und den Pfannenboden auslegen.
+-	Die Pilze putzen, in grobe Würfel schneiden und darüber verteilen. Mutig mit schwarzem Pfeffer würzen. 
+- Das Hackfleisch nach Geschmack mit Salz, Pfeffer, Paprikapulver  würzen und in Flocken hinzugeben. 
+- Mit den Nudeln bedecken. 
+- Ca. 8 Minuten bei mittlerer Hitze mit Deckel schmoren / garen. 
+- Sobald das Hackfleisch durchgegart ist, die Pfanne vom Herd nehmen.  
+*Bei Bedarf auf kleinster Stufe warmhalten.* 
 
 ---
 
-![Fertige Fruchtige Nudelpfanne Bayrische-Art](assets/18-nudel-asia-8.jpg)
+![Fertige Fruchtige Nudelpfanne Bayrische-Art](assets/18-nudel-asia-09.jpg)
 *Vorsicht! Die Tomatenstücke bleiben unerwartet lange heiss!*
 <br>
 
