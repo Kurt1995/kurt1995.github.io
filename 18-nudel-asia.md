@@ -212,9 +212,9 @@ Die Nudeln lieben den Sud und nehmen ihn gerne an.
 
 Eine clevere Schicht-Pfanne ohne Anbraten mit reiner Dampf-Garung - schonend und nährstofferhaltend.  
 Die große Gemüsemenge (500 g Tomaten + 300 g Pilze) sorgt für Volumen und Sättigung.  
-Das Meal-Prep der Nudeln ist clever und gesundheitlich ein Vorteil. Es verkürzt die Zubereitungszeit am Verzehrtag erheblich.  
-Die Sojasauce am Tisch liefert die Asia-Note und ermöglicht eine bewusst dosierte Salzaufnahme.    
-Ein Gericht mit einfachen Zutaten, kurzer Zubereitungszeit, aber überraschend viel Geschmack, das auch am Abend als Reste-Süppchen noch lecker ist.
+Das Meal-Prep der Nudeln ist clever. Es verkürzt die Zubereitungszeit am Verzehrtag erheblich und liefert dazu einen gesundheitlich Vorteil, die resistente Stärke.  
+Die Sojasauce schafft die 'Asia-Note' und ermöglicht durch die Zugabe erst am Tisch eine bewusst dosierte Salzzugabe.    
+Ein Gericht mit einfachen Zutaten, kurzer Zubereitungszeit, überraschend viel Geschmack, das auch am Abend als Reste-Süppchen noch lecker ist.
 
 ---
 [← Zurück zur Übersicht](index.md)
