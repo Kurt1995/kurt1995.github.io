@@ -79,11 +79,11 @@ Diese Schicht-Pfanne ist mehr als nur schnell zubereitet – sie ist ein wahres 
 Die reine Dampf-Garung ohne Anbraten schont nicht nur die Zutaten, sondern verhindert auch die Bildung unerwünschter Röststoffe.  
 Alle Nährstoffe und Aromen bleiben im Gericht erhalten.  
 Besondere Stärken: 
-- Lycopin-Power: Durch das Erhitzen der 500 g Tomaten wird das sekundäre Pflanzenstoff Lycopin besonders gut für den Körper verfügbar – ein starker Antioxidans für Zellschutz und Herzgesundheit. 
+- Lycopin-Power: Durch das Erhitzen der Tomaten wird das sekundäre Pflanzenstoff Lycopin besonders gut für den Körper verfügbar – ein starker Antioxidans für Zellschutz und Herzgesundheit. 
 - Kalium-Reichtum: Die Kombination aus Tomaten und Champignons liefert außergewöhnlich viel Kalium, das zur Regulierung des Blutdrucks beiträgt.
 - Komplette B-Vitamine:  Das Hackfleisch deckt den Tagesbedarf an B12, Pilze und Nudeln liefern B6 und Folat.
 - Volumen ohne Reue:  800 g Gemüse pro Pfanne = enorme Sättigung bei moderater Kaloriendichte. 
-- Resistente Stärke: Die vorgekochten und wieder abgekühlten Nudeln enthalten resistente Stärke, gut für die Darmgesundheit. 
+- Resistente Stärke: Die vorgekochten, tiefgefrorenen und wieder aufgetauten Nudeln enthalten resistente Stärke, gut für die Darmgesundheit. 
 
 ---
 
