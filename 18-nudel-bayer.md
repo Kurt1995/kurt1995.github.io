@@ -2,48 +2,77 @@
 
 <br>
 
-![Zutaten für Fruchtige Nudelpfanne Bayrische-Art](assets/18-nudel-bayer-1.jpg)
+![Zutaten für Fruchtige Nudelpfanne Bayrische-Art](assets/18-nudel-bayer-01.jpg)
 
 ### Zutaten
 
-- **Frische Tomaten** (ca. 400 g)
+- **Tomaten** (ca. 500 g)
 - **1 rote Paprika**
-- **125 g Leberkäse** (2 Scheiben)
-- **125 g (ungekocht ¼ Packung) Dinkel-Penne**
+- **250 g frische Champignons**
+- **130 g Leberkäse** (2 Scheiben)
+- **120 g (ungekocht) Spiralnudeln**
 - **3 Eier**
-- **200 g frische Champignons**
-- **3 Esslöffel Olivenöl**
-- **Gewürze**: Salz, schwarzer Pfeffer, Paprikapulver (rosenscharf) und ein halber Teelöffel Maggi fix für Bolognese
+- **2 Esslöffel Olivenöl + 1 Esslöffel Rapsöl**
+- **Gewürze**: Salz, schwarzer Pfeffer, Paprikapulver (rosenscharf)
 
 ### Zubereitung
 
 #### Langfristvorbereitung
 
-- **Pasta-Vorrat**: Eine Packung Dinkel-Penne (500 g) in Salzwasser kochen, abgießen, kalt abschrecken und in 4 Portionen aufgeteilt einfrieren.
-- **Schonendes Auftauen**: Am Abend vor dem Verzehr eine Portion Penne in den Kühlschrank stellen.
+- **Pasta-Vorrat**: Eine Packung Spiralnudeln (600 g) in Salzwasser kochen, abgießen, kalt abschrecken und in 5 Portionen aufgeteilt einfrieren.
+- **Schonendes Auftauen**: Am Abend vor dem Verzehr eine Portion Nudeln in den Kühlschrank stellen.
 
 #### Zubereitung am Verzehrtag
 
-| ![Tomaten in der Pfanne](assets/18-nudel-bayer-2.jpg) | ![Nudeln hinzugeben](assets/18-nudel-bayer-3.jpg) | ![Pilze und Leberkäse verteilen](assets/18-nudel-bayer-4.jpg) |
-| --- | --- | --- |
-| ![Eier in Mulden geben](assets/18-nudel-bayer-5.jpg) | ![Mit Deckel schmoren](assets/18-nudel-bayer-6.jpg) | ![Eier sind gestockt](assets/18-nudel-bayer-7.jpg) |
+<table style="width: 800px; border-collapse: collapse; margin: 0 auto;">
+  <tbody>
+   <tr>
+      <td style="width: 25%; padding: 4px; text-align: center;">
+        <img src="assets/18-nudel-bayer-02.jpg" alt="Schritt 1" style="width: 100%; height: auto; display: block;" />
+      </td>
+      <td style="width: 25%; padding: 4px; text-align: center;">
+        <img src="assets/18-nudel-bayer-03.jpg" alt="Schritt 2" style="width: 100%; height: auto; display: block;" />
+      </td>
+      <td style="width: 25%; padding: 4px; text-align: center;">
+        <img src="assets/18-nudel-bayer-04.jpg" alt="Schritt 3" style="width: 100%; height: auto; display: block;" />
+      </td>
+      <td style="width: 25%; padding: 4px; text-align: center;">
+        <img src="assets/18-nudel-bayer-05.jpg" alt="Schritt 4" style="width: 100%; height: auto; display: block;" />
+      </td>
+    </tr>
+    <tr>
+      <td style="width: 25%; padding: 4px; text-align: center;">
+        <img src="assets/18-nudel-bayer-06.jpg" alt="Schritt 5" style="width: 100%; height: auto; display: block;" />
+      </td>
+      <td style="width: 25%; padding: 4px; text-align: center;">
+        <img src="assets/18-nudel-bayer-07.jpg" alt="Schritt 6" style="width: 100%; height: auto; display: block;" />
+      </td>
+      <td style="width: 25%; padding: 4px; text-align: center;">
+        <img src="assets/18-nudel-bayer-08.jpg" alt="Schritt 7" style="width: 100%; height: auto; display: block;" />
+      </td>
+      <td style="width: 25%; padding: 4px; text-align: center;">
+        <img src="assets/18-nudel-bayer-09.jpg" alt="Schritt 8" style="width: 100%; height: auto; display: block;" />
+      </td>
+    </tr>
+  </table>
 
-1.  Das Olivenöl in die Pfanne geben.
-2.  Die Tomaten in dicke Scheiben schneiden und den Pfannenboden auslegen.
-3.  Die Paprika in ganz kleine Würfel schneiden und über den Tomaten verteilen.
-4.  Mit Maggi fix und Paprikapulver würzen.
-5.  Die Pilze putzen, würfeln und ebenfalls in die Pfanne geben.
-6.  Den klein gewürfelten Leberkäse darüber verteilen.
-7.  Alles mit den Nudeln bedecken und mit schwarzen Pfeffer bestreuen.
-8.  Mit Deckel auf mittlerer bis großer Flamme 3-4 Minuten schmoren.
-9.  Die drei Eier vorsichtig einbringen.
-10.  Bei mittlerer Hitze mit Deckel garen, bis das Eiweiß stockt.
-11.  Die Pfanne vom Feuer nehmen (kann auch auf ganz kleiner Flamme warm gehalten werden) und servieren.
-12.  Am Tisch nach Geschmack mit etwas Salz nachwürzen.
+- Die Öle in die Pfanne geben. 
+- Die Tomaten in dicke Scheiben schneiden und den Pfannenboden auslegen.  
+- Die Paprika klein würfeln und über die Tomatenscheiben streuen. 
+- Mit schwarzem Pfeffer und Paprikapulver würzen. 
+- Die Pilze putzen und grob würfeln und und ebenfalls in die Pfanne geben. 
+- Den klein gewürfelten Leberkäse darüber verteilen. 
+- Alles mit den Nudeln bedecken. 
+- Auf mittlerer Flamme mit Deckel ca. 4 Minuten schmoren / garen. 
+- Die drei Eier vorsichtig einbringen. 
+- Bei mittlerer Hitze mit Deckel weiterschmoren, bis die Eiweiße gestockt ist. 
+- Die Pfanne vom Feuer nehmen und servieren. 
+- Am Tisch (nach Geschmack) mit etwas Salz nachwürzen. 
+
 
 ---
 
-![Fertige Fruchtige Nudelpfanne Bayrische-Art](assets/18-nudel-bayer-8.jpg)
+![Fertige Fruchtige Nudelpfanne Bayrische-Art](assets/18-nudel-bayer-12.jpg)
 *Vorsicht! Die Tomatenstücke bleiben unerwartet lange heiss!*
 <br>
 
