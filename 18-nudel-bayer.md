@@ -25,7 +25,6 @@
 #### Zubereitung am Verzehrtag
 
 <table style="width: 800px; border-collapse: collapse; margin: 0 auto;">
-  <tbody>
    <tr>
       <td style="width: 25%; padding: 4px; text-align: center;">
         <img src="assets/18-nudel-bayer-02.jpg" alt="Schritt 1" style="width: 100%; height: auto; display: block;" />
