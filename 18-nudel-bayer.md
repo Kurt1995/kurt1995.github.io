@@ -65,7 +65,7 @@
 - Alles mit den Nudeln bedecken. 
 - Auf mittlerer Flamme mit Deckel ca. 4 Minuten schmoren / garen. 
 - Die drei Eier vorsichtig einbringen. 
-- Bei mittlerer Hitze mit Deckel weiterschmoren, bis die Eiweiße gestockt ist. 
+- Bei mittlerer Hitze mit Deckel weiterschmoren, bis die Eiweiße gestockt sind. 
 - Die Pfanne vom Feuer nehmen und servieren. 
 - Am Tisch (nach Geschmack) mit etwas Salz nachwürzen. 
 
