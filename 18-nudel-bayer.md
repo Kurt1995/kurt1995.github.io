@@ -69,6 +69,12 @@
 - Die Pfanne vom Feuer nehmen und servieren. 
 - Am Tisch (nach Geschmack) mit etwas Salz nachwürzen. 
 
+<table>
+  <tr>
+    <td><img src="assets/18-nudel-bayer-10.jpg" alt="Servieren" width="712"></td>
+    <td align="center"> <i>und so soll es aussehen<br>die Tomaten sind weich aber nicht matschig<br>die Pilze sind leicht geschrumpft<br>der Leberkäse und die Nudeln sind durchgewärmt<br>die Eier sind gar, die Eigelb sind cremig bis fest<br>am Pfannenboden haben sich<br>Tomaten- und Pilzsaft<br>zu einem leckeren Sud gesammelt</i></td>
+  </tr>
+</table>
 
 ---
 
@@ -80,36 +86,95 @@
 
 ### META's Gesundheitscheck: Warum dieses Gericht punktet
 
-Diese Pfanne ist eine überraschend clevere Balance aus deftig und durchdacht:   
-Dinkel-Penne liefern mehr Ballaststoffe und Mineralstoffe als klassische Pasta und sorgen für langanhaltende Sättigung ohne Blutzucker-Achterbahn.   
-Die starke Proteinkombi aus Eiern mit hoher biologischer Wertigkeit und dem Leberkäse unterstützt die Muskeln.   
-400 g frische Tomaten steuern ordentlich Vitamin C und Lycopin bei, das durch das schonende Schmoren in Olivenöl vom Körper besonders gut aufgenommen wird.   
-Champignons bringen als kalorienarme Ergänzung Volumen, B-Vitamine und zusätzliche Ballaststoffe, und das Olivenöl liefert obendrauf gesunde ungesättigte Fettsäuren. 
-
-Unterm Strich: Eine sättigende, nährstoffdichte Mahlzeit mit moderatem Fettanteil, die bayerisch schmeckt und ernährungsphysiologisch mitdenkt.
+Diese Pfanne punktet durch ihren hohen Gemüseanteil - Tomaten, Paprika und Champignons machen über 70% aus.  
+Schonend in Schichten gegart, bleiben Vitamine und das Lycopin aus den Tomaten erhalten. Letzteres wird durch Oliven- und Rapsöl sogar besser verfügbar.  
+120 g Nudeln + 3 Eier sorgen für Sättigung mit komplexen Kohlenhydraten und hochwertigem Protein ganz ohne Sahne.  
+Das Meal-Prep (Vorkochen) mit dem Pasta-Vorrat erzeugt resistente Stärke, ein Extra-Plus.  
+Der Leberkäse ist mit nur 130g bewusst klein dosiert: bayrischer Geschmack ja, aber nicht als Hauptzutat. 
 
 ---
 
-### Hauptnährwerte für das Gesamtgericht
-
-| Nährwert | Geschätzte Menge | Bedeutung für den Körper |
-| --- | --- | --- |
-| **Energie** | ca. 1450 kcal <br> (je nach Zutaten) | Liefert moderate Energie. Bei 2 Portionen eine leichte bis normale Hauptmahlzeit |
-| **Kohlenhydrate** | ca. 115 g | Hauptsächlich komplexe Kohlenhydrate aus Dinkel-Penne für stabilen Blutzuckerspiegel |
-| **Eiweiß** | ca. 58 g | Sehr hoher Proteingehalt (besonders aus den Eiern mit ihrer hohen biologischen Wertigkeit) für Sättigung und Muskelerhalt |
-| **Fett** | ca. 80 g | Aus Olivenöl, Eiern und dem traditionell fetthaltigen Leberkäse. Enthält gesunde ungesättigte Fettsäuren |
-| **Ballaststoffe** | ca. 15 g | Unterstützt eine gesunde Verdauung und langanhaltende Sättigung |
+### META’s Nährwert- & Mikronährstoff-Tabelle
+#### Wichtige Hauptnährwerte für das Gesamtgericht:
+<table style="width: 800px; border-collapse: collapse; font-family: sans-serif;">
+  <thead>
+    <tr style="border-bottom: 2px solid #000;">
+      <th style="width: 170px; text-align: left; padding: 8px; border: 1px solid #000;">Nährwert</th>
+      <th style="width: 170px; text-align: center; padding: 8px; border: 1px solid #000;">Geschätzte Menge</th>
+      <th style="text-align: left; padding: 8px; border: 1px solid #000;">Bedeutung für den Körper</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #000;">Energie</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 1500 kcal<br>je nach Zutaten</td>
+      <td style="padding: 8px; border: 1px solid #000;">Liefert moderate Energie. Bei 2 Portionen eine leichte bis normale Hauptmahlzeit</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #000;">Kohlenhydrate</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 115 g</td>
+      <td style="padding: 8px; border: 1px solid #000;">Hauptsächlich komplexe Kohlenhydrate aus Spiralnudeln für stabilen Blutzuckerspiegel</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #000;">Eiweiß</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 58 g</td>
+      <td style="padding: 8px; border: 1px solid #000;">Sehr hoher Proteingehalt (besonders aus den Eiern mit ihrer hohen biologischen Wertigkeit) für Sättigung und Muskelerhalt.</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #000;">Fett</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 80 g</td>
+      <td style="padding: 8px; border: 1px solid #000;">Aus Olivenöl, Eiern und dem traditionell fetthaltigen Leberkäse. Enthält gesunde ungesättigte Fettsäuren</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #000;">Ballaststoffe</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 15 g</td>
+      <td style="padding: 8px; border: 1px solid #000;">Unterstützt eine gesunde Verdauung und langanhaltende Sättigung</td>
+    </tr>
+  </tbody>
+</table>
 
 ### Wichtige Mikronährstoffe & Highlights
-
-| Mikronährstoff | Vorkommen im Gericht | Nutzen |
-| --- | --- | --- |
-| **Vitamin C** | Reichlich aus den frischen Tomaten und der Paprika | Stärkt das Immunsystem und schützt Zellen |
-| **Lycopin** | Hoch konzentriert in gegarten Tomaten | Starkes Antioxidans, gut für Herz und Gefäße. Aufnahme durch Schmoren und Olivenöl verbessert |
-| **B-Vitamine** | Eier, Champignons, Dinkel | Wichtig für Energiestoffwechsel und die Nerven |
-| **Eisen & Zink** | Leberkäse, Eier, Dinkel | Wichtig für Blutbildung und Immunsystem |
-| **Magnesium** | Dinkel-Penne, Champignons | Unterstützt Muskeln und Energiestoffwechsel |
-| **Resistente Stärke** | Entsteht beim Abkühlen und Einfrieren der Pasta | Wirkt wie ein Ballaststoff und nährt die guten Darmbakterien |
+<table style="width: 800px; border-collapse: collapse; font-family: sans-serif;">
+  <thead>
+    <tr style="border-bottom: 2px solid #000;">
+      <th style="width: 170px; text-align: left; padding: 8px; border: 1px solid #000;">Mikronährstoff</th>
+      <th style="width: 170px; text-align: left; padding: 8px; border: 1px solid #000;">Vorkommen im Gericht</th>
+      <th style="text-align: left; padding: 8px; border: 1px solid #000;">Nutzen</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #000;">Vitamin C</td>
+      <td style="padding: 8px; border: 1px solid #000;">Reichlich aus 500 g frischen Tomaten und der Paprika</td>
+      <td style="padding: 8px; border: 1px solid #000;">Stärkt das Immunsystem und schützt Zellen</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #000;">Lycopin</td>
+      <td style="padding: 8px; border: 1px solid #000;">Hoch konzentriert in gegarten Tomaten</td>
+      <td style="padding: 8px; border: 1px solid #000;">Starkes Antioxidans, gut für Herz und Gefäße. Aufnahme durch Schmoren in Oliven- und Rapsöl verbessert</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #000;">B-Vitamine</td>
+      <td style="padding: 8px; border: 1px solid #000;">Eier, Champignons</td>
+      <td style="padding: 8px; border: 1px solid #000;">Wichtig für Energiestoffwechsel und die Nerven</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #000;">Eisen &amp; Zink</td>
+      <td style="padding: 8px; border: 1px solid #000;">Leberkäse, Eier, Spiralnudeln</td>
+      <td style="padding: 8px; border: 1px solid #000;">Wichtig für Blutbildung und Immunsystem</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #000;">Magnesium</td>
+      <td style="padding: 8px; border: 1px solid #000;">Champignons</td>
+      <td style="padding: 8px; border: 1px solid #000;">Unterstützt Muskeln und Energiestoffwechsel</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #000;">Resistente Stärke</td>
+      <td style="padding: 8px; border: 1px solid #000;">Entsteht beim Abkühlen und Einfrieren der Pasta</td>
+      <td style="padding: 8px; border: 1px solid #000;">Wirkt wie ein Ballaststoff und nährt die guten Darmbakterien</td>
+    </tr>
+  </tbody>
+</table>
 
 **Hinweis zum Salzgehalt**: Leberkäse bringt von Natur aus bereits relativ viel Natrium mit. Es ist daher ein guter Koch-Kniff, die Pfanne erst am Tisch nach persönlichem Bedarf zu salzen.
 
