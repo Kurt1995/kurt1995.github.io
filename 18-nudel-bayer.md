@@ -59,7 +59,7 @@
 - Die Tomaten in dicke Scheiben schneiden und den Pfannenboden auslegen.  
 - Die Paprika klein würfeln und über die Tomatenscheiben streuen. 
 - Mit schwarzem Pfeffer und Paprikapulver würzen. 
-- Die Pilze putzen und grob würfeln und und ebenfalls in die Pfanne geben. 
+- Die Pilze putzen und grob würfeln und ebenfalls in die Pfanne geben. 
 - Den klein gewürfelten Leberkäse darüber verteilen. 
 - Alles mit den Nudeln bedecken. 
 - Auf mittlerer Flamme mit Deckel ca. 4 Minuten schmoren / garen. 
