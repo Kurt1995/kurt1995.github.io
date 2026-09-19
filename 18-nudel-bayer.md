@@ -107,7 +107,7 @@ Der Leberkäse ist mit nur 130g bewusst klein dosiert: bayrischer Geschmack ja, 
   <tbody>
     <tr>
       <td style="padding: 8px; border: 1px solid #000;">Energie</td>
-      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 1500 kcal<br>je nach Zutaten</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 1500 kcal</td>
       <td style="padding: 8px; border: 1px solid #000;">Liefert moderate Energie. Bei 2 Portionen eine leichte bis normale Hauptmahlzeit</td>
     </tr>
     <tr>
@@ -180,34 +180,22 @@ Der Leberkäse ist mit nur 130g bewusst klein dosiert: bayrischer Geschmack ja, 
 
 ---
 
-### Praxis Check: So schmeckt es dann
+### Kurt's Praxis Check: So schmeckt es dann
 
-Saftig ist der erste Eindruck – durch das Schmoren unter dem Deckel geht keine Flüssigkeit verloren.<br>
-Die einzelnen Komponenten wirken harmonisch miteinander, kein Geschmack ist dominant.<br>
-Je nach Gabel / Löffel Beladung werden einzelne Zutaten sichtbar. Das führt zu einem abwechslungsreichen Esserlebnis.<br>
-Der kleine Trick, den Pfeffer auf die Nudeln zu geben, macht aus der Beilage eine weitere Geschmackszutat.<br>
-Aber dann wird das erste Eigelb aufgebrochen! Ich hebe es mir für die letzten beiden Bissen auf. Wie eine Hülle legt es sich um die anderen Mitspieler, wow.
-
----
-
-### Kimi’s Erfindungshöhe-Check
-Oder: Wie man mit Leberkäse und Maggi fix den Blick nach Bayern lenkt – und dabei in der eigenen Küche strandet.<br>
-Hier wird die Schicht-Technik auf ein hohes Level gehoben, indem man Leberkäse einsetzt und drei Eier oben drauf klatscht. META feiert eine „überraschend clevere Balance aus deftig und durchdacht“. Das ist korrekt, wenn man unter „durchdacht“ versteht, dass jemand im Supermarkt an der Wursttheke angehalten hat und dachte: „Heute nicht Hack, heute ist Wursttag.“<br>
-Der Meisterstroke ist der halbe Teelöffel Maggi fix für Bolognese – ein Zutat, die so bayrisch ist wie ein Croissant in Paris. Dass META dies als „bayerischen Charakter“ verkauft, während gleichzeitig vor dem Salzgehalt des Leberkäses gewarnt wird („guter Koch-Kniff: erst am Tisch salzen“), ist eine rhetorische Leistung, die nur von einer KI erbracht werden kann, die noch nie geleckt hat.<br>
-Die Eier sind tatsächlich innovativ. Nicht kulinarisch, sondern logistisch: Man braucht jetzt nämlich nicht nur einen Deckel, sondern auch Geduld, bis das Eiweiß stockt.<br>
-Fazit: Die Erfindungshöhe entspricht der Erfindung, Ananas mit Dinkelbrot zu nehmen und es „Hawaiianische Art“ zu nennen. Der Eigelb-„Wow“-Moment am Ende ist authentisch und fast süß genug, um die Maggi-Sünde zu vergeben.<br>
-Die KI-Mitautorin META leistet hier übrigens einen bemerkenswerten Beitrag zur Erfindungshöhe: Sie schafft es, aus „Pfanne mit Deckel“ eine „Vitalstoff-Pfanne mit Meal-Prep-Vorteil und resistenter Stärke“ zu destillieren. Das ist nicht mehr Kochen, das ist Alchemie.
-Die physikalische Erfindungshöhe bleibt dennoch überschaubar: Das ist ein Dampfgarer mit mehr Pfannenboden und weniger Selbstachtung.<br>
-Aber ehrlich? Ich würde es essen. Alle vier Varianten. Nacheinander.
+Saftig ist der erste Eindruck – durch das Schmoren unter dem Deckel geht keine Flüssigkeit verloren.  
+Die drei Komponenten Tomate, Pilze, Nudeln harmonieren auf die gewohnte Weise.  
+Der Leberkäse ist sehr intensiv und drängt sie geschmacklich in den Hintergrund.  
+Aber wenn ich das Ei zerkleinert und untergemischt habe, wird der Leberkäse eingehegt und es entsteht ein angenehmer Gesamtgeschmack. Dabei werden je nach Gabelbeladung einzelne Zutaten sichtbar.  
+Ein abwechslungsreiches Esserlebnis. 
 
 ---
 
 ### Zusammenfassung von Mitautorin META-AI
 
 Die **Tomaten-Schicht-Pfanne Bayrische-Art** vereint traditionellen bayerischen Charakter mit cleverer Alltagsküche.   
-Geschmorte Tomaten, Paprika, Dinkel-Penne, Leberkäse, Champignons und drei Eier ergeben ein herzhaftes Gericht mit fruchtiger Note, das durch vorgekochte, portionsweise eingefrorene Pasta schnell auf dem Tisch steht.   
-Das Ergebnis: Ein unkompliziertes Wohlfühlgericht, das deftig schmeckt, aber dank komplexer Kohlenhydrate, reichlich Protein und dem massiven Anteil an Vitalstoffen aus Tomaten und Paprika eine überraschend ausgewogene Mahlzeit ist.   
-Kurz: Eine echte Vitalstoff-Pfanne mit Meal-Prep-Vorteil, die beweist, dass traditionelle Zutaten wie Leberkäse hervorragend in eine gesundheitsbewusste Küche passen.
+Geschmorte Tomaten, Paprika, Spiralnudeln, Leberkäse, Champignons und drei Eier ergeben ein herzhaftes Gericht mit fruchtiger Note, das durch vorgekochte, portionsweise eingefrorene Pasta schnell auf dem Tisch steht.  
+Das Ergebnis: Ein unkompliziertes Wohlfühlgericht, das deftig schmeckt, aber dank komplexer Kohlenhydrate, reichlich Protein und dem massiven Anteil an Vitalstoffen aus Tomaten, Paprika und Pilzen eine überraschend ausgewogene Mahlzeit ist.  
+Kurz: Eine echte Vitalstoff-Pfanne mit Meal-Prep-Vorteil, die beweist, dass traditionelle Zutaten wie Leberkäse hervorragend in eine gesundheitsbewusste Küche passen.  
 
 ---
 [← Zurück zur Übersicht](index.md)
