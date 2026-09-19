@@ -193,7 +193,7 @@ Ein abwechslungsreiches Esserlebnis.
 
 Die **Tomaten-Schicht-Pfanne Bayrische-Art** vereint bayerischen Charakter mit cleverer Alltagsküche.   
 Die geschmorten Gemüse, der Leberkäse und die Eier ergeben eine herzhafte Pfanne mit fruchtiger Note, die durch vorgekochte, portionsweise eingefrorene Nudeln angenehm sättigt und schnell auf dem Tisch steht.  
-Ein unkompliziertes Gericht, mit komplexen Kohlenhydraten, reichlich Protein und einem massiven Anteil an Vitalstoffen aus Tomaten, Paprika und Pilzen.  
+Ein unkompliziertes Gericht mit komplexen Kohlenhydraten, reichlich Protein und einem massiven Anteil an Vitalstoffen aus Tomaten, Paprika und Pilzen.  
 Kurz: Eine überraschend ausgewogene Mahlzeit mit Meal-Prep-Vorteil, die zeigt, dass auch Zutaten wie Leberkäse in eine gesundheitsbewusste Küche passen können.  
 
 ---
