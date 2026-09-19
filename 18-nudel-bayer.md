@@ -85,11 +85,11 @@
 
 ### META's Gesundheitscheck: Warum dieses Gericht punktet
 
-Diese Pfanne punktet durch ihren hohen Gemüseanteil - Tomaten, Paprika und Champignons machen über 70% aus.  
+Diese Pfanne punktet durch ihren hohen Gemüseanteil - Tomaten, Paprika und Champignons machen über 70 % aus.  
 Schonend in Schichten gegart, bleiben Vitamine und das Lycopin aus den Tomaten erhalten. Letzteres wird durch Oliven- und Rapsöl sogar besser verfügbar.  
 120 g Nudeln + 3 Eier sorgen für Sättigung mit komplexen Kohlenhydraten und hochwertigem Protein ganz ohne Sahne.  
 Das Meal-Prep (Vorkochen) mit dem Pasta-Vorrat erzeugt resistente Stärke, ein Extra-Plus.  
-Der Leberkäse ist mit nur 130g bewusst klein dosiert: bayrischer Geschmack ja, aber nicht als Hauptzutat. 
+Der Leberkäse ist mit nur 130 g bewusst klein dosiert: bayrischer Geschmack ja, aber nicht als Hauptzutat. 
 
 ---
 
