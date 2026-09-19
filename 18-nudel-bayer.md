@@ -182,7 +182,7 @@ Der Leberkäse ist mit nur 130 g bewusst klein dosiert: bayrischer Geschmack ja,
 ### Kurt's Praxis Check: So schmeckt es dann
 
 Saftig ist der erste Eindruck – durch das Schmoren unter dem Deckel geht keine Flüssigkeit verloren.  
-Die drei Komponenten Tomate, Pilze, Nudeln harmonieren auf die gewohnte Weise.  
+Die drei Komponenten Tomaten, Pilze, Nudeln harmonieren auf die gewohnte Weise.  
 Der Leberkäse ist sehr intensiv und drängt sie geschmacklich in den Hintergrund.  
 Aber wenn ich das Ei zerkleinert und untergemischt habe, wird der Leberkäse eingehegt und es entsteht ein angenehmer Gesamtgeschmack. Dabei werden je nach Gabelbeladung einzelne Zutaten sichtbar.  
 Ein abwechslungsreiches Esserlebnis. 
@@ -193,8 +193,8 @@ Ein abwechslungsreiches Esserlebnis.
 
 Die **Tomaten-Schicht-Pfanne Bayrische-Art** vereint bayerischen Charakter mit cleverer Alltagsküche.   
 Die geschmorten Gemüse, der Leberkäse und die Eier ergeben eine herzhafte Pfanne mit fruchtiger Note, die durch vorgekochte, portionsweise eingefrorene Nudeln angenehm sättigt und schnell auf dem Tisch steht.  
-Das Ergebnis: Ein unkompliziertes Gericht, mit komplexen Kohlenhydraten, reichlich Protein und einem massiven Anteil an Vitalstoffen aus Tomaten, Paprika und Pilzen. Eine überraschend ausgewogene Mahlzeit.  
-Kurz: Eine echte Vitalstoff-Pfanne mit Meal-Prep-Vorteil, die beweist, dass auch Zutaten wie Leberkäse hervorragend in eine gesundheitsbewusste Küche passen.  
+Ein unkompliziertes Gericht, mit komplexen Kohlenhydraten, reichlich Protein und einem massiven Anteil an Vitalstoffen aus Tomaten, Paprika und Pilzen.
+Kurz: Eine überraschend ausgewogene Mahlzeit mit Meal-Prep-Vorteil, die zeigt, dass auch Zutaten wie Leberkäse in eine gesundheitsbewusste Küche passen können.  
 
 ---
 [← Zurück zur Übersicht](index.md)
