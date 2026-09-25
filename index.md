@@ -13,7 +13,7 @@
 | [Tomaten-Schicht-Pfanne "Bayrische Art"](18-nudel-bayer.md) | [Zucchini-Paprika-Creme mit Leber](07-zupaleber.md) |
 | [Tomaten-Schicht-Pfanne "Provenzalische Art"](18-nudel-provenz.md) | [Tomaten-Topf mit Huhn](45-tomate-huhn.md) |
 | [Tomaten-Schicht-Pfanne "Lasagne Art"](18-nudel-lasag.md) | [Spargel al dente](25-spargel-aldente.md) |
-| [Tomaten-Schicht-Pfanne "Asia Note"](18-nudel-asia.md) | [Senioren Sport-Suppe](17-senior-sport-suppe.md) |
+| [Tomaten-Schicht-Pfanne "Asia Note"](18-nudel-asia.md) | &nbsp; |
 | &nbsp; | [Opa Salat](06-opa-salat.md) |
 | ZUCCHINI, PAPRIKA, PILZE, & ZWIEBEL | WEITERE *auch Pfanne* |
 | [Zucchini Pasta](02-zucchini-pasta.md) | [Zwiebel Pasta](02-zwiebel-pasta.md) |
@@ -21,7 +21,7 @@
 | [Bunte Pilzpfanne](03-bunte-pilzpfanne.md) | [Chinakohl-Spaghetti-Bowl mit Brühe](14-ch-kohl-pasta-bowl.md) |
 | [Gemüse-Nudel-Pfanne mit Asia-Note](03-gem-nudel-pfanne.md) | [Suppe mit Hähnchenmägen](14-maegensuppe.md) |
 | [Gemüsepfanne mit Reis](11-gemmitreis.md) |[Deftige Kartoffelsuppe](05-deftige-ksuppe.md) |
-| [Gemüsepfanne mit Nudeln](13-zwiebel-nudel-pf.md) | &nbsp; |
+| [Gemüsepfanne mit Nudeln](13-zwiebel-nudel-pf.md) | [Senioren Sport-Suppe](17-senior-sport-suppe.md) |
 | &nbsp; | &nbsp; |
 | KOHL & WINTERGEMÜSE | KOHL & WINTERGEMÜSE |
 | [Leichte Brokkoli-Pfanne](04-brokkolipfanne.md) | [Verlorenes Ei in Winter-Tomate](15-ei-in-wtomate.md) |
