@@ -18,7 +18,7 @@
 | ZUCCHINI, PAPRIKA, PILZE, & ZWIEBEL | WEITERE *auch Pfanne* |
 | [Zucchini Pasta](02-zucchini-pasta.md) | [Zwiebel Pasta](02-zwiebel-pasta.md) |
 | [Zucchini-Nudel Pfanne](24-zucch-nudel.md) | [Paprikapfanne mit Reis und Ei](11-papr-reis-ei.md) |
-| [Bunte Pilzpfanne](03-bunte-pilzpfanne.md) | &nbsp; |
+| [Bunte Pilzpfanne](03-bunte-pilzpfanne.md) | [Chinakohl-Spaghetti-Bowl mit Brühe](14-ch-kohl-pasta-bowl.md) |
 | [Gemüse-Nudel-Pfanne mit Asia-Note](03-gem-nudel-pfanne.md) | [Suppe mit Hähnchenmägen](14-maegensuppe.md) |
 | [Gemüsepfanne mit Reis](11-gemmitreis.md) |[Deftige Kartoffelsuppe](05-deftige-ksuppe.md) |
 | [Gemüsepfanne mit Nudeln](13-zwiebel-nudel-pf.md) | &nbsp; |
