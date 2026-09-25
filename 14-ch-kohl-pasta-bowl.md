@@ -2,7 +2,7 @@
 
 ![Zutatenübersicht](assets/14-china-pasta-bowl-01.jpg)
 
-## Zutaten für 2 Portionen (4 Bolws)
+## Zutaten für 2 Portionen
 - 300 - 350 g Chinakohl (ca. 2/3 davon bestehen aus den weißen Blattrippen)
 - 125 g (Rohware) vorgekochte Spaghetti
 - ca. 100 g Champignons
@@ -34,11 +34,11 @@
     - Chinakohlblätter abzupfen. Die weißen, dicken Blattrippen würfeln.  
     - Die grünen, zarten Blattanteile separat aufbewahren (siehe Zutatenbild).  
     - Champignons klein würfeln.  
-    - 0,5 l Wasser mit 1 Brühwürfel aufkochen.  
+    - 500 ml Wasser mit 1 Brühwürfel aufkochen.  
 <b>2. Braten</b>  
     - 3 EL Olivenöl in der Wok-Pfanne erhitzen.  
     - Die gewürfelten weißen Blattrippen und die Champignons hineingeben, großzügig mit schwarzem Pfeffer würzen.  
-    - Bei mittlerer bis großer Hitze ca. 5 Min. brutzeln / schmoren, dabei öfter wenden.  
+    - Bei mittlerer bis großer Hitze ca. 5 Min. brutzeln/schmoren, dabei öfter wenden.  
 <b>3. Nudeln dazu</b>  
     - Die vorgekochten Spaghetti zugeben, mit Sojasauce besprenkeln.  
     - Unterheben und mit Deckel weitere ca. 3 Min. schmoren lassen, zwischendurch mehrfach wenden.  
@@ -189,7 +189,7 @@ Kurz gesagt: viel frisches Gemüse, wenig Fett, viel Geschmack.
 
 ## Kurt's Praxis-Check: So schmeckt es dann
 Frisch, Pasta, Gemüse, Brühe – das kunktioniert ja richtig gut.  
-Ich kaue die Nudeln und es knackt. Da mischt sich leichter Kohlgeschmack ein - ja - gerne.  
+Ich kaue die Nudeln und es knackt. Da mischt sich leichter Kohlgeschmack ein – ja – gerne.  
 Wo bleiben die anderen Sachen?  
 Ich nehme einen Löffel Brühe mit ein paar Pilz- und weißen Blattstückchen. Ah, die waren da, aber nur im Hintergrund – gut so.  
 Das wird ein leckerer Mittag. 
@@ -198,8 +198,8 @@ Das wird ein leckerer Mittag.
 
 ## Zusammenfassung von Mitautorin META:
 Besonderheit dieses Rezepts ist die Rolle des Chinakohls: nicht Beilage, sondern Hauptzutat. Weiße Rippen und grüne Blätter werden getrennt zubereitet - die Rippen kurz gebraten, die Blätter erst am Ende mit heißer Brühe übergossen.  
-Das sorgt für zwei Konsistenzen in einer Bowl und für das Umami sind nur klare Brühe, frische Champignons, die weißen Blattrippen und ein wenig Sojasauce verantwortlich. Mit 3 EL Öl für die gesamte Menge und nur 120 g Pasta bleibt es leicht.  
-Ungewöhnlich ist auch der Umgang mit den Nudeln: Sie werden bewusst vorgekocht verwendet. Das ist Meal-Prep und unterscheidet es von Rezepten, die Pasta frisch und separat kochen.  
+Das sorgt für zwei Konsistenzen in einer Bowl und für das Umami sind nur klare Brühe, frische Champignons, die weißen Blattrippen und ein wenig Sojasauce verantwortlich. Mit 3 EL Öl für die gesamte Menge und nur 120 g Pasta bleibt es ein leichtes Gericht.  
+Ungewöhnlich ist der Umgang mit den Nudeln: Sie werden bewusst vorgekocht verwendet. Das ist Meal-Prep und unterscheidet es von Rezepten, die Pasta frisch und separat kochen.  
 Serviert wird nicht als Pfanne mit Soße, sondern als Bowl-Prinzip - halb Pfanne, halb Suppe. Ohne Zwiebeln, ohne Knoblauch, mild und gut verträglich.  
 Ein Gericht rein pflanzlich und schnell auf dem Tisch.
 
