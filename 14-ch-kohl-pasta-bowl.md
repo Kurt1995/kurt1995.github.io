@@ -30,22 +30,26 @@
   </tr>
 </table>
 
-#### 1. Vorbereiten
-- Chinakohlblätter abzupfen. Die weißen, dicken Blattrippen würfeln, die grünen, zarten Blattanteile separat aufbewahren (siehe Zutatenbild).
-- Champignons klein würfeln.
-- 0,5 l Wasser mit 1 Brühwürfel aufkochen.  
-#### 2. Braten
-- 3 EL Olivenöl in der Wok-Pfanne erhitzen.
-- Die gewürfelten weißen Blattrippen und die Champignons hineingeben, großzügig mit schwarzem Pfeffer würzen.
-- Bei mittlerer bis großer Hitze ca. 5 Min. brutzeln / schmoren, dabei öfter wenden.  
+<b>1. Vorbereiten</b>  
+    - Chinakohlblätter abzupfen. Die weißen, dicken Blattrippen würfeln, die grünen, zarten Blattanteile separat aufbewahren (siehe Zutatenbild).  
+    - Champignons klein würfeln.  
+    - 0,5 l Wasser mit 1 Brühwürfel aufkochen.  
+<br>
+<b>2. Braten</b>  
+    - 3 EL Olivenöl in der Wok-Pfanne erhitzen.  
+    - Die gewürfelten weißen Blattrippen und die Champignons hineingeben, großzügig mit schwarzem Pfeffer würzen.  
+    - Bei mittlerer bis großer Hitze ca. 5 Min. brutzeln / schmoren, dabei öfter wenden.  
+
 #### 3. Nudeln dazu
 - Die vorgekochten Spaghetti zugeben, mit Sojasauce besprenkeln.
-- Unterheben und mit Deckel weitere ca. 3 Min. schmoren lassen, zwischendurch mehrfach wenden.  
+- Unterheben und mit Deckel weitere ca. 3 Min. schmoren lassen, zwischendurch mehrfach wenden.
+- 
 #### 4. Anrichten
 - Pfanne vom Feuer nehmen.
 - Eine Suppenschale zur Hälfte locker mit den rohen grünen Kohlblättern füllen.
 - Eine Portion vom Pfanneninhalt (Spaghetti, Pilze, Blattrippen) darauf legen.
-- Eine Kelle siedende Brühe darüber verteilen.  
+- Eine Kelle siedende Brühe darüber verteilen.
+- 
 #### 5. Servieren. 
 - Am Tisch vorsichtig durchmengen und bei Bedarf mit etwas Salz nachwürzen.
 - Tipp: Ein Stövchen hält die Bowl warm und ermöglicht ein langsames, entspanntes Essen.  
