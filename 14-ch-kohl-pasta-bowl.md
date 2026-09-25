@@ -33,22 +33,22 @@
 #### 1. Vorbereiten
 - Chinakohlblätter abzupfen. Die weißen, dicken Blattrippen würfeln, die grünen, zarten Blattanteile separat aufbewahren (siehe Zutatenbild).
 - Champignons klein würfeln.
-- 0,5 l Wasser mit 1 Brühwürfel aufkochen.
+- 0,5 l Wasser mit 1 Brühwürfel aufkochen.  
 #### 2. Braten
 - 3 EL Olivenöl in der Wok-Pfanne erhitzen.
 - Die gewürfelten weißen Blattrippen und die Champignons hineingeben, großzügig mit schwarzem Pfeffer würzen.
-- Bei mittlerer bis großer Hitze ca. 5 Min. brutzeln / schmoren, dabei öfter wenden.
+- Bei mittlerer bis großer Hitze ca. 5 Min. brutzeln / schmoren, dabei öfter wenden.  
 #### 3. Nudeln dazu
 - Die vorgekochten Spaghetti zugeben, mit Sojasauce besprenkeln.
-- Unterheben und mit Deckel weitere ca. 3 Min. schmoren lassen, zwischendurch mehrfach wenden.
+- Unterheben und mit Deckel weitere ca. 3 Min. schmoren lassen, zwischendurch mehrfach wenden.  
 #### 4. Anrichten
 - Pfanne vom Feuer nehmen.
 - Eine Suppenschale zur Hälfte locker mit den rohen grünen Kohlblättern füllen.
 - Eine Portion vom Pfanneninhalt (Spaghetti, Pilze, Blattrippen) darauf legen.
-- Eine Kelle siedende Brühe darüber verteilen.
+- Eine Kelle siedende Brühe darüber verteilen.  
 #### 5. Servieren. 
 - Am Tisch vorsichtig durchmengen und bei Bedarf mit etwas Salz nachwürzen.
-- Tipp: Ein Stövchen hält die Bowl warm und ermöglicht ein langsames, entspanntes Essen.
+- Tipp: Ein Stövchen hält die Bowl warm und ermöglicht ein langsames, entspanntes Essen.  
 <br>
 
 ![Fertiges Gericht](assets/14-china-pasta-bowl-07.jpg)
@@ -57,13 +57,10 @@
 
 ## META's Gesundheits-Check: Warum dieses Gericht punktet
 Dieses Gericht punktet, weil es leicht und sättigend ist, ohne viel Fett oder Salz mitzubringen.  
-#### Viel Volumen, wenig Last:
-Chinakohl besteht zum größten Teil aus Wasser, liefert Ballaststoffe und ist von Natur aus mild und gut verträglich. Durch die Trennung weißer Rippen gebraten und grüner Blätter fast roh bleiben Biss und Vitamine erhalten.
-#### Umami statt Fett:
-Der Geschmack kommt nicht aus Öl oder Sahne, sondern aus Pilzen, Sojasauce und klarer Brühe. So entsteht Würze mit sehr wenig zusätzlichem Fett. 
-#### Clever mit Meal-Prep:
-Die Spaghetti sind bewusst vorgekocht. Durch das Abkühlen entsteht widerstandsfähigere Stärke, die zusammen mit dem Gemüse länger satt macht und den Blutzucker-Anstieg abflacht.  
-<b>Brühe als Trick:</b> Die heiße Brühe gart die grünen Blätter nur kurz an. Es entsteht eine Suppe und eine Pfanne in einem, ohne extra Kalorien durch Soßen.<br><br>
+<b>Viel Volumen, wenig Last:</b> Chinakohl besteht zum größten Teil aus Wasser, liefert Ballaststoffe und ist von Natur aus mild und gut verträglich. Durch die Trennung weißer Rippen gebraten und grüner Blätter fast roh bleiben Biss und Vitamine erhalten.  
+<b>Umami statt Fett:</b> Der Geschmack kommt nicht aus Öl oder Sahne, sondern aus Pilzen, Sojasauce und klarer Brühe. So entsteht Würze mit sehr wenig zusätzlichem Fett.  
+<b>Clever mit Meal-Prep:</b> Die Spaghetti sind bewusst vorgekocht. Durch das Abkühlen entsteht widerstandsfähigere Stärke, die zusammen mit dem Gemüse länger satt macht und den Blutzucker-Anstieg abflacht.  
+<b>Brühe als Trick:</b> Die heiße Brühe gart die grünen Blätter nur kurz an. Es entsteht eine Suppe und eine Pfanne in einem, ohne extra Kalorien durch Soßen.<br>
 Kurz gesagt: viel frisches Gemüse, wenig Fett, viel Geschmack.
 
 ---
