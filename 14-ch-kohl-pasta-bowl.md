@@ -34,7 +34,6 @@
     - Chinakohlblätter abzupfen. Die weißen, dicken Blattrippen würfeln, die grünen, zarten Blattanteile separat aufbewahren (siehe Zutatenbild).  
     - Champignons klein würfeln.  
     - 0,5 l Wasser mit 1 Brühwürfel aufkochen.  
-<br>
 <b>2. Braten</b>  
     - 3 EL Olivenöl in der Wok-Pfanne erhitzen.  
     - Die gewürfelten weißen Blattrippen und die Champignons hineingeben, großzügig mit schwarzem Pfeffer würzen.  
