@@ -88,11 +88,11 @@ Wer anders einkauft: Ähnliche Produkte gibt es in gut sortierten Supermärkten,
 
 <table>
   <tr>
-    <th><h3>Produkt</h3></th>
-    <th><h3>Produktfoto</h3></th>
-    <th><h3>Markt</h3></th>
-    <th><h3>Ungefährer Preis</h3></th>
-    <th><h3>Besonderheiten</h3></th>
+    <td><h3>Produkt</h3></td>
+    <td><h3>Produktfoto</h3></td>
+    <td><h3>Markt</h3></td>
+    <td><h3>Ungefährer Preis</h3></td>
+    <td><h3>Besonderheiten</h3></td>
   </tr>
  <tr>
     <td><h4>Brot/Gemüse Messer</h4></td>
