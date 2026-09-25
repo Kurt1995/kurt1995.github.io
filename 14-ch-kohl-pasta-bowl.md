@@ -1,32 +1,33 @@
 # Kurt kocht &nbsp;– &nbsp;Chinakohl-Spaghetti-Bowl mit Brühe
 
-![Zutatenübersicht](assets/02-zwiebel-pasta-01.jpg)
+![Zutatenübersicht](assets/14-china-pasta-bowl-01.jpg)
 
-## Zutaten für 2 Portionen
-- 2 Gemüsezwiebeln (ca. 600 - 700 g)
-- 250 g Champignons (weiß oder braun)
-- 170 g Spaghetti (Trockenmenge = 1/3 Packung)
-- 3 Esslöffel Olivenöl 
-- Gewürze: schwarzer Pfeffer,
-- Später am Tisch: Salz, Sojasauce, Teriyaki Sauce
+## Zutaten
+- 300 - 350 g Chinakohl (ca. 2/3 davon bestehen aus den weißen Blattrippen)
+- 125 g (Rohware) vorgekochte Spaghetti
+- ca. 100 g Champignons
+- 500 ml Wasser
+- 1 Brühwürfel
+- 3 Esslöffel Olivenöl
+- Gewürze: schwarzer Pfeffer, Sojasauce, evtl. etwas Salz
 
 ---
 
 ## Zubereitung
 
 ### Langfristvorbereitung (Meal Prep)
-* **Pasta-Vorrat:** Eine Packung Spaghetti (500 g) in Salzwasser kochen, abgießen, kalt abschrecken und in 3 Portionen aufgeteilt einfrieren.
+* **Pasta-Vorrat:** Eine Packung Spaghetti (500 g) in Salzwasser kochen, abgießen, kalt abschrecken und in 4 Portionen aufgeteilt einfrieren.
 * **Schonendes Auftauen:** Am Vorabend eine Portion Nudeln in den Kühlschrank stellen, damit sie am Verzehrtag direkt einsatzbereit sind.
 
 ### Zubereitung am Verzehrtag
 
 <table>
   <tr>
-    <td><img src="assets/02-zwiebel-pasta-03.jpg" alt="Schritt 1"></td>
-    <td><img src="assets/02-zwiebel-pasta-04.jpg" alt="Schritt 2"></td>
-    <td><img src="assets/02-zwiebel-pasta-06.jpg" alt="Schritt 3"></td>
-    <td><img src="assets/02-zwiebel-pasta-07.jpg" alt="Schritt 4"></td>
-    <td><img src="assets/02-zwiebel-pasta-08.jpg" alt="Schritt 5"></td>
+    <td><img src="assets/14-china-pasta-bowl-02.jpg" alt="Schritt 1"></td>
+    <td><img src="assets/14-china-pasta-bowl-03.jpg" alt="Schritt 2"></td>
+    <td><img src="assets/14-china-pasta-bowl-04.jpg" alt="Schritt 3"></td>
+    <td><img src="assets/14-china-pasta-bowl-05.jpg" alt="Schritt 4"></td>
+    <td><img src="assets/14-china-pasta-bowl-01.jpg" alt="Schritt 5"></td>
   </tr>
 </table>
 
