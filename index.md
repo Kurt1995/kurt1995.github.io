@@ -9,7 +9,7 @@
 <tbody>
   <!-- TOMATE & SOMMERGEMÜSE -->
   <tr>
-    <td style="padding:8px; font-weight:bold;">TOMATE & SOMMERGEMÜSE</td>
+    <td style="padding:8px; font-weight:bold;">TOMATE & SOMMERGEMÜSE</td></td>
     <td style="padding:8px; font-weight:bold;">Pfanne, Topf & Schüssel</td>
   </tr>
   <tr>
