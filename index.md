@@ -7,7 +7,7 @@
 
 | <strong style="font-size:1,4em; display:block;">Pfanne</strong> | <strong style="font-size:1.4em; display:block;">Topf & Schüssel</strong> |
 | :--- | :--- |
-| TOMATE | TOMATE & SOMMERGEMÜSE |
+| TOMATE & SOMMERGEMÜSE | Pfanne, Topf & Schüssel |
 | [Tomaten-Schicht-Pfanne "Rustikale Art"](18-nudel-rusti.md) | [Spaghetti mit fruchtiger Wildkräuter-Bolo](46-spaghetti-f-bolo.md) |
 | [Tomaten-Schicht-Pfanne "Funghi Note"](18-nudel-funghi.md) | [Gemüse-Creme „Frühsommer“](08-gemuse-fsommer.md) |
 | [Tomaten-Schicht-Pfanne "Bayrische Art"](18-nudel-bayer.md) | [Zucchini-Paprika-Creme mit Leber](07-zupaleber.md) |
