@@ -202,3 +202,7 @@ Das sorgt für zwei Konsistenzen in einer Bowl und für das Umami sind nur klare
 Ungewöhnlich ist auch der Umgang mit den Nudeln: Sie werden bewusst vorgekocht verwendet. Das ist Meal-Prep und unterscheidet es von Rezepten, die Pasta frisch und separat kochen.  
 Serviert wird nicht als Pfanne mit Soße, sondern als Bowl-Prinzip - halb Pfanne, halb Suppe. Ohne Zwiebeln, ohne Knoblauch, mild und gut verträglich.  
 Ein Gericht rein pflanzlich und schnell auf dem Tisch.
+
+---
+[← Zurück zur Übersicht](index.md)
+
