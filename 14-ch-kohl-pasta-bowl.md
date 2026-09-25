@@ -27,7 +27,7 @@
     <td><img src="assets/14-china-pasta-bowl-03.jpg" alt="Schritt 2"></td>
     <td><img src="assets/14-china-pasta-bowl-04.jpg" alt="Schritt 3"></td>
     <td><img src="assets/14-china-pasta-bowl-05.jpg" alt="Schritt 4"></td>
-    <td><img src="assets/14-china-pasta-bowl-01.jpg" alt="Schritt 5"></td>
+    <td><img src="assets/14-china-pasta-bowl-06.jpg" alt="Schritt 5"></td>
   </tr>
 </table>
 
