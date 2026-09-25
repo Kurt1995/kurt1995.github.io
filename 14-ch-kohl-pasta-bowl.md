@@ -30,22 +30,27 @@
   </tr>
 </table>
 
-- Das Öl in die Pfanne geben.
-- Die Zwiebeln in dicke Scheiben schneiden und in der Pfanne anschmoren.
-- Die Champignons putzen, in kleine Würfel schneiden, dazugeben.
-- 7 bis 8 Minuten bei mittlerer Hitze mit Deckel schmoren / garen. Die Zwiebeln werden weich geschmort, die Pilze garen mit.
-- Öfter wenden. Wenn die Pfanne zu trocken wird, ein wenig Wasser zugeben.
-- Die aufgetauten Nudeln in der Mikrowelle vorwärmen (ca. 1 - 1,5 Minuten).
-- Wenn die Zwiebeln anfangen glasig zu werden, die Spaghetti hinzugeben.
-- Großzügig mit schwarzem Pfeffer würzen.
-- Noch ein wenig durchwärmen lassen und vom Feuer nehmen. (Bei Bedarf auf kleinster Stufe warmhalten.)
-- Auf einem vorgewärmten Teller servieren.
-- Genuss mit Zeit: Den Teller auf ein 2-flammiges Stövchen stellen. So bleibt das Gericht bis zum letzten Bissen heiß.
-- Am Tisch nach Geschmack mit Salz nachwürzen. Ich ergänze ein wenig Soja- und Teriyaki Sauce, von beiden ca. 30 Tropfen = 1,5 ml je Teller.
-- Tipp: Außerdem ein paar Tropfen (3 - 4) Apfelessig oder Balsamico dazu geben. Das hebt den Gesamtgeschmack – Ausprobieren. 
-<br>
+#### 1. Vorbereiten
+- Chinakohlblätter abzupfen. Die weißen, dicken Blattrippen würfeln, die grünen, zarten Blattanteile separat aufbewahren (siehe Zutatenbild).
+- Champignons klein würfeln.
+- 0,5 l Wasser mit 1 Brühwürfel aufkochen.
+#### 2. Braten
+- 3 EL Olivenöl in der Wok-Pfanne erhitzen.
+- Die gewürfelten weißen Blattrippen und die Champignons hineingeben, großzügig mit schwarzem Pfeffer würzen.
+- Bei mittlerer bis großer Hitze ca. 5 Min. brutzeln / schmoren, dabei öfter wenden.
+#### 3. Nudeln dazu
+- Die vorgekochten Spaghetti zugeben, mit Sojasauce besprenkeln.
+- Unterheben und mit Deckel weitere ca. 3 Min. schmoren lassen, zwischendurch mehrfach wenden.
+#### 4. Anrichten
+- Pfanne vom Feuer nehmen.
+- Eine Suppenschale zur Hälfte locker mit den rohen grünen Kohlblättern füllen.
+- Eine Portion vom Pfanneninhalt (Spaghetti, Pilze, Blattrippen) darauf legen.
+- Eine Kelle siedende Brühe darüber verteilen.
+#### 5. Servieren. 
+- Am Tisch vorsichtig durchmengen und bei Bedarf mit etwas Salz nachwürzen.
 
-![Fertiges Gericht](assets/02-zwiebel-pasta-09.jpg)
+<br>
+![Fertiges Gericht](assets/14-china-pasta-bowl-07.jpg)
 
 ---
 
