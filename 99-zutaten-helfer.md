@@ -7,12 +7,12 @@ Wer anders einkauft: Ähnliche Produkte gibt es in gut sortierten Supermärkten,
 ## Die Nudeln / Der Reis
 
 <table>
-  <tr>
-    <th><h3>Produkt</h3></th>
-    <th><h3>Produktfoto</h3></th>
-    <th><h3>Markt</h3></th>
-    <th><h3>Ungefährer Preis</h3></th>
-    <th><h3>Sensorische Beschreibung</h3></th>
+    <tr>
+    <td><h3>Produkt</h3></td>
+    <td><h3>Produktfoto</h3></td>
+    <td><h3>Markt</h3></td>
+    <td><h3>Ungefährer Preis</h3></td>
+    <td><h3>Sensorische Beschreibung</h3></td>
   </tr>
   <tr>
     <td><h4>Vollkorn Penne</h4></td>
@@ -55,11 +55,11 @@ Wer anders einkauft: Ähnliche Produkte gibt es in gut sortierten Supermärkten,
 
 <table>
   <tr>
-    <th><h3>Produkt</h3></th>
-    <th><h3>Produktfoto</h3></th>
-    <th><h3>Markt</h3></th>
-    <th><h3>Ungefährer Preis</h3></th>
-    <th><h3>Sensoriswche Beschreibung</h3></th>
+    <td><h3>Produkt</h3></td>
+    <td><h3>Produktfoto</h3></td>
+    <td><h3>Markt</h3></td>
+    <td><h3>Ungefährer Preis</h3></td>
+    <td><h3>Sensorische Beschreibung</h3></td>
   </tr>
   <tr>
     <td><h4>Schwarzer Pfeffer</h4></td>
