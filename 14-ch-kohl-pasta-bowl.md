@@ -48,8 +48,8 @@
 - Eine Kelle siedende Brühe darüber verteilen.
 #### 5. Servieren. 
 - Am Tisch vorsichtig durchmengen und bei Bedarf mit etwas Salz nachwürzen.
-
 <br>
+
 ![Fertiges Gericht](assets/14-china-pasta-bowl-07.jpg)
 
 ---
