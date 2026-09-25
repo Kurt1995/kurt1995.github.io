@@ -2,7 +2,7 @@
 
 ![Zutatenübersicht](assets/14-china-pasta-bowl-01.jpg)
 
-## Zutaten
+## Zutaten für 2 Portionen (4 Bolws)
 - 300 - 350 g Chinakohl (ca. 2/3 davon bestehen aus den weißen Blattrippen)
 - 125 g (Rohware) vorgekochte Spaghetti
 - ca. 100 g Champignons
@@ -72,46 +72,46 @@ Kurz gesagt: viel frisches Gemüse, wenig Fett, viel Geschmack.
 <table style="width: 800px; border-collapse: collapse; font-family: sans-serif;">
   <thead>
     <tr style="border-bottom: 2px solid #000;">
-      <th style="width: 170px; text-align: left; padding: 8px; border: 1px solid #000;">Nährstoff</th>
-      <th style="width: 170px; text-align: center; padding: 8px; border: 1px solid #000;">Menge</th>
+      <th style="width: 170px; text-align: left; padding: 8px; border: 1px solid #000;">Makro Nährstoffe</th>
+      <th style="width: 170px; text-align: center; padding: 8px; border: 1px solid #000;">Menge gesamt</th>
       <th style="text-align: left; padding: 8px; border: 1px solid #000;">Anmerkung</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td style="padding: 8px; border: 1px solid #000;">Kalorien</td>
-      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 1300 kcal</td>
-      <td style="padding: 8px; border: 1px solid #000;">Hauptenergie aus Öl + Nudeln</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 900 kcal</td>
+      <td style="padding: 8px; border: 1px solid #000;">500 kcal Pasta + 300 kcal Öl + Rest Gemüse/Brühe</td>
     </tr>
     <tr>
       <td style="padding: 8px; border: 1px solid #000;">Eiweiß</td>
-      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 30 g</td>
-      <td style="padding: 8px; border: 1px solid #000;">Hauptsächlich aus Spaghetti und Pilzen</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 20 - 23 g</td>
+      <td style="padding: 8px; border: 1px solid #000;">Hauptsächlich Nudeln + Pilze + Chinakohl</td>
     </tr>
     <tr>
       <td style="padding: 8px; border: 1px solid #000;">Kohlenhydrate</td>
-      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 190 - 195 g</td>
-      <td style="padding: 8px; border: 1px solid #000;">Fast komplett aus den Nudeln und Zwiebeln</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 80 g</td>
+      <td style="padding: 8px; border: 1px solid #000;">Fast nur aus den 120g Pasta</td>
     </tr>
     <tr>
       <td style="padding: 8px; border: 1px solid #000;">davon Zucker</td>
-      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 35 - 40 g</td>
-      <td style="padding: 8px; border: 1px solid #000;">Natürlicher Fruchtzucker der Zwiebeln, dazu etwas aus Teriyaki</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 8 g</td>
+      <td style="padding: 8px; border: 1px solid #000;">Natürlich aus Chinakohl</td>
     </tr>
     <tr>
       <td style="padding: 8px; border: 1px solid #000;">Fett (gesamt)</td>
-      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 45 g</td>
-      <td style="padding: 8px; border: 1px solid #000;">Überwiegend aus dem Öl</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 30 g</td>
+      <td style="padding: 8px; border: 1px solid #000;">27g aus 3 EL Öl + ca. 3g aus Pasta/Pilzen/Chinakohl</td>
     </tr>
     <tr>
       <td style="padding: 8px; border: 1px solid #000;">Gesättigte Fettsäuren</td>
-      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 6 g</td>
-      <td style="padding: 8px; border: 1px solid #000;">Aus dem Olivenöl (überwiegend einfach ungesättigt)</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 4,5 g</td>
+      <td style="padding: 8px; border: 1px solid #000;">Überwiegend aus Olivenöl</td>
     </tr>
     <tr>
       <td style="padding: 8px; border: 1px solid #000;">Ballaststoffe</td>
-      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 20 - 23 g</td>
-      <td style="padding: 8px; border: 1px solid #000;">Aus Zwiebeln, Pilzen und Nudeln</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 8 - 10 g</td>
+      <td style="padding: 8px; border: 1px solid #000;">Chinakohl + Pilze + Pasta</td>
     </tr>
   </tbody>
 </table>
@@ -121,65 +121,84 @@ Kurz gesagt: viel frisches Gemüse, wenig Fett, viel Geschmack.
 <table style="width: 800px; border-collapse: collapse; font-family: sans-serif;">
   <thead>
     <tr style="border-bottom: 2px solid #000;">
-      <th style="width: 170px; text-align: left; padding: 8px; border: 1px solid #000;">Nährstoff</th>
-      <th style="width: 170px; text-align: center; padding: 8px; border: 1px solid #000;">Menge</th>
-      <th style="text-align: left; padding: 8px; border: 1px solid #000;">Anmerkung</th>
+      <th style="width: 170px; text-align: left; padding: 8px; border: 1px solid #000;">Mikro Nährstoffe</th>
+      <th style="width: 130px; text-align: center; padding: 8px; border: 1px solid #000;">Menge gesamt</th>
+      <th style="width: 170px; text-align: center; padding: 8px; border: 1px solid #000;">Deckungsbeitrag / Tag</th>
+      <th style="text-align: left; padding: 8px; border: 1px solid #000;">Quelle / Hinweis</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="padding: 8px; border: 1px solid #000;">Vitamin B2 (Riboflavin)</td>
-      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 0,6 mg</td>
-      <td style="padding: 8px; border: 1px solid #000;">Aus den Champignons – wichtig für den Energiestoffwechsel</td>
+      <td style="padding: 8px; border: 1px solid #000;">Vitamin C</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 70 mg</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 90 %</td>
+      <td style="padding: 8px; border: 1px solid #000;">aus 300g Chinakohl, grüne Blätter fast roh belassen</td>
     </tr>
     <tr>
-      <td style="padding: 8px; border: 1px solid #000;">Vitamin B3 (Niacin)</td>
-      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 8 mg</td>
-      <td style="padding: 8px; border: 1px solid #000;">Aus Pilzen und Nudeln – unterstützt das Nervensystem</td>
+      <td style="padding: 8px; border: 1px solid #000;">Vitamin A (Beta-Carotin)</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 0,3 mg</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 35 %</td>
+      <td style="padding: 8px; border: 1px solid #000;">aus Chinakohl, wenig aus Champignons</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #000;">Vitamin B12</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 0 µg</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">0 % - veganes Gericht</td>
+      <td style="padding: 8px; border: 1px solid #000;"></td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #000;">Vitamin B6</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 0,7 mg</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 50 %</td>
+      <td style="padding: 8px; border: 1px solid #000;">Champignons, Chinakohl, Nudeln, Sojasauce</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #000;">Folat (B9)</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 250 µg</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 125 %</td>
+      <td style="padding: 8px; border: 1px solid #000;">überwiegend Chinakohl, Rest Pilze + Nudeln</td>
     </tr>
     <tr>
       <td style="padding: 8px; border: 1px solid #000;">Kalium</td>
-      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 1100 mg</td>
-      <td style="padding: 8px; border: 1px solid #000;">Reichlich in Zwiebeln und Pilzen – wichtig für den Blutdruck</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 1300 mg</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 65 %</td>
+      <td style="padding: 8px; border: 1px solid #000;">Chinakohl + Champignons + Brühe/Sojasauce</td>
     </tr>
     <tr>
-      <td style="padding: 8px; border: 1px solid #000;">Selen</td>
-      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 30 µg</td>
-      <td style="padding: 8px; border: 1px solid #000;">Champignons sind eine gute pflanzliche Selenquelle</td>
+      <td style="padding: 8px; border: 1px solid #000;">Magnesium</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 120 mg</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 32 %</td>
+      <td style="padding: 8px; border: 1px solid #000;">Nudeln, Chinakohl, Champignons</td>
     </tr>
     <tr>
-      <td style="padding: 8px; border: 1px solid #000;">Kupfer</td>
-      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 0,7 mg</td>
-      <td style="padding: 8px; border: 1px solid #000;">Aus den Pilzen – wichtig für Zellschutz und Eisenstoffwechsel</td>
+      <td style="padding: 8px; border: 1px solid #000;">Zink</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 2,5 mg</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 25 %</td>
+      <td style="padding: 8px; border: 1px solid #000;">Nudeln + Champignons + Chinakohl</td>
     </tr>
     <tr>
-      <td style="padding: 8px; border: 1px solid #000;">Natrium</td>
-      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 300 mg</td>
-      <td style="padding: 8px; border: 1px solid #000;">Aus Soja- und Teriyaki Sauce</td>
+      <td style="padding: 8px; border: 1px solid #000;">Lycopin</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">entfällt</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;"></td>
+      <td style="padding: 8px; border: 1px solid #000;"></td>
     </tr>
   </tbody>
 </table>
 
-#### Hinweis zu Vitamin B12:
-Dieses rein pflanzliche Gericht enthält naturgemäß kein Vitamin B12.  
-Da B12 wichtig für Nerven und Blutbildung ist und im Alter oft schlechter aufgenommen wird, sollte es bei überwiegend pflanzlicher Ernährung über andere Quellen (z.B. Fleisch, 
-Fisch, Eier, Milchprodukte) oder nach ärztlicher Rücksprache ergänzt werden.
-
 ---
 
 ## Kurt's Praxis-Check: So schmeckt es dann
-Ungewohnt, sehr ungewohnt – bei jedem Gabelwickel (Zwiebel zuerst, Nudeln davor) erreichen die Spaghetti zuerst Zunge und Gaumen.  
-Aber dann übernehmen die Zwiebeln mit aller Macht. Sie sind noch bissfest und breiten einen stark gemüse-süßen Geschmack aus.  
-Später dann, wenn nur noch ein paar Pilzstücke auf dem Teller übrig sind und solo auf den Löffel wandern, wird erkennbar, dass sie die ganze Zeit mitgespielt haben.  
-Soja und Teriyaki Sauce haben ebenfalls einen zusätzlichen Grundgeschmack geliefert.  
-Die drei Tropfen Essig je Teller machen diesen Grundgeschmack heller und helfen den Nudeln und den Pilzen gegen die übermächtigen Zwiebeln.  
-Praxistipp: Wer die Zwiebeln weniger dominant mag, reduziert ihre Menge auf 300 - 400 g und lässt sie noch ein wenig länger schmoren.
+Frisch, Pasta, Gemüse, Brühe – das kunktioniert ja richtig gut.  
+Ich kaue die Nudeln und es knackt. Da mischt sich leichter Kohlgeschmack ein - ja - gerne.  
+Wo bleiben die anderen Sachen?  
+Ich nehme einen Löffel Brühe mit ein paar Pilz- und weißen Blattstückchen. Ah, die waren da, aber nur im Hintergrund – gut so.  
+Das wird ein leckerer Mittag. 
 
 ---
 
-## Zusammenfassung von Mitautorin Qwen Studio:
-Dieses Rezept beweist, dass Experimentierfreude in der Küche belohnt wird: Die mutige Kombination aus mediterranen und asiatischen Aromen funktioniert – dank des Essig-Tricks – überraschend gut.  
-Besonders hervorzuheben ist die pragmatische Meal-Prep-Strategie, die das Gericht auch unter der Woche schnell verfügbar macht.  
-Mit rund 600 kcal pro Portion, einem hohen Ballaststoffgehalt und der Power aus Zwiebeln und Pilzen ist dies eine sättigende, nährstoffreiche Mahlzeit.  
-Der authentische Praxistest mit den Anpassungstipps macht das Rezept zuverlässig nachkochbar.  
-Ein gelungenes Beispiel dafür, wie Alltagsküche gesund, günstig und geschmackvoll sein kann.
+## Zusammenfassung von Mitautorin META:
+Besonderheit dieses Rezepts ist die Rolle des Chinakohls: nicht Beilage, sondern Hauptzutat. Weiße Rippen und grüne Blätter werden getrennt zubereitet - die Rippen kurz gebraten, die Blätter erst am Ende mit heißer Brühe übergossen.  
+Das sorgt für zwei Konsistenzen in einer Bowl und für das Umami sind nur klare Brühe, frische Champignons, die weißen Blattrippen und ein wenig Sojasauce verantwortlich. Mit 3 EL Öl für die gesamte Menge und nur 120 g Pasta bleibt es leicht.  
+Ungewöhnlich ist auch der Umgang mit den Nudeln: Sie werden bewusst vorgekocht verwendet. Das ist Meal-Prep und unterscheidet es von Rezepten, die Pasta frisch und separat kochen.  
+Serviert wird nicht als Pfanne mit Soße, sondern als Bowl-Prinzip - halb Pfanne, halb Suppe. Ohne Zwiebeln, ohne Knoblauch, mild und gut verträglich.  
+Ein Gericht rein pflanzlich und schnell auf dem Tisch.
