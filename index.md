@@ -5,7 +5,7 @@
 
 ---
 
-| <strong style="font-size:1,4em; display:block;">Pfanne</strong> | <strong style="font-size:1.4em; display:block;">Teller · Topf · Schüssel · Grill</strong> |
+| <strong style="font-size:1,4em; display:block;">Pfanne</strong> | <strong style="font-size:1.4em; display:block;">Topf & Schüssel</strong> |
 | :--- | :--- |
 | TOMATE | TOMATE & SOMMERGEMÜSE |
 | [Tomaten-Schicht-Pfanne "Rustikale Art"](18-nudel-rusti.md) | [Spaghetti mit fruchtiger Wildkräuter-Bolo](46-spaghetti-f-bolo.md) |
@@ -15,7 +15,7 @@
 | [Tomaten-Schicht-Pfanne "Lasagne Art"](18-nudel-lasag.md) | [Spargel al dente](25-spargel-aldente.md) |
 | [Tomaten-Schicht-Pfanne "Asia Note"](18-nudel-asia.md) | [Opa Salat](06-opa-salat.md) |
 | &nbsp; | &nbsp; |
-| ZUCCHINI, PAPRIKA, PILZE, & ZWIEBEL | auch Pfanne |
+| ZUCCHINI, PAPRIKA, PILZE, & ZWIEBEL | Pfanne & Topf |
 | [Zucchini Pasta](02-zucchini-pasta.md) | [Zwiebel Pasta](02-zwiebel-pasta.md) |
 | [Zucchini-Nudel Pfanne](24-zucch-nudel.md) | [Paprikapfanne mit Reis und Ei](11-papr-reis-ei.md) |
 | [Bunte Pilzpfanne](03-bunte-pilzpfanne.md) | [Chinakohl-Spaghetti-Bowl mit Brühe](14-ch-kohl-pasta-bowl.md) |
