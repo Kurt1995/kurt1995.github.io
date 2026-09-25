@@ -48,6 +48,7 @@
 - Eine Kelle siedende Brühe darüber verteilen.
 #### 5. Servieren. 
 - Am Tisch vorsichtig durchmengen und bei Bedarf mit etwas Salz nachwürzen.
+- Tipp: Ein Stövchen hält die Bowl warm und ermöglicht ein langsames, entspanntes Essen.
 <br>
 
 ![Fertiges Gericht](assets/14-china-pasta-bowl-07.jpg)
