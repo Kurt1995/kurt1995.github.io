@@ -188,7 +188,7 @@ Kurz gesagt: viel frisches Gemüse, wenig Fett, viel Geschmack.
 ---
 
 ## Kurt's Praxis-Check: So schmeckt es dann
-Frisch, Pasta, Gemüse, Brühe – das kunktioniert ja richtig gut.  
+Frisch, Pasta, Gemüse, Brühe – das funktioniert ja richtig gut.  
 Ich kaue die Nudeln und es knackt. Da mischt sich leichter Kohlgeschmack ein – ja – gerne.  
 Wo bleiben die anderen Sachen?  
 Ich nehme einen Löffel Brühe mit ein paar Pilz- und weißen Blattstückchen. Ah, die waren da, aber nur im Hintergrund – gut so.  
