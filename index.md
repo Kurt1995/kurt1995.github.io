@@ -23,7 +23,7 @@
 | [Gemüsepfanne mit Reis](11-gemmitreis.md) |[Deftige Kartoffelsuppe](05-deftige-ksuppe.md) |
 | [Gemüsepfanne mit Nudeln](13-zwiebel-nudel-pf.md) | [Senioren Sport-Suppe](17-senior-sport-suppe.md) |
 | &nbsp; | &nbsp; |
-| KOHL & WINTERGEMÜSE | KOHL & WINTERGEMÜSE |
+| KOHL & WINTERGEMÜSE | Pfanne & Topf |
 | [Leichte Brokkoli-Pfanne](04-brokkolipfanne.md) | [Verlorenes Ei in Winter-Tomate](15-ei-in-wtomate.md) |
 | [Deftige Brokkoli-Pfanne](44-deftig-b-pfanne.md) | [Nudeln in Winter-Tomate](08-nudelinwt.md) |
 | [Blumenkohl Pfanne](09-bkohlpf.md) | &nbsp; |
