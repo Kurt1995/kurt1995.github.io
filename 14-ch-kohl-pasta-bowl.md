@@ -142,9 +142,9 @@ Kurz gesagt: viel frisches Gemüse, wenig Fett, viel Geschmack.
     </tr>
     <tr>
       <td style="padding: 8px; border: 1px solid #000;">Vitamin B12</td>
-      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 0 µg</td>
-      <td style="text-align: center; padding: 8px; border: 1px solid #000;">0 % - veganes Gericht</td>
-      <td style="padding: 8px; border: 1px solid #000;"></td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">--</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;"></td>
+      <td style="padding: 8px; border: 1px solid #000;">veganes Gericht</td>
     </tr>
     <tr>
       <td style="padding: 8px; border: 1px solid #000;">Vitamin B6</td>
@@ -176,13 +176,7 @@ Kurz gesagt: viel frisches Gemüse, wenig Fett, viel Geschmack.
       <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 25 %</td>
       <td style="padding: 8px; border: 1px solid #000;">Nudeln + Champignons + Chinakohl</td>
     </tr>
-    <tr>
-      <td style="padding: 8px; border: 1px solid #000;">Lycopin</td>
-      <td style="text-align: center; padding: 8px; border: 1px solid #000;">entfällt</td>
-      <td style="text-align: center; padding: 8px; border: 1px solid #000;"></td>
-      <td style="padding: 8px; border: 1px solid #000;"></td>
-    </tr>
-  </tbody>
+ </tbody>
 </table>
 
 ---
