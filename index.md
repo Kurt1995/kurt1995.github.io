@@ -13,8 +13,7 @@
 | [Tomaten-Schicht-Pfanne "Bayrische Art"](18-nudel-bayer.md) | [Zucchini-Paprika-Creme mit Leber](07-zupaleber.md) |
 | [Tomaten-Schicht-Pfanne "Provenzalische Art"](18-nudel-provenz.md) | [Tomaten-Topf mit Huhn](45-tomate-huhn.md) |
 | [Tomaten-Schicht-Pfanne "Lasagne Art"](18-nudel-lasag.md) | [Spargel al dente](25-spargel-aldente.md) |
-| [Tomaten-Schicht-Pfanne "Asia Note"](18-nudel-asia.md) | &nbsp; |
-| &nbsp; | [Opa Salat](06-opa-salat.md) |
+| [Tomaten-Schicht-Pfanne "Asia Note"](18-nudel-asia.md) | [Opa Salat](06-opa-salat.md) |
 | ZUCCHINI, PAPRIKA, PILZE, & ZWIEBEL | WEITERE *auch Pfanne* |
 | [Zucchini Pasta](02-zucchini-pasta.md) | [Zwiebel Pasta](02-zwiebel-pasta.md) |
 | [Zucchini-Nudel Pfanne](24-zucch-nudel.md) | [Paprikapfanne mit Reis und Ei](11-papr-reis-ei.md) |
