@@ -101,14 +101,15 @@ Wer anders einkauft: Ähnliche Produkte gibt es in gut sortierten Supermärkten,
     <td>ca. 15,00 € je Messer (incl. Versand)</td>
     <td>RÖR Solingen<br>noch nach Jahren gefährlich scharf</td>
   </tr>
-   <tr>
-  <td><h4>Gemüse Hobel</h4></td>
+  <tr>
+    <td><h4>Gemüse Hobel</h4></td>
     <td style="text-align:center"><img src="assets/99-roesle-hobel.jpg" alt="Hobel" width="80"></td>
     <td>Verschiedene</td>
     <td>ca. 50,00 € </td>
     <td>Rösle Gemüsehobel<br>scharf, stabil und liegt perfekt<br>auf Töpfen oder Pfannen</td>
   </tr>
-  <td><h4>Stövchen</h4></td>
+  <tr>
+    <td><h4>Stövchen</h4></td>
     <td style="text-align:center"><img src="assets/99-stoevchen.jpg" alt="Stövchen" width="80"></td>
     <td>Amazon</td>
     <td>ca. 10,00 € </td>
