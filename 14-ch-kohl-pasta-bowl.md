@@ -62,9 +62,8 @@ Chinakohl besteht zum größten Teil aus Wasser, liefert Ballaststoffe und ist v
 #### Umami statt Fett:
 Der Geschmack kommt nicht aus Öl oder Sahne, sondern aus Pilzen, Sojasauce und klarer Brühe. So entsteht Würze mit sehr wenig zusätzlichem Fett. 
 #### Clever mit Meal-Prep:
-Die Spaghetti sind bewusst vorgekocht. Durch das Abkühlen entsteht widerstandsfähigere Stärke, die zusammen mit dem Gemüse länger satt macht und den Blutzucker-Anstieg abflacht.
-#### Brühe als Trick:
-Die heiße Brühe gart die grünen Blätter nur kurz an. Es entsteht eine Suppe und eine Pfanne in einem, ohne extra Kalorien durch Soßen.<br><br>
+Die Spaghetti sind bewusst vorgekocht. Durch das Abkühlen entsteht widerstandsfähigere Stärke, die zusammen mit dem Gemüse länger satt macht und den Blutzucker-Anstieg abflacht.  
+<b>Brühe als Trick:</b> Die heiße Brühe gart die grünen Blätter nur kurz an. Es entsteht eine Suppe und eine Pfanne in einem, ohne extra Kalorien durch Soßen.<br><br>
 Kurz gesagt: viel frisches Gemüse, wenig Fett, viel Geschmack.
 
 ---
