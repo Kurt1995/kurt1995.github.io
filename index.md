@@ -36,8 +36,7 @@
     <td style="padding:6px 8px;"><a href="18-nudel-asia.md">Tomaten-Schicht-Pfanne "Asia Note"</a></td>
     <td style="padding:6px 8px;"><a href="06-opa-salat.md">Opa Salat</a></td>
   </tr>
-  <tr><td style="padding:12px;" colspan="2">&nbsp;</td></tr>
-
+  
   <!-- ZUCCHINI ... -->
   <tr>
     <td style="padding:8px; font-weight:bold;">ZUCCHINI, PAPRIKA, PILZE, & ZWIEBEL</td>
@@ -67,8 +66,7 @@
     <td style="padding:6px 8px;"><a href="13-zwiebel-nudel-pf-md">Gemüsepfanne mit Nudeln</a></td>
     <td style="padding:6px 8px;"><a href="17-senior-sport-suppe.md">Senioren Sport-Suppe</a></td>
   </tr>
-  <tr><td style="padding:12px;" colspan="2">&nbsp;</td></tr>
-
+ 
   <!-- KOHL & WINTERGEMÜSE -->
   <tr>
     <td style="padding:8px; font-weight:bold;">KOHL & WINTERGEMÜSE</td>
