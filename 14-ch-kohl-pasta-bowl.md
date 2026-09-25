@@ -55,14 +55,17 @@
 
 ---
 
-## Qwen Studio’s Gesundheits-Check: Warum dieses Gericht punktet
-- Zwiebel-Power für den Darm: Gemüsezwiebeln sind echte Gesundheitsbomben. Sie liefern viel Quercetin (ein starkes Antioxidans mit entzündungshemmender Wirkung) sowie Präbiotika wie Inulin. Das dient als Futter für die guten Darmbakterien.
-- Pilze für den Stoffwechsel: Champignons stecken voller B-Vitamine (wichtig für den Energiestoffwechsel und das Nervensystem) und liefern mit Ergothionein einen wertvollen Zellschutz.
-- Gute Fette & Vitaminaufnahme: Das native Olivenöl extra liefert gesunde, einfach ungesättigte Fettsäuren. Das Fett hilft dem Körper gleichzeitig, die fettlöslichen Vitamine aus dem Gemüse besser aufzunehmen.
-- Blutzucker-Friendly: Der Schuss Apfelessig oder Balsamico ist nicht nur ein Geschmacksträger. Essigsäure kann helfen, den Blutzuckerspiegel nach der Mahlzeit stabiler zu halten und das Sättigungsgefühl zu verlängern.
-- Kalorienbewusst & sättigend: Trotz der großen Gemüsemenge bleibt das Gericht kalorienarm. Die vielen Ballaststoffe aus den Zwiebeln und Pilzen sorgen für eine langanhaltende Sättigung ohne das typische "Nudel-Koma".
-
-Ein kleiner Hinweis: Soja- und Teriyakisauce bringen viel Umami, aber auch Natrium mit. Wer auf den Salzgehalt achtet, sollte das Nachsalzen mit der Salzstreuer erst einmal weglassen und nur mit den Saucen abschmecken.
+## META's Gesundheits-Check: Warum dieses Gericht punktet
+Dieses Gericht punktet, weil es leicht und sättigend ist, ohne viel Fett oder Salz mitzubringen.  
+#### Viel Volumen, wenig Last:
+Chinakohl besteht zum größten Teil aus Wasser, liefert Ballaststoffe und ist von Natur aus mild und gut verträglich. Durch die Trennung weißer Rippen gebraten und grüner Blätter fast roh bleiben Biss und Vitamine erhalten.
+#### Umami statt Fett:
+Der Geschmack kommt nicht aus Öl oder Sahne, sondern aus Pilzen, Sojasauce und klarer Brühe. So entsteht Würze mit sehr wenig zusätzlichem Fett. 
+#### Clever mit Meal-Prep:
+Die Spaghetti sind bewusst vorgekocht. Durch das Abkühlen entsteht widerstandsfähigere Stärke, die zusammen mit dem Gemüse länger satt macht und den Blutzucker-Anstieg abflacht.
+#### Brühe als Trick:
+Die heiße Brühe gart die grünen Blätter nur kurz an. Es entsteht eine Suppe und eine Pfanne in einem, ohne extra Kalorien durch Soßen.<br><br>
+Kurz gesagt: viel frisches Gemüse, wenig Fett, viel Geschmack.
 
 ---
 
