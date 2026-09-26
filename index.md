@@ -13,11 +13,11 @@
     <td style="padding:8px; font-weight:bold;">Pfanne, Topf & Schüssel</td>
   </tr>
   <tr>
-    <td style="padding:6px 8px;"><a href="18-nudel-rusti.md">Tomaten-Schicht-Pfanne "Rustikale Art"</a></td>
+    <td style="padding:6px 8px;"><a href="18-nudel-rusti.html">Tomaten-Schicht-Pfanne "Rustikale Art"</a></td>
     <td style="padding:6px 8px;"><a href="46-spaghetti-f-bolo.md">Spaghetti mit fruchtiger Wildkräuter-Bolo</a></td>
   </tr>
   <tr>
-    <td style="padding:6px 8px;"><a href="18-nudel-funghi.md">Tomaten-Schicht-Pfanne "Funghi Note"</a></td>
+    <td style="padding:6px 8px;"><a href="18-nudel-funghi.html">Tomaten-Schicht-Pfanne "Funghi Note"</a></td>
     <td style="padding:6px 8px;"><a href="08-gemuese-fsommer.md">Gemüse-Creme „Frühsommer“</a></td>
   </tr>
   <tr>
