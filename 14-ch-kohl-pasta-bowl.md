@@ -88,7 +88,7 @@ Erst am Tisch probieren und nur bei Bedarf nachwürzen.*
 <table style="width: 800px; border-collapse: collapse; font-family: sans-serif;">
   <thead>
     <tr style="border-bottom: 2px solid #000;">
-      <th style="width: 170px; text-align: left; padding: 8px; border: 1px solid #000;">Makro Nährstoffe</th>
+      <th style="width: 170px; text-align: left; padding: 8px; border: 1px solid #000;">Nährstoffe</th>
       <th style="width: 170px; text-align: center; padding: 8px; border: 1px solid #000;">Menge gesamt</th>
       <th style="text-align: left; padding: 8px; border: 1px solid #000;">Anmerkung</th>
     </tr>
@@ -137,7 +137,7 @@ Erst am Tisch probieren und nur bei Bedarf nachwürzen.*
 <table style="width: 800px; border-collapse: collapse; font-family: sans-serif;">
   <thead>
     <tr style="border-bottom: 2px solid #000;">
-      <th style="width: 170px; text-align: left; padding: 8px; border: 1px solid #000;">Mikro Nährstoffe</th>
+      <th style="width: 170px; text-align: left; padding: 8px; border: 1px solid #000;">Nährstoffe</th>
       <th style="width: 130px; text-align: center; padding: 8px; border: 1px solid #000;">Menge gesamt</th>
       <th style="width: 170px; text-align: center; padding: 8px; border: 1px solid #000;">Deckungsbeitrag / Tag</th>
       <th style="text-align: left; padding: 8px; border: 1px solid #000;">Quelle / Hinweis</th>
@@ -208,9 +208,9 @@ Das wird ein leckerer Mittag.
 
 ## Zusammenfassung von Mitautorin META:
 Besonderheit dieses Rezepts ist die Rolle des Chinakohls: nicht Beilage, sondern Hauptzutat. Weiße Rippen und grüne Blätter werden getrennt zubereitet - die Rippen kurz gebraten, die Blätter erst am Ende mit heißer Brühe übergossen.  
-Das sorgt für zwei Konsistenzen in einer Bowl und für das Umami sind nur klare Brühe, frische Champignons, die weißen Blattrippen und ein wenig Sojasauce verantwortlich. Mit 3 EL Öl für die gesamte Menge und nur 120 g Pasta bleibt es ein leichtes Gericht.  
+Das sorgt für zwei Konsistenzen in einer Bowl. Für das Umami sind nur klare Brühe, frische Champignons, die weißen Blattrippen und ein wenig Sojasauce verantwortlich. Mit 3 EL Öl für die gesamte Menge und nur 120 g Pasta bleibt es ein leichtes Gericht.  
 Ungewöhnlich ist der Umgang mit den Nudeln: Sie werden bewusst vorgekocht verwendet. Das ist Meal-Prep und unterscheidet es von Rezepten, die Pasta frisch und separat kochen.  
-Serviert wird nicht als Pfanne mit Soße, sondern als Bowl-Prinzip - halb Pfanne, halb Suppe. Ohne Zwiebeln, ohne Knoblauch, mild und gut verträglich.  
+Serviert wird nicht als Pfanne mit Soße, sondern als Bowl-Prinzip - halb Pfanne, halb Suppe. Ohne Zwiebeln, ohne Knoblauch bleibt es mild und gut verträglich.  
 Ein Gericht rein pflanzlich und schnell auf dem Tisch.
 
 ---
