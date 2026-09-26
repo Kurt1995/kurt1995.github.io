@@ -21,6 +21,14 @@
 
 ### Zubereitung am Verzehrtag
 
+<b>1. Vorbereiten</b>  
+- Chinakohlblätter abzupfen. Die weißen, dicken Blattrippen würfeln.  
+- Die grünen, zarten Blattanteile separat aufbewahren (siehe Zutatenbild).  
+- Champignons klein würfeln.  
+- 500 ml Wasser mit 1 Brühwürfel aufkochen.
+
+<b>2. Braten</b>  
+
 <table>
   <tr>
     <td><img src="assets/14-china-pasta-bowl-02.jpg" alt="Schritt 1"></td>
@@ -30,22 +38,13 @@
   </tr>
 </table>
 
-<b>1. Vorbereiten</b>  
-- Chinakohlblätter abzupfen. Die weißen, dicken Blattrippen würfeln.  
-- Die grünen, zarten Blattanteile separat aufbewahren (siehe Zutatenbild).  
-- Champignons klein würfeln.  
-- 500 ml Wasser mit 1 Brühwürfel aufkochen.
-
-<b>2. Braten</b>  
 - 3 EL Olivenöl in der Wok-Pfanne erhitzen.  
 - Die gewürfelten weißen Blattrippen und die Champignons hineingeben, großzügig mit schwarzem Pfeffer würzen.  
 - Bei mittlerer bis großer Hitze ca. 5 Min. brutzeln/schmoren, dabei öfter wenden.
-
-<b>3. Nudeln dazu</b>  
 - Die vorgekochten Spaghetti zugeben, mit Sojasauce besprenkeln.  
 - Unterheben und mit Deckel weitere ca. 3 Min. schmoren lassen, zwischendurch mehrfach wenden.  
 
-<b>4. Anrichten</b><br>
+<b>3. Anrichten</b><br>
 
 <table>
   <tr>
@@ -57,11 +56,11 @@
 </table>
 
 - Pfanne vom Feuer nehmen.  
-- Eine Suppenschale zur Hälfte locker mit den rohen grünen Kohlblättern füllen.  
+- Eine Suppenschale zur Hälfte locker mit den rohen, grünen Kohlblättern füllen.  
 - Eine Portion vom Pfanneninhalt (Spaghetti, Pilze, Blattrippen) darauf legen.  
 - Eine Kelle siedende Brühe darüber verteilen.
 
-<b>5. Servieren.</b>  
+<b>4. Servieren.</b>  
 - Am Tisch vorsichtig durchmengen.  
 <br>
 
