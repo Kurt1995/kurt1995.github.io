@@ -77,8 +77,8 @@ Dieses Gericht punktet, weil es leicht und sättigend ist.
 Kurz gesagt: viel frisches Gemüse, wenig Fett, viel Geschmack.
 
 ### *Hinweis zum Salz*
-Brühwürfel und Sojasauce bringen bereits eine kräftige Grundwürze mit. Deshalb wird beim Braten kein zusätzliches Salz verwendet.  
-Erst am Tisch probieren und nur bei Bedarf nachwürzen.
+*Brühwürfel und Sojasauce bringen bereits eine kräftige Grundwürze mit. Deshalb wird beim Braten kein zusätzliches Salz verwendet.  
+Erst am Tisch probieren und nur bei Bedarf nachwürzen.*
 
 ---
 
