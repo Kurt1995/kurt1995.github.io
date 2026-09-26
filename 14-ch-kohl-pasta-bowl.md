@@ -70,12 +70,16 @@
 ---
 
 ## META's Gesundheits-Check: Warum dieses Gericht punktet
-Dieses Gericht punktet, weil es leicht und sättigend ist, ohne viel Fett oder Salz mitzubringen.  
+Dieses Gericht punktet, weil es leicht und sättigend ist.  
 <b>Viel Volumen, wenig Last:</b> Chinakohl besteht zum größten Teil aus Wasser, liefert Ballaststoffe und ist von Natur aus mild und gut verträglich. Durch die Trennung weißer Rippen gebraten und grüner Blätter fast roh bleiben Biss und Vitamine erhalten.  
 <b>Umami statt Fett:</b> Der Geschmack kommt nicht aus Öl oder Sahne, sondern aus Pilzen, Sojasauce und klarer Brühe. So entsteht Würze mit sehr wenig zusätzlichem Fett.  
 <b>Clever mit Meal-Prep:</b> Die Spaghetti sind bewusst vorgekocht. Durch das Abkühlen entsteht widerstandsfähigere Stärke, die zusammen mit dem Gemüse länger satt macht und den Blutzucker-Anstieg abflacht.  
 <b>Brühe als Trick:</b> Die heiße Brühe gart die grünen Blätter nur kurz an. Es entsteht eine Suppe und eine Pfanne in einem, ohne extra Kalorien durch Soßen.<br>
 Kurz gesagt: viel frisches Gemüse, wenig Fett, viel Geschmack.
+
+### *Hinweis zum Salz*
+Brühwürfel und Sojasauce bringen bereits eine kräftige Grundwürze mit. Deshalb wird beim Braten kein zusätzliches Salz verwendet.  
+Erst am Tisch probieren und nur bei Bedarf nachwürzen.
 
 ---
 
