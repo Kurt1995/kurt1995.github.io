@@ -31,28 +31,41 @@
 </table>
 
 <b>1. Vorbereiten</b>  
-    - Chinakohlblätter abzupfen. Die weißen, dicken Blattrippen würfeln.  
-    - Die grünen, zarten Blattanteile separat aufbewahren (siehe Zutatenbild).  
-    - Champignons klein würfeln.  
-    - 500 ml Wasser mit 1 Brühwürfel aufkochen.  
+- Chinakohlblätter abzupfen. Die weißen, dicken Blattrippen würfeln.  
+- Die grünen, zarten Blattanteile separat aufbewahren (siehe Zutatenbild).  
+- Champignons klein würfeln.  
+- 500 ml Wasser mit 1 Brühwürfel aufkochen.
+
 <b>2. Braten</b>  
-    - 3 EL Olivenöl in der Wok-Pfanne erhitzen.  
-    - Die gewürfelten weißen Blattrippen und die Champignons hineingeben, großzügig mit schwarzem Pfeffer würzen.  
-    - Bei mittlerer bis großer Hitze ca. 5 Min. brutzeln/schmoren, dabei öfter wenden.  
+- 3 EL Olivenöl in der Wok-Pfanne erhitzen.  
+- Die gewürfelten weißen Blattrippen und die Champignons hineingeben, großzügig mit schwarzem Pfeffer würzen.  
+- Bei mittlerer bis großer Hitze ca. 5 Min. brutzeln/schmoren, dabei öfter wenden.
+
 <b>3. Nudeln dazu</b>  
-    - Die vorgekochten Spaghetti zugeben, mit Sojasauce besprenkeln.  
-    - Unterheben und mit Deckel weitere ca. 3 Min. schmoren lassen, zwischendurch mehrfach wenden.  
-<b>4. Anrichten</b>  
-    - Pfanne vom Feuer nehmen.  
-    - Eine Suppenschale zur Hälfte locker mit den rohen grünen Kohlblättern füllen.  
-    - Eine Portion vom Pfanneninhalt (Spaghetti, Pilze, Blattrippen) darauf legen.  
-    - Eine Kelle siedende Brühe darüber verteilen.  
+- Die vorgekochten Spaghetti zugeben, mit Sojasauce besprenkeln.  
+- Unterheben und mit Deckel weitere ca. 3 Min. schmoren lassen, zwischendurch mehrfach wenden.  
+
+<b>4. Anrichten</b><br>
+
+<table>
+  <tr>
+    <td><img src="assets/14-china-pasta-bowl-07.jpg" alt="Anrichten 1"></td>
+    <td><img src="assets/14-china-pasta-bowl-08.jpg" alt="Anrichten 2"></td>
+    <td><img src="assets/14-china-pasta-bowl-09.jpg" alt="Anrichten 3"></td>
+    <td><img src="assets/14-china-pasta-bowl-10.jpg" alt="Anrichten 4"></td>
+  </tr>
+</table>
+
+- Pfanne vom Feuer nehmen.  
+- Eine Suppenschale zur Hälfte locker mit den rohen grünen Kohlblättern füllen.  
+- Eine Portion vom Pfanneninhalt (Spaghetti, Pilze, Blattrippen) darauf legen.  
+- Eine Kelle siedende Brühe darüber verteilen.
+
 <b>5. Servieren.</b>  
-    - Am Tisch vorsichtig durchmengen und bei Bedarf mit etwas Salz nachwürzen.  
-    - Tipp: Ein Stövchen hält die Bowl warm und ermöglicht ein langsames, entspanntes Essen.  
+- Am Tisch vorsichtig durchmengen.  
 <br>
 
-![Fertiges Gericht](assets/14-china-pasta-bowl-07.jpg)
+![Fertiges Gericht](assets/14-china-pasta-bowl-11.jpg)
 
 ---
 
