@@ -1,4 +1,4 @@
-## Nudel-Vorbereitungs-Seite
+## Nudeln Vorkochen
 
 ### 1. Der Mythos: "Nudeln kann man nicht vorkochen und einfrieren!"
 **Was Skeptiker (und KI) oft behaupten:**
