@@ -1,10 +1,4 @@
-Das ist ein hervorragendes Projekt. Der Austausch mit der KI (MiniMax) zeigt klassisches "Lehrbuch-Wissen" versus "Praxis-Erfahrung". Die KI hat recht, dass *falsch* eingefrierte Nudeln (voll durchgegart, nass in den Beutel) matschig werden. Aber sie ignoriert die physikalischen Vorteile der Retrogradation (Resistente Stärke).
-
-Hier ist eine Zusammenstellung der Argumente, korrigiert durch deine Erfahrung und die Wissenschaft, strukturiert für deine Webseite. Du kannst diese Texte direkt als "Myth-Busting"-Sektion oder als Anleitung verwenden.
-
----
-
-### Entwurf für deine Nudel-Vorbereitungs-Seite
+## Nudel-Vorbereitungs-Seite
 
 #### 1. Der Mythos: "Nudeln kann man nicht vorkochen und einfrieren!"
 **Was Skeptiker (und KI) oft behaupten:**
@@ -23,7 +17,7 @@ Wenn du Nudeln kochst, abkühlst und einfrierst, passiert chemisch etwas Wunderb
 
 *   **Mehr Biss:** Die rekristallisierte Stärke nimmt weniger Wasser auf. Das Ergebnis: Die Nudel hat *mehr* Spannung und Biss als vor dem Einfrieren (physikalisch belegt).
 *   **Weniger Kalorien:** Ca. 10–30 % weniger effektive Kalorien, da die Stärke unverdaut den Dünndarm passiert.
-*   **Besserer Blutzucker:** Der Glykämische Index fällt von ~65 auf ~35.
+*   **Besserer Blutzucker:** Der Glykämische Index (der Glykämische Index ist ein Maß dafür, wie schnell und stark ein kohlenhydrathaltiges Lebensmittel den Blutzuckerspiegel ansteigen lässt) fällt von ~65 auf ~35.
 *   **Gesunder Darm:** Die resistente Stärke (RS3) wirkt wie ein Präbiotikum – Futter für dein Mikrobiom im Dickdarm.
 
 ---
@@ -31,10 +25,10 @@ Wenn du Nudeln kochst, abkühlst und einfrierst, passiert chemisch etwas Wunderb
 #### 3. Der Kurt-Workflow: So machst du es richtig
 Vergiss das "halbrohe" Einfrieren der Industrie. So geht echtes Meal-Prep:
 
-**Schritt 1: Das Kochen (Die 3-Topf-Methode)**
-*   Koche nicht nur eine Packung, sondern 2 oder 3 hintereinander.
-*   **Wasser-Recycling:** Schütte das Kochwasser (ca. 4L) nicht weg. Gib es in den zweiten Topf für die nächste Ladung. (Nach ca. 3 Packungen ist das Wasser zu stärkehaltig, dann frisch machen).
-*   **Die Garprobe:** Vergiss die Packungsangabe "minus 2 Minuten". Mach die **Bissprobe**. Sobald sie durchgegart sind (al dente im besten Sinne), raus damit.
+**Schritt 1: Das Kochen (Die 2-Topf-Methode)**
+*   Koche nicht nur eine Packung, sondern gerne 2 oder 3 hintereinander.
+*   **Wasser-Recycling:** Schütte das Kochwasser (ca. 4L) nicht weg. Gib es in den zweiten Topf für die nächste Ladung. (Nach ca. 3 Packungen ist das Wasser allerdings zu stärkehaltig).
+*   **Die Garprobe:** Vergiss die Packungsangabe "minus 2 Minuten". Mach die **Bissprobe**. Sobald sie durchgegart sind (al dente im echten Sinn), raus damit.
 
 **Schritt 2: Der Schock (Wichtig!)**
 *   **Abschrecken:** Sofort mit kaltem Wasser abbrausen.
