@@ -48,6 +48,7 @@ So funktioniert das Nudel-Meal-Prep zu Hause:
     *   *Warum?* Kein Re-Kochen = keine Stärke-Quellung = kein Matsch.
     *   *Notfall:* Kurz in die Mikrowelle, aber Sauce ist besser.
 *   **Schicht-Pfannen:** Sie liegen als oberste Schicht. So werden sie nur im aufsteigenden Dampf erwärmt und nicht weiter gekocht/gegart.
+
 ---
 
 ### Zusammenfassung
