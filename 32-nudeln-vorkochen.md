@@ -8,27 +8,27 @@
 *   *"Man muss sie halbroh einfrieren und dann neu kochen."*
 
 **Die Wahrheit:**
-Diese Probleme treten nur auf, wenn man Nudeln *vollständig durchgegart* und *nass* einfriert oder sie im Beutel zerquetscht. Mit der richtigen Methode (Abschrecken, Boxen, Resistente Stärke) werden Nudeln nicht nur haltbar, sondern sogar **gesünder und bissfester**.
+Diese Probleme treten nur auf, wenn man Nudeln *vollständig durchgegart* und *nass* einfriert oder sie im Beutel zerquetscht. Mit der richtigen Methode (Abschrecken, Boxen, Resistente Stärke) werden Nudeln nicht nur haltbar, sondern sogar **gesünder, bissfester und bekömmlicher**.
 
 ---
 
 #### 2. Der wissenschaftliche Vorteil: Resistente Stärke (Der "Gamechanger")
-Wenn du Nudeln kochst, abkühlst und einfrierst, passiert chemisch etwas Wunderbares: **Retrogradation**. Die Stärke kristallisiert neu. Das ist kein Nachteil, sondern dein größtes Argument!
+Wenn man Nudeln kochst, abkühlt und einfriert, passiert chemisch etwas Besonderes, das kaum bekannt ist: **Retrogradation**. Die Stärke kristallisiert neu. Das ist kein Nachteil, sondern ein großer Vorteil!
 
 *   **Mehr Biss:** Die rekristallisierte Stärke nimmt weniger Wasser auf. Das Ergebnis: Die Nudel hat *mehr* Spannung und Biss als vor dem Einfrieren (physikalisch belegt).
 *   **Weniger Kalorien:** Ca. 10–30 % weniger effektive Kalorien, da die Stärke unverdaut den Dünndarm passiert.
 *   **Besserer Blutzucker:** Der Glykämische Index (der Glykämische Index ist ein Maß dafür, wie schnell und stark ein kohlenhydrathaltiges Lebensmittel den Blutzuckerspiegel ansteigen lässt) fällt von ~65 auf ~35.
-*   **Gesunder Darm:** Die resistente Stärke (RS3) wirkt wie ein Präbiotikum – Futter für dein Mikrobiom im Dickdarm.
+*   **Gesunder Darm:** Die resistente Stärke (RS3) wirkt wie ein Präbiotikum – Futter für das Mikrobiom im Dickdarm.
 
 ---
 
-#### 3. Der Kurt-Workflow: So machst du es richtig
-Vergiss das "halbrohe" Einfrieren der Industrie. So geht echtes Meal-Prep:
+#### 3. Der Kurt-Workflow:
+So funktioniert das Nudel-Meal-Prep zu Hause:
 
 **Schritt 1: Das Kochen (Die 2-Topf-Methode)**
 *   Koche nicht nur eine Packung, sondern gerne 2 oder 3 hintereinander.
-*   **Wasser-Recycling:** Schütte das Kochwasser (ca. 4L) nicht weg. Gib es in den zweiten Topf für die nächste Ladung. (Nach ca. 3 Packungen ist das Wasser allerdings zu stärkehaltig).
-*   **Die Garprobe:** Vergiss die Packungsangabe "minus 2 Minuten". Mach die **Bissprobe**. Sobald sie durchgegart sind (al dente im echten Sinn), raus damit.
+*   **Wasser-Recycling:** Schütte das Kochwasser (ca. 4L) nicht weg. Gib es in den zweiten Topf für die nächste Ladung. (Nach ca. 3 Packungen ist das Wasser allerdings zu stärkehaltig, dann kann es zum Nudel-Kochen nicht weiterverwendet werden).
+*   **Die Garprobe:** Vergiss die Packungsangabe. Mach die **Bissprobe**. Sobald sie durchgegart sind (al dente im echten Sinn), sind sie fertig.
 
 **Schritt 2: Der Schock (Wichtig!)**
 *   **Abschrecken:** Sofort mit kaltem Wasser abbrausen.
