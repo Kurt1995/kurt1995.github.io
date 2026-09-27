@@ -58,6 +58,7 @@ So funktioniert das Nudel-Meal-Prep zu Hause:
 | :--- | :--- |
 | **"Sie verkleben zu Klumpen"** | **Abschrecken** wäscht die Klebeschicht (Stärke) ab. **Boxen** verhindern Quetschungen. |
 | **"Sie werden matschig"** | **Nicht neu kochen!** Nur in der Sauce durchwärmen. Die Resistente Stärke sorgt sogar für mehr Festigkeit. |
+| **"Eiskristalle machen einen Kleister draus"** | **Abschrecken + Boxen:** Keine Quetschungen, keine vergrößerte Oberfläche = keine Kristall-Schäden |
 | **"Man muss Öl dazu tun"** | **Nein!** Öl verhindert, dass die Sauce haftet. Abschrecken reicht gegen das Verkleben. |
 | **"Frisch ist immer besser"** | **Falsch.** Durch das Einfrieren entsteht **Resistente Stärke**: Weniger Kalorien, niedrigerer GI, besser für den Darm. |
 
