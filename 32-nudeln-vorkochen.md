@@ -47,7 +47,7 @@ So funktioniert das Nudel-Meal-Prep zu Hause:
 *   **Erwärmen:** Gib sie erst ganz zum Schluss in die heiße Sauce. Nur durchwärmen, nicht mehr kochen!
     *   *Warum?* Kein Re-Kochen = keine Stärke-Quellung = kein Matsch.
     *   *Notfall:* Kurz in die Mikrowelle, aber Sauce ist besser.
-
+*   **Schicht-Pfannen:** Sie liegen als oberste Schicht. So werden sie nur im aufsteigenden Dampf erwärmt und nicht weiter gekocht/gegart.
 ---
 
 ### Zusammenfassung
