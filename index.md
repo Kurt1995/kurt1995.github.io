@@ -105,11 +105,6 @@
 | [Nudeln vorkochen](32-nudeln-vorkochen.md), geht das? Ja, sage ich. |  |
 |  |  |
 
-##### Ergänzende Infos:
-- Hier gibt es eine kleine Übersicht über [Zutaten und Küchenhelfer,](99-zutaten-helfer.md) die ich verwende.<br>
-- [Warum Nudeln vorkochen? Die Wissenschaft dahinter.](32-nudeln-vorkochen.md), geht das? Ja, sage ich.
-
-
 ---
 
 **Kontakt & Rückmeldungen:** [Kurt1995@mail.de](mailto:Kurt1995@mail.de)
