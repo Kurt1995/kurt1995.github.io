@@ -1,7 +1,8 @@
 # Kurt kocht &nbsp; – &nbsp; Ideen für den Alltag
 ## *einfache Zutaten, schnelle Zubereitung und bewusstes Essen<br>in einer gemüsefreundlichen Küche*
 
-##### Tipp: Handy quer, dann passen die Seiten besser.
+##### Tipp 1: Handy quer, dann passen die Seiten besser.<br>Tipp 2: Hier gibt es eine kleine Übersicht über [Zutaten und Küchenhelfer,](99-zutaten-helfer.md) die ich verwende.
+
 ---
 
 <table style="width:100%; border-collapse: collapse;">
@@ -101,10 +102,12 @@
 |  |  |
 | __Besondere Vorbereitungen__ | &nbsp; |
 | [Brokkoli blanchieren](30-brokk-blanch.md) |  [Blumenkohl blanchieren](31-blum-blanch.md) |
-| [Nudeln vorkochen](32-nudeln-vorkochen.md) |  |
+| [Nudeln vorkochen](32-nudeln-vorkochen.md), geht das? Ja, sage ich. |  |
 |  |  |
 
-##### Tipp 1: Hier gibt es eine kleine Übersicht über [Zutaten und Küchenhelfer,](99-zutaten-helfer.md) die ich verwende.<br>Tipp 2: [Nudeln vorkochen,](32-nudeln-vorkochen.md), geht das? Ja, sage ich.
+##### Ergänzende Infos:
+- Hier gibt es eine kleine Übersicht über [Zutaten und Küchenhelfer,](99-zutaten-helfer.md) die ich verwende.<br>
+- [Warum Nudeln vorkochen? Die Wissenschaft dahinter.](32-nudeln-vorkochen.md), geht das? Ja, sage ich.
 
 
 ---
