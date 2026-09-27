@@ -102,7 +102,7 @@
 |  |  |
 | __Besondere Vorbereitungen__ | &nbsp; |
 | [Brokkoli blanchieren](30-brokk-blanch.md) |  [Blumenkohl blanchieren](31-blum-blanch.md) |
-| [Nudeln vorkochen](32-nudeln-vorkochen.md), geht das? Ja, sage ich. |  |
+| [Nudeln vorkochen,](32-nudeln-vorkochen.md) geht das? Ja, sage ich. |  |
 |  |  |
 
 ---
