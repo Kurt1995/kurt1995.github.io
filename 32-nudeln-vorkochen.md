@@ -65,3 +65,6 @@ So funktioniert das Nudel-Meal-Prep zu Hause:
 ### Hinweis zur "Industrie-Methode"
 Die Industrie kocht vor (parboiled), friert ein und gart später fertig. Das ist für Großküchen okay, weil sie Kontrolle über die Zeit haben.  
 Für Meal-Prep zu Hause ist die Kurt Methode (Vollgaren -> Abschrecken -> Einfrieren -> Über Nacht auftauen -> Nur Wärmen) überlegen.
+
+---
+[← Zurück zur Übersicht](index.md)
