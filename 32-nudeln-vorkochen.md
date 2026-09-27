@@ -1,6 +1,6 @@
 ## Nudel-Vorbereitungs-Seite
 
-#### 1. Der Mythos: "Nudeln kann man nicht vorkochen und einfrieren!"
+### 1. Der Mythos: "Nudeln kann man nicht vorkochen und einfrieren!"
 **Was Skeptiker (und KI) oft behaupten:**
 *   *"Die Nudeln werden matschig und fade."*
 *   *"Eiskristalle zerstören die Struktur, es wird ein Kleister."*
@@ -12,7 +12,7 @@ Diese Probleme treten nur auf, wenn man Nudeln *vollständig durchgegart* und *n
 
 ---
 
-#### 2. Der wissenschaftliche Vorteil: Resistente Stärke (Der "Gamechanger")
+### 2. Der wissenschaftliche Vorteil: Resistente Stärke (Der "Gamechanger")
 Wenn man Nudeln kochst, abkühlt und einfriert, passiert chemisch etwas Besonderes, das kaum bekannt ist: **Retrogradation**. Die Stärke kristallisiert neu. Das ist kein Nachteil, sondern ein großer Vorteil!
 
 *   **Mehr Biss:** Die rekristallisierte Stärke nimmt weniger Wasser auf. Das Ergebnis: Die Nudel hat *mehr* Spannung und Biss als vor dem Einfrieren (physikalisch belegt).
@@ -22,7 +22,7 @@ Wenn man Nudeln kochst, abkühlt und einfriert, passiert chemisch etwas Besonder
 
 ---
 
-#### 3. Der Kurt-Workflow:
+### 3. Der Kurt-Workflow:
 So funktioniert das Nudel-Meal-Prep zu Hause:
 
 **Schritt 1: Das Kochen mit 2-Topf-Methode**
