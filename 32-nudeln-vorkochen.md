@@ -47,9 +47,9 @@ Vergiss das "halbrohe" Einfrieren der Industrie. So geht echtes Meal-Prep:
 
 ---
 
-### Zusammenfassung für die "FAQ" oder "Pro-Tipps" Box
+### Zusammenfassung
 
-| Problem der Skeptiker | Deine Lösung (Kurt-Methode) |
+| Problem der Skeptiker | Lösung (Kurt-Methode) |
 | :--- | :--- |
 | **"Sie verkleben zu Klumpen"** | **Abschrecken** wäscht die Klebeschicht (Stärke) ab. **Boxen** verhindern Quetschungen. |
 | **"Sie werden matschig"** | **Nicht neu kochen!** Nur in der Sauce durchwärmen. Die Resistente Stärke sorgt sogar für mehr Festigkeit. |
