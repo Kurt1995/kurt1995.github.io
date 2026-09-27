@@ -16,9 +16,9 @@ Diese Probleme treten nur auf, wenn man Nudeln *vollständig durchgegart* und *n
 Wenn man Nudeln kochst, abkühlt und einfriert, passiert chemisch etwas Besonderes, das kaum bekannt ist: **Retrogradation**. Die Stärke kristallisiert neu. Das ist kein Nachteil, sondern ein großer Vorteil!
 
 *   **Mehr Biss:** Die rekristallisierte Stärke nimmt weniger Wasser auf. Das Ergebnis: Die Nudel hat *mehr* Spannung und Biss als vor dem Einfrieren (physikalisch belegt).
-*   **Weniger Kalorien:** Ca. 10–30 % weniger effektive Kalorien, da die Stärke unverdaut den Dünndarm passiert.
-*   **Besserer Blutzucker:** Der Glykämische Index (der Glykämische Index ist ein Maß dafür, wie schnell und stark ein kohlenhydrathaltiges Lebensmittel den Blutzuckerspiegel ansteigen lässt) fällt von ~65 auf ~35.
-*   **Gesunder Darm:** Die resistente Stärke (RS3) wirkt wie ein Präbiotikum – Futter für das Mikrobiom im Dickdarm.
+*   **Weniger Kalorien:** Ca. 10–30 % weniger effektive Kalorien *(je nach Nudelsorte)*, da die Stärke unverdaut den Dünndarm passiert.
+*   **Besserer Blutzucker:** Der Glykämische Index (er ist ein Maß dafür, wie schnell und stark ein kohlenhydrathaltiges Lebensmittel den Blutzuckerspiegel ansteigen lässt) fällt fast auf die Hälfte und macht die Nudeln bekömmlicher.
+*   **Gesunder Darm:** Die resistente Stärke (RS3) wirkt wie ein Präbiotikum – das ist 'Futter' für das gute Mikrobiom im Dickdarm.
 
 ---
 
@@ -31,7 +31,7 @@ So funktioniert das Nudel-Meal-Prep zu Hause:
 *   **Vorrat schaffen:** Koche nicht nur eine Packung, sondern gerne 2 oder 3 hintereinander.
 *   **Wasser-Recycling:** Schütte das Kochwasser (ca. 4L) nicht weg. Gib es beim Abgießen in den zweiten Topf für die nächste Ladung. *(Nach ca. 3 Packungen ist das Wasser allerdings zu stärkehaltig, dann kann es zum Nudel-Kochen nicht weiter verwendet werden)*
 *   **Salzmenge 2:** Gib beim zweiten Topf kein weiteres Salz hinzu. Wenn die Nudeln Wasser aufnehmen, nehmen sie es als Salzlösung auf. Die Salzkonzentration im verbleibenden Kochwasser bleibt dadurch annähernd gleich.
-*   **Die Garprobe:** Die Packungsangabe ist zu grob. Mach die **Bissprobe**. Sobald die Nudeln durchgegart sind ('al dente' im echten Sinn), sind sie fertig.
+*   **Die Garprobe:** Vergiss die Uhr! Die Packungsangaben sind nur grob. Mach **Bissproben**. Sobald die Nudeln durchgegart sind ('al dente' im echten Wortsinn), sind sie fertig und müssen zügig vom Herd.
 
 **Schritt 2: Der Schock (Wichtig!)**
 *   **Abschrecken:** Sofort mit kaltem Wasser abbrausen.
