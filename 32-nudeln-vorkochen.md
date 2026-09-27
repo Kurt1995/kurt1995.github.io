@@ -27,8 +27,10 @@ So funktioniert das Nudel-Meal-Prep zu Hause:
 
 **Schritt 1: Das Kochen mit 2-Topf-Methode**
 *   **Die Töpfe:** Nimm zwei ausreichend große Töpfe (z.B. 5 l).
+*   **Salzmenge 1:** Gib ca. 10 g Salz pro Liter Wasser ins Kochwasser. Bei 4 Litern sind das 40 g Salz (etwa 2 gehäufte Esslöffel).
 *   **Vorrat schaffen:** Koche nicht nur eine Packung, sondern gerne 2 oder 3 hintereinander.
 *   **Wasser-Recycling:** Schütte das Kochwasser (ca. 4L) nicht weg. Gib es beim Abgießen in den zweiten Topf für die nächste Ladung. *(Nach ca. 3 Packungen ist das Wasser allerdings zu stärkehaltig, dann kann es zum Nudel-Kochen nicht weiter verwendet werden)*
+*   **Salzmenge 2:** Gib beim zweiten Topf kein weiteres Salz hinzu. Wenn die Nudeln Wasser aufnehmen, nehmen sie es als Salzlösung auf. Die Salzkonzentration im verbleibenden Kochwasser bleibt dadurch annähernd gleich.
 *   **Die Garprobe:** Die Packungsangabe ist zu grob. Mach die **Bissprobe**. Sobald die Nudeln durchgegart sind ('al dente' im echten Sinn), sind sie fertig.
 
 **Schritt 2: Der Schock (Wichtig!)**
