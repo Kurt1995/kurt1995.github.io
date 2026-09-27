@@ -8,7 +8,7 @@
 *   *"Man muss sie halbroh einfrieren und dann neu kochen."*
 
 **Die Wahrheit:**
-Diese Probleme treten nur auf, wenn man Nudeln *falsch gegart* hat und dann einfriert. Mit der richtigen Methode (Abschrecken, Boxen, Resistente Stärke) werden Nudeln nicht nur haltbar, sondern sogar **gesünder, bissfester und bekömmlicher**.
+Diese Probleme treten nur auf, wenn man Nudeln **falsch gegart** hat und dann einfriert. Mit der richtigen Methode (Abschrecken, Boxen, Resistente Stärke) werden Nudeln nicht nur haltbar, sondern sogar **gesünder, bissfester und bekömmlicher**.
 
 ---
 
