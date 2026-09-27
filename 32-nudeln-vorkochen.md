@@ -25,10 +25,11 @@ Wenn man Nudeln kochst, abkühlt und einfriert, passiert chemisch etwas Besonder
 #### 3. Der Kurt-Workflow:
 So funktioniert das Nudel-Meal-Prep zu Hause:
 
-**Schritt 1: Das Kochen (Die 2-Topf-Methode)**
-*   Koche nicht nur eine Packung, sondern gerne 2 oder 3 hintereinander.
-*   **Wasser-Recycling:** Schütte das Kochwasser (ca. 4L) nicht weg. Gib es in den zweiten Topf für die nächste Ladung. (Nach ca. 3 Packungen ist das Wasser allerdings zu stärkehaltig, dann kann es zum Nudel-Kochen nicht weiterverwendet werden).
-*   **Die Garprobe:** Vergiss die Packungsangabe. Mach die **Bissprobe**. Sobald sie durchgegart sind (al dente im echten Sinn), sind sie fertig.
+**Schritt 1: Das Kochen mit 2-Topf-Methode**
+*   **Die Töpfe:** Nimm zwei ausreichend große Töpfe (z.B. 5 l).
+*   **Vorrat schaffen:** Koche nicht nur eine Packung, sondern gerne 2 oder 3 hintereinander.
+*   **Wasser-Recycling:** Schütte das Kochwasser (ca. 4L) nicht weg. Gib es beim Abgießen in den zweiten Topf für die nächste Ladung. *(Nach ca. 3 Packungen ist das Wasser allerdings zu stärkehaltig, dann kann es zum Nudel-Kochen nicht weiter verwendet werden)*
+*   **Die Garprobe:** Die Packungsangabe ist zu grob. Mach die **Bissprobe**. Sobald die Nudeln durchgegart sind ('al dente' im echten Sinn), sind sie fertig.
 
 **Schritt 2: Der Schock (Wichtig!)**
 *   **Abschrecken:** Sofort mit kaltem Wasser abbrausen.
