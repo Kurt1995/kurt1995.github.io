@@ -2,7 +2,7 @@
 
 ### 1. Der Mythos: "Nudeln kann man nicht vorkochen und einfrieren!"
 **Was Skeptiker (und KI) oft behaupten:**
-*   *"Die Nudeln werden matschig und fade."*
+*   *"Die Nudeln (besonders Dinkel- oder Vollkornnudeln) werden matschig und fade."*
 *   *"Eiskristalle zerstören die Struktur, es wird ein Kleister."*
 *   *"Lange Nudeln verkleben zu einem einzigen Block."*
 *   *"Man muss sie halbroh einfrieren und dann neu kochen."*
