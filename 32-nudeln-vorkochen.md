@@ -1,7 +1,7 @@
 ## Nudeln Vorkochen
 
 ### 1. Der Mythos: "Nudeln kann man nicht vorkochen und einfrieren!"
-**Was Skeptiker (und KI) oft behaupten:**
+**Was Skeptiker, Social-Media-Blogger (und KI) oft behaupten:**
 *   *"Die Nudeln (besonders Dinkel- oder Vollkornnudeln) werden matschig und fade."*
 *   *"Eiskristalle zerstören die Struktur, es wird ein Kleister."*
 *   *"Lange Nudeln verkleben zu einem einzigen Block."*
