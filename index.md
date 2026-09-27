@@ -1,8 +1,7 @@
 # Kurt kocht &nbsp; – &nbsp; Ideen für den Alltag
 ## *einfache Zutaten, schnelle Zubereitung und bewusstes Essen<br>in einer gemüsefreundlichen Küche*
 
-##### Tipp 1: Handy quer, dann passen die Seiten besser. <br> Tipp 2: Hier gibt es eine kleine Übersicht über [Zutaten und Küchenhelfer,](99-zutaten-helfer.md) die ich verwende.
-
+##### Tipp: Handy quer, dann passen die Seiten besser.
 ---
 
 <table style="width:100%; border-collapse: collapse;">
@@ -105,7 +104,8 @@
 | [Nudeln vorkochen](32-nudeln-vorkochen.md) |  |
 |  |  |
 
-*Hinweis: Weitere Rezepte sind in Arbeit.*
+##### Tipp 1: Hier gibt es eine kleine Übersicht über [Zutaten und Küchenhelfer,](99-zutaten-helfer.md) die ich verwende.<br>Tipp 2: [Nudeln vorkochen,](32-nudeln-vorkochen.md), geht das? Ja, sage ich.
+
 
 ---
 
