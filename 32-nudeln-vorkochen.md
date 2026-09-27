@@ -31,7 +31,7 @@ So funktioniert das Nudel-Meal-Prep zu Hause:
 *   **Vorrat schaffen:** Koche nicht nur eine Packung, sondern gerne 2 oder 3 hintereinander.
 *   **Wasser-Recycling:** Schütte das Kochwasser (ca. 4L) nicht weg. Gib es beim Abgießen in den zweiten Topf für die nächste Ladung. *(Nach ca. 3 Packungen ist das Wasser allerdings zu stärkehaltig, dann kann es zum Nudel-Kochen nicht weiter verwendet werden)*
 *   **Salzmenge 2:** Gib beim zweiten Topf kein weiteres Salz hinzu. Wenn die Nudeln Wasser aufnehmen, nehmen sie es als Salzlösung auf. Die Salzkonzentration im verbleibenden Kochwasser bleibt dadurch annähernd gleich.
-*   **Die Garprobe:** Vergiss die Uhr! Die Packungsangaben sind nur grob. Mach **Bissproben**. Sobald die Nudeln durchgegart sind ('al dente' im echten Wortsinn), sind sie fertig und müssen zügig vom Herd.
+*   **Die Garprobe:** Vergiss die Uhr! Die Packungsangaben sind nur grob. Mach die **Nonna-Bissprobe** und rechne damit, dass du drei bis vier davon brauchst, um wirklich gut zu liegen. Sobald die Nudeln durchgegart sind ('al dente' im echten Wortsinn), sind sie fertig und müssen zügig vom Herd.
 
 **Schritt 2: Der Schock (Wichtig!)**
 *   **Abschrecken:** Sofort mit kaltem Wasser abbrausen.
