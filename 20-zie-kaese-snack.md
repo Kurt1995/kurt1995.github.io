@@ -17,7 +17,7 @@
 - **Glykämische Stabilität:** Mit unter 5 g Kohlenhydraten pro Portion bleibt der Blutzuckerspiegel nahezu komplett stabil. 
 - **Minimaler Insulin-Ausstoß:** Das Fehlen einfacher Kohlenhydrate verhindert Insulinspitzen, was die Kombination zu einem perfekten Low-Carb-Abendsnack macht. 
 - **Geschmacksharmonie:** Die charakteristische, leicht säuerlich-würzige Note des Ziegenkäses trifft auf die intensive Umami-Süße und Fruchtsäure des konzentrierten Tomatenmarks – ein überraschend edles Zusammenspiel.<br>
-  Der Käse bleibt dominant, die Tomate hegt ihn ein, ohne ihn zu überdecken. 
+  Der Käse bleibt im Vordergrund, die Tomate hegt ihn ein, ohne ihn zu überdecken. 
 
 ## Energiewert dieser Mahlzeit
 *(Berechnungsgrundlage: 60 g Ziegen-Weichkäse und 25 g dreifach konzentriertes Tomatenmark)*  
