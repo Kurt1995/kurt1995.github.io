@@ -21,7 +21,7 @@
 ## Energiewert dieser Mahlzeit
 *(Berechnungsgrundlage: 60 g Ziegen-Weichkäse und 25 g dreifach konzentriertes Tomatenmark)*  
 * **Brennwert**: ca. 200 kcal
-* **Eiweiß**: ca. 12 g
+* **Eiweiß (Protein)**: ca. 12 g
 * **Fett**: ca. 13 g (davon gesättigte Fettsäuren: ca. 8,6 g) 
 * **Kohlenhydrate**: ca. 4,5 g (davon fruchteigener Zucker: ca. 2,7 g) 
 
