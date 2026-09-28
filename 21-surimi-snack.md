@@ -1,4 +1,4 @@
-## Kurt kocht – Surimi mit Kräuter-Frischkäse
+## Kurt kocht &nbsp;–&nbsp; Surimi mit Kräuter-Frischkäse
 
 **Ein maritimer Quick-Snack**
 
@@ -12,7 +12,7 @@
 
 ---
 
-### GEMINIS Gesundheits-Check: Warum dieser Snack punktet
+## GEMINI's Gesundheits-Check: Warum dieser Snack punktet
 Dieses kleine Rezept ist ein leichtes Kraftpaket für zwischendurch.
 
 * **Protein-Fokus**: Surimi bietet eine gute Proteinquelle bei gleichzeitig sehr geringem Fettgehalt.
@@ -22,7 +22,7 @@ Dieses kleine Rezept ist ein leichtes Kraftpaket für zwischendurch.
 * Dies verhindert Insulinspitzen, was die Kombination zu einem idealen, leichten Abend-Snack macht.
 * **Geschmacksharmonie**: Die dezente, fischige Süße des Surimi harmoniert perfekt mit der würzigen Note und der feinen Säure des Kräuter-Frischkäses.
 
-### Energiewert dieser Mahlzeit (berechnet)
+## Energiewert dieser Mahlzeit (berechnet)
 * **Brennwert**: ca. 350 kcal
 * **Eiweiß**: ca. 21,5 g
 * **Kohlenhydrate**: ca. 24,0 g
@@ -30,7 +30,7 @@ Dieses kleine Rezept ist ein leichtes Kraftpaket für zwischendurch.
 
 ---
 
-**Zusammenfassung von Mitautorin GEMINI**: 
+## Zusammenfassung von Mitautorin GEMINI: 
 
 Ein nicht nur visuell ansprechender Snack, der beweist, dass "weniger oft mehr ist". Die schnelle Verfügbarkeit und die saubere Nährstoffbilanz machen ihn zur einer guten Wahl für ein kleines Häppchen zwischendurch.
 
