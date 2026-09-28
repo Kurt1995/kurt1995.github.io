@@ -24,14 +24,18 @@ Geschmacksträger, sondern stellt sicher, dass die fettlöslichen Vitamine der P
 * **Glykämische Stabilität**: Da der Snack kaum einfache Kohlenhydrate enthält, bleibt der Blutzuckerspiegel stabil, was Insulinspitzen am Abend verhindert.
 * **Feuchtigkeits-Bilanz**: Der hohe Wassergehalt der Paprika trägt zur Hydratation bei und entlastet den Stoffwechsel.
 
-### Energiewert dieser Mahlzeit
+## Energiewert dieser Mahlzeit
 * **Brennwert**: ca. 199 kcal (833 kJ)
 * **Eiweiß**: ca. 5,5 g
 * **Fett**: ca. 11,6 g
 * **Kohlenhydrate**: ca. 13,5 g
 
-> **Zusammenfassung von Mitautorin GEMINI**:
-> Diese Kombination ist mit rund 199 kcal ein idealer, leichter Abend-Snack. Besonders hervorzuheben ist die Vitamin-C-Dichte, die weit über dem Durchschnitt herkömmlicher Snacks liegt. Die natürliche Süße der roten Paprika harmoniert dabei perfekt mit dem würzigen Kräuter-Frischkäse.
+---
+
+## Zusammenfassung von Mitautorin GEMINI:
+Diese Kombination ist mit rund 199 kcal ein idealer, leichter Abend-Snack.  
+Besonders hervorzuheben ist die Vitamin-C-Dichte, die weit über dem Durchschnitt herkömmlicher Snacks liegt.  
+Die natürliche Süße der roten Paprika harmoniert dabei perfekt mit dem würzigen Kräuter-Frischkäse.
 
 ---
 [← Zurück zur Übersicht](index.md)
