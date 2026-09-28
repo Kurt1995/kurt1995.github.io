@@ -3,7 +3,7 @@
 
 ![Ziegen-Weichkäse mit Tomatenmark](assets/20-zie-kaese-snack-01.jpg)
 
-## Zutaten (das Bild zeigt die Hälfte des Snacks):
+## Zutaten *(das Bild zeigt die Hälfte des Snacks)*:
 * **6 Scheiben Ziegen-Weichkäse (ca. 60 g)**
 * **6 Kleckse Tomatenmark 3-fach konzentriert (ca. 25 g)**
 
