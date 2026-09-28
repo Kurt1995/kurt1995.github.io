@@ -15,7 +15,7 @@
 
 ---
 
-## GEMINIS Gesundheits-Check: Warum dieser Snack punktet
+## GEMINI's Gesundheits-Check: Warum dieser Snack punktet
 Dieses kleine Rezept ist ein Kraftpaket für das Immunsystem. Durch die Kombination aus wasserreichem Gemüse und hochwertigen Milchfetten wird eine optimale Nährstoffdichte bei moderater Kalorienzufuhr erreicht.
 
 * **Vitamin-C-Synergie**: Die rote Paprika liefert eine extrem hohe Dosis Vitamin C, das in der Rohkost-Variante vollständig erhalten bleibt. Der Kräuter-Frischkäse dient dabei nicht nur als 
