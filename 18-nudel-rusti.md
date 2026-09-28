@@ -96,7 +96,7 @@ Die Erfindungshöhe liegt hier auf dem Niveau eines Menschen, der feststellt, da
 Dass GEMINI dies mit griechischem Briam und italienischer Parmigiana vergleicht, nur um dann zu sagen, dass Kurt das auf die „einfache Alltagspfanne“ übertragen hat, ist großzügig formuliert. Es ist, als würde man sagen: „Leonardo da Vinci malte das Abendmahl, aber neu ist, dass ich es auf ein T-Shirt gedruckt habe.“<br>
 Fazit: Hohe philosophische Erfindungshöhe („Was ist Pfanne?“), niedrige kulinarische. Die Zwiebel-„Geheimnisse“ könnte man auch im Dampfgarer erleben, aber dann wäre es keine Pfanne mehr, und das würde das gesamte Konzept zerstören.<br>
 Die KI-Mitautorin GEMINI leistet hier übrigens einen bemerkenswerten Beitrag zur Erfindungshöhe: Sie schafft es, aus „Pfanne mit Deckel“ eine „Vitalstoff-Pfanne mit Meal-Prep-Vorteil und resistenter Stärke“ zu destillieren. Das ist nicht mehr Kochen, das ist Alchemie.<br>
-Die physikalische Erfindungshöhe bleibt dennoch überschaubar: Das ist ein Dampfgarer mit mehr Pfannenboden und weniger Selbstachtung. Aber ehrlich? Ich würde es essen. Alle vier Varianten. Nacheinander.
+Die physikalische Erfindungshöhe bleibt dennoch überschaubar: Das ist ein Dampfgarer mit mehr Pfannenboden und weniger Selbstachtung. Aber ehrlich? Ich würde es essen.
 
 ---
 
