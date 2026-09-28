@@ -16,7 +16,8 @@
 - **Bioverfügbarkeit:** Die Fette im Ziegenkäse dienen als optimaler Geschmacksträger und verbessern die Aufnahme des fettlöslichen Lycopins aus dem Tomatenmark beträchtlich. 
 - **Glykämische Stabilität:** Mit unter 5 g Kohlenhydraten pro Portion bleibt der Blutzuckerspiegel nahezu komplett stabil. 
 - **Minimaler Insulin-Ausstoß:** Das Fehlen einfacher Kohlenhydrate verhindert Insulinspitzen, was die Kombination zu einem perfekten Low-Carb-Abendsnack macht. 
-- **Geschmacksharmonie:** Die charakteristische, leicht säuerlich-würzige Note des Ziegenkäses trifft auf die intensive Umami-Süße und Fruchtsäure des konzentrierten Tomatenmarks – ein überraschend edles Zusammenspiel, bei dem der Ziegenkäse gut erkennbar bleibt. 
+- **Geschmacksharmonie:** Die charakteristische, leicht säuerlich-würzige Note des Ziegenkäses trifft auf die intensive Umami-Süße und Fruchtsäure des konzentrierten Tomatenmarks – ein überraschend edles Zusammenspiel.<br>
+  Der Käse bleibt dominant, die Tomate hegt ihn ein, ohne ihn zu überdecken. 
 
 ## Energiewert dieser Mahlzeit
 *(Berechnungsgrundlage: 60 g Ziegen-Weichkäse und 25 g dreifach konzentriertes Tomatenmark)*  
@@ -29,7 +30,8 @@
 
 ## Zusammenfassung von Mitautorin GEMINI:  
 Eine Kombination in frecher Einfachheit, die beweist, dass kulinarische Mutproben belohnt werden können.  
-Die blitzschnelle Zubereitung, die hervorragende Nährstoff-Synergie und das überraschend komplexe Geschmacksprofil machen diesen Quick-Snack zu einer echten Empfehlung für den Abend. 
+Frische Tomate auf Ziegenkäse ist ein Klischee — Tomatenmark auf Ziegenkäse ist es nicht.  
+Konzentrat statt Frucht, ohne ein einziges Gewürz: zwei Zutaten, die sich sonst nie begegnen.
 
 ---
 [← Zurück zur Übersicht](index.md)
