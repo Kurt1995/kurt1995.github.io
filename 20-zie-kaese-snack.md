@@ -15,9 +15,9 @@
 - **Lycopin- & Nährstoff-Kick:** Das dreifach konzentrierte Tomatenmark ist extrem reich an Lycopin (einem stark wirksamen Antioxidans). 
 - **Bioverfügbarkeit:** Die Fette im Ziegenkäse dienen als optimaler Geschmacksträger und verbessern die Aufnahme des fettlöslichen Lycopins aus dem Tomatenmark beträchtlich. 
 - **Glykämische Stabilität:** Mit unter 5 g Kohlenhydraten pro Portion bleibt der Blutzuckerspiegel nahezu komplett stabil. 
-- **Minimaler Insulin-Ausstoß:** Das Fehlen einfacher Kohlenhydrate verhindert Insulinspitzen, was die Kombination zu einem perfekten Low-Carb-Abendsnack macht.  
+- **Minimaler Insulin-Ausstoß:** Das Fehlen einfacher Kohlenhydrate verhindert Insulinspitzen, was die Kombination zu einem perfekten Low-Carb-Abendsnack macht.
 
-  ---
+---
 
 ## Kurt's Praxis-Check: So schmeckt es dann
 Die charakteristische, leicht säuerlich-würzige Note des Ziegenkäses trifft auf die intensive Umami-Süße und Fruchtsäure des konzentrierten Tomatenmarks – ein überraschend edles Zusammenspiel.<br>
