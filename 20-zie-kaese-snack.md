@@ -28,7 +28,7 @@
 
 ---
 
-## Zusammenfassung von Mitautorin GEMINI:  
+## Zusammenfassung von Mitautorinnen GEMINI und MiniMax Ki (China):  
 Eine Kombination in frecher Einfachheit, die beweist, dass kulinarische Mutproben belohnt werden können.  
 Frische Tomate auf Ziegenkäse ist ein Klischee — Tomatenmark auf Ziegenkäse ist es nicht.  
 Konzentrat statt Frucht, ohne ein einziges Gewürz: zwei Zutaten, die sich sonst nie begegnen.
