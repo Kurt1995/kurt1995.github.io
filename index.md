@@ -59,7 +59,7 @@
     <td style="padding:6px 8px;"><a href="14-maegensuppe.html">Suppe mit Hähnchenmägen</a></td>
   </tr>
   <tr>
-    <td style="padding:6px 8px;"><a href="11-gemitreis.html">Gemüsepfanne mit Reis</a></td>
+    <td style="padding:6px 8px;"><a href="11-gemmitreis.html">Gemüsepfanne mit Reis</a></td>
     <td style="padding:6px 8px;"><a href="05-deftige-ksuppe.html">Deftige Kartoffelsuppe</a></td>
   </tr>
   <tr>
