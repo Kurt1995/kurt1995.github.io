@@ -13,9 +13,9 @@ Richtig gemacht werden Nudeln durch das Einfrieren nicht nur haltbar, sondern so
 
 ### 3. Der Kurt-Workflow:
 **Schritt 1: Das Kochen mit 2-Topf-Methode**
-- Salzwasser: Ca. 10 g Salz pro Liter Wasser. 
-- Wasser-Recycling: Nudelwasser beim Abgießen in einen zweiten Topf umfüllen und für bis zu 3 Ladungen wiederverwenden (kein neues Salz nötig, da die Konzentration stabil bleibt). 
-- **Garprobe:** Vergiss die Packungsvorgabe und die Uhr! Per **Bissprobe** (rechne damit, dass du drei bis vier davon brauchst, um wirklich gut zu liegen) **exakt** auf den Punkt **al dente** (nicht 2 Min. kürzer) kochen. 
+- Salzwasser: Ca. 10 g Salz pro Liter Wasser *(ein gehäufter Esslöffel sind ca. 20 g)* nehmen.
+- Wasser-Recycling: Nudelwasser beim Abgießen in einen zweiten Topf umfüllen und für bis zu 3 Ladungen wiederverwenden *(kein neues Salz nötig)*. 
+- **Garprobe:** Vergiss die Packungsvorgabe und die Uhr! Per **Bissprobe** *(rechne damit, dass du drei bis vier davon brauchst, um wirklich gut zu liegen)* **exakt** auf den Punkt **al dente** (nicht 2 Min. kürzer) kochen. 
 
 **Schritt 2: Der Schock (Wichtig!)**
 - Abschrecken: **Sofort** mit kaltem Wasser abbrausen.
