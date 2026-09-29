@@ -27,7 +27,7 @@ Richtig gemacht werden Nudeln durch das Einfrieren nicht nur haltbar, sondern so
 **Schritt 4: Das Essen (Nicht neu kochen!)**
 - **Auftauen:** Über Nacht im Kühlschrank schonend auftauen lassen.
 - **Für Eilige:** Auftauen in reichlich siedendem Wasser geht - durchmischen und nur möglichst kurz im Wasser lassen. Danach die Nudeln erneut kalt abbrausen. (Mikrowelle, lieber nicht zum Auftauen)
-- **Erwärmen:** Erst ganz zum Schluss in die heiße Sauce geben und nur durchwärmen. Keinesfalls neu kochen, sonst quillt die Stärke auf und wird matschig. (Mikrowelle zum Erwärmen ist möglich)
+- **Erwärmen:** Erst ganz zum Schluss in eine heiße Sauce geben und nur durchwärmen. Keinesfalls neu kochen, sonst quillt die Stärke auf und wird matschig. (Mikrowelle zum Erwärmen ist möglich)
 - Pfannen-Frage: Bei Kurt's Schicht-Pfannen die Nudeln als oberste Schicht auflegen, damit sie im aufsteigenden Dampf nur warm werden. 
 
 ### 4. Zusammenfassung
