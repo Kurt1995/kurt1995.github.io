@@ -1,4 +1,4 @@
-# Kurt kocht &nbsp; – &nbsp; Strammer Max – Plus
+# Kurt hat gekocht &nbsp; – &nbsp; Strammer Max – Plus
 
 ![Zutaten](assets/19-st-max-plus01.jpg)
 
