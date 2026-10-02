@@ -1,4 +1,4 @@
-# Kurt kocht &nbsp; - &nbsp; Spargel al dente
+# Kurt hat gekocht &nbsp; - &nbsp; Spargel al dente
 ### *erste Gedanken zum Rezept*
 
 <br>
