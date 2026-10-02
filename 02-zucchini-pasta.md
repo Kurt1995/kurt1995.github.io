@@ -1,4 +1,4 @@
-# Kurt hat gekocht &nbsp;- &nbsp;Zucchini-Pasta
+# Kurt hat gekocht &nbsp;-&nbsp ;Zucchini mit Pasta
 
 
 ![Zutaten](assets/02zucchinipasta1.jpg)
