@@ -1,6 +1,5 @@
 # Kurt hat gekocht &nbsp;- &nbsp;Zucchini-Pasta
 
-Dieses Gericht besticht durch seine hohe Nährstoffdichte und die massive Zucchini-Basis, die für eine ausgewogene Mahlzeit sorgt.
 
 ![Zutaten](assets/02zucchinipasta1.jpg)
 
@@ -45,7 +44,6 @@ Dieses Gericht besticht durch seine hohe Nährstoffdichte und die massive Zucchi
 ---
 
 ## GEMINIS Gesundheits-Check - Warum dieses Gericht punktet
-
 * **Resistente Stärke:** Durch das Kochen und anschließende Einfrieren der Pasta entsteht resistente Stärke. Diese wirkt wie ein Ballaststoff, sättigt länger und lässt den Blutzuckerspiegel weniger stark ansteigen.
 * **Gemüse-Power:** Mit einem Anteil von 700 g Zucchini liefert das Gericht reichlich Kalium und Vitamin C bei sehr geringer Kaloriendichte.
 * **Herzgesunde Fette:** Das Olivenöl liefert wertvolle einfach ungesättigte Fettsäuren, die die Aufnahme fettlöslicher Vitamine optimieren.
