@@ -1,4 +1,4 @@
-# Kurt kocht - Gemüsevorbereitung Brokkoli
+# Kurt bereitet vor - Brokkoli
 
 |  Vor dem Blanchieren | Sekunden später |
 | :---: | :---: |
