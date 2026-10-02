@@ -1,4 +1,4 @@
-# Kurt kocht &nbsp; - &nbsp; Tomaten-Topf mit Huhn
+# Kurt hat gekocht &nbsp; - &nbsp; Tomaten-Topf mit Huhn
 
 Dieses Rezept ist in der Bearbeitung
 
