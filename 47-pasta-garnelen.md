@@ -1,4 +1,4 @@
-# Kurt kocht &nbsp; - &nbsp; Pasta in bianco mit Garnelen
+# Kurt hat gekocht &nbsp; - &nbsp; Pasta in bianco mit Garnelen
 
 ![Zutaten](assets/47-pasta-garnele-1.jpg)
 
