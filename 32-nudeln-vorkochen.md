@@ -1,4 +1,4 @@
-## Nudeln Vorkochen
+## Kurt bereitet vor - Nudeln Vorkochen
 
 ### 1. Der Mythos: "Nudeln kann man nicht vorkochen und einfrieren!"
 Viele behaupten, vorgekochte Nudeln würden matschig oder verkleben. Das stimmt nur bei falscher Zubereitung!  
