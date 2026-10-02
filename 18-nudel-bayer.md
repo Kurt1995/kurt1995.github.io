@@ -1,4 +1,4 @@
-# Kurt kocht  &nbsp; - &nbsp; Tomaten-Schicht-Pfanne "Bayrische Art"
+# Kurt hat gekocht  &nbsp; - &nbsp; Tomaten-Schicht-Pfanne "Bayrische Art"
 
 <br>
 
