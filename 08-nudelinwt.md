@@ -1,4 +1,4 @@
-# Kurt kocht - Nudeln in Winter-Tomate
+# Kurt hat gekocht - Nudeln in Winter-Tomate
 
 Diese wärmende, tomatenbetonte Hauptmahlzeit bietet eine solide Proteinbasis und sättigende Kohlenhydrate.
 
