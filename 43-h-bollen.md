@@ -1,4 +1,4 @@
-# Kurt kocht &nbsp; - &nbsp; Hähnchen Bollen mit Rückenstück
+# Kurt hat gekocht &nbsp; - &nbsp; Hähnchen Bollen mit Rückenstück
 
 ![Zutaten und Equipment](assets/43-h-bollen-01.jpg)
 
