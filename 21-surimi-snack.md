@@ -1,4 +1,4 @@
-## Kurt kocht &nbsp;–&nbsp; Surimi mit Kräuter-Frischkäse
+## Kurt snackt &nbsp;–&nbsp; Surimi mit Kräuter-Frischkäse
 
 **Ein maritimer Quick-Snack**
 
