@@ -1,4 +1,4 @@
-# Kurt kocht &nbsp;– &nbsp;Gemüse-Nudel-Pfanne mit Asia-Note
+# Kurt hat gekocht &nbsp;– &nbsp;Gemüse-Nudel-Pfanne mit Asia-Note
 
 ![Zutatenübersicht](assets/03-gem-nudel-pfanne-1.jpg)
 
