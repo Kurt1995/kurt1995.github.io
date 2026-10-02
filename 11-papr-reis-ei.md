@@ -1,4 +1,4 @@
-# Kurt kocht  &nbsp; - &nbsp; Paprikapfanne mit Reis und Ei
+# Kurt hat gekocht  &nbsp; - &nbsp; Paprikapfanne mit Reis und Ei
 
 <br>
 
