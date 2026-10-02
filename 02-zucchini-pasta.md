@@ -161,7 +161,7 @@
 ## Kurt's Praxis Check: So schmeckt es dann
 Jeder Bissen mit eigenem Profil – Scheiben, manche kurvig, manche straight, kommen auf die Gabel – ein Wickel Pasta dazu und ab in den Mund – Spaghetti‑Geschmack zuerst, einmal kauen, wow - so saftig, so grün.<br>
 **Nur diese Zutaten?** <br>
-Nur Olivenöl, Pfeffer, Parmesan, Pasta, Zucchini - ja, nur mit diesen, denn mit jeder weiteren Zutat entsteht ein anderes Gericht.
+Nur Olivenöl, Pfeffer, Parmesan, Pasta, Zucchini - ja, nur mit diesen - denn mit jeder weiteren Zutat entsteht ein anderes Gericht.
 
 ---
 
