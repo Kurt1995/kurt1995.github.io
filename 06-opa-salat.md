@@ -1,4 +1,4 @@
-# Kurt kocht - Opa Salat
+# Kurt hat zubereitet - Opa Salat
 
 Der Opa Salat ist eine frische, vitaminreiche Rohkost-Mahlzeit.
 
