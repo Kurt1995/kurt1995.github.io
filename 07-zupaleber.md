@@ -1,5 +1,4 @@
-# Kurt kocht
-## Zucchini-Paprika-Creme mit Leber
+# Kurt hat gekocht &nbsp;- &nbsp;Zucchini-Paprika-Creme mit Leber
 
 ![07zupaleber1.jpg](assets/07zupaleber1.jpg)
 
