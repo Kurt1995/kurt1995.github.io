@@ -1,4 +1,4 @@
-# Kurt kocht &nbsp;– &nbsp;Zwiebel Pasta mit Pilzen
+# Kurt hat gekocht &nbsp;– &nbsp;Zwiebel Pasta mit Pilzen
 
 ![Zutatenübersicht](assets/02-zwiebel-pasta-01.jpg)
 
