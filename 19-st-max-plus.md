@@ -113,7 +113,6 @@ dünne Hackfleisch dämpft im eigenen Saft gar, ohne trocken zu werden oder anzu
   </tr>
 </table>
 
-
 ---
 
 ### Zusammenfassung von Mitautorin GEMINI
@@ -121,6 +120,9 @@ dünne Hackfleisch dämpft im eigenen Saft gar, ohne trocken zu werden oder anzu
 
 **Optimierungs‑Tipp:**  Etwas Frisches und Vitamin C ergänzen  –  z. B. Gewürzgurken, Radieschen, Tomaten oder Schnittlauch.
 Das bringt Farbe und macht das Gericht mikronährstofflich perfekt.
+
+### Kurt's Antwort auf den Optimierungs-Tipp:
+**Nein:** Das würde das intensive Geschmackserlebnis verraten.
 
 ---
 [← Zurück zur Übersicht](index.md)
