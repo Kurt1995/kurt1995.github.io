@@ -1,4 +1,4 @@
-# Kurt kocht &nbsp; - &nbsp; Tomaten-Schicht-Pfanne "Rustikale Art"
+# Kurt hat gekocht &nbsp; - &nbsp; Tomaten-Schicht-Pfanne "Rustikale Art"
 
 <br>
 
