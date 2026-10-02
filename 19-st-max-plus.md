@@ -122,7 +122,7 @@ dünne Hackfleisch dämpft im eigenen Saft gar, ohne trocken zu werden oder anzu
 Das bringt Farbe und macht das Gericht mikronährstofflich perfekt.
 
 ### Kurt's Antwort auf den Optimierungs-Tipp:
-**Abgelehnt:** Das Gericht hat bereits ein intensives Geschmackserlebnis, mehr wäre weniger.
+**Abgelehnt:** Das Gericht hat bereits ein intensives Geschmackserlebnis. "Mit jeder neuen Zutat entsteht ein anderes Gericht."
 
 ---
 [← Zurück zur Übersicht](index.md)
