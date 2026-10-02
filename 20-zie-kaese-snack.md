@@ -1,4 +1,4 @@
-# Kurt kocht &nbsp;-&nbsp; Ziegen-Weichkäse mit Tomatenmark
+# Kurt snackt &nbsp;-&nbsp; Ziegen-Weichkäse mit Tomatenmark
 ### Ein Abend Snack
 
 ![Ziegen-Weichkäse mit Tomatenmark](assets/20-zie-kaese-snack-01.jpg)
