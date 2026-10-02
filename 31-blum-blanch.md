@@ -1,4 +1,4 @@
-# Kurt kocht - Gemüsevorbereitung Blumenkohl
+# Kurt bereitet vor - Gemüsevorbereitung Blumenkohl
 
 ### Optimale Vorbereitung durch Blanchieren und Einfrieren
 
