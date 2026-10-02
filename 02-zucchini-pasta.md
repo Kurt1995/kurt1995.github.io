@@ -158,7 +158,7 @@
 
 ---
 
-## Praxis Check: So schmeckt es dann
+## Kurt's Praxis Check: So schmeckt es dann
 Jeder Bissen mit eigenem Profil – Scheiben, manche kurvig, manche straight, kommen auf die Gabel – ein Wickel Pasta dazu und ab in den Mund – Spaghetti‑Geschmack zuerst, einmal kauen, wow - so saftig, so grün.<br>
 **Nur diese Zutaten?** <br>
 Olivenöl, Pfeffer, Parmesan, Pasta, Zucchini - mit jeder weiteren Zutat entsteht geschmacklich ein anderes Gericht.
