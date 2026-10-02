@@ -1,4 +1,4 @@
-# Kurt kocht &nbsp; - &nbsp; Tomaten-Schicht-Pfanne "Lasagne Art"
+# Kurt hat gekocht &nbsp; - &nbsp; Tomaten-Schicht-Pfanne "Lasagne Art"
 
 <br>
 
