@@ -1,4 +1,4 @@
-# Kurt kocht &nbsp; - &nbsp; Tomaten Runde mit Steak<br>
+# Kurt hat gekocht &nbsp; - &nbsp; Tomaten Runde mit Steak<br>
 ## Ein Abendessen
 
 ### Zutaten:
