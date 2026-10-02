@@ -1,4 +1,4 @@
-# Kurt kocht - Verlorenes Ei in Winter-Tomate
+# Kurt hat gekocht - Verlorenes Ei in Winter-Tomate
 
 ![Zutaten für Verlorenes Ei in Winter-Tomate](assets/15verlei-intomate1.jpg)
 
