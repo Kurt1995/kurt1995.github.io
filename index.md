@@ -43,8 +43,8 @@
     <td style="padding:8px; font-weight:bold;">Pfanne & Topf</td>
   </tr>
   <tr>
-    <td style="padding:6px 8px;"><a href="02-zucchini-pasta.html">Zucchini Pasta</a></td>
-    <td style="padding:6px 8px;"><a href="02-zwiebel-pasta.html">Zwiebel Pasta</a></td>
+    <td style="padding:6px 8px;"><a href="02-zucchini-pasta.html">Zucchini mit Pasta</a></td>
+    <td style="padding:6px 8px;"><a href="02-zwiebel-pasta.html">Zwiebel mit Pasta</a></td>
   </tr>
   <tr>
     <td style="padding:6px 8px;"><a href="24-zucch-nudel.html">Zucchini-Nudel Pfanne</a></td>
