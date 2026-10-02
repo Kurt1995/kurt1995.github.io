@@ -1,4 +1,4 @@
-# Kurt kocht &nbsp; - &nbsp; Spaghetti mit fruchtiger Wildkräuter Bolo
+# Kurt hat gekocht &nbsp; - &nbsp; Spaghetti mit fruchtiger Wildkräuter Bolo
 
 ![Bild 1](assets/46-spaghetti-f-bolo-1.jpg)
 
