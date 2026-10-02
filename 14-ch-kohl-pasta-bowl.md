@@ -1,4 +1,4 @@
-# Kurt kocht &nbsp;– &nbsp;Chinakohl-Spaghetti-Bowl mit Brühe
+# Kurt hat gekocht &nbsp;– &nbsp;Chinakohl-Spaghetti-Bowl mit Brühe
 
 ![Zutatenübersicht](assets/14-china-pasta-bowl-01.jpg)
 
