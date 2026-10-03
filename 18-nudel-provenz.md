@@ -21,6 +21,8 @@
 - **Pasta-Vorrat**: Eine Packung Dinkel-Penne (500 g) in Salzwasser kochen, abgießen, kalt abschrecken und in 4 Portionen aufgeteilt einfrieren.
 - **Schonendes Auftauen**: Am Abend vor dem Verzehr eine Portion Penne in den Kühlschrank stellen.
 
+*Hinweis: Das Gericht schmeckt natürlich auch mit frisch zubereiteten Nudeln.*
+
 #### Zubereitung am Verzehrtag
 
 | ![Tomaten in der Pfanne](assets/18-t-schicht-provenzal-02.jpg) | ![Frischkäse hinzugeben](assets/18-t-schicht-provenzal-04.jpg) | ![Hackfleisch verteilen](assets/18-t-schicht-provenzal-05.jpg) |
