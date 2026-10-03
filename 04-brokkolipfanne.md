@@ -22,6 +22,8 @@ Dieses Rezept ist ein Beispiel für „Volume Eating“ – eine große Portion 
 * **Pasta-Vorrat:** Das Blanchier-Wasser salzen. Eine Packung Vollkornpenne (500 g) in das Wasser geben, passend gar kochen, abgießen, kalt abschrecken und in 4 Portionen aufgeteilt ebenfalls einfrieren.
 * **Schonendes Auftauen:** Am Abend vor dem Verzehr eine Portion Penne und eine Portion Brokkoli in den Kühlschrank stellen.
 
+*Hinweis: Das Gericht schmeckt natürlich auch mit frisch zubereiteten Nudeln.*
+
 ### 2. Zubereitung am Verzehrtag
 1. **Anbraten:** 4 Esslöffel Olivenöl in einer Wok-Pfanne erhitzen und den aufgetauten Brokkoli hinzugeben.
 2. **Würzen:** Mit einigen Spritzern Teriyaki-Sauce, schwarzem Pfeffer und Fondor würzen.
