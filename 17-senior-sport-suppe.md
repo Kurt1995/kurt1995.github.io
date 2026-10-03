@@ -32,6 +32,8 @@ nach einen Sportmorgen mit 1,5 Stunden Ausdauersport
 **Schonendes Auftauen:**
 Eine Portion Penne am Vorabend in den Kühlschrank legen.
 
+*Hinweis: Das Gericht schmeckt natürlich auch mit frisch zubereiteten Nudeln.*
+
 
 #### Zubereitung am Verzehrtag
 
