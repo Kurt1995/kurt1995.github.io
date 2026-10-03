@@ -40,7 +40,11 @@ Dieses Rezept ist ein Beispiel für „Volume Eating“ – eine große Portion 
 
 | und am Abend | ein Süppchen |
 | :---: | :--- |
-| ![brokkolipfanne4.jpg](assets/04brokkolipfanne4.jpg) | **Am Abend schmeckt ein Rest als Süppchen.** <br><br> Sollte von der Brokkoli-Pfanne etwas übrig bleiben, lässt sich daraus mit minimalem Aufwand eine leichte Abendvariante zaubern. <br><br> **Schnelle Zubereitung:** <br> • **Basis**: Die verbliebenen Reste in eine Suppenschale geben und mit ein paar Fleischwürfelchen ergänzen. <br> • **Aufgießen**: Mit heißer Brühe aufgießen und servieren. |
+| ![brokkolipfanne4.jpg](assets/04brokkolipfanne4.jpg) | **Am Abend schmeckt ein Rest als Süppchen.** <br><br> Sollte von der Brokkoli-Pfanne etwas übrig bleiben, lässt sich daraus mit minimalem Aufwand eine leichte Abendvariante zaubern. <br><br> **Schnelle Zubereitung:** <br> • **Basis**: Die verbliebenen Reste in eine Suppenschale geben (und evtl. mit ein paar frischen Fleischwürfelchen ergänzen). <br> • **Aufgießen**: Mit heißer Brühe aufgießen und servieren. |
+
+*Hinweis bei Resten mit Gemüse + Nudeln:  
+Reste 30 Min. ohne Deckel abdampfen lassen, dann abgedeckt in den Kühlschrank (max. 24h). Abends mit sprudelnd kochender Brühe aufgießen, 2-3 Min. ziehen lassen, gut umrühren - bis es durchgehend dampfend heiß ist (>70°C).  
+**Reste nicht bei Zimmertemperatur aufbewahren!***
 
 ---
 
