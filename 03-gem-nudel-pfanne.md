@@ -20,6 +20,8 @@
 Vorsicht: Die Kochzeit für die Dinkel-Penne ist kürzer als bei Hartweizennudeln. Nach ca. 8 min beginnen, den Biss zu testen.
 * **Schonendes Auftauen:** Am Vorabend eine Portion Nudeln in den Kühlschrank stellen, damit sie am Verzehrtag direkt einsatzbereit sind.
 
+*Hinweis: Das Gericht schmeckt natürlich auch mit frisch zubereiteten Nudeln.*
+
 ### Zubereitung am Verzehrtag
 
 <table>
