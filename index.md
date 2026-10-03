@@ -18,7 +18,7 @@
   </tr>
   <tr>
     <td style="padding:6px 8px;"><a href="18-nudel-funghi.html">Tomaten-Schicht-Pfanne "Funghi Note"</a></td>
-    <td style="padding:6px 8px;"><a href="08-gemuese-fsommer.html">Gemüse-Creme „Frühsommer“</a></td>
+    <td style="padding:6px 8px;"><a href="08-gemuse-fsommer.html">Gemüse-Creme „Frühsommer“</a></td>
   </tr>
   <tr>
     <td style="padding:6px 8px;"><a href="18-nudel-bayer.html">Tomaten-Schicht-Pfanne "Bayrische Art"</a></td>
