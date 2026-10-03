@@ -22,6 +22,8 @@
 - **Pasta-Vorrat**: Eine Packung Spiralnudeln (600 g) in Salzwasser kochen, abgießen, kalt abschrecken und in 5 Portionen aufgeteilt einfrieren.
 - **Schonendes Auftauen**: Am Abend vor dem Verzehr eine Portion Nudeln in den Kühlschrank stellen.
 
+*Hinweis: Das Gericht schmeckt natürlich auch mit frisch zubereiteten Nudeln.*
+
 #### Zubereitung am Verzehrtag
 
 <table style="width: 800px; border-collapse: collapse; margin: 0 auto;">
