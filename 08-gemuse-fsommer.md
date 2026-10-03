@@ -32,6 +32,8 @@ Zutaten (für 2 Personen)
 - Schonendes Auftauen:  
   Eine Portion Penne am Vorabend in den Kühlschrank legen.  
 
+*Hinweis: Das Gericht schmeckt natürlich auch mit frisch zubereiteten Nudeln.*
+
 ### Zubereitung am Verzehrtag – Vorbereitung
 
 - Die Paprika und die Zucchini putzen und grob würfeln.  
