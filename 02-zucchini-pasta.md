@@ -18,6 +18,8 @@
 1. **Pasta-Vorrat:** Eine Packung Spaghetti (500 g) in Salzwasser kochen, abgießen und in 4 Portionen aufgeteilt einfrieren.
 2. **Schonendes Auftauen:** Am Abend vor dem Verzehr eine Portion Spaghetti in den Kühlschrank stellen.
 
+*Hinweis: Das Gericht schmeckt natürlich auch mit frisch zubereiteten Nudeln.*
+
 ### Zubereitung am Verzehrtag
 
 1. 3 Esslöffel Olivenöl in eine Wok-Pfanne geben.
