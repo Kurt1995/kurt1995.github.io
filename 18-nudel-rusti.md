@@ -91,12 +91,12 @@ Basiert auf den Zutaten: 600g Tomaten, 100g rote Paprika, 80g Zwiebel, 150g Hack
   <tbody>
     <tr>
       <td>Kalorien</td>
-      <td>ca. 1.100 kcal</td>
+      <td>ca. 1.280 kcal</td>
       <td>Hauptenergie aus Dinkel-Penne, Hackfleisch und Olivenöl</td>
     </tr>
     <tr>
       <td>Eiweiß</td>
-      <td>ca. 52 g</td>
+      <td>ca. 60 g</td>
       <td>Aus Hackfleisch, Dinkel-Penne und Champignons</td>
     </tr>
     <tr>
@@ -106,22 +106,22 @@ Basiert auf den Zutaten: 600g Tomaten, 100g rote Paprika, 80g Zwiebel, 150g Hack
     </tr>
     <tr>
       <td>davon Zucker</td>
-      <td>ca. 15–20 g</td>
+      <td>ca. 25-30 g</td>
       <td>Natürlicher Fruchtzucker der Tomaten und Paprika</td>
     </tr>
     <tr>
       <td>Fett (gesamt)</td>
-      <td>ca. 43 g</td>
+      <td>ca. 60 g</td>
       <td>Aus Olivenöl und Hackfleisch</td>
     </tr>
     <tr>
       <td>Gesättigte Fettsäuren</td>
-      <td>ca. 10–12 g</td>
+      <td>ca. 15 g</td>
       <td>Aus Hackfleisch</td>
     </tr>
     <tr>
       <td>Ballaststoffe</td>
-      <td>ca. 17 g</td>
+      <td>ca. 20 g</td>
       <td>Aus Tomaten, Champignons und den Dinkel-Penne</td>
     </tr>
   </tbody>
@@ -154,8 +154,8 @@ Basiert auf den Zutaten: 600g Tomaten, 100g rote Paprika, 80g Zwiebel, 150g Hack
     </tr>
     <tr>
       <td>Vitamin B2 + B3</td>
-      <td>Hoch</td>
-      <td>Sehr hoch aus Champignons und Hackfleisch</td>
+      <td>8-10mg Niacin (B3)</td>
+      <td>50-65% - hoch aus Champignons und Hackfleisch</td>
     </tr>
     <tr>
       <td>Vitamin K</td>
@@ -164,8 +164,8 @@ Basiert auf den Zutaten: 600g Tomaten, 100g rote Paprika, 80g Zwiebel, 150g Hack
     </tr>
     <tr>
       <td>Kalium</td>
-      <td>ca. 2.000 mg</td>
-      <td>~45–50 % (sehr gut für Blutdruck und Muskeln)</td>
+      <td>ca. 3.000 mg</td>
+      <td>~70-75 % (sehr gut für Blutdruck und Muskeln)</td>
     </tr>
     <tr>
       <td>Selen</td>
