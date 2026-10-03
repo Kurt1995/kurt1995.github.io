@@ -30,6 +30,8 @@
 2. **Schonendes Auftauen**  
    Eine Portion Penne am Vorabend in den Kühlschrank legen.
 
+*Hinweis: Das Gericht schmeckt natürlich auch mit frisch zubereiteten Nudeln.*
+
 #### Zubereitung am Verzehrtag
 1. **Eier pochieren**  
    1,5 l Wasser erhitzen, bis es siedet (nicht sprudelnd kocht).  
