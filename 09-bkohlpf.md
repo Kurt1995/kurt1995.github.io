@@ -20,6 +20,8 @@
 2. **Zwiebeln**: In Streifen schneiden, ebenfalls blanchieren, aber nur kurz. Beides zusammen abkühlen lassen und einfrieren.
 3. **Pasta**: Das Blanchierwasser salzen, eine Packung Penne darin vorkochen und portionsweise einfrieren.
 4. ***Fleisch**: Den Grill-Rest der Dicken Rippe würfeln und ebenfalls einfrieren.*
+5. *Hinweis: Das Gericht schmeckt natürlich auch mit frisch zubereiteten Nudeln.*
+
 
 ![Bild: Zutaten Blumenkohl Pfanne](assets/09bluhmenkohlpfanne2.jpg)
 
