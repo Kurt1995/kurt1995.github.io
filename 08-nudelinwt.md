@@ -21,6 +21,8 @@ Diese wärmende, tomatenbetonte Hauptmahlzeit bietet eine solide Proteinbasis un
 1. Eine Packung Dinkel-Penne (500 g) in Salzwasser kochen, abgießen, kalt abschrecken und in 4 Portionen aufgeteilt einfrieren.
 2. Am Abend vor dem Verzehr eine Portion im Kühlschrank schonend auftauen lassen.
 
+*Hinweis: Das Gericht schmeckt natürlich auch mit frisch zubereiteten Nudeln.*
+
 ### Zubereitung am Verzehrtag
 1. Dosentomaten, Tomatenmark und Wasser in einen Topf geben, erhitzen und vermengen.
 2. Pilze, Kräuter und Gewürze hinzufügen.
