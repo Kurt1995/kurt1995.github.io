@@ -57,6 +57,10 @@
 | :---: | :--- |
 | ![09bluhmenkohlpfanne4.jpg](assets/24-zucch-nudel-11.jpg) | **Am Abend schmeckt ein Rest als Süppchen.** <br><br> Sollte von der Zucchini-Nudel Pfanne etwas übrig bleiben, lässt sich daraus mit minimalem Aufwand eine leichte Abendvariante zaubern. <br><br> **Schnelle Zubereitung:** <br> • **Basis**: Die verbliebenen Reste in eine Suppenschale geben. <br> • **Aufgießen**: Mit heißer Brühe aufgießen und servieren. |
 
+*Hinweis bei Resten mit Hack + Gemüse + Nudeln:  
+Reste 30 Min. ohne Deckel abdampfen lassen, dann abgedeckt in den Kühlschrank (max. 24h). Abends mit sprudelnd kochender Brühe aufgießen, 2-3 Min. ziehen lassen, gut umrühren - bis es durchgehend dampfend heiß ist (>70°C).  
+**Reste nicht bei Zimmertemperatur aufbewahren!***
+
 ---
 
 ## COPILOT's Gesundheits-Check: Warum dieses Gericht punktet
