@@ -20,6 +20,8 @@
 - Pasta-Vorrat: Eine Packung Spaghetti (500 g) in Salzwasser kochen, abgießen, kalt abschrecken und in 2 Portionen aufgeteilt einfrieren.  
 - Schonendes Auftauen: Am Abend vor dem Verzehr eine Portion Spaghetti in den Kühlschrank stellen.
 
+*Hinweis: Das Gericht schmeckt natürlich auch mit frisch zubereiteten Nudeln.*
+
 #### Zubereitung am Verzehrtag
 - Die Tomaten und die Paprika in grobe Stücke schneiden und mit dem Wasser aufsetzen.  
 - Bei mittlerer Hitze kurz aufkochen. Bei kleiner Hitze ca. 3 Minuten köcheln.  
