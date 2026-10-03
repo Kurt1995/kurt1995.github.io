@@ -21,6 +21,8 @@ Dieses Gericht besticht durch seine effiziente Vorratsküche und die kurze Zuber
 * **Pasta-Vorrat:** Eine 600 g Packung Spiralnudeln in Salzwasser kochen, abgießen, kalt abschrecken und in 5 Portionen (je ca. 120 g) aufgeteilt einfrieren.
 * **Schonendes Auftauen:** Am Vorabend eine Portion Nudeln in den Kühlschrank stellen, damit sie am Verzehrtag direkt einsatzbereit sind.
 
+*Hinweis: Das Gericht schmeckt natürlich auch mit frisch zubereiteten Nudeln.*
+
 ### Zubereitung am Verzehrtag
 1. **Pilz-Basis:** Die frischen Champignons je nach Größe vierteln oder sechsteln. In einer Wok-Pfanne mit ca. 4 Esslöffeln Öl scharf anbraten und mit einigen Spritzern Teriyaki-Sauce verfeinern.
 2. **Gemüse-Zeit:** Nach ca. 5 Minuten die gewürfelten Zucchini und Paprika hinzugeben. Bei mittlerer Hitze mitbraten, damit das Gemüse knackig bleibt.
