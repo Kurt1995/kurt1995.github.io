@@ -78,16 +78,117 @@ Das Ergebnis ist ein abwechslungsreiches Mundgefühl, bei dem man mit jedem Biss
 ### Hauptnährwerte für das Gesamtgericht
 
 Basiert auf den Zutaten: 600g Tomaten, 100g rote Paprika, 80g Zwiebel, 150g Hackfleisch gemischt, 125g Dinkel-Penne (Trockengewicht), 200g Champignons, 30g Olivenöl (ca. 3 EL).
-#### Makronährstoffe
-- Energie (Kalorien): ca. 1.100 kcal
-- Kohlenhydrate: ca. 130 g (davon Ballaststoffe: ca. 17 g)
-- Protein (Eiweiß): ca. 52 g
-- Fett: ca. 43 g (hauptsächlich ungesättigte Fettsäuren aus Olivenöl)
 
-#### Mikronährstoffe (Schätzung):
-- Vitamin C: ca. 150 mg (über 150 % des Tagesbedarfs, vor allem durch Paprika & Tomaten)
-- Kalium: ca. 2.000 mg (wichtig für Blutdruck und Muskeln)
-- Lycopin: ca. 20 mg (stark entzündungshemmend)
+<h3>Makronährstoffe</h3>
+<table>
+  <thead>
+    <tr>
+      <th>Nährstoff</th>
+      <th>Menge</th>
+      <th>Anmerkung</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Kalorien</td>
+      <td>ca. 1.100 kcal</td>
+      <td>Hauptenergie aus Dinkel-Penne, Hackfleisch und Olivenöl</td>
+    </tr>
+    <tr>
+      <td>Eiweiß</td>
+      <td>ca. 52 g</td>
+      <td>Aus Hackfleisch, Dinkel-Penne und Champignons</td>
+    </tr>
+    <tr>
+      <td>Kohlenhydrate</td>
+      <td>ca. 130 g</td>
+      <td>Fast komplett aus den Dinkel-Penne und Tomaten</td>
+    </tr>
+    <tr>
+      <td>davon Zucker</td>
+      <td>ca. 15–20 g</td>
+      <td>Natürlicher Fruchtzucker der Tomaten und Paprika</td>
+    </tr>
+    <tr>
+      <td>Fett (gesamt)</td>
+      <td>ca. 43 g</td>
+      <td>Aus Olivenöl und Hackfleisch</td>
+    </tr>
+    <tr>
+      <td>Gesättigte Fettsäuren</td>
+      <td>ca. 10–12 g</td>
+      <td>Aus Hackfleisch</td>
+    </tr>
+    <tr>
+      <td>Ballaststoffe</td>
+      <td>ca. 17 g</td>
+      <td>Aus Tomaten, Champignons und den Dinkel-Penne</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3>Mikronährstoffe (Vitamine &amp; Mineralstoffe)</h3>
+<table>
+  <thead>
+    <tr>
+      <th>Nährstoff</th>
+      <th>Menge</th>
+      <th>Deckungsbeitrag pro Tag</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Vitamin C</td>
+      <td>ca. 150 mg</td>
+      <td>~150–170 % des Tagesbedarfs – vor allem durch Paprika &amp; Tomaten</td>
+    </tr>
+    <tr>
+      <td>Vitamin A (als Beta-Carotin)</td>
+      <td>ca. 500–600 µg</td>
+      <td>~60–75 % des Tagesbedarfs – aus roter Paprika</td>
+    </tr>
+    <tr>
+      <td>Vitamin D</td>
+      <td>ca. 1–2 µg</td>
+      <td>~10–20 % – aus Champignons</td>
+    </tr>
+    <tr>
+      <td>Vitamin B2 + B3</td>
+      <td>Hoch</td>
+      <td>Sehr hoch aus Champignons und Hackfleisch</td>
+    </tr>
+    <tr>
+      <td>Vitamin K</td>
+      <td>ca. 20–30 µg</td>
+      <td>~20–30 %</td>
+    </tr>
+    <tr>
+      <td>Kalium</td>
+      <td>ca. 2.000 mg</td>
+      <td>~45–50 % (sehr gut für Blutdruck und Muskeln)</td>
+    </tr>
+    <tr>
+      <td>Selen</td>
+      <td>ca. 20–30 µg</td>
+      <td>~35–40 % – aus Hack + Pilzen</td>
+    </tr>
+    <tr>
+      <td>Zink</td>
+      <td>ca. 3–5 mg Zink</td>
+      <td>~30–40 % Zink – aus Hack + Pilzen</td>
+    </tr>
+    <tr>
+      <td>Lycopin</td>
+      <td>ca. 20 mg</td>
+      <td>Hoch (starkes Antioxidans, entzündungshemmend) – aus Tomaten</td>
+    </tr>
+    <tr>
+      <td>Folsäure</td>
+      <td>ca. 80–100 µg</td>
+      <td>~25–30 %</td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
