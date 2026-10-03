@@ -7,9 +7,9 @@
 ### Zutaten
 
 - **Tomaten** (ca. 600 g)
-- **1 rote Paprika** (ich nehme nur eine Hälfte für das Gericht)
+- **1 kleine rote Paprika**
 - **1 Zwiebel**
-- **130 g Hackfleisch**, gemischt (halb und halb)
+- **150 g Hackfleisch**, gemischt (halb und halb)
 - **125 g Dinkel-Penne** (Trockenmenge)
 - **200 g Champignons**
 - **3 Esslöffel Olivenöl**
@@ -21,6 +21,8 @@
 
 - **Pasta-Vorrat**: Eine Packung Dinkel-Penne (500 g) in Salzwasser kochen, abgießen, kalt abschrecken und in 4 Portionen aufgeteilt einfrieren.
 - **Schonendes Auftauen**: Am Abend vor dem Verzehr eine Portion Penne in den Kühlschrank stellen.
+
+*Hinweis: Das Gericht schmeckt natürlich auch mit frisch zubereiteten Nudeln.*
 
 #### Zubereitung am Verzehrtag
 
@@ -75,7 +77,7 @@ Das Ergebnis ist ein abwechslungsreiches Mundgefühl, bei dem man mit jedem Biss
 
 ### Hauptnährwerte für das Gesamtgericht
 
-Basiert auf den Zutaten: 600g Tomaten, 100g rote Paprika, 80g Zwiebel, 130g Hackfleisch gemischt, 125g Dinkel-Penne (Trockengewicht), 200g Champignons, 30g Olivenöl (ca. 3 EL).
+Basiert auf den Zutaten: 600g Tomaten, 100g rote Paprika, 80g Zwiebel, 150g Hackfleisch gemischt, 125g Dinkel-Penne (Trockengewicht), 200g Champignons, 30g Olivenöl (ca. 3 EL).
 #### Makronährstoffe
 - Energie (Kalorien): ca. 1.100 kcal
 - Kohlenhydrate: ca. 130 g (davon Ballaststoffe: ca. 17 g)
