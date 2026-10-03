@@ -1,5 +1,5 @@
-# Kurt hat gekocht &nbsp; – &nbsp; Ideen für den Alltag
-## *einfache Zutaten, schnelle Zubereitung und bewusstes Essen<br>in einer gemüsefreundlichen Küche*
+# Kurt kocht &nbsp; – &nbsp; Ideen für den Alltag
+## *einfache Zutaten, schnelle Zubereitung und entspanntes Essen<br>in einer gemüsefreundlichen Küche*
 
 ##### Tipp 1: Handy quer, dann passen die Seiten besser.<br>Tipp 2: Hier gibt es eine kleine Übersicht über [Zutaten und Küchenhelfer,](99-zutaten-helfer.md) die ich verwende.
 
