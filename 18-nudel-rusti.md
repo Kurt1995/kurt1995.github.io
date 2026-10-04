@@ -38,14 +38,22 @@
 6.  Das Hackfleisch nach Geschmack mit Salz, Pfeffer würzen und in Flocken hinzugeben.
 7.  Mit den Nudeln bedecken.
 8.  ca. 8 Minuten bei mittlerer Hitze mit Deckel schmoren / garen.
-9.  Die Pfanne vom Feuer nehmen (kann auch auf ganz kleiner Flamme warm gehalten werden) und servieren.
-10.  Am Tisch nach Geschmack mit etwas Salz nachwürzen.
 
----
+<table>
+  <tr>
+    <td><img src="assets/18-t-schicht-rusti-09.jpg" alt="Servieren" width="712"></td>
+    <td align="center"> <i>und so soll es dann aussehen<br><br>die Tomaten sind nicht zu weich geschmort<br><br>das Hack, die Zwiebeln und die Pilze wurden im Dampf gegart<br><br>die Nudeln sind durchgewärmt<br><br>und<br>am Pfannenboden haben sich<br>Tomaten- und Pilzsaft<br>zu einem leckeren Sud gesammelt</i></td>
+  </tr>
+</table>
 
-![Angerichtet](assets/18-t-schicht-rusti-09.jpg)
+9. Servieren und nach Geschmack mit ein wenig Salz das Umami verstärken.
+
+![Angerichtet](assets/18-t-schicht-rusti-10.jpg)
 *Vorsicht! Die Tomatenstücke bleiben unerwartet lange heiss!*
-<br>
+
+*Hinweis zu den letzten beiden Bildern: 
+Heute hatte ich braune Champignons, die ich etwas gröber gewürfelt habe. Dadurch werden sie später in der Schüssel 
+sowohl vom Biss als auch geschmacklich erkennbarer.*
 
 ---
 
@@ -57,9 +65,8 @@ Mineralstoffe (wie Magnesium und Eisen).
 Sie wirkt präbiotisch und kann den Blutzuckeranstieg minimal abmildern.
 3. Lycopin durch geschmorte Tomaten: Tomaten sind reich an Lycopin (einem starken Antioxidans). Dieses Lycopin wird durch das Erhitzen und die Zugabe von Fett 
 (Olivenöl) für den menschlichen Körper gut bioverfügbar. 
-4. Das Zwiebel-Geheimnis: Durch das Schneiden in dünne Scheiben garen die Zwiebeln in der kurzen Zeit glasig und weich.<br>
-Da sie auf den Tomaten 
-liegend im heißen Wasserdampf gedämpft statt scharf angebraten werden, verbrennen sie nicht und behalten ihre ätherischen Öle. 
+4. Das Zwiebel-Geheimnis: Durch das Schneiden in dünne Scheiben garen die Zwiebeln in der kurzen Zeit passend weich.<br>
+Da sie auf den Tomaten liegend im heißen Wasserdampf gedämpft statt scharf angebraten werden, verbrennen sie nicht und behalten ihre ätherischen Öle. 
 5. Schonendes Garen im eigenen Saft (Dampf-Effekt): Dadurch, dass die Zutaten geschichtet und bei geschlossenem Deckel gegart werden, dämpfen das Hackfleisch und 
 die Pilze im aufsteigenden Saft der Tomaten und Zwiebeln.<br>
 Vitamine und Mineralstoffe bleiben in der Pfanne gefangen und gehen nicht verloren.
@@ -67,11 +74,10 @@ Vitamine und Mineralstoffe bleiben in der Pfanne gefangen und gehen nicht verlor
 
 ---
 
-### Praxis Check: So schmeckt es dann
-Sensorisch lebt dieses saftige Gericht vom Zusammenspiel seiner drei Hauptspieler: Tomate, Hackfleisch und Zwiebel.<br>
-Die anderen Zutaten bleiben im Hintergrund. Sie runden das Gericht ab, verbinden und geben zusätzlichen Biss.<br>
-Je nachdem, wie der Löffel / die Gabel beladen ist, verschieben sich die Geschmacksnuancen beim Essen.<br>
-Das Ergebnis ist ein abwechslungsreiches Mundgefühl, bei dem man mit jedem Bissen ein anderes Gaumenerlebnis bekommt.
+### Kurt's Praxis Check: So schmeckt es dann
+Saftig mit deutlich erkennbaren Spielern: Die Tomaten, fruchtig säuerlich, sind bei jedem Löffel, auf dem sie landen, ein Hoppla-Ja.  
+Die anderen teilen sich das Spielfeld. Je nachdem, wie der Löffel / die Gabel beladen ist, verschieben sich die Biss- und Geschmacksnuancen.  
+Das Ergebnis ist ein abwechslungsreiches Mundgefühl, bei dem man mit jedem Kauen ein anderes Gaumenerlebnis bekommt.
 
 ---
 
