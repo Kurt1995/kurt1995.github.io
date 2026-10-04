@@ -46,7 +46,7 @@
   </tr>
 </table>
 
-Servieren und nach Geschmack mit ein wenig Salz das Umami verstärken.
+Servieren und nach Geschmack das Umami mit ein wenig Salz verstärken.
 
 ![Angerichtet](assets/18-t-schicht-rusti-10.jpg)
 *Vorsicht! Die Tomatenstücke bleiben unerwartet lange heiss!*
