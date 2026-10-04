@@ -49,10 +49,10 @@
 Servieren und nach Geschmack das Umami mit ein wenig Salz verstärken.
 
 ![Angerichtet](assets/18-t-schicht-rusti-10.jpg)
-*Vorsicht! Die Tomatenstücke bleiben unerwartet lange heiss!*
+*Vorsicht! Die Tomatenstücke bleiben unerwartet lange heiß!*
 
 *Hinweis zu den letzten beiden Bildern: 
-Heute hatte ich keine Paprika und braune statt weißer Champignons. Und die habe ich etwas gröber gewürfelt. Dadurch werden sie später in der Schüssel sowohl vom Biss als auch geschmacklich erkennbarer.*
+Heute ohne Paprika, dafür mit braunen statt weißen Champignons - und etwas gröber gewürfelt. Dadurch sind sie später in der Schüssel sowohl vom Biss als auch geschmacklich besser erkennbar.*
 
 ---
 
