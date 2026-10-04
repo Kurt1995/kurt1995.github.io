@@ -37,7 +37,7 @@
 5.  Die Pilze würfeln und in der Pfanne verteilen.
 6.  Das Hackfleisch nach Geschmack mit Salz, Pfeffer würzen und in Flocken hinzugeben.
 7.  Mit den Nudeln bedecken.
-8.  ca. 8 Minuten bei mittlerer Hitze mit Deckel schmoren / garen.
+8.  Ca. 8 Minuten bei mittlerer Hitze mit Deckel schmoren / garen.
 
 <table>
   <tr>
