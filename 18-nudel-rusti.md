@@ -34,11 +34,11 @@
 2.  Die Tomaten in dicke Scheiben schneiden und den Pfannenboden auslegen. Mit schwarzem Pfeffer würzen.
 3.  Die Zwiebel putzen, in dünne Scheiben schneiden und die Tomaten belegen.
 4.  Die Paprika in ganz kleine Würfel schneiden, dazugeben.
-5.  Die Pilze klein würfeln und in der Pfanne verteilen.
+5.  Die Pilze würfeln und in der Pfanne verteilen.
 6.  Das Hackfleisch nach Geschmack mit Salz, Pfeffer würzen und in Flocken hinzugeben.
 7.  Mit den Nudeln bedecken.
-8.  7 – 8 Minuten bei mittlerer Hitze mit Deckel schmoren / garen.
-9.  Wenn das Hack gar ist, die Pfanne vom Feuer nehmen (kann auch auf ganz kleiner Flamme warm gehalten werden) und servieren.
+8.  ca. 8 Minuten bei mittlerer Hitze mit Deckel schmoren / garen.
+9.  Die Pfanne vom Feuer nehmen (kann auch auf ganz kleiner Flamme warm gehalten werden) und servieren.
 10.  Am Tisch nach Geschmack mit etwas Salz nachwürzen.
 
 ---
