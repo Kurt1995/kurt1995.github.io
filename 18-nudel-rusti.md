@@ -52,8 +52,7 @@ Servieren und nach Geschmack das Umami mit ein wenig Salz verstärken.
 *Vorsicht! Die Tomatenstücke bleiben unerwartet lange heiss!*
 
 *Hinweis zu den letzten beiden Bildern: 
-Heute hatte ich braune Champignons, die ich etwas gröber gewürfelt habe. Dadurch werden sie später in der Schüssel 
-sowohl vom Biss als auch geschmacklich erkennbarer.*
+Heute hatte ich keine Paprika und braune Champignons, die ich etwas gröber gewürfelt habe. Dadurch werden sie später in der Schüssel sowohl vom Biss als auch geschmacklich erkennbarer.*
 
 ---
 
