@@ -27,7 +27,8 @@ Aus ernährungswissenschaftlicher Sicht greifen die drei Komponenten nämlich ü
 - Gedrosselte Dosis: Da der Käse intensiv schmeckt, reicht meist schon eine kleine Menge, was die Gesamtkalorien- und Salzmenge im Rahmen hält. 
 3. Der kleine Kick: Ketchup (Die Geheimzutat)  
 - Lycopin-Lieferant: Konzentriertes Tomatenmark (die Basis für Ketchup) ist reich an Lycopin – einem der stärksten pflanzlichen Antioxidantien, das Zellstrukturen schützt. 
-- Minimalprinzip zählt: Solange Ketchup sparsam als Würz-Akzent (wie ein Frucht-Chutney) dosiert wird, fällt der enthaltene Zucker kaum ins Gewicht. 
+- Minimalprinzip zählt: Solange Ketchup sparsam als Würz-Akzent (wie ein Frucht-Chutney) dosiert wird, fällt der enthaltene Zucker kaum ins Gewicht.
+
 Fazit: Eine unerwartete Kombination, die komplexe Kohlenhydrate, gesunde Fette, Proteine und mikrobiologische Vielfalt auf das Abendbrot-Brett bringt! 
 
 ---
