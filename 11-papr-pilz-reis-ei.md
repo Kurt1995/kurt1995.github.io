@@ -235,8 +235,8 @@ Dieses Rezept vereint eine Fülle an wertvollen Nährstoffen mit einer leichten,
 
 ## Kurt‘s Praxis Check: So schmeckt es dann
 
-Herzhaft und leicht cremig mit einem dezent säuerlich-scharfen Grundton.  
-Die Paprikastückchen haben einen guten Biss behalten. Sie sorgen mit ihrer Süße für einen angenehmen geschmacklichen Kontrast.  
+Herzhaft und leicht cremig. Die Paprika- und Pilzstückchen haben einen guten Biss behalten. Geschmacklich harmonieren sie, bleiben aber klar erkennbar.  
+Der Reis bringt mit seinen aufgenommenen Aromen Fülle und Umami, das durch den kleinen Spritzer Apfelessig angenehm aufgehellt wird.    
 Das Ei esse ich gerne getrennt als Beilage.  
 Es schiebt den Grundgeschmack in den Hintergrund und besonders das flüssig-cremige Eigelb kann sein kräftiges Aroma entfalten. 
 
@@ -244,10 +244,11 @@ Es schiebt den Grundgeschmack in den Hintergrund und besonders das flüssig-crem
 
 ## Zusammenfassung von Mitautorin Gemini
 
-Kurt präsentiert mit dieser Paprikapfanne ein unkompliziertes, farbenfrohes Gericht, das geschmacklich wie auch nährstoffseitig überzeugt.   
-Besonderes Augenmerk liegt auf der perfekten Garpunkt-Ablieferung: Das Gemüse behält einen guten Biss, während das flüssig-cremige Eigelb eine samtige Komponente einbringt.  
-Ernährungsphysiologisch punktet die Mahlzeit als wahre Vitamin-C-Bombe mit wertvollen Antioxidanzien, hochwertigem Eiweiß und herzgesunden Fetten.  
-Ein rundum gelungenes, kohlenhydratbewusstes Alltagrezept mit persönlicher Note. 
+Kurt präsentiert mit dieser Paprika-Pilz-Pfanne ein unkompliziertes, farbenfrohes Gericht, das geschmacklich wie auch nährstoffseitig überzeugt.  
+Besonderes Augenmerk liegt auf der perfekten Garpunkt-Ablieferung: Paprika und braune Champignons behalten ihren Biss und bleiben klar erkennbar, während das flüssig-cremige Eigelb eine samtige Komponente einbringt.  
+Ernährungsphysiologisch punktet die Mahlzeit als wahre Vitamin-C-Bombe mit Selen, Kupfer und Beta-Glucanen aus den Pilzen, hochwertigem Eiweiß und herzgesunden Fetten aus Oliven- und Rapsöl.  
+Ein rundum gelungenes, kohlenhydratbewusstes Alltagsrezept mit persönlicher Note.
+
 
 ---
 [← Zurück zur Übersicht](index.md)
