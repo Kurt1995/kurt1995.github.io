@@ -60,6 +60,27 @@ Das Ergebnis: Nach 30 Minuten bei kleiner Hitze mit Deckel ist die gesamte Brüh
 
 ### Das Gemüse
 
+<table>
+  <tr>
+    <td><img src="assets/11-paprika-pilz-reis-ei-11.jpg" alt="Schritt 1"></td>
+    <td><img src="assets/11-paprika-pilz-reis-ei-12.jpg" alt="Schritt 2"></td>
+    <td><img src="assets/11-paprika-pilz-reis-ei-13.jpg" alt="Schritt 3"></td>
+  </tr>
+  <tr>
+    <td align="center"><span style="font-size: 0.8em;">Paprika und Pilze in die Pfanne geben</span></td>
+    <td align="center"><span style="font-size: 0.8em;">Mit Deckel schmoren</span></td>
+    <td align="center"><span style="font-size: 0.8em;">Den Reis dazugeben</span></td>
+  </tr>
+</table>
+
+-	Die Öle in der Pfanne verteilen. 
+- Die Paprika putzen, würfeln und hinzugeben. 
+-	Die Pilze grob würfeln und mit den Paprikastücken vermischen.
+- Großzügig mit schwarzem Pfeffer und dem Rosenpaprikapulver würzen.
+-	Ca. 8 Minuten bei mittlerer bis großer Hitze mit Deckel schmoren. Öfter umrühren.
+-	Zwischendurch den Apfelessig hinzugeben.
+- Wenn die Pfanne zu trocken wird, etwas Wasser hinzugeben.
+
 ### Die Eier
 
 <table>
