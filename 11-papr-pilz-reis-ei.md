@@ -111,111 +111,124 @@ Das Ergebnis: Nach 30 Minuten bei kleiner Hitze mit Deckel ist die gesamte Brüh
 ## Gemini‘s Gesundheits-Check: Warum dieses Gericht punktet 
 Dieses Rezept vereint eine Fülle an wertvollen Nährstoffen mit einer leichten, gut bekömmlichen Zusammensetzung: 
 - **Vitamin-C-Bombe Paprika:** Rote Paprika zählt zu den besten natürlichen Vitamin-C-Lieferanten. Das schützt das Immunsystem und fördert die Zellgesundheit. 
-- **Lycopin aus Tomatenmark:** Durch das dreifach konzentrierte Tomatenmark und das sanfte Schmoren in hochwertigem Fett wird der Antioxidanzien-Komplex Lycopin besonders gut vom Körper aufgenommen. 
+- **Mineralstoff-Plus aus braunen Champignons:** 200 g Champignons bringen Selen für die Schilddrüse, Kupfer für das Immunsystem, Phosphor für Knochen sowie Beta-Glucane und Ergothionein als antioxidative Schutzstoffe. Gleichzeitig sind sie sehr kalorienarm. 
 - **Hochwertiges Eiweiß:** Die Eier liefern essenzielle Aminosäuren mit hoher biologischer Wertigkeit, die den Muskelerhalt unterstützen und für eine langanhaltende Sättigung sorgen. 
 - **Gesunde Fettsäurekombination:** Die Nutzung von kaltgepresstem Oliven- und Rapsöl sichert ein optimales Verhältnis von einfach und mehrfach ungesättigten Fettsäuren (darunter Omega-3), was Herz und Gefäßen zugutekommt. 
-- **Leicht & ausgewogen:** Durch den moderaten Reisanteil bleibt das Gericht kohlenhydratbewusst und belastet den Blutzuckerspiegel kaum.  
+- **Leicht & ausgewogen + kleiner Säure-Kick:** Durch den moderaten Reisanteil bleibt das Gericht kohlenhydratbewusst. Der ½ TL Apfelessig hellt nicht nur geschmacklich auf, sondern kann die Mineralstoffaufnahme unterstützen und belastet den Blutzuckerspiegel kaum.  
 
 ---
 
-## Makronährstoffe für 1 Portion = 2 Teller
+## Makronährstoffe für 1 Portion (halbe Zutatenmenge)
 
-<table>
-  <tr>
-    <td><strong>Nährstoff</strong></td>
-    <td><strong>Menge</strong></td>
-    <td><strong>Anmerkung</strong></td>
-  </tr>
-  <tr>
-    <td>Kalorien</td>
-    <td>ca. 530 kcal</td>
-    <td>Hauptenergie aus Eiern, Ölen/Margarine und Reis</td>
-  </tr>
-  <tr>
-    <td>Eiweiß</td>
-    <td>ca. 21 g</td>
-    <td>Hauptsächlich aus den Eiern und dem Reis</td>
-  </tr>
-  <tr>
-    <td>Kohlenhydrate</td>
-    <td>ca. 49 g</td>
-    <td>Aus Reis, Paprika und Tomatenmark</td>
-  </tr>
-  <tr>
-    <td>davon Zucker</td>
-    <td>ca. 20 g</td>
-    <td>Natürlicher Fruchtzucker aus Paprika und Tomatenmark</td>
-  </tr>
-  <tr>
-    <td>Fett (gesamt)</td>
-    <td>ca. 27 g</td>
-    <td>Aus den Ölen, Margarine und dem Eigelb</td>
-  </tr>
-  <tr>
-    <td>Gesättigte Fettsäuren</td>
-    <td>ca. 5 g</td>
-    <td>Aus dem Eigelb und Margarine</td>
-  </tr>
-  <tr>
-    <td>Ballaststoffe</td>
-    <td>ca. 9 g</td>
-    <td>Reichlich aus der Paprika und dem Tomatenmark</td>
-  </tr>
+<table style="width: 800px; border-collapse: collapse; font-family: sans-serif;">
+  <thead>
+    <tr style="border-bottom: 2px solid #000;">
+      <th style="width: 170px; text-align: left; padding: 8px; border: 1px solid #000;">Nährstoff</th>
+      <th style="width: 170px; text-align: center; padding: 8px; border: 1px solid #000;">Menge</th>
+      <th style="text-align: left; padding: 8px; border: 1px solid #000;">Anmerkung</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">Kalorien</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 540 kcal</td>
+      <td style="padding: 8px; border: 1px solid #000;">Eier ca. 168, Öle/Margarine ca. 173, Reis ca. 105, Paprika ca. 78, Champignons ca. 22</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">Eiweiß</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 23 g</td>
+      <td style="padding: 8px; border: 1px solid #000;">Eier ca. 15 g + Champignons ca. 3 g + Reis ca. 2,1 g + Paprika ca. 3 g</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">Kohlenhydrate</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 42 g</td>
+      <td style="padding: 8px; border: 1px solid #000;">Reis ca. 22,5 g + Paprika ca. 18 g</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">davon Zucker</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 13 g</td>
+      <td style="padding: 8px; border: 1px solid #000;">Natürlicher Fruchtzucker aus Paprika.</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">Fett gesamt</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 28-30 g</td>
+      <td style="padding: 8px; border: 1px solid #000;">2 EL Olivenöl, 1 EL Rapsöl, Eigelb, Margarine</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">Gesättigte FS</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 6 g</td>
+      <td style="padding: 8px; border: 1px solid #000;">Eigelb + Margarine + Olivenöl</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">Ballaststoffe</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 8 g</td>
+      <td style="padding: 8px; border: 1px solid #000;">Paprika ca. 6 g + Champignons ca. 1,5 g + Reis ca. 0,6 g</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">Salz</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 1,2 g</td>
+      <td style="padding: 8px; border: 1px solid #000;">Fast nur aus Brühwürfel, je nach Würfel stark variabel</td>
+    </tr>
+  </tbody>
 </table>
 
-## Mikronährstoffe (Vitamine & Mineralstoffe) für 1 Portion = 2 Teller
+## Mikronährstoffe - Vitamine & Mineralstoffe für 1 Portion (halbe Zutatenmenge)
 
-<table>
-  <tr>
-    <td><strong>Nährstoff</strong></td>
-    <td><strong>Menge</strong></td>
-    <td><strong>Deckungsbeitrag pro Tag</strong></td>
-  </tr>
-  <tr>
-    <td>Vitamin C</td>
-    <td>ca. 350 – 400 mg</td>
-    <td>~ 350 – 400 % (exzellenter Wert aus Paprika und Tomatenmark)</td>
-  </tr>
-  <tr>
-    <td>Vitamin A (als Beta-Carotin)</td>
-    <td>ca. 550 – 600 µg</td>
-    <td>~ 80 % (aus Beta-Carotin der Paprika + Retinol im Eigelb)</td>
-  </tr>
-  <tr>
-    <td>Vitamin D</td>
-    <td>ca. 2,5 – 3 µg</td>
-    <td>~ 12 – 15 % (aus dem Eigelb)</td>
-  </tr>
-  <tr>
-    <td>Vitamin B2 (Riboflavin) & B12</td>
-    <td>Hoch</td>
-    <td>Sehr gut abgedeckt (B2 aus Eiern & Paprika; B12 exklusiv aus Eiern)</td>
-  </tr>
-  <tr>
-    <td>Vitamin K</td>
-    <td>ca. 30 µg</td>
-    <td>~ 40 %</td>
-  </tr>
-  <tr>
-    <td>Kalium</td>
-    <td>ca. 1100 – 1300 mg</td>
-    <td>~ 30 – 35 % (sehr gut für Blutdruck; aus Paprika & Tomatenmark)</td>
-  </tr>
-  <tr>
-    <td>Eisen</td>
-    <td>ca. 3 mg Eisen</td>
-    <td>~ 20 – 25 % (aus Eiern, Tomatenmark & Reis)</td>
-  </tr>
-  <tr>
-    <td>Zink</td>
-    <td>ca. 2 mg Zink</td>
-    <td>~ 20 – 25 % (aus Eiern, Tomatenmark & Reis)</td>
-  </tr>
-  <tr>
-    <td>Lycopin (Antioxidanz)</td>
-    <td>ca. 10 mg</td>
-    <td>Sehr hoch (wertvoller Pflanzenstoff aus dem Tomatenmark)</td>
-  </tr>
+<table style="width: 800px; border-collapse: collapse; font-family: sans-serif;">
+  <thead>
+    <tr style="border-bottom: 2px solid #000;">
+      <th style="width: 170px; text-align: left; padding: 8px; border: 1px solid #000;">Nährstoff</th>
+      <th style="width: 170px; text-align: center; padding: 8px; border: 1px solid #000;">Menge</th>
+      <th style="text-align: left; padding: 8px; border: 1px solid #000;">Deckungsbeitrag / Anmerkung</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">Vitamin C</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 240-280 mg</td>
+      <td style="padding: 8px; border: 1px solid #000;">ca. 300-350% - aus 600 g Paprika</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">Vitamin A (Beta-Carotin)</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 550-650 µg</td>
+      <td style="padding: 8px; border: 1px solid #000;">ca. 70-80% - aus roter Paprika + Retinol Eigelb</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">Vitamin D</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 2,5-3 µg</td>
+      <td style="padding: 8px; border: 1px solid #000;">ca. 15-20% - aus Eigelb. Champignons nur 0,2-1 µg wenn nicht UV-behandelt</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">B2 &amp; B12</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">Hoch</td>
+      <td style="padding: 8px; border: 1px solid #000;">Sehr gut - B2 durch Pilze (0,4 mg/100 g), B12 nur aus Eiern</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">Vitamin K</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 35-45 µg</td>
+      <td style="padding: 8px; border: 1px solid #000;">ca. 50-60% - durch Pilze</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">Kalium</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 1000-1250 mg</td>
+      <td style="padding: 8px; border: 1px solid #000;">ca. 30-35% - top für Blutdruck. Paprika ca. 630 mg + Champignons ca. 400 mg</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">Eisen / Zink / Selen</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">2,8 mg / 2,2 mg / 20 µg</td>
+      <td style="padding: 8px; border: 1px solid #000;">ca. 20% / 20% / 30% - stark aus Pilzen + Eiern</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">Kupfer &amp; Phosphor</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">0,5 mg / 350 mg</td>
+      <td style="padding: 8px; border: 1px solid #000;">ca. 40% / 50% - Pilze sind top Kupfer-Lieferant</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">Lycopin</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;"> - </td>
+      <td style="padding: 8px; border: 1px solid #000;">Aber: Ergothionein + Beta-Glucane aus Champignons als Antioxidantien</td>
+    </tr>
+  </tbody>
 </table>
 
 ---
