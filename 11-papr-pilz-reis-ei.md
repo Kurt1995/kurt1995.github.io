@@ -85,11 +85,11 @@ Das Ergebnis: Nach 30 Minuten bei kleiner Hitze mit Deckel ist die gesamte Brüh
 
 <table>
   <tr>
-    <td><img src="assets/11-paprika-reis-ei-21.jpg" alt="Schritt 1" width="140"></td>
-    <td><img src="assets/11-paprika-reis-ei-22.jpg" alt="Schritt 2" width="140"></td>
-    <td><img src="assets/11-paprika-reis-ei-23.jpg" alt="Schritt 3" width="140"></td>
-    <td><img src="assets/11-paprika-reis-ei-24.jpg" alt="Schritt 4" width="140"></td>
-    <td><img src="assets/11-paprika-reis-ei-25.jpg" alt="Schritt 5" width="140"></td>
+    <td><img src="assets/11-paprika-reis-ei-21.jpg" alt="Schritt 1"></td>
+    <td><img src="assets/11-paprika-reis-ei-22.jpg" alt="Schritt 2"></td>
+    <td><img src="assets/11-paprika-reis-ei-23.jpg" alt="Schritt 3"></td>
+    <td><img src="assets/11-paprika-reis-ei-24.jpg" alt="Schritt 4"></td>
+    <td><img src="assets/11-paprika-pilz-reis-ei-25.jpg" alt="Schritt 5"></td>
   </tr>
   <tr>
     <td align="center"><span style="font-size: 0.8em;">Margarine in die Pfanne<br>und schmelzen lassen</span></td>
