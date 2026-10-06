@@ -34,9 +34,8 @@ Der Käse bleibt im Vordergrund, die Tomate hegt ihn ein, ohne ihn zu überdecke
 ---
 
 ## Zusammenfassung von den Mitautorinnen GEMINI und MiniMax Ki (China):  
-Eine Kombination in frecher Einfachheit, die beweist, dass kulinarische Mutproben belohnt werden können.  
-Frische Tomate auf Ziegenkäse ist ein Klischee — Tomatenmark auf Ziegenkäse ist es nicht.  
-Konzentrat statt Frucht, ohne ein einziges Gewürz: zwei Zutaten, die sich sonst nie begegnen.
+Eine Kombination in frecher Einfachheit. Zwei Zutaten, die sich normalerweise nicht begegnen — und genau darin liegt der Reiz. Es zeigt, dass kulinarische Mutproben belohnt werden können.  
+Die Zubereitung ohne jeden Aufwand, die hervorragende Nährstoff-Synergie und das überraschend komplexe Geschmacksprofil machen diesen Quick-Snack zu einer echten Empfehlung für den  Abend.
 
 ---
 [← Zurück zur Übersicht](index.md)
