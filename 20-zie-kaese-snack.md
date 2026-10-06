@@ -19,7 +19,7 @@
 ---
 
 ## Kurt's Praxis-Check: So schmeckt es dann
-Die charakteristische, leicht säuerlich-würzige Note des Ziegenkäses trifft auf die intensive Umami-Süße und Fruchtsäure des konzentrierten Tomatenmarks – ein überraschend edles Zusammenspiel.<br>
+Die charakteristische, leicht säuerlich-würzige Note des Ziegenkäses trifft auf die intensive Umami-Süße und Fruchtsäure des konzentrierten Tomatenmarks – ein überraschendes Zusammenspiel.<br>
 Der Käse bleibt im Vordergrund, die Tomate hegt ihn ein, ohne ihn zu überdecken. 
 
 ---
