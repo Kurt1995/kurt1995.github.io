@@ -2,18 +2,19 @@
 
 <br>
 
-![Zutaten für Paprika Pfanne](assets/11-paprika-reis-ei-01.jpg)
+![Zutaten für Paprika Pfanne](assets/11-paprika-pilz-reis-ei-01.jpg)
 
-## Zutaten für 2 Portionen  (vier Teller = 2 Teller je Portion)
+## Zutaten für 2 Portionen
 
-- 4 rote Paprika (ca. 600 – 700  g) 
-- 3 Esslöffel Tomatenmark 3-fach konzentriert 
-- 4 Eier 
-- 50 – 60 g Reis (z.B. Parboiled Langkorn & Wildreis)
-- 250 – 350 ml Wasser, 1 Brühwürfel
-- 1 Esslöffel Olivenöl + 1 Esslöffel Rapsöl 
+- 3 oder 4 rote Paprika (ca. 600 g)
+- 200 g Champignons (braun oder weiß)
+- 4 Eier
+- 60 g Reis (z.B. Parboiled Langkorn & Wildreis)
+- 300 ml Wasser, 1 Brühwürfel (für den Reis)
+- 2 Esslöffel Olivenöl + 1 Esslöffel Rapsöl
 - 1 Stich Margarine für die Eierpfanne
-- Gewürze: Salz, schwarzer Pfeffer, Paprikapulver rosenscharf  
+- Gewürze: Salz, schwarzer Pfeffer, Paprikapulver rosenscharf
+- ½ Teelöffel Apfelessig oder Balsamico Essig
 
 ## Zubereitung
 
@@ -61,20 +62,14 @@ Das Ergebnis: Nach 30 Minuten bei kleiner Hitze mit Deckel ist die gesamte Brüh
 
 <table>
   <tr>
-    <td><img src="assets/11-paprika-reis-ei-11.jpg" alt="Schritt 1" width="140"></td>
-    <td><img src="assets/11-paprika-reis-ei-12.jpg" alt="Schritt 2" width="140"></td>
-    <td><img src="assets/11-paprika-reis-ei-13.jpg" alt="Schritt 3" width="140"></td>
-    <td><img src="assets/11-paprika-reis-ei-14.jpg" alt="Schritt 4" width="140"></td>
-    <td><img src="assets/11-paprika-reis-ei-15.jpg" alt="Schritt 5" width="140"></td>
-    <td><img src="assets/11-paprika-reis-ei-16.jpg" alt="Schritt 6" width="140"></td>
+    <td><img src="assets/11-paprika-pilz-reis-ei-11.jpg" alt="Schritt 1" width="140"></td>
+    <td><img src="assets/11-paprika-pilz-reis-ei-12.jpg" alt="Schritt 2" width="140"></td>
+    <td><img src="assets/11-paprika-pilz-reis-ei-13.jpg" alt="Schritt 3" width="140"></td>
   </tr>
   <tr>
-    <td align="center"><span style="font-size: 0.8em;">Paprika in die Pfanne</span></td>
-    <td align="center"><span style="font-size: 0.8em;">Tomatenmark dazu</span></td>
-    <td align="center"><span style="font-size: 0.8em;">Durchmischen</span></td>
+    <td align="center"><span style="font-size: 0.8em;">Paprika und Pilze in die Pfanne geben</span></td>
     <td align="center"><span style="font-size: 0.8em;">Mit Deckel schmoren</span></td>
-    <td align="center"><span style="font-size: 0.8em;">Den Reis dazu</span></td>
-    <td align="center"><span style="font-size: 0.8em;">Vermischen</span></td>
+    <td align="center"><span style="font-size: 0.8em;">Den Reis dazugeben</span></td>
   </tr>
 </table>
 
