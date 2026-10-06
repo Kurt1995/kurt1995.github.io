@@ -2,7 +2,7 @@
 
 <h1>Kurt snackt</h1>
 
-<p><h2> Vollkornbrot + Blauschimmelkäse mit Tomatenkomponente</h2></p>
+<p><h2> Vollkornbrot + Blauschimmelkäse mit Tomatenkick</h2></p>
 
 </div>
 
