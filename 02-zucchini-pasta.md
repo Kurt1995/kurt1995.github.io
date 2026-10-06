@@ -127,7 +127,7 @@
     </tr>
     <tr style="border-bottom: 1px solid #f0f0f0;">
       <td style="padding: 10px 8px; font-weight: bold;">Kalium</td>
-      <td style="padding: 10px 8px;">ca. 1900 - 2100 mg</td>
+      <td style="padding: 10px 8px;">ca. 2000 mg</td>
       <td style="padding: 10px 8px;">Aus Zucchini, wichtig für Blutdruck</td>
     </tr>
     <tr style="border-bottom: 1px solid #f0f0f0;">
@@ -167,7 +167,7 @@ Nur Olivenöl, Pfeffer, Parmesan, Pasta, Zucchini - ja, nur diese - denn mit jed
 
 ---
 
-## Zusammenfassung von Mitautorin GEMINI:<br>
+## Zusammenfassung von Mitautorin GEMINI:
 Das Gericht ist mit rund 925 kcal eine gehaltvolle Hauptmahlzeit, die vor allem durch ihre hohe Nährstoffdichte überzeugt. Trotz des Spaghetti-Anteils bleibt die Mahlzeit durch die massive Zucchini-Basis und die daraus resultierenden Ballaststoffe sehr ausgewogen.
 
 ---
