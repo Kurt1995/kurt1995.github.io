@@ -172,7 +172,7 @@ Dieses Rezept vereint eine Fülle an wertvollen Nährstoffen mit einer leichten,
   </tbody>
 </table>
 
-## Mikronährstoffe - Vitamine & Mineralstoffe für 1 Portion (halbe Zutatenmenge)
+## Mikronährstoffe - Vitamine & Mineralstoffe für 1 Portion
 
 <table style="width: 800px; border-collapse: collapse; font-family: sans-serif;">
   <thead>
