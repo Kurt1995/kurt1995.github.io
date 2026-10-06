@@ -8,7 +8,7 @@
 
 ### Ein Abend Snack
 
-![Ziegen-Weichkäse mit Tomatenmark](assets/20-blau-kaese-snack.jpg)
+![Blauschimmel und mehr](assets/20-blau-kaese-snack.jpg)
 
 ## Zutaten:
 - Blauschimmelkäse (ca. 50 g) 
