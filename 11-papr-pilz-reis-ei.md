@@ -91,13 +91,6 @@ Das Ergebnis: Nach 30 Minuten bei kleiner Hitze mit Deckel ist die gesamte Brüh
     <td><img src="assets/11-paprika-reis-ei-24.jpg" alt="Schritt 4"></td>
     <td><img src="assets/11-paprika-pilz-reis-ei-25.jpg" alt="Schritt 5"></td>
   </tr>
-  <tr>
-    <td align="center"><span style="font-size: 0.8em;">Margarine in die Pfanne<br>und schmelzen lassen</span></td>
-    <td align="center"><span style="font-size: 0.8em;">Eier hineingeben</span></td>
-    <td align="center"><span style="font-size: 0.8em;">Mit Deckel garen</span></td>
-    <td align="center"><span style="font-size: 0.8em;">Die Eigelb<br>weich / cremig</span></td>
-    <td align="center"><span style="font-size: 0.8em;">Über die Paprika<br>legen</span></td>
-</tr>
 </table>
 
 - Die Eier in eine separate, mit der Margarine eingefettete Pfanne geben. 
@@ -111,7 +104,7 @@ Das Ergebnis: Nach 30 Minuten bei kleiner Hitze mit Deckel ist die gesamte Brüh
 
 ---
 
-![Paprika Pfanne](assets/11-paprika-reis-ei-30.jpg)
+![Paprika Pfanne](assets/11-paprika-pilz-reis-ei-20.jpg)
 
 ---
 
