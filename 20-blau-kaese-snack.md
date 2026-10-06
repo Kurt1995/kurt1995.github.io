@@ -1,4 +1,12 @@
-# Kurt snackt &nbsp;-&nbsp; Blauschimmelkäse mit Ketchup auf Vollkornbrot
+<div align="center">
+
+# Kurt snackt
+## Vollkornbrot & Blauschimmelkäse<br>
+## mit<br>
+## süß-saurer Tomatenkomponente
+
+</div>
+
 ### Ein Abend Snack
 
 ![Ziegen-Weichkäse mit Tomatenmark](assets/20-blau-kaese-snack.jpg)
