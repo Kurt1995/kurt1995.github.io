@@ -1,7 +1,7 @@
 # Kurt snackt &nbsp;-&nbsp; Blauschimmelkäse mit Ketchup auf Vollkornbrot
 ### Ein Abend Snack
 
-![Ziegen-Weichkäse mit Tomatenmark](assets/20-zie-kaese-snack-01.jpg)
+![Ziegen-Weichkäse mit Tomatenmark](assets/20-blau-kaese-snack.jpg)
 
 ## Zutaten *(das Bild zeigt die Hälfte des Snacks)*:
 * **6 Scheiben Ziegen-Weichkäse (ca. 60 g)**
