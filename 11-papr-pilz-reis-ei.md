@@ -186,7 +186,7 @@ Dieses Rezept vereint eine Fülle an wertvollen Nährstoffen mit einer leichten,
     <tr>
       <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">Vitamin C</td>
       <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 240-280 mg</td>
-      <td style="padding: 8px; border: 1px solid #000;">ca. 300-350% - aus 600 g Paprika</td>
+      <td style="padding: 8px; border: 1px solid #000;">ca. 300-350% - aus 300 g Paprika</td>
     </tr>
     <tr>
       <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">Vitamin A (Beta-Carotin)</td>
