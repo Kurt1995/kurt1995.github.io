@@ -41,7 +41,9 @@ Das war interessant lecker:
 ---
 
 ## Energiewert dieser Mahlzeit
-*(Berechnungsgrundlage: 60 g Ziegen-Weichkäse und 25 g dreifach konzentriertes Tomatenmark)*  
+
+*(Berechnungsgrundlage: 50 g Blauschimmelkäse, 2 Scheiben Vollkornbrot und 20 g Ketchup)* 
+
 * **Brennwert**: ca. 450 kcal
 * **Eiweiß (Protein)**: ca. 20 g
 * **Fett**: ca. 20 g 
