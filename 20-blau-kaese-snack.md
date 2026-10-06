@@ -35,8 +35,8 @@ Fazit: Eine unerwartete Kombination, die komplexe Kohlenhydrate, gesunde Fette, 
 
 ## Kurt's Praxis-Check: So schmeckt es dann
 Das war interessant lecker:   
-- Das Brot, klar - der Biss die Körner Volumen, leichte Nussigkeit. 
-- Der Käse und der Ketchup (nicht zu viel Ketchup nehmen) verbinden ihre Geschmäcker.  Der Käse setzt den Grundton (aber durch das Brot stark gedämpft) und dann blitzt es plötzlich süßlich, der Ketchup hat sich gemeldet.  
+- Das Brot - klar: der Biss, die Körner, Volumen, leichte Nussigkeit. 
+- Der Käse und der Ketchup verbinden ihre Geschmäcker. Der Käse setzt den Grundton (aber durch das Brot stark gedämpft) und dann blitzt es plötzlich süßlich, der Ketchup hat sich gemeldet.  
 
 ---
 
