@@ -1,9 +1,10 @@
-<div align="center">
+<div align="center" style="color:#4a6fa5;">
 
-# Kurt snackt
-## Vollkornbrot & Blauschimmelkäse<br>
-## mit<br>
-## süß-saurer Tomatenkomponente
+<h1>Kurt snackt</h1>
+
+<p><h2> Vollkornbrot + Blauschimmelkäse<br>
+mit<br>
+süß-saurer Tomatenkomponente</h2></p>
 
 </div>
 
