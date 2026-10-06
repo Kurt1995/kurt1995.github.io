@@ -49,8 +49,12 @@
     <td style="padding:6px 8px;"><a href="02-zwiebel-pasta.html">Zwiebel mit Pasta</a></td>
   </tr>
   <tr>
+    <td style="padding:6px 8px;"><a href="13-zwiebel-nudel-pf.html">Gemüsepfanne mit Nudeln</a></td>
+    <td style="padding:6px 8px;"><a href="11-papr-reis-ei.html">Paprika-Pfanne mit Reis und Ei</a></td>
+  </tr>
+  <tr>
     <td style="padding:6px 8px;"><a href="24-zucch-nudel.html">Zucchini-Nudel Pfanne</a></td>
-    <td style="padding:6px 8px;"><a href="11-papr-reis-ei.html">Paprikapfanne mit Reis und Ei</a></td>
+    <td style="padding:6px 8px;"><a href="11-papr-pilz-reis-ei.html">Paprika-Pilz-Pfanne mit Reis und Ei</a></td>
   </tr>
   <tr>
     <td style="padding:6px 8px;"><a href="03-bunte-pilzpfanne.html">Bunte Pilzpfanne</a></td>
@@ -65,7 +69,7 @@
     <td style="padding:6px 8px;"><a href="05-deftige-ksuppe.html">Deftige Kartoffelsuppe</a></td>
   </tr>
   <tr>
-    <td style="padding:6px 8px;"><a href="13-zwiebel-nudel-pf.html">Gemüsepfanne mit Nudeln</a></td>
+    <td style="padding:6px 8px;">&nbsp;</a></td>
     <td style="padding:6px 8px;"><a href="17-senior-sport-suppe.html">Senioren Sport-Suppe</a></td>
   </tr>
  
