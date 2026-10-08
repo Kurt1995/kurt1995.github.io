@@ -248,7 +248,7 @@ Dieses Rezept für die Paprika-Zwiebel-Pfanne mit Reis und Ei ist aus ernährung
 
 ## Kurt‘s Praxis Check: So schmeckt es dann
 
-Herzhaft und leicht cremig mit einem dezent säuerlich-scharfen Grundton. Die Paprikastückchen haben einen guten Biss behalten. Sie sorgen mit ihrer Süße für einen geschmacklichen Kontrast.  
+Herzhaft und leicht cremig mit einem dezent säuerlich-scharfen Grundton. Die Paprikastückchen haben einen guten Biss behalten. Sie sorgen mit ihrer Süße für einen erfrischenden Kontrast.  
 Die Zwiebel bleibt im Hintergrund. Zusammen mit dem Apfelessig hellt sie das starke Reis-Umami angenehm auf.  
 Das Ei esse ich gerne zum Schluss. Es erfüllt die Vorfreude. Der Grundgeschmack wird in den Hintergrund geschoben und besonders das flüssig-cremige Eigelb darf sein kräftiges Aroma entfalten. 
 
