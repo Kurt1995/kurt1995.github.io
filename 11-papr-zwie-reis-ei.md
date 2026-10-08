@@ -109,137 +109,162 @@ Die Eier mit einer Schaumkelle entnehmen (First In - First Out) und abgedeckt be
 
 
 ![Paprika Pfanne](assets/11-paprika-zw-reis-ei-30.jpg)
+*Am Tisch eventuell mit ein paar Körnchen Salz nachwürzen.*
 
 ---
 
 ## Gemini‘s Gesundheits-Check: Warum dieses Gericht punktet 
-Dieses Rezept vereint eine Fülle an wertvollen Nährstoffen mit einer leichten, gut bekömmlichen Zusammensetzung: 
-- **Vitamin-C-Bombe Paprika:** Rote Paprika zählt zu den besten natürlichen Vitamin-C-Lieferanten. Das schützt das Immunsystem und fördert die Zellgesundheit. 
-- **Lycopin aus Tomatenmark:** Durch das dreifach konzentrierte Tomatenmark und das sanfte Schmoren in hochwertigem Fett wird der Antioxidanzien-Komplex Lycopin besonders gut vom Körper aufgenommen. 
-- **Hochwertiges Eiweiß:** Die Eier liefern essenzielle Aminosäuren mit hoher biologischer Wertigkeit, die den Muskelerhalt unterstützen und für eine langanhaltende Sättigung sorgen. 
-- **Gesunde Fettsäurekombination:** Die Nutzung von kaltgepresstem Oliven- und Rapsöl sichert ein optimales Verhältnis von einfach und mehrfach ungesättigten Fettsäuren (darunter Omega-3), was Herz und Gefäßen zugutekommt. 
-- **Leicht & ausgewogen:** Durch den moderaten Reisanteil bleibt das Gericht kohlenhydratbewusst und belastet den Blutzuckerspiegel kaum.  
+Dieses Rezept für die Paprika-Zwiebel-Pfanne mit Reis und Ei ist aus ernährungswissenschaftlicher Sicht ein ausgewogenes, nährstoffreiches und leichtes Gericht:  
+- **Vitamin-C- & Antioxidantien-Kick:** 600–700 g rote Paprika und Tomatenmark liefern besonders viel Vitamin C und zellschützende Antioxidantien (Carotinoide & Lycopin).  
+- **Hochwertiges Eiweiß:** 2 pochierte Eier pro Portion bieten gut verdauliches Protein ohne unnötiges Bratfett.  
+- **Gesunde Fette:** Die Kombination aus Oliven- und Rapsöl liefert wertvolle Fettsäuren und hilft dem Körper, die fettlöslichen Vitamine der Paprika aufzunehmen.  
+- **Schlank & satt:** Mit nur 30 g Reis pro Person ist das Gericht kohlenhydratarm, während der hohe Ballaststoffanteil des Gemüses lange satt macht.  
+- **Schonend zubereitet:** Das Dämpfen des Gemüses und das Ausquellen des Reises im Brühwasser bewahren die wertvollen Nährstoffe und Aromen.
 
 ---
 
-## Makronährstoffe für 1 Portion = 2 Teller
+## Nährwerte
+### Makronährstoffe für 1 Portion
+*ca. 325 g Paprika, 0,5 Zwiebel, 2 Eier, 0,5 EL Tomatenmark, 30 g Reis, 0,5 EL Olivenöl, 0,5 EL Rapsöl*
 
-<table>
-  <tr>
-    <td><strong>Nährstoff</strong></td>
-    <td><strong>Menge</strong></td>
-    <td><strong>Anmerkung</strong></td>
-  </tr>
-  <tr>
-    <td>Kalorien</td>
-    <td>ca. 530 kcal</td>
-    <td>Hauptenergie aus Eiern, Ölen/Margarine und Reis</td>
-  </tr>
-  <tr>
-    <td>Eiweiß</td>
-    <td>ca. 21 g</td>
-    <td>Hauptsächlich aus den Eiern und dem Reis</td>
-  </tr>
-  <tr>
-    <td>Kohlenhydrate</td>
-    <td>ca. 49 g</td>
-    <td>Aus Reis, Paprika und Tomatenmark</td>
-  </tr>
-  <tr>
-    <td>davon Zucker</td>
-    <td>ca. 20 g</td>
-    <td>Natürlicher Fruchtzucker aus Paprika und Tomatenmark</td>
-  </tr>
-  <tr>
-    <td>Fett (gesamt)</td>
-    <td>ca. 27 g</td>
-    <td>Aus den Ölen, Margarine und dem Eigelb</td>
-  </tr>
-  <tr>
-    <td>Gesättigte Fettsäuren</td>
-    <td>ca. 5 g</td>
-    <td>Aus dem Eigelb und Margarine</td>
-  </tr>
-  <tr>
-    <td>Ballaststoffe</td>
-    <td>ca. 9 g</td>
-    <td>Reichlich aus der Paprika und dem Tomatenmark</td>
-  </tr>
+<table style="width: 800px; border-collapse: collapse; font-family: sans-serif;">
+  <thead>
+    <tr style="border-bottom: 2px solid #000;">
+      <th style="width: 170px; text-align: center; padding: 8px; border: 1px solid #000; font-weight: bold;">Nährstoff</th>
+      <th style="width: 170px; text-align: center; padding: 8px; border: 1px solid #000; font-weight: bold;">Menge</th>
+      <th style="text-align: center; padding: 8px; border: 1px solid #000; font-weight: bold;">Anmerkung</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">Kalorien</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 500 kcal</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">moderater Kaloriengehalt bei großem Volumen und hoher Sättigung</td>
+    </tr>
+    <tr>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">Eiweiß</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 18 g</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">hauptsächlich aus den 2 Eiern sowie etwas Reis und Gemüse</td>
+    </tr>
+    <tr>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">Kohlenhydrate</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 40 g</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">aus dem Reis (ca. 23 g KH), der Paprika und der Zwiebel</td>
+    </tr>
+    <tr>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">davon Zucker</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 18 g</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">natürlicher Fruchtzucker aus dem reichlich vorhandenen Gemüse (Paprika, Zwiebel, Tomatenmark)</td>
+    </tr>
+    <tr>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">Fett (gesamt)</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 25 g</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">aus den Eigelben (ca. 10 g Fett) und den Ölen (1 EL Öl gesamt pro Portion ≈ 12 g Fett)</td>
+    </tr>
+    <tr>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">Gesättigte Fettsäuren</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 4,5 g</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">aus den Eigelben (ca. 10 g Fett) und den Ölen (1 EL Öl gesamt pro Portion ≈ 12 g Fett)</td>
+    </tr>
+    <tr>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">Ballaststoffe</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 10 g</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">sehr hoher Ballaststoffgehalt, der primär aus der großen Menge Paprika stammt</td>
+    </tr>
+  </tbody>
 </table>
 
-## Mikronährstoffe (Vitamine & Mineralstoffe) für 1 Portion = 2 Teller
+### Mikronährstoffe (Vitamine & Mineralstoffe) für 1 Portion
 
-<table>
-  <tr>
-    <td><strong>Nährstoff</strong></td>
-    <td><strong>Menge</strong></td>
-    <td><strong>Deckungsbeitrag pro Tag</strong></td>
-  </tr>
-  <tr>
-    <td>Vitamin C</td>
-    <td>ca. 350 – 400 mg</td>
-    <td>~ 350 – 400 % (exzellenter Wert aus Paprika und Tomatenmark)</td>
-  </tr>
-  <tr>
-    <td>Vitamin A (als Beta-Carotin)</td>
-    <td>ca. 550 – 600 µg</td>
-    <td>~ 80 % (aus Beta-Carotin der Paprika + Retinol im Eigelb)</td>
-  </tr>
-  <tr>
-    <td>Vitamin D</td>
-    <td>ca. 2,5 – 3 µg</td>
-    <td>~ 12 – 15 % (aus dem Eigelb)</td>
-  </tr>
-  <tr>
-    <td>Vitamin B2 (Riboflavin) & B12</td>
-    <td>Hoch</td>
-    <td>Sehr gut abgedeckt (B2 aus Eiern & Paprika; B12 exklusiv aus Eiern)</td>
-  </tr>
-  <tr>
-    <td>Vitamin K</td>
-    <td>ca. 30 µg</td>
-    <td>~ 40 %</td>
-  </tr>
-  <tr>
-    <td>Kalium</td>
-    <td>ca. 1100 – 1300 mg</td>
-    <td>~ 30 – 35 % (sehr gut für Blutdruck; aus Paprika & Tomatenmark)</td>
-  </tr>
-  <tr>
-    <td>Eisen</td>
-    <td>ca. 3 mg Eisen</td>
-    <td>~ 20 – 25 % (aus Eiern, Tomatenmark & Reis)</td>
-  </tr>
-  <tr>
-    <td>Zink</td>
-    <td>ca. 2 mg Zink</td>
-    <td>~ 20 – 25 % (aus Eiern, Tomatenmark & Reis)</td>
-  </tr>
-  <tr>
-    <td>Lycopin (Antioxidanz)</td>
-    <td>ca. 10 mg</td>
-    <td>Sehr hoch (wertvoller Pflanzenstoff aus dem Tomatenmark)</td>
-  </tr>
+<table style="width: 800px; border-collapse: collapse; font-family: sans-serif;">
+  <thead>
+    <tr style="border-bottom: 2px solid #000;">
+      <th style="width: 170px; text-align: center; padding: 8px; border: 1px solid #000; font-weight: bold;">Nährstoff</th>
+      <th style="width: 170px; text-align: center; padding: 8px; border: 1px solid #000; font-weight: bold;">Menge</th>
+      <th style="text-align: center; padding: 8px; border: 1px solid #000; font-weight: bold;">Deckungsbeitrag pro Tag</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">Vitamin C</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 450 mg</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">&gt; 450 % (Paprika ist extrem reichhaltig)</td>
+    </tr>
+    <tr>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">Vitamin A<br>(als Beta-Carotin)</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 3.000 – 4.000 µg</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">&gt; 100 % (wird im Körper zu Vitamin A umgewandelt)</td>
+    </tr>
+    <tr>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">Vitamin D</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 2 – 3 µg</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 10 – 15 % (Eier enthalten etwas, aber wenig)</td>
+    </tr>
+    <tr>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">Vitamin B2</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 0,6 mg</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 40 % (aus Eiern und Reis)</td>
+    </tr>
+    <tr>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">Vitamin B12</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 1,2 µg</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 50 % (hauptsächlich aus den Eiern)</td>
+    </tr>
+    <tr>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">Vitamin K</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 40 – 50 µg</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 60 % (aus den Ölen und Paprika)</td>
+    </tr>
+    <tr>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">Vitamin E</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 3 – 4 mg</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 30 % (aus den Ölen)</td>
+    </tr>
+    <tr>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">Kalium</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 800 mg</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 40 % (Paprika liefert viel Kalium)</td>
+    </tr>
+    <tr>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">Eisen</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 5 mg</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 35 – 50 % (aus Eiern und Paprika)</td>
+    </tr>
+    <tr>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">Zink</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 1,5 – 2 mg</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 15 – 20 %</td>
+    </tr>
+    <tr>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">Magnesium</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 60 – 80 mg</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 20 % (aus dem Reis)</td>
+    </tr>
+    <tr>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">Lycopin (Antioxidanz)</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 5 – 8 mg</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">Hoch durch Tomatenmark und rote Paprika<br>(kein offizieller Referenzwert)</td>
+    </tr>
+  </tbody>
 </table>
 
 ---
 
 ## Kurt‘s Praxis Check: So schmeckt es dann
 
-Herzhaft und leicht cremig mit einem dezent säuerlich-scharfen Grundton.  
-Die Paprikastückchen haben einen guten Biss behalten. Sie sorgen mit ihrer Süße für einen angenehmen geschmacklichen Kontrast.  
-Das Ei esse ich gerne getrennt als Beilage.  
-Es schiebt den Grundgeschmack in den Hintergrund und besonders das flüssig-cremige Eigelb kann sein kräftiges Aroma entfalten. 
+Herzhaft und leicht cremig mit einem dezent säuerlich-scharfen Grundton. Die Paprikastückchen haben einen guten Biss behalten. Sie sorgen mit ihrer Süße für einen angenehmen geschmacklichen Kontrast.  
+Die Zwiebel bleibt im Hintergrund. Zusammen mit dem Apfelessig hellt sie das starke Reis-Umami angenehm auf.  
+Das Ei esse ich gerne zum Schluss. Es erfüllt die Vorfreude. Der Grundgeschmack wird in den Hintergrund geschoben und besonders das flüssig-cremige Eigelb darf sein kräftiges Aroma entfalten. 
 
 ---
 
 ## Zusammenfassung von Mitautorin Gemini
 
-Kurt präsentiert mit dieser Paprikapfanne ein unkompliziertes, farbenfrohes Gericht, das geschmacklich wie auch nährstoffseitig überzeugt.   
-Besonderes Augenmerk liegt auf der perfekten Garpunkt-Ablieferung: Das Gemüse behält einen guten Biss, während das flüssig-cremige Eigelb eine samtige Komponente einbringt.  
-Ernährungsphysiologisch punktet die Mahlzeit als wahre Vitamin-C-Bombe mit wertvollen Antioxidanzien, hochwertigem Eiweiß und herzgesunden Fetten.  
-Ein rundum gelungenes, kohlenhydratbewusstes Alltagrezept mit persönlicher Note. 
-
+Kurt präsentiert mit dieser Paprika-Zwiebel-Pfanne ein effizientes, nährstoffdichtes Alltagsrezept.  
+Besonderes Augenmerk liegt auf der Garpunkt-Ablieferung: Das Gemüse behält seinen knackigen Biss, während das flüssig-cremige Eigelb seine samtige Komponente einbringen kann.  
+Die Kombination aus Quellreis, vitaminreichem Gemüse und Eiern liefert ein ausgewogenes Nährstoffprofil bei moderatem Kalorienaufwand.  
+Ein Gericht mit persönlicher Note, funktional und praxiserprobt. 
+ 
 ---
 [← Zurück zur Übersicht](index.md)
 
