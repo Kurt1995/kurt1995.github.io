@@ -89,11 +89,7 @@ Das Ergebnis: Nach 30 Minuten bei kleiner Hitze mit Deckel ist die gesamte Brüh
 <table>
   <tr>
     <td><img src="assets/11-paprika-zw-reis-ei-20.jpg" alt="Eier pochieren" width="300"></td>
-    <td ><span style="font-size: 0.8em;">Eier pochieren:<br><br>
-2 Liter Wasser erhitzen, bis es siedet (nicht sprudelnd kocht).<br><br>
-Die Eier einzeln in eine Schale aufschlagen und vorsichtig ins Wasser gleiten lassen.<br><br>
-3 Minuten ziehen lassen, bis das Eiweiß fest und das Eigelb weich ist.<br><br>
-Die Eier mit einer Schaumkelle entnehmen (First In - First Out) und abgedeckt beiseite stellen. </span>
+    <td >Eier pochieren:<br><br>2 Liter Wasser erhitzen, bis es siedet (nicht sprudelnd kocht).<br><br>Die Eier einzeln in eine Schale aufschlagen und vorsichtig ins Wasser gleiten lassen.<br><br>3 Minuten ziehen lassen, bis das Eiweiß fest und das Eigelb weich ist.<br><br>Die Eier mit einer Schaumkelle entnehmen (First In - First Out) und abgedeckt beiseite stellen.
     </td>
   </tr> 
 </table>
