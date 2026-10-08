@@ -2,17 +2,19 @@
 
 <br>
 
-![Zutaten für Paprika Pfanne](assets/11-paprika-reis-ei-01.jpg)
+![Zutaten für Paprika Pfanne](assets/11-paprika-zw-reis-ei-00.jpg)
 
-## Zutaten für 2 Portionen  (vier Teller = 2 Teller je Portion)
+## Zutaten für 2 Portionen
 
-- 4 rote Paprika (ca. 600 – 700  g) 
-- 3 Esslöffel Tomatenmark 3-fach konzentriert 
-- 4 Eier 
-- 50 – 60 g Reis (z.B. Parboiled Langkorn & Wildreis)
-- 250 – 350 ml Wasser, 1 Brühwürfel
+- 4 rote Paprika (ca. 600 – 700  g)
+- 1 Zwiebel (mittelgroß)
+- 4 Eier
+- 1 Esslöffel Tomatenmark 3-fach konzentriert  
+- 60 g Reis (z.B. Parboiled Langkorn & Wildreis)
+- 350 ml Wasser, 1 Brühwürfel (für den Reis)
 - 1 Esslöffel Olivenöl + 1 Esslöffel Rapsöl 
-- 1 Stich Margarine für die Eierpfanne
+- ½ Teelöffel Apfelessig (oder ein anderer heller Essig)
+- 2 Esslöffel Wasser (für die Pfanne) 
 - Gewürze: Salz, schwarzer Pfeffer, Paprikapulver rosenscharf  
 
 ## Zubereitung
@@ -61,61 +63,52 @@ Das Ergebnis: Nach 30 Minuten bei kleiner Hitze mit Deckel ist die gesamte Brüh
 
 <table>
   <tr>
-    <td><img src="assets/11-paprika-reis-ei-11.jpg" alt="Schritt 1" width="140"></td>
-    <td><img src="assets/11-paprika-reis-ei-12.jpg" alt="Schritt 2" width="140"></td>
-    <td><img src="assets/11-paprika-reis-ei-13.jpg" alt="Schritt 3" width="140"></td>
-    <td><img src="assets/11-paprika-reis-ei-14.jpg" alt="Schritt 4" width="140"></td>
-    <td><img src="assets/11-paprika-reis-ei-15.jpg" alt="Schritt 5" width="140"></td>
-    <td><img src="assets/11-paprika-reis-ei-16.jpg" alt="Schritt 6" width="140"></td>
-  </tr>
+    <td><img src="assets/11-paprika-zw-reis-ei-02.jpg" alt="Schritt 1" width="220"></td>
+    <td><img src="assets/11-paprika-zw-reis-ei-03.jpg" alt="Schritt 2" width="220"></td>
+    <td><img src="assets/11-paprika-zw-reis-ei-04.jpg" alt="Schritt 3" width="220"></td>
+    <td><img src="assets/11-paprika-zw-reis-ei-05.jpg" alt="Schritt 4" width="220"></td>
+   </tr>
   <tr>
-    <td align="center"><span style="font-size: 0.8em;">Paprika in die Pfanne</span></td>
+    <td align="center"><span style="font-size: 0.8em;">Gemüse in die Pfanne</span></td>
     <td align="center"><span style="font-size: 0.8em;">Tomatenmark dazu</span></td>
     <td align="center"><span style="font-size: 0.8em;">Durchmischen</span></td>
     <td align="center"><span style="font-size: 0.8em;">Mit Deckel schmoren</span></td>
-    <td align="center"><span style="font-size: 0.8em;">Den Reis dazu</span></td>
-    <td align="center"><span style="font-size: 0.8em;">Vermischen</span></td>
-  </tr>
+</tr>
 </table>
 
 -	Die Öle in der  Pfanne verteilen. 
-- Die Paprika putzen, würfeln und hinzugeben. 
+- Die Paprika putzen, würfeln und hinzugeben.
+- Die Zwiebel schälen, klein würfeln und untermischen. 
 - Großzügig mit schwarzem Pfeffer und dem Rosenpaprikapulver würzen. 
-- Das Tomatenmark untermischen. 
-- 8 – 9 Minuten bei kleiner bis mittlerer Hitze mit Deckel schmoren. Öfter umrühren. 
-- Wenn die Pfanne zu trocken wird, etwas Wasser hinzugeben. 
+- Das Tomatenmark und den Apfelessig dazugeben.
+- 2 EL Wasser hinzugeben und alles gut durchmischen.
+- 8 – 9 Minuten bei mittlerer bis großer Hitze mit Deckel schmoren. Öfter umrühren. 
 
 ### Die Eier
 
 <table>
   <tr>
-    <td><img src="assets/11-paprika-reis-ei-21.jpg" alt="Schritt 1" width="140"></td>
-    <td><img src="assets/11-paprika-reis-ei-22.jpg" alt="Schritt 2" width="140"></td>
-    <td><img src="assets/11-paprika-reis-ei-23.jpg" alt="Schritt 3" width="140"></td>
-    <td><img src="assets/11-paprika-reis-ei-24.jpg" alt="Schritt 4" width="140"></td>
-    <td><img src="assets/11-paprika-reis-ei-25.jpg" alt="Schritt 5" width="140"></td>
-  </tr>
-  <tr>
-    <td align="center"><span style="font-size: 0.8em;">Margarine in die Pfanne<br>und schmelzen lassen</span></td>
-    <td align="center"><span style="font-size: 0.8em;">Eier hineingeben</span></td>
-    <td align="center"><span style="font-size: 0.8em;">Mit Deckel garen</span></td>
-    <td align="center"><span style="font-size: 0.8em;">Die Eigelb<br>weich / cremig</span></td>
-    <td align="center"><span style="font-size: 0.8em;">Über die Paprika<br>legen</span></td>
-</tr>
+    <td><img src="assets/11-paprika-zw-reis-ei-20.jpg" alt="Eier pochieren" width="300"></td>
+    <td ><span style="font-size: 0.8em;">Eier pochieren:<br><br>
+2 Liter Wasser erhitzen, bis es siedet (nicht sprudelnd kocht).<br><br>
+Die Eier einzeln in eine Schale aufschlagen und vorsichtig ins Wasser gleiten lassen.<br><br>
+3 Minuten ziehen lassen, bis das Eiweiß fest und das Eigelb weich ist.<br><br>
+Die Eier mit einer Schaumkelle entnehmen (First In - First Out) und abgedeckt beiseite stellen. </span>
+    </td>
+  </tr> 
 </table>
 
-- Die Eier in eine separate, mit der Margarine eingefettete Pfanne geben. 
-- Zuerst offen, dann mit Deckel garen bis das Eiweiß gestockt ist.
-- Das Eigelb sollte weich oder cremig bleiben.
-
 ### Das Finish 
-- Den fertig gekochten Reis in die Gemüsepfanne mischen. 
-- Mit den Spiegeleiern abdecken. 
-- Servieren und am Tisch mit ein wenig Salz nachwürzen.
+<table>
+  <tr>
+    <td><img src="assets/11-paprika-zw-reis-ei-06.jpg" alt="Reis dazu" width="250"></td>
+    <td><img src="assets/11-paprika-zw-reis-ei-07.jpg" alt="Mischen" width="250"></td>
+    <td>Den fertig gekochten Reis in die Gemüsepfanne mischen.<br><br>Mit einem pochierten Ei servieren.</td>
+  </tr>
+</table>
 
----
 
-![Paprika Pfanne](assets/11-paprika-reis-ei-30.jpg)
+![Paprika Pfanne](assets/11-paprika-zw-reis-ei-30.jpg)
 
 ---
 
