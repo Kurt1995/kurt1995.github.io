@@ -50,7 +50,7 @@
   </tr>
   <tr>
     <td style="padding:6px 8px;"><a href="13-zwiebel-nudel-pf.html">Gemüsepfanne mit Nudeln</a></td>
-    <td style="padding:6px 8px;"><a href="11-papr-reis-ei.html">Paprika-Pfanne mit Reis und Ei</a></td>
+    <td style="padding:6px 8px;"><a href="11-papr-zwie-reis-ei.html">Paprika-Zwiebel-Pfanne mit Reis und Ei</a></td>
   </tr>
   <tr>
     <td style="padding:6px 8px;"><a href="24-zucch-nudel.html">Zucchini-Nudel Pfanne</a></td>
