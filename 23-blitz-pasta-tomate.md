@@ -1,6 +1,6 @@
-# Kurt hat gekocht &nbsp; - &nbsp; Spaghetti mit fruchtiger Wildkräuter Bolo
+# Kurt hat gekocht &nbsp; - &nbsp; Blitz-Pasta mit Tomate
 
-![Bild 1](assets/46-spaghetti-f-bolo-1.jpg)
+![Bild 1](assets/23-blitz-pasta-tomate-01.jpg)
 
 ### Zutaten für 2 Personen
 - Frische Tomaten (ca. 300 g)  
@@ -106,3 +106,5 @@ Die clevere Methode, Pasta vorzukochen und einzufrieren, spart im Alltag enorm Z
 Ein rundum ehrliches, alltagstaugliches Gericht mit dem gewissen „Wildkräuter-Etwas“!
 
 ---
+
+[← Zurück zur Übersicht](index.md)
