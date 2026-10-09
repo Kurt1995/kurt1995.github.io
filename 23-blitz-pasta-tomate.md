@@ -30,7 +30,7 @@
 
 - Das Wasser mit dem Brühwürfel aufsetzen. 
 - Das Tomatenmark untermischen. 
-- Mit schwarzem Pfeffer und ein wenig Origano würzen. 
+- Mit schwarzem Pfeffer und ein wenig Oregano würzen. 
 - Gut vermischen und zum Sieden bringen. 
 - Die Margarine (oder die Butter) hinzugeben. 
 - Wenn die Margarine geschmolzen ist, die Spaghetti einbringen und vorsichtig verrühren. 
