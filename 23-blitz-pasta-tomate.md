@@ -1,39 +1,45 @@
 # Kurt hat gekocht &nbsp; - &nbsp; Blitz-Pasta mit Tomate
 
-![Bild 1](assets/23-blitz-pasta-tomate-01.jpg)
+![Zutaten](assets/23-blitz-pasta-tomate-01.jpg)
 
 ### Zutaten für 2 Personen
-- Frische Tomaten (ca. 300 g)  
-- Rote Paprika (ca. 300 g)  
-- 150 g Gehacktes (halb & halb)  
-- 250 g (1/2 Packung) Spaghetti  
-- Wasser (ca. 100 ml)  
-- 1 Bund Giersch (8 – 10 Stängel) - ***Achtung!*** *Hinweis am Ende des Rezepts beachten*  
-- 1 Esslöffel Olivenöl  
-- Gewürze: Ein wenig Maggi fix Bolognese, Salz und schwarzer Pfeffer  
+
+- **125 g Spaghetti** (Trockengewicht - 1/4 Packung) 
+- **1 Esslöffel Tomatenmark** (gehäuft) 
+- **Wasser 250 ml** (1/4 Liter) 
+- **½ Brühwürfel** (im Bild liegt ein ganzer) 
+- **Margarine oder Butter** (ca. 20 g) *ich bevorzuge Margarine*
+- **Gewürze:** Schwarzer Pfeffer und Oregano
+
+---
+
+### Zubereitungszeit 
+- Weniger als 10 Minuten 
 
 ---
 
 ### Zubereitung
 
 #### Langfristvorbereitung
-- Pasta-Vorrat: Eine Packung Spaghetti (500 g) in Salzwasser kochen, abgießen, kalt abschrecken und in 2 Portionen aufgeteilt einfrieren.  
+- Pasta-Vorrat: Eine Packung Spaghetti (500 g) in Salzwasser kochen, abgießen, kalt abschrecken und in 4 Portionen aufgeteilt einfrieren.  
 - Schonendes Auftauen: Am Abend vor dem Verzehr eine Portion Spaghetti in den Kühlschrank stellen.
 
 *Hinweis: Das Gericht schmeckt natürlich auch mit frisch zubereiteten Nudeln.*
 
 #### Zubereitung am Verzehrtag
-- Die Tomaten und die Paprika in grobe Stücke schneiden und mit dem Wasser aufsetzen.  
-- Bei mittlerer Hitze kurz aufkochen. Bei kleiner Hitze ca. 3 Minuten köcheln.  
-- Vom Feuer nehmen und pürieren. 1 Esslöffel Olivenöl, einen Teelöffel Maggi fix und eine gute Prise schwarzen Pfeffer einrühren und den Topf kurz zur Seite stellen.  
-- Das Gehackte mit Salz, schwarzem Pfeffer und einer Messerspitze Maggi fix würzen und gut durchmengen.  
-- Die Soße zurück auf den Herd stellen, das Gehackte in Flocken dazugeben und auf kleiner Flamme weitere ca. 4 Minuten köcheln lassen.  
-- Den Giersch waschen, abtropfen und klein hacken (auch einen Teil der Stiele).  
-- Den Topf vom Feuer nehmen und den Giersch unterheben.  
-- Die Sauce über den vorgewärmten Spaghetti verteilen und servieren.  
-- Am Tisch (nach Geschmack) mit etwas Salz nachwürzen.
 
-![Bild 2](assets/46-spaghetti-f-bolo-2.jpg)
+- Das Wasser mit dem Brühwürfel aufsetzen. 
+- Das Tomatenmark untermischen. 
+- Mit schwarzem Pfeffer und ein wenig Origano würzen. 
+- Gut vermischen und zum Sieden bringen. 
+- Die Margarine (oder die Butter) hinzugeben. 
+- Wenn die Margarine geschmolzen ist, die Spaghetti einbringen und vorsichtig verrühren. 
+- Bei noch tiefgefrorenen Spaghetti (siehe Zutatenbild) den ganzen Block in die Sauce legen. Einige Male wenden, bis alle Nudeln aufgetaut und erwärmt sind. 
+- Den Topf vom Feuer nehmen und servieren. 
+
+![Seviert](assets/23-blitz-pasta-tomate-05.jpg)
+
+#### *Hinweis zum Salz:<br>Das Gericht ist durch den Brühwürfel bereits gut gewürzt. Für eine salzärmere Variante weniger Brühwürfel verwenden, stattdessen mit mehr Kräutern würzen.*
 
 ---
 
