@@ -39,77 +39,106 @@
 
 ![Seviert](assets/23-blitz-pasta-tomate-05.jpg)
 
-#### *Hinweis zum Salz:<br>Das Gericht ist durch den Brühwürfel bereits gut gewürzt. Für eine salzärmere Variante weniger Brühwürfel verwenden, stattdessen mit mehr Kräutern würzen.*
+#### *Hinweis zum Salz:<br>Das Gericht ist durch den halben Brühwürfel bereits gut gewürzt. Für eine salzärmere Variante weniger Brühwürfel verwenden, stattdessen mit mehr Kräutern würzen.*
 
 ---
 
 ### GEMINI's Gesundheitscheck: Warum dieses Gericht punktet
-Dieses Gericht beweist, dass eine Feierabend-Pasta richtig vitalstoffreich sein kann – und das liegt vor allem an der Zubereitungsart, die sich radikal von einer klassischen Bolognese unterscheidet:
-
-- Die Express-Garzeit (Der Vitamin-Schoner): Während eine traditionelle Bolo stundenlang köchelt und dabei viele hitzeempfindliche Nährstoffe verliert, wird diese Sauce in gerade einmal 6 bis 8 Minuten zubereitet.  
-Das Gemüse wird nur kurz aufgekocht und püriert. Dadurch bleibt ein Maximum an labilen Vitaminen (wie Vitamin C) lebendig erhalten.
-
-- Der Wildkräuter-Turbo (Giersch): Giersch wird im Garten oft verteufelt, ist aber eine echte Nährstoffbombe.  
-Er liefert deutlich mehr Vitamin C und Eisen als herkömmlicher Kopfsalat oder Spinat.  
-Da er erst ganz zum Schluss nach dem Kochen untergehoben wird, bleibt seine Wirkkraft komplett erhalten.
-
-- Zellschutz durch Lycopin: Trotz der kurzen Garzeit reicht die Hitze aus, um das wertvolle Antioxidans Lycopin aus den Tomaten optimal für unseren Körper verfügbar zu machen.  
-Das Olivenöl im Rezept sorgt praktischerweise direkt dafür, dass dieses fettlösliche Highlight perfekt aufgenommen werden kann.
-
-- Smarte Portionierung & Sättigung: Mit 75 g Hackfleisch pro Person bleibt der Fleischanteil moderat.  
-Zusammen mit den Kohlenhydraten aus den Spaghetti liefert das Gericht eine ausgewogene Mischung aus Proteinen und schneller Energie.
+- Keine versteckten Zusatzstoffe: Im Vergleich zu fertigen Tütensaucen oder Glaskonserven, die oft Zusatzstoffe, Geschmacksverstärker, Konservierungsstoffe und oft überraschend viel zugesetzten Zucker enthalten, erlaubt dieses Gericht die volle 
+Kontrolle über die Zutaten.  
+- Reines, konzentriertes Lycopin: Hochwertiges Tomatenmark liefert eine besonders hohe Dosis des wertvollen Antioxidans Lycopin ganz ohne Füllstoffe. Das Fett (Margarine oder Butter) sorgt dafür, dass der Körper diesen Zellschutz optimal aufnehmen kann. 
+- Gleicher Speed, bessere Qualität: Das Gericht ist genauso schnell fertig wie eine Tütensoße, kommt aber mit einer transparenten, natürlichen Zutatenliste aus und lässt sich bei Natrium/Salz durch die Dosierung des Brühwürfels individuell steuern.  
+- Nachhaltige Energie: Die Spaghetti liefern komplexe Kohlenhydrate für langanhaltende Sättigung.  
 
 ---
 
 ### Smarte Küchen-Hacks: Warum das Rezept so unkonventionell anders ist
-Wer hier eine klassische Zubereitung erwartet, wird überrascht – und zwar im besten Sinne! Zwei ungewöhnliche Kniffe machen dieses Gericht so schnell und saftig:
-
-- Fix-Pulver als Gewürz-Geheimnis: Statt eine ganze Packung Maggi fix nach Anleitung zu benutzen, wird das Pulver hier rein als Prisen-Gewürz eingesetzt (nur ein Teelöffel für die Sauce, eine Messerspitze fürs Fleisch).  
-Das sorgt für eine harmonische Grundwürze, ohne den frischen Geschmack der Tomaten und Paprika zu überdecken.
-
-- Das „Flocken-Prinzip“ (No-Fry-Hackfleisch): Das Hackfleisch wird nicht wie üblich scharf in der Pfanne angebraten.  
-Stattdessen wird es roh gewürzt und wandert als feine Flocken direkt in die köchelnde Sauce.  
-Der Vorteil? Das Fleisch bleibt zart und saftig und verbindet seinen vollen Geschmack mit der fruchtigen Basis.
+- Vorgekochter Pasta-Vorrat: Das Vorkochen und Einfrieren der Nudeln spart unter der Woche wertvolle Zeit.  
+- One-Pot-Effekt: Die aufgetaute oder die noch gefrorene Pasta wird direkt in der köchelnden Würzsauce erwärmt, nimmt dabei ihre Aromen auf.  
 
 ---
 
 ### Praxis-Check: So schmeckt es dann
-- Leicht & fruchtig, aber nicht flach: Trotz der kurzen Garzeit und ohne klassisches Anbraten entfaltet die Sauce ein überraschend volles Aroma.  
-- Harmonisches Zusammenspiel: Die Säure der Tomaten und die Süße der Paprika verschmelzen zu einer fruchtigen Basis. Der Giersch wirkt „selbstlos": Er tritt nicht als Einzelkomponente in Erscheinung, sondern wirkt als Gesamt-Geschmacksverstärker, der alle Aromen erkennbar anhebt.  
-- Zartes Hackfleisch: Durch das Würzen vor dem Garen bleibt der Fleischgeschmack erhalten. Die feinen Flocken sind nach 4 Minuten durchgegart und fügen sich harmonisch ein – auch wenn die Röstaromen des Anbratens fehlen.  
-- Perfekte Konsistenz: 100 ml Wasser reichen aus, da die Tomaten genug eigene Flüssigkeit mitbringen.
+Das Ergebnis auf dem Teller spricht für sich. Die Sauce ist recht dünnflüssig geblieben, hat aber einen vollen Geschmack mit einer leichten Oregano Note.  
+Die Spaghetti haben einen angenehmen Biss behalten und nehmen ein wenig von der Sauce an.  
+Reste der Tomaten-Brühe schlürfe ich gerne zum Schluss. 
 
 ---
 
 ### GEMINI’s Nährwert- & Mikronährstoff-Tabelle
 
 **Hauptnährwerte für das Gesamtgericht:**
+*Berechnet für die im Rezept angegebenen Gesamtmengen:*
 
-| Nährwert | Für das Gesamtgericht | Pro Portion |
-|---------|------------------------|-------------|
-| Kalorien | ca. 1550 kcal | ca. 775 kcal |
-| Eiweiß | ca. 65 g | ca. 32,5 g |
-| Kohlenhydrate | ca. 200 g | ca. 100 g |
-| Fett | ca. 45 - 50 g | ca. 25 g |
-| Ballaststoffe | ca. 12 g | ca. 6 g |
+<table style="width: 800px; border-collapse: collapse; font-family: sans-serif;">
+  <thead>
+    <tr style="border-bottom: 2px solid #000;">
+      <th style="width: 400px; text-align: left; padding: 8px; border: 1px solid #000; font-weight: bold;">Nährwert</th>
+      <th style="width: 400px; text-align: left; padding: 8px; border: 1px solid #000; font-weight: bold;">Gesamtgericht</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">Kalorien</td>
+      <td style="padding: 8px; border: 1px solid #000;">ca. 615 kcal</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">Kohlenhydrate</td>
+      <td style="padding: 8px; border: 1px solid #000;">ca. 95 g</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">Eiweiß (Protein)</td>
+      <td style="padding: 8px; border: 1px solid #000;">ca. 17 g</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">Fett</td>
+      <td style="padding: 8px; border: 1px solid #000;">ca. 18,7 g</td>
+    </tr>
+  </tbody>
+</table>
 
 **Wichtige Mikronährstoffe & Highlights:**
 
-- Der „Resistente Stärke“-Effekt: Da die Spaghetti vorgekocht, abgeschreckt und eingefroren werden, wandelt sich ein Teil der Stärke in resistente Stärke um. Das füttert die guten Darmbakterien und lässt den Blutzuckerspiegel deutlich langsamer ansteigen.
-
-- Satte Proteinkomponente (ca. 32,5 g pro Portion): Obwohl pro Person nur moderate 75 g Hackfleisch auf den Teller kommen, liefert das Gericht insgesamt stolze 65 g hochwertiges Eiweiß.  
-Diese Kombination sorgt für einen hervorragenden Muskel- und Sättigungsschnitt.
-
-- Vitamin-C-Kraftpaket: Durch die kurze Garzeit von Paprika und Tomaten sowie den rohen Giersch ist der Vitamin-C-Gehalt (ca. 450 mg für das Gesamtgericht) phänomenal hoch.
-
-- Optimale Eisenaufnahme: Das im Hackfleisch enthaltene Eisen kann durch den enormen Vitamin-C-Schub der Sauce vom Körper besonders effizient verwertet werden.
+<table style="width: 800px; border-collapse: collapse; font-family: sans-serif;">
+  <thead>
+    <tr style="border-bottom: 2px solid #000;">
+      <th style="width: 250px; text-align: left; padding: 8px; border: 1px solid #000; font-weight: bold;">Nährstoff / Inhaltsstoff</th>
+      <th style="text-align: left; padding: 8px; border: 1px solid #000; font-weight: bold;">Wirkung &amp; Herkunft</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">Lycopin &amp; Beta-Carotin</td>
+      <td style="padding: 8px; border: 1px solid #000;">Starker Zellschutz aus dem Tomatenmark</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">B-Vitamine &amp; Eisen</td>
+      <td style="padding: 8px; border: 1px solid #000;">Aus den Hartweizen-Spaghetti für Energiestoffwechsel und Blutbildung</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">Natrium &amp; Mineralstoffe</td>
+      <td style="padding: 8px; border: 1px solid #000;">Aus der Brühgrundlage.</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">Kalium aus Tomatenmark</td>
+      <td style="padding: 8px; border: 1px solid #000;">(positiv für Blutdruck)</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">Mangan &amp; Selen</td>
+      <td style="padding: 8px; border: 1px solid #000;">aus Hartweizen</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">Vitamin K aus Oregano</td>
+      <td style="padding: 8px; border: 1px solid #000;">(kleine Menge, aber erwähnenswert)</td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
 ### Zusammenfassung von Mitautorin GEMINI
-Die „Spaghetti mit fruchtiger Wildkräuter-Bolo“ sind ein tolles Beispiel dafür, wie man mit einer Prise Naturküche ein altbekanntes Comfort-Food auf ein neues Level hebt.  
-Die clevere Methode, Pasta vorzukochen und einzufrieren, spart im Alltag enorm Zeit, während die frisch pürierte Gemüsebasis zusammen mit dem Giersch einen echten Vitamin-Kick garantiert.  
-Ein rundum ehrliches, alltagstaugliches Gericht mit dem gewissen „Wildkräuter-Etwas“!
+Kurts „Blitz-Pasta mit Tomate“ ist ein gelungenes Beispiel für ein effizientes, geldbeutelschonendes und schmackhaftes Notfall-Gericht.  
+Dank intelligenter Vorratshaltung (Meal-Prep im Tiefkühlfach) steht in unter 10 Minuten eine warme, herzhafte Mahlzeit auf dem Tisch. 
 
 ---
 
