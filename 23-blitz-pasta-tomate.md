@@ -62,7 +62,7 @@ Kontrolle über die Zutaten.
 Das Ergebnis auf dem Teller spricht für sich.  
 Die Sauce ist recht dünnflüssig geblieben, hat aber einen vollen Geschmack mit einer leichten Oregano Note.  
 Die Spaghetti haben einen angenehmen Biss behalten und nehmen ein wenig von der Sauce an.  
-Reste der Tomaten-Brühe schlürfe ich gerne zum Schluss.
+Reste der Tomaten-Brühe schlürfe ich gerne zum Schluss.  
 *Kurze Anmerkung - Margarine oder Butter:<br>Ich greife hier zu Margarine. Butter macht die Sauce schwer und fettig. Margarine emulgiert feiner und schafft das Zusammenspiel mit den Nudeln besser.*
 
 ---
