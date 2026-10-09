@@ -24,7 +24,7 @@
 - Pasta-Vorrat: Eine Packung Spaghetti (500 g) in Salzwasser kochen, abgießen, kalt abschrecken und in 4 Portionen aufgeteilt einfrieren.  
 - Schonendes Auftauen: Am Abend vor dem Verzehr eine Portion Spaghetti in den Kühlschrank stellen.
 
-*Hinweis: Das Gericht schmeckt natürlich auch mit frisch zubereiteten Nudeln.*
+[*Pasta vorkochen und einfrieren, geht das?*](32-nudeln-vorkochen.md)
 
 #### Zubereitung am Verzehrtag
 
@@ -34,7 +34,7 @@
 - Gut vermischen und zum Sieden bringen. 
 - Die Margarine (oder die Butter) hinzugeben. 
 - Wenn die Margarine geschmolzen ist, die Spaghetti einbringen und vorsichtig verrühren. 
-- Bei noch tiefgefrorenen Spaghetti (siehe Zutatenbild) den ganzen Block in die Sauce legen. Einige Male wenden, bis alle Nudeln aufgetaut und erwärmt sind. 
+- Bei noch tiefgefrorenen Spaghetti (siehe Zutatenbild: da sind sie noch tiefgefroren) den ganzen Block in die Sauce legen. Einige Male wenden, bis alle Nudeln aufgetaut und erwärmt sind. 
 - Den Topf vom Feuer nehmen und servieren. 
 
 ![Seviert](assets/23-blitz-pasta-tomate-05.jpg)
