@@ -95,8 +95,8 @@
 
 | Für den | Abend |
 | :--- | :--- |
-| [Dorschleber auf Vollkornbrot](23-dleber-vollkorn.md) | [Muscheln auf Vollkornbrot](23-musch-vollkb.md) |
-| &nbsp; | &nbsp; |
+| [Dorschleber auf Vollkornbrot](23-dleber-vollkorn.md) | [Blitz-Pasta mit Tomate](23-blitz-pasta-tomate.md) |
+| [Muscheln auf Vollkornbrot](23-musch-vollkb.md) | &nbsp; |
 | __Und ab und zu ein__ | __Protein Boost__ |
 | [Pasta in bianco mit Garnelen](47-pasta-garnelen.md) | [Dicke Rippe](12-dickerippe.md) |
 | [Strammer Max - Plus](19-st-max-plus.md) | [Tomatenrunde mit Steak](22-tomate-steak.md) |
