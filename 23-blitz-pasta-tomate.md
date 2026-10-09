@@ -59,7 +59,8 @@ Kontrolle über die Zutaten.
 ---
 
 ### Praxis-Check: So schmeckt es dann
-Das Ergebnis auf dem Teller spricht für sich. Die Sauce ist recht dünnflüssig geblieben, hat aber einen vollen Geschmack mit einer leichten Oregano Note.  
+Das Ergebnis auf dem Teller spricht für sich.  
+Die Sauce ist recht dünnflüssig geblieben, hat aber einen vollen Geschmack mit einer leichten Oregano Note.  
 Die Spaghetti haben einen angenehmen Biss behalten und nehmen ein wenig von der Sauce an.  
 Reste der Tomaten-Brühe schlürfe ich gerne zum Schluss. 
 
