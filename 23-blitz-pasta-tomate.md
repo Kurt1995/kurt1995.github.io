@@ -1,4 +1,4 @@
-# Kurt hat gekocht &nbsp; — &nbsp; Blitz - Pasta mit Tomate
+# Kurt hat gekocht &nbsp; – &nbsp; Blitz - Pasta mit Tomate
 
 ![Zutaten](assets/23-blitz-pasta-tomate-01.jpg)
 
