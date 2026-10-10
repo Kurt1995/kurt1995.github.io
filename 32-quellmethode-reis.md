@@ -1,7 +1,5 @@
-
-
-
-### Der Reis
+## Kurt bereitet vor - Reis kochen
+### Die Quellmethode für den Reis
 
 <table>
   <tr>
@@ -41,3 +39,5 @@ Hier sind jedoch die spezifische Reiszusammensetzung und die Vorbereitung entsch
 
 Das Ergebnis: Nach 30 Minuten bei kleiner Hitze mit Deckel ist die gesamte Brühe aufgenommen, der Wildreis ist weich und aromatisch, der Parboiled-Reis locker und körnig – genau wie im letzten Bild oben dokumentiert.
 
+---
+[← Zurück zur Übersicht](index.md)
