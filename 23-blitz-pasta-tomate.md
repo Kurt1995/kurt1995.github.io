@@ -3,7 +3,7 @@
 
 ![Zutaten](assets/23-blitz-pasta-tomate-01.jpg)
 
-### Zutaten für 2 Personen
+### Zutaten
 
 - **125 g Spaghetti** (Trockengewicht - 1/4 Packung) 
 - **1 Esslöffel Tomatenmark** (gehäuft) 
@@ -55,14 +55,14 @@ Kontrolle über die Zutaten.
 
 ### Smarte Küchen-Hacks: Warum das Rezept so unkonventionell anders ist
 - Vorgekochter Pasta-Vorrat: Das Vorkochen und Einfrieren der Nudeln spart unter der Woche wertvolle Zeit.  
-- One-Pot-Effekt: Die aufgetaute oder die noch gefrorene Pasta wird direkt in der köchelnden Würzsauce erwärmt, nimmt dabei ihre Aromen auf.  
+- One-Pot-Effekt: Die aufgetaute oder die noch gefrorene Pasta wird direkt in der köchelnden Würzsauce erwärmt.  
 
 ---
 
 ### Kurt's Praxis-Check: So schmeckt es dann
 Die Sauce ist dünnflüssig, hat aber einen vollen Geschmack mit einer leichten Oreganonote.  
-1) *Wenn sie über Nacht aufgetaut sind* - Die Spaghetti haben ihren vollen Biss behalten und ein wenig von der Sauce angenommen.  
-2) *Wenn sie noch tiefgefroren waren* - Die Spaghetti haben ein wenig Sauce aufgenommen, aber noch einen erkennbaren Biss behalten.
+1) *Wenn sie über Nacht aufgetaut sind* - Die Spaghetti haben ihren vollen Biss behalten.  
+2) *Wenn sie noch tiefgefroren waren* - Die Spaghetti haben ein wenig Sauce aufgenommen, aber noch einen erkennbaren Biss.
   
 Reste der Tomaten-Sauce schlürfe ich gerne zum Schluss.  
 
