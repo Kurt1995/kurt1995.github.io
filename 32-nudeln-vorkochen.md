@@ -13,8 +13,8 @@ Richtig gemacht werden Nudeln durch das Einfrieren nicht nur haltbar, sondern so
 
 ### 3. Der Kurt-Workflow:
 **Schritt 1: Das Kochen mit 2-Topf-Methode**
-- Salzwasser: Ca. 10 g Salz pro Liter Wasser *(ein gehäufter Esslöffel sind ca. 20 g)*.
-- Wasser-Recycling: Nudelwasser beim Abgießen in einen zweiten Topf umfüllen und für bis zu 3 Ladungen wiederverwenden *(kein neues Salz nötig)*. 
+- **Salzwasser:** Ca. 10 g Salz pro Liter Wasser *(ein gehäufter Esslöffel sind ca. 20 g)*.
+- **Wasser-Recycling:** Nudelwasser beim Abgießen in einen zweiten Topf umfüllen und für bis zu 3 Ladungen wiederverwenden *(kein neues Salz nötig)*. 
 - **Garprobe:** Vergiss die Packungsvorgabe und die Uhr! Per **Bissprobe** *(rechne damit, dass du drei bis vier davon brauchst, um wirklich gut zu liegen)* **exakt** auf den Punkt **al dente** (nicht 2 Min. kürzer) kochen. 
 
 **Schritt 2: Der Schock (Wichtig!)**
@@ -23,13 +23,13 @@ Richtig gemacht werden Nudeln durch das Einfrieren nicht nur haltbar, sondern so
 
 **Schritt 3: Die Lagerung (Kein Öl!)**
 - **Kein Öl!** Öl legt sich um die Nudel; die Sauce würde später abperlen.
-- Gefrierdosen statt Beutel: In festen Boxen werden die Nudeln nicht zerquetscht und verkleben nicht. 
+- **Gefrierdosen statt Beutel:** In festen Boxen werden die Nudeln nicht zerquetscht und verkleben nicht. 
 
 **Schritt 4: Das Essen (Nicht neu kochen!)**
 - **Auftauen:** Über Nacht im Kühlschrank schonend auftauen lassen.
-- **Für Eilige:** Auftauen in reichlich siedendem Wasser geht - durchmischen und nur möglichst kurz im Wasser lassen. Danach die Nudeln erneut kalt abbrausen. (Mikrowelle, lieber nicht zum Auftauen)
+- **Für Eilige:** Auftauen in reichlich siedendem Wasser geht - durchmischen und nur möglichst kurz im Wasser lassen. *(hierbei verlieren die Nudeln aber ein wenig von ihrem Biss)*
 - **Erwärmen:** Erst ganz zum Schluss in eine heiße Sauce geben und nur durchwärmen. Keinesfalls neu kochen, sonst quillt die Stärke auf und wird matschig. (Mikrowelle zum Erwärmen ist möglich)
-- Pfannen-Frage: Bei Kurt's Schicht-Pfannen die Nudeln als oberste Schicht auflegen, damit sie im aufsteigenden Dampf nur warm werden. 
+- **Pfannen-Frage:** Bei Kurt's Schicht-Pfannen die Nudeln als oberste Schicht auflegen, damit sie im aufsteigenden Dampf nur warm werden. 
 
 ### 4. Zusammenfassung
 
@@ -69,7 +69,7 @@ Für Zuhause ist die Kurt-Methode:
 - Im Kühlschrank auftauen
 - Nur Erwärmen
 
-bekömmlicher, schmackhafter und gelingsicher. 
+**bekömmlicher,** schmackhafter und gelingsicher. 
 
 
 ---
