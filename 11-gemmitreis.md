@@ -20,20 +20,23 @@
 | ![Zubereitung Schritt 1](assets/11-gpfannereis2.jpg) | &nbsp; | ![Fertiges Gericht im Wok](assets/11-gpfannereis3.jpg) |
 
 #### 1. Das Hähnchen (Sanftes Garen)
-Die tiefgefrorenen Filets in eine Pfanne legen und großzügig mit Teriyaki-Sauce beträufeln. Bei geschlossenem Deckel auf kleinster Stufe ca. 40-45 Minuten langsam garen. Zwischendurch wenden. Nach etwa 30 Minuten die Filets halbieren und auf der Schnittfläche fertig garen.
+- Die tiefgefrorenen Filets in eine Pfanne legen und großzügig mit Teriyaki-Sauce beträufeln.
+- Bei geschlossenem Deckel auf kleinster Stufe ca. 40-45 Minuten langsam garen. Zwischendurch wenden.
+- Nach etwa 30 Minuten die Filets halbieren und auf der Schnittfläche fertig garen.
 
 ---
 
 #### 2. Der Reis
-Den Reis vorab ca. 1 Stunde wässern und gründlich abspülen. Den Brühwürfel im Wasser auflösen, den Reis hinzugeben und bei kleiner Hitze abgedeckt ca. 30 Minuten köcheln lassen, bis die Flüssigkeit vollständig aufgenommen wurde.
+- Den Reis vorab ca. 1 Stunde wässern und gründlich abspülen.
+- Den Brühwürfel im Wasser auflösen, den Reis hinzugeben und bei kleiner Hitze abgedeckt ca. 30 Minuten köcheln lassen, bis die Flüssigkeit vollständig aufgenommen wurde.
 #### Details mit Begründung findest du [hier](32-quellmethode-reis.md)
 
 ---
 
 #### 3. Das Gemüse & Finish
-Die Pilze putzen, würfeln und im Rapsöl in einer Wok-Pfanne kurz anschmoren.<br>
-Das restliche Gemüse (geputzt und gewürfelt) hinzugeben und für weitere 10 Minuten bei mittlerer Hitze mitgaren. Mit Pfeffer würzen.<br>
-Zum Schluss die gewürfelten Hähnchenfilets samt Sud sowie den Reis unter das Gemüse heben.
+- Die Pilze putzen, würfeln und im Rapsöl in einer Wok-Pfanne kurz anschmoren.
+- Das restliche Gemüse (geputzt und gewürfelt) hinzugeben und für weitere 10 Minuten bei mittlerer Hitze mitgaren. Mit Pfeffer würzen.
+- Zum Schluss die gewürfelten Hähnchenfilets samt Sud sowie den Reis unter das Gemüse heben.
 
 > **Hinweis**: Durch die Brühwürfel und die Teriyaki-Sauce ist zusätzliches Salzen nicht erforderlich.  
 
@@ -56,17 +59,17 @@ Basierend auf den Zutaten ergibt sich für die Gesamtzubereitung folgende Bilanz
 
 | Nährwert | Schätzung (Gesamt) |
 | :--- | :--- |
-| Brennwert | ca. 860-940 kcal |
-| Eiweiß | ca. 85-90 g |
-| Kohlenhydrate | ca. 45-50 g |
-| Fett | ca. 55-60 g |
-
-**Hinweis**: Der recht hohe Brennwert resultiert primär aus den 5 Esslöffeln Rapsöl. Wer Kalorien sparen möchte, kann die Ölmenge im Wok reduzieren.
+| Brennwert | ca. 800 kcal |
+| Eiweiß | ca. 75-100 g (je nach Hähnchengewicht)|
+| Kohlenhydrate | ca. 65-75 g |
+| Fett | ca. 20 g |
 
 ---
 
 ### Zusammenfassung von Mitautorin GEMINI
-Die „Gemüsepfanne mit Reis“ zeigt, wie mit einfachen Mitteln eine hohe Nährstoffdichte erreicht werden kann. Besonders hervorzuheben ist die Methode, das Fleisch tiefgekühlt und langsam im eigenen Sud mit Teriyaki-Sauce zu garen – das erhält die Saftigkeit und spart Fett beim Anbraten. Es entsteht ein Gericht, das ohne zusätzliches Nachwürzen eine komplexe, herzhafte Tiefe besitzt.
+Die „Gemüsepfanne mit Reis“ zeigt, wie mit einfachen Mitteln eine hohe Nährstoffdichte erreicht werden kann.  
+Besonders hervorzuheben ist die Methode, das Fleisch tiefgekühlt und langsam im eigenen Sud mit Teriyaki-Sauce zu garen – das erhält die Saftigkeit und spart Fett beim Anbraten.  
+Es entsteht ein Gericht, das ohne zusätzliches Nachwürzen eine komplexe, herzhafte Tiefe besitzt.
 
 ---
 [← Zurück zur Übersicht](index.md)
