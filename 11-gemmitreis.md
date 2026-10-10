@@ -20,9 +20,15 @@
 
 #### 1. Das Hähnchen (Sanftes Garen)
 Die tiefgefrorenen Filets in eine Pfanne legen und großzügig mit Teriyaki-Sauce beträufeln. Bei geschlossenem Deckel auf kleinster Stufe ca. 40-45 Minuten langsam garen. Zwischendurch wenden. Nach etwa 30 Minuten die Filets halbieren und auf der Schnittfläche fertig garen.
+#### Details mit Begründung findest du [hier](43-h-bollen.md)
+
+---
 
 #### 2. Der Reis
 Den Reis vorab ca. 1 Stunde wässern und gründlich abspülen. Den Brühwürfel im Wasser auflösen, den Reis hinzugeben und bei kleiner Hitze abgedeckt ca. 30 Minuten köcheln lassen, bis die Flüssigkeit vollständig aufgenommen wurde.
+#### Details mit Begründung findest du [hier](32-quellmethode-reis.md)
+
+---
 
 #### 3. Das Gemüse & Finish
 Die Pilze putzen, würfeln und im Rapsöl in einer Wok-Pfanne kurz anschmoren.<br>
