@@ -1,4 +1,4 @@
-# Kurt hat gekocht  &nbsp; - &nbsp; Paprika-Pilz-Pfanne mit Reis und Ei
+# Kurt hat gekocht  &nbsp; – &nbsp; Paprika-Pilz-Pfanne mit Reis und Ei
 
 <br>
 
@@ -94,7 +94,7 @@
   </tr>
 </table>
 
-Servieren und am Tisch mit ein wenig Salz nachwürzen.
+#### Servieren und am Tisch nach Geschmack mit ein wenig Salz nachwürzen.
 
 ---
 
