@@ -41,34 +41,6 @@ Das Ergebnis: Nach 30 Minuten bei kleiner Hitze mit Deckel ist die gesamte Brüh
 
 ---
 
-<div id="ruecksprung"></div>
-<p><a href="index.html">→ Zurück zur Übersicht</a></p>
-
-<script>
-  const params = new URLSearchParams(window.location.search);
-  const from = params.get('from');
-
-  const rezepte = {
-    "gemuesepfanne-mit-reis": {
-      titel: "Gemüsepfanne mit Reis",
-      url: "gemuesepfanne-mit-reis.html"
-    },
-    "paprika-zwiebel-pfanne-mit-reis-und-ei": {
-      titel: "Paprika-Zwiebel-Pfanne mit Reis und Ei",
-      url: "paprika-zwiebel-pfanne-mit-reis-und-ei.html"
-    },
-    "paprika-pilz-pfanne-mit-reis-und-ei": {
-      titel: "Paprika-Pilz-Pfanne mit Reis und Ei",
-      url: "paprika-pilz-pfanne-mit-reis-und-ei.html"
-    }
-  };
-
-  if (from && rezepte[from]) {
-    document.getElementById('ruecksprung').innerHTML =
-      '<p><a href="' + rezepte[from].url + '">→ Zurück zur ' + rezepte[from].titel + '</a></p>';
-  }
-</script>
-
 [← Zurück zur Gemüsepfanne mit Reis](11-gemmitreis.md)
 
 [← Zurück zur Paprika-Zwiebel-Pfanne mit Reis und Ei](11-papr-zwie-reis-ei.md)
