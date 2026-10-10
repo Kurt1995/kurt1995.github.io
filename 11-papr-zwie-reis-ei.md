@@ -93,6 +93,7 @@
   </tr>
 </table>
 
+#### Am Tisch nach Geschmack mit ein wenig Salz nachwürzen.
 
 ![Paprika Pfanne](assets/11-paprika-zw-reis-ei-30.jpg)
 *Am Tisch eventuell mit ein paar Körnchen Salz nachwürzen.*
