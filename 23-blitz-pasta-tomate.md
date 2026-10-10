@@ -60,7 +60,7 @@ Kontrolle über die Zutaten.
 
 ### Kurt's Praxis-Check: So schmeckt es dann
 Die Sauce ist dünnflüssig, hat aber einen vollen Geschmack mit einer leichten Oreganonote.  
-1) *Wenn sie über Nacht aufgetaut sind* - Die Spaghetti haben ihren vollen Biss behalten und ein wenig von der Sauce angenommen.
+1) *Wenn sie über Nacht aufgetaut sind* - Die Spaghetti haben ihren vollen Biss behalten und ein wenig von der Sauce angenommen.  
 2) *Wenn sie noch tiefgefroren waren* - Die Spaghetti haben ein wenig Sauce aufgenommen, aber noch einen erkennbaren Biss behalten.
   
 Reste der Tomaten-Sauce schlürfe ich gerne zum Schluss.  
