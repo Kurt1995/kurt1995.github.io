@@ -42,7 +42,7 @@
 - Den Reis vorab ca. 1 Stunde wässern und gründlich abspülen.  
 - Reis, Brühwürfel und Wasser in einen Topf geben.  
 - Bei kleiner Hitze abgedeckt ca. 30 Minuten köcheln lassen, bis die Flüssigkeit vollständig aufgenommen wurde. 
-- Das Ergebnis: Nach 30 Minuten bei kleiner Hitze mit Deckel ist die gesamte Brühe aufgenommen, der Wildreis ist weich und aromatisch, der Parboiled-Reis locker und körnig – genau wie im letzten Bild oben dokumentiert.
+- Das Ergebnis: Nach 30 Minuten bei kleiner Hitze mit Deckel ist die gesamte Brühe aufgenommen, der Wildreis ist weich und aromatisch, der Parboiled-Reis locker und körnig – genau wie im letzten Bild dokumentiert.
 
 #### Die Begründung findest du [hier](32-quellmethode-reis.md)
 
