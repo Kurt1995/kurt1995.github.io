@@ -22,8 +22,8 @@
 ### Zubereitung
 
 #### Langfristvorbereitung
-- Pasta-Vorrat: Eine Packung Spaghetti (500 g) in Salzwasser kochen, abgießen, kalt abschrecken und in 4 Portionen aufgeteilt einfrieren.  
-- Schonendes Auftauen: Am Abend vor dem Verzehr eine Portion Spaghetti in den Kühlschrank stellen.
+- **Pasta-Vorrat:** Eine Packung Spaghetti (500 g) in Salzwasser kochen, abgießen, kalt abschrecken und in 4 Portionen aufgeteilt einfrieren.  
+- **Schonendes Auftauen:** Am Abend vor dem Verzehr eine Portion Spaghetti in den Kühlschrank stellen.
 
 [*Pasta vorkochen und einfrieren, geht das?*](32-nudeln-vorkochen.md)
 
@@ -45,24 +45,24 @@
 ---
 
 ### GEMINI's Gesundheitscheck: Warum dieses Gericht punktet
-- Keine versteckten Zusatzstoffe: Im Vergleich zu fertigen Tütensaucen oder Glaskonserven, die oft Zusatzstoffe, Geschmacksverstärker, Konservierungsstoffe und oft überraschend viel zugesetzten Zucker enthalten, erlaubt dieses Gericht die volle 
+- **Keine versteckten Zusatzstoffe:** Im Vergleich zu fertigen Tütensaucen oder Glaskonserven, die oft Zusatzstoffe, Geschmacksverstärker, Konservierungsstoffe und oft überraschend viel zugesetzten Zucker enthalten, erlaubt dieses Gericht die volle 
 Kontrolle über die Zutaten.  
-- Reines, konzentriertes Lycopin: Hochwertiges Tomatenmark liefert eine besonders hohe Dosis des wertvollen Antioxidans Lycopin ganz ohne Füllstoffe. Das Fett (Margarine oder Butter) sorgt dafür, dass der Körper diesen Zellschutz optimal aufnehmen kann. 
-- Gleicher Speed, bessere Qualität: Das Gericht ist genauso schnell fertig wie eine Tütensoße, kommt aber mit einer transparenten, natürlichen Zutatenliste aus und lässt sich bei Natrium/Salz durch die Dosierung des Brühwürfels individuell steuern.  
-- Nachhaltige Energie: Die Spaghetti liefern komplexe Kohlenhydrate für langanhaltende Sättigung.  
+- **Reines, konzentriertes Lycopin:** Hochwertiges Tomatenmark liefert eine besonders hohe Dosis des wertvollen Antioxidans Lycopin ganz ohne Füllstoffe. Das Fett (Margarine oder Butter) sorgt dafür, dass der Körper diesen Zellschutz optimal aufnehmen kann. 
+- **Gleicher Speed, bessere Qualität:** Das Gericht ist genauso schnell fertig wie eine Tütensoße, kommt aber mit einer transparenten, natürlichen Zutatenliste aus und lässt sich bei Natrium/Salz durch die Dosierung des Brühwürfels individuell steuern.  
+- **Nachhaltige Energie:** Die Spaghetti liefern komplexe Kohlenhydrate für langanhaltende Sättigung.  
 
 ---
 
 ### Smarte Küchen-Hacks: Warum das Rezept so unkonventionell anders ist
-- Vorgekochter Pasta-Vorrat: Das Vorkochen und Einfrieren der Nudeln spart unter der Woche wertvolle Zeit.  
-- One-Pot-Effekt: Die aufgetaute oder die noch gefrorene Pasta wird direkt in der köchelnden Würzsauce erwärmt.  
+- **Vorgekochter Pasta-Vorrat:** Das Vorkochen und Einfrieren der Nudeln spart unter der Woche wertvolle Zeit.  
+- **One-Pot-Effekt:** Die aufgetaute oder die noch gefrorene Pasta wird direkt in der köchelnden Würzsauce erwärmt.  
 
 ---
 
 ### Kurt's Praxis-Check: So schmeckt es dann
 Die Sauce ist dünnflüssig, hat aber einen vollen Geschmack mit einer leichten Oreganonote.  
-1) *Wenn sie über Nacht aufgetaut sind* - Die Spaghetti haben ihren vollen Biss behalten.  
-2) *Wenn sie noch tiefgefroren waren* - Die Spaghetti haben ein wenig Sauce aufgenommen, aber noch einen erkennbaren Biss.
+1) ***Wenn sie über Nacht aufgetaut sind*** - Die Spaghetti haben ihren vollen Biss behalten.  
+2) ***Wenn sie noch tiefgefroren waren*** - Die Spaghetti haben ein wenig Sauce aufgenommen, aber noch einen erkennbaren Biss.
   
 Reste der Tomaten-Sauce schlürfe ich gerne zum Schluss.  
 
