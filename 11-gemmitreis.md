@@ -5,9 +5,11 @@
 ### Zutaten
 * **Geflügel**: 300-400 g Hähnchenbrustfilet (tiefgefroren)
 * **Gemüse**: 2 rote Paprika, 1 Zucchini, 1 Gemüsezwiebel
-* **200 g frische Champignons**
-* **Sättigungsbeilage**: 40-50 g Reis-Mix (Parboiled Langkorn & Wildreis)
-* **Flüssigkeiten & Würze**: 200-250 ml Wasser für den Reis, 1 Brühwürfel, Teriyaki-Sauce, 5 EL Rapsöl, schwarzer Pfeffer
+* **200 g Champignons**
+* **3 EL Rapsöl** (Olivenöl geht natürlich auch)
+* **Sättigungsbeilage**: 50 g Reis (ich nehme gerne Parboiled Langkorn & Wildreis)
+* **Flüssigkeiten**: 250 ml Wasser für den Reis 
+* **Würze:** 1 Brühwürfel, Teriyaki-Sauce, schwarzer Pfeffer
 
 ---
 
