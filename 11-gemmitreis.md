@@ -19,7 +19,6 @@
 
 #### 1. Das Hähnchen (Sanftes Garen)
 Die tiefgefrorenen Filets in eine Pfanne legen und großzügig mit Teriyaki-Sauce beträufeln. Bei geschlossenem Deckel auf kleinster Stufe ca. 40-45 Minuten langsam garen. Zwischendurch wenden. Nach etwa 30 Minuten die Filets halbieren und auf der Schnittfläche fertig garen.
-#### Details mit Begründung findest du [hier](43-h-bollen.md)
 
 ---
 
