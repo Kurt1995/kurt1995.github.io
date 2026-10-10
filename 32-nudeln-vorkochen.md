@@ -5,11 +5,11 @@ Viele behaupten, vorgekochte Nudeln würden matschig oder verkleben. Das stimmt 
 Richtig gemacht werden Nudeln durch das Einfrieren nicht nur haltbar, sondern sogar bissfester, kalorienärmer und bekömmlicher.
 
 ### 2. Der wissenschaftlich belegte Vorteil: Resistente Stärke
-- Durch das Abkühlen und Einfrieren verändert sich ein Teil der Stärke (Retrogradation).
-- Mehr Biss: Rekristallisierte Stärke nimmt weniger Wasser auf – die Nudeln bleiben sogar fester. 
-- Weniger Kalorien: Ca. 10–30 % (abhängig vom Nudeltyp) weniger Verwertung, da ein Teil der Stärke unverdaut den Dünndarm passiert.
-- Besserer Blutzucker & Darm: Der glykämische Index sinkt. Die resistente Stärke (RS3) dient als Präbiotikum für eine gesunde Darmflora. Die Nudeln werden erkennbar bekömmlicher.
-- *Allerdings: Das gilt vor allem, wenn die Nudeln kalt bleiben oder nur kurz erwärmt werden; bei starkem, langen Erhitzen geht ein Teil der resistenten Stärke wieder verloren.*
+Durch das Abkühlen und Einfrieren verändert sich ein Teil der Stärke (Retrogradation).
+- **Mehr Biss:** Rekristallisierte Stärke nimmt weniger Wasser auf – die Nudeln bleiben sogar fester. 
+- **Weniger Kalorien:** Ca. 10–20 % (abhängig vom Nudeltyp) weniger Verwertung, da ein Teil der Stärke unverdaut den Dünndarm passiert.
+- **Besserer Blutzucker & Darm:** Der glykämische Index sinkt. Die resistente Stärke (RS3) dient als Präbiotikum für eine gesunde Darmflora. Die Nudeln werden erkennbar bekömmlicher.
+- ***Allerdings:** Das gilt vor allem, wenn die Nudeln kalt bleiben oder nur kurz erwärmt werden; bei starkem, langen Erhitzen geht ein Teil der resistenten Stärke wieder verloren.*
 
 ### 3. Der Kurt-Workflow:
 **Schritt 1: Das Kochen mit 2-Topf-Methode**
