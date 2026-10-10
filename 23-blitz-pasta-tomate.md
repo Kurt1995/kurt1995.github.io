@@ -63,7 +63,7 @@ Die Sauce ist dünnflüssig, hat aber einen vollen Geschmack mit einer leichten 
 1) *Wenn sie über Nacht aufgetaut sind* - Die Spaghetti haben einen angenehmen Biss behalten und haben ein wenig von der Sauce angenommen.
 2) *Wenn sie noch tiefgefroren waren* - Die Spaghetti haben ein wenig Sauce aufgenommen, aber noch einen erkennbaren Biss behalten.
   
-Reste der Tomaten-Brühe schlürfe ich gerne zum Schluss.  
+Reste der Tomaten-Sauce schlürfe ich gerne zum Schluss.  
 
 *Anmerkung – Margarine oder Butter: Mir schmeckt Margarine in Saucen besser.*
 
