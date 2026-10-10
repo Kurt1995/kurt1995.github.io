@@ -89,11 +89,10 @@
   <tr>
     <td><img src="assets/11-paprika-zw-reis-ei-06.jpg" alt="Reis dazu" width="250"></td>
     <td><img src="assets/11-paprika-zw-reis-ei-07.jpg" alt="Mischen" width="250"></td>
-    <td>Den fertig gekochten Reis in die Gemüsepfanne mischen.<br><br>Mit einem pochierten Ei servieren.</td>
+    <td>Den fertig gekochten Reis in die Gemüsepfanne mischen.<br><br>Mit einem pochierten Ei servieren.<br>Am Tisch nach Geschmack mit ein wenig Salz nachwürzen.</td>
   </tr>
 </table>
 
-#### Am Tisch nach Geschmack mit ein wenig Salz nachwürzen.
 
 ![Paprika Pfanne](assets/11-paprika-zw-reis-ei-30.jpg)
 *Am Tisch eventuell mit ein paar Körnchen Salz nachwürzen.*
