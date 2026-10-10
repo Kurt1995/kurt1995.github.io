@@ -40,4 +40,10 @@ Hier sind jedoch die spezifische Reiszusammensetzung und die Vorbereitung entsch
 Das Ergebnis: Nach 30 Minuten bei kleiner Hitze mit Deckel ist die gesamte Brühe aufgenommen, der Wildreis ist weich und aromatisch, der Parboiled-Reis locker und körnig – genau wie im letzten Bild oben dokumentiert.
 
 ---
+[← Zurück zur Gemüsepfanne mit Reis](11-gemmitreis.md)
+
+[← Zurück zur Paprika-Zwiebel-Pfanne mit Reis und Ei](11-papr-zwie-reis-ei.md)
+
+[← Zurück zur Paprika-Pilz-Pfanne mit Reis und Ei](11-papr-pilz-reis-ei.md)
+
 [← Zurück zur Übersicht](index.md)
