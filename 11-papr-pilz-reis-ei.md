@@ -54,12 +54,10 @@
   <tr>
     <td><img src="assets/11-paprika-pilz-reis-ei-11.jpg" alt="Schritt 1"></td>
     <td><img src="assets/11-paprika-pilz-reis-ei-12.jpg" alt="Schritt 2"></td>
-    <td><img src="assets/11-paprika-pilz-reis-ei-13.jpg" alt="Schritt 3"></td>
   </tr>
   <tr>
     <td align="center"><span style="font-size: 0.8em;">Paprika und Pilze in die Pfanne geben</span></td>
     <td align="center"><span style="font-size: 0.8em;">Mit Deckel schmoren</span></td>
-    <td align="center"><span style="font-size: 0.8em;">Den Reis dazugeben</span></td>
   </tr>
 </table>
 
@@ -79,7 +77,6 @@
     <td><img src="assets/11-paprika-reis-ei-22.jpg" alt="Schritt 2"></td>
     <td><img src="assets/11-paprika-reis-ei-23.jpg" alt="Schritt 3"></td>
     <td><img src="assets/11-paprika-reis-ei-24.jpg" alt="Schritt 4"></td>
-    <td><img src="assets/11-paprika-pilz-reis-ei-25.jpg" alt="Schritt 5"></td>
   </tr>
 </table>
 
@@ -88,9 +85,16 @@
 - Das Eigelb sollte weich oder cremig bleiben.
 
 ### Das Finish 
-- Den fertig gekochten Reis in die Gemüsepfanne mischen. 
-- Mit den Spiegeleiern abdecken. 
-- Servieren und am Tisch mit ein wenig Salz nachwürzen.
+
+<table>
+  <tr>
+    <td><img src="assets/11-paprika-pilz-reis-ei-13.jpg" alt="Reis dazu" width="350"></td>
+    <td><img src="assets/11-paprika-pilz-reis-ei-25.jpg" alt="Mischen" width="350"></td>
+    <td>Den fertig gekochten Reis in die Gemüsepfanne mischen.<br><br>Mit den Spiegeleiern abdecken</td>
+  </tr>
+</table>
+
+Servieren und am Tisch mit ein wenig Salz nachwürzen.
 
 ---
 
