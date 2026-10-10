@@ -1,4 +1,5 @@
 # Kurt hat gekocht &nbsp; – &nbsp; Blitz-Pasta mit Tomate
+*Auch Instant Nudeln oder eine Dose Ravioli gehen schnell. Diese Blitz-Pasta ist genauso schnell und du weißt, was drin ist.*
 
 ![Zutaten](assets/23-blitz-pasta-tomate-01.jpg)
 
