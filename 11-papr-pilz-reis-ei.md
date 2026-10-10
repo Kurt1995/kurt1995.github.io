@@ -45,6 +45,7 @@
 - Das Ergebnis: Nach 30 Minuten bei kleiner Hitze mit Deckel ist die gesamte Brühe aufgenommen, der Wildreis ist weich und aromatisch, der Parboiled-Reis locker und körnig – genau wie im letzten Bild dokumentiert.
 
 #### Die Begründung findest du [hier](32-quellmethode-reis.md)
+#### Die Begründung findest du <a href="reis-begruendung.html?from=paprika-pilz-pfanne-mit-reis-und-ei">hier</a>
 
 ---
 
