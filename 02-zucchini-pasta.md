@@ -7,7 +7,7 @@
 * ca. 125 g Spaghetti (Trockengewicht - das entspricht einer Viertelpackung)
 * ca. 700 g Zucchini
 * 3 Esslöffel Olivenöl (natives Olivenöl extra)
-* ca. 30 g Parmesan (gerieben)
+* ca. 20 - 25 g Parmesan (gerieben)
 * Gewürze: Salz, schwarzer Pfeffer
 
 ---
@@ -68,12 +68,12 @@
   <tbody>
     <tr style="border-bottom: 1px solid #f0f0f0;">
       <td style="padding: 10px 8px; font-weight: bold;">Kalorien</td>
-      <td style="padding: 10px 8px;">ca. 925 kcal</td>
+      <td style="padding: 10px 8px;">ca. 900 kcal</td>
       <td style="padding: 10px 8px;">Hauptenergie aus Öl und Nudeln</td>
     </tr>
     <tr style="border-bottom: 1px solid #f0f0f0;">
       <td style="padding: 10px 8px; font-weight: bold;">Eiweiß</td>
-      <td style="padding: 10px 8px;">ca. 33 - 35 g</td>
+      <td style="padding: 10px 8px;">ca. 30 - 35 g</td>
       <td style="padding: 10px 8px;">Aus Spaghetti, Zucchini und Parmesan</td>
     </tr>
     <tr style="border-bottom: 1px solid #f0f0f0;">
@@ -88,7 +88,7 @@
     </tr>
     <tr style="border-bottom: 1px solid #f0f0f0;">
       <td style="padding: 10px 8px; font-weight: bold;">Fett (gesamt)</td>
-      <td style="padding: 10px 8px;">ca. 40 g</td>
+      <td style="padding: 10px 8px;">ca. 35 g</td>
       <td style="padding: 10px 8px;">Überwiegend aus dem Olivenöl und Parmesan</td>
     </tr>
     <tr style="border-bottom: 1px solid #f0f0f0;">
@@ -132,12 +132,12 @@
     </tr>
     <tr style="border-bottom: 1px solid #f0f0f0;">
       <td style="padding: 10px 8px; font-weight: bold;">Calcium</td>
-      <td style="padding: 10px 8px;">ca. 400 - 450 mg</td>
+      <td style="padding: 10px 8px;">ca. 400 mg</td>
       <td style="padding: 10px 8px;">Aus Parmesan, wichtig für Knochen</td>
     </tr>
     <tr style="border-bottom: 1px solid #f0f0f0;">
       <td style="padding: 10px 8px; font-weight: bold;">Phosphor</td>
-      <td style="padding: 10px 8px;">ca. 350 - 400 mg</td>
+      <td style="padding: 10px 8px;">ca. 350 mg</td>
       <td style="padding: 10px 8px;">Aus Parmesan und Nudeln</td>
     </tr>
     <tr style="border-bottom: 1px solid #f0f0f0;">
@@ -168,7 +168,7 @@ Nur Olivenöl, Pfeffer, Parmesan, Pasta, Zucchini - ja, nur diese - denn mit jed
 ---
 
 ## Zusammenfassung von Mitautorin GEMINI:
-Das Gericht ist mit rund 925 kcal eine gehaltvolle Hauptmahlzeit, die vor allem durch ihre hohe Nährstoffdichte überzeugt. Trotz des Spaghetti-Anteils bleibt die Mahlzeit durch die massive Zucchini-Basis und die daraus resultierenden Ballaststoffe sehr ausgewogen.
+Das Gericht ist mit rund 900 kcal eine gehaltvolle Hauptmahlzeit, die vor allem durch ihre hohe Nährstoffdichte überzeugt. Trotz des Spaghetti-Anteils bleibt die Mahlzeit durch die massive Zucchini-Basis und die daraus resultierenden Ballaststoffe sehr ausgewogen.
 
 ---
 [← Zurück zur Übersicht](index.md)
