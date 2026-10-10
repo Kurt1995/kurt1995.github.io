@@ -60,9 +60,12 @@ Kontrolle über die Zutaten.
 
 ### Kurt's Praxis-Check: So schmeckt es dann
 Die Sauce ist dünnflüssig, hat aber einen vollen Geschmack mit einer leichten Oreganonote.  
-Die Spaghetti haben einen angenehmen Biss behalten und nehmen ein wenig von der Sauce an.  
+1) *Wenn sie über Nacht aufgetaut sind* - Die Spaghetti haben einen angenehmen Biss behalten und haben ein wenig von der Sauce angenommen.
+2) *Wenn sie noch tiefgefroren waren* - Die Spaghetti haben ein wenig Sauce aufgenommen, aber noch einen erkennbaren Biss behalten.
+  
 Reste der Tomaten-Brühe schlürfe ich gerne zum Schluss.  
-*Kurze Anmerkung – Margarine oder Butter: Ich greife hier zu Margarine. Butter macht die Sauce schwer und fettig. Margarine emulgiert feiner und schafft das Zusammenspiel mit den Nudeln besser.*
+
+*Anmerkung – Margarine oder Butter: Mir schmeckt Margarine in Saucen besser.*
 
 ---
 
