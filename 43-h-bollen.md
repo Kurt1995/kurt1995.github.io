@@ -74,4 +74,6 @@ Mit rund 480 kcal und 42 g Eiweiß ist das eine sättigende Hauptmahlzeit für M
 **Fazit**: Nährstoffreich, unkompliziert, alltagstauglich portioniert. Ein Rezept mit klarer Linie, das durch Schlichtheit überzeugt.
 
 ---
+[← Zurück zur Gemüsepfanne mit Reis](11-gemmitreis.md)
+
 [← Zurück zur Übersicht](index.md)
