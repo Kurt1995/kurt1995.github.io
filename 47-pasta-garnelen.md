@@ -2,10 +2,10 @@
 
 ![Zutaten](assets/47-pasta-garnele-1.jpg)
 
-## Zutaten (für 2 Portionen/ 4 Teller)
+## Zutaten (für 2 Portionen / 4 Teller)
 * Tiefgefrorene Garnelen (ca. 225 g)
 * 170 g Spaghetti (Trockengewicht - 1/3 Packung)
-* Frisch geriebener Parmesan (ca. 40 g / 10 g je Teller-Portion)
+* Frisch geriebener Parmesan (ca. 30 g / 8 g je Teller-Portion)
 * 2 Esslöffel Olivenöl
 * Margarine (Butter) (ca. 40 g)
 * Gewürze: Schwarzer Pfeffer und Salz
@@ -67,7 +67,7 @@ Berechnet für die im Rezept angegebenen Gesamtmengen:
 
 | Nährwert | Gesamtgericht |
 | :--- | :--- |
-| Kalorien | ca. 1470 kcal |
+| Kalorien | ca. 1400 kcal |
 | Kohlenhydrate | ca. 120 g |
 | Eiweiß (Protein) | ca. 75 g |
 | Fett | ca. 75 g |
