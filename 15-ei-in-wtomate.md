@@ -20,9 +20,9 @@
 
 <table>
   <tr>
-    <td><img src="assets/15verlei-intomate2a.jpg" alt="Pochieren 1"></td>
-    <td><img src="assets/15verlei-intomate2b.jpg" alt="Pochieren 2"></td>
-    <td><img src="assets/15verlei-intomate3.jpg" alt="Pochieren 3"></td>
+    <td><img src="assets/15verlei-intomate2a.jpg" alt="Pochieren 1" height="712"></td>
+    <td><img src="assets/15verlei-intomate2b.jpg" alt="Pochieren 2" height="712"></td>
+    <td><img src="assets/15verlei-intomate3.jpg" alt="Pochieren 3" height="712"></td>
  </tr>
 </table>
 
