@@ -8,7 +8,7 @@
 - ¼ Tube Tomatenmark
 - 1 Dose geschnittene Champignons
 - 3 Eier
-- 1,5 l Wasser (für die Eier)
+- 2 l Wasser (für die Eier)
 - 300 ml Wasser (für die Sauce)
 - 125 g gekochte Dinkel-Penne (1 Portion aus dem Vorrat)
 - 1 Brühwürfel (Fette Brühe)
