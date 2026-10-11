@@ -77,8 +77,8 @@
 ### Die Eier
 <table>
   <tr>
-    <td><img src="assets/11-paprika-zw-reis-ei-21.jpg" alt="Eier pochieren" height="150"></td>
-    <td><img src="assets/11-paprika-zw-reis-ei-22.jpg" alt="Eier pochieren" height="150"></td>
+    <td><img src="assets/11-paprika-zw-reis-ei-21.jpg" alt="Eier pochieren" height="170"></td>
+    <td><img src="assets/11-paprika-zw-reis-ei-22.jpg" alt="Eier pochieren" height="170"></td>
     <td>
       <p>Eier pochieren:</p>
       <ol>
