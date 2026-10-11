@@ -105,6 +105,21 @@
     </td>
   </tr>
 </table>
+<table>
+  <tr>
+    <td><img src="assets/11-paprika-zw-reis-ei-21.jpg" alt="Eier pochieren" width="164"></td>
+    <td><img src="assets/11-paprika-zw-reis-ei-22.jpg" alt="Eier pochieren" height="190"></td>
+    <td>
+      <p>Eier pochieren:</p>
+      <ol>
+        <li>Zwei Liter Wasser erhitzen, bis es siedet (nicht sprudelnd kocht).</li>
+        <li>Die Eier einzeln in eine Schale aufschlagen und vorsichtig ins Wasser gleiten lassen.</li>
+        <li>Drei Minuten ziehen lassen, bis das Eiweiß fest und das Eigelb weich ist.</li>
+        <li>Die Eier mit einer Schaumkelle entnehmen (First In - First Out) und abgedeckt beiseite stellen.</li>
+      </ol>
+    </td>
+  </tr>
+</table>
 
 ### Das Finish 
 <table>
