@@ -18,9 +18,15 @@
 
 <br>
 
-| auf | dem Herd |
-| :---: | :---: |
-| ![Verlorenes Ei in Winter-Tomate](assets/15verlei-intomate2.jpg) | ![Verlorenes Ei in Winter-Tomate](assets/15verlei-intomate3.jpg) |
+<table>
+  <tr>
+    <td><img src="assets/15verlei-intomate2a.jpg" alt="Pochieren 1"></td>
+    <td><img src="assets/15verlei-intomate2b.jpg" alt="Pochieren 2"></td>
+    <td><img src="assets/15verlei-intomate3.jpg" alt="Pochieren 3"></td>
+ </tr>
+</table>
+
+
 
 ### Zubereitung
 
