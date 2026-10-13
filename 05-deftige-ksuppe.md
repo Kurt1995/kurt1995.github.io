@@ -1,4 +1,4 @@
-# Kurt hat gekocht - Deftige Kartoffelsuppe
+# Kurt hat gekocht  &nbsp; – &nbsp; Deftige Kartoffelsuppe
 
 Diese Kartoffelsuppe steht für viel Geschmack, effizientes Zeitmanagement und nährstoffschonende Zubereitung.
 
