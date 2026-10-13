@@ -1,4 +1,4 @@
-# Kurt hat gekocht  &nbsp; - &nbsp; Tomaten-Schicht-Pfanne mit "Asia Note"
+# Kurt hat gekocht  &nbsp; – &nbsp; Tomaten-Schicht-Pfanne mit "Asia Note"
 
 <br>
 
