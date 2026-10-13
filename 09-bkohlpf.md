@@ -1,4 +1,4 @@
-# Kurt hat gekocht &nbsp;- &nbsp;Blumenkohl Pfanne
+# Kurt hat gekocht  &nbsp; – &nbsp; Blumenkohl Pfanne
 
 ![Bild: Zutaten Blumenkohl Pfanne](assets/09bluhmenkohlpfanne1.jpg)
 
