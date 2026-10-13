@@ -1,4 +1,4 @@
-# Kurt snackt - Paprika mit Frischkäse
+# Kurt snackt – Paprika mit Frischkäse
 ### Ein Abendbrot Snack
 
 ![Paprika mit Frischkäse](assets/20-paprika-snack.jpg)
