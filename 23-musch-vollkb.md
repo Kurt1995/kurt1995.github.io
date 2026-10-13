@@ -1,4 +1,4 @@
-# Kurt kocht &nbsp; - &nbsp; Muscheln auf Vollkornbrot - ein Abendessen
+# Kurt snackt &nbsp; – &nbsp; Muscheln auf Vollkornbrot - ein Abendessen
 
 <br>
 
