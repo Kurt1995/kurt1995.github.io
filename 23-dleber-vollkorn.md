@@ -1,4 +1,4 @@
-# Kurt kocht &nbsp; - &nbsp; Dorschleber auf Vollkornbrot - ein Abendessen
+# Kurt snackt &nbsp; – &nbsp; Dorschleber auf Vollkornbrot - ein Abendessen
 
 <br>
 
