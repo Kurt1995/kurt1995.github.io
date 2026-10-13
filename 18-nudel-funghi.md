@@ -1,5 +1,5 @@
 
-# Kurt hat gekocht  &nbsp; - &nbsp; Tomaten-Schicht-Pfanne "Funghi Note"
+# Kurt hat gekocht  &nbsp; – &nbsp; Tomaten-Schicht-Pfanne "Funghi Note"
 
 <br>
 
