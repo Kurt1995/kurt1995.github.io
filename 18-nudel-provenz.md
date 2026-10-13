@@ -1,4 +1,4 @@
-# Kurt hat gekocht &nbsp; - &nbsp; Tomaten-Schicht-Pfanne "Provenzalische Art"
+# Kurt hat gekocht &nbsp; – &nbsp; Tomaten-Schicht-Pfanne "Provenzalische Art"
 
 <br>
 
