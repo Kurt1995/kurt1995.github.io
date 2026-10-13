@@ -1,4 +1,4 @@
-# Kurt hat gekocht &nbsp; - &nbsp; Gemüse-Creme „Frühsommer“
+# Kurt hat gekocht &nbsp; – &nbsp; Gemüse-Creme „Frühsommer“
 
 <br>  
 
