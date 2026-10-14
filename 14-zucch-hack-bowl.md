@@ -1,4 +1,4 @@
-# Kurt hat gekocht &nbsp; – &nbsp; Zucchini-Hack Bowl mit Brühe
+# Kurt hat gekocht &nbsp; – &nbsp; Zucchini-Hack-Bowl mit Brühe
 
 <br>
 
