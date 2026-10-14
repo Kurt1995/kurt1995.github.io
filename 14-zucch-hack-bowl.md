@@ -42,7 +42,7 @@
   </tr>
 </table>
 
-- Das Wasser mit dem Brühwürfel aufsetzen und auf kleiner Flamme langsam zum Kochen bringen. 
+- Das Wasser mit dem Brühwürfel aufsetzen und auf kleiner Flamme langsam zum Sieden bringen. 
 - Die Zucchini waschen und klein würfeln, die Zwiebel schälen und sehr fein würfeln. 
 - Die Zucchiniwürfel und die Zwiebelwürfel mit dem Olivenöl in die Pfanne geben. Mit schwarzem Pfeffer würzen.  
 - Das Hackfleisch nach Geschmack würzen (Salz, Pfeffer, Paprika ..) und in Flocken über dem Gemüse verteilen. 
