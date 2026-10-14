@@ -1,4 +1,4 @@
-# Kurt hat gekocht &nbsp; - &nbsp; Zucchini-Nudel Pfanne
+# Kurt hat gekocht &nbsp; – &nbsp; Zucchini-Nudel Pfanne
 
 <br>
 
