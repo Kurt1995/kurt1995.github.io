@@ -2,17 +2,17 @@
 
 <br>
 
-![Zutaten](assets/24-zucch-nudel-01.jpg)
+![Zutaten](assets/14-zucch-hack-bowl-01.jpg)
 
 ### Zutaten für 2 Portionen
 
-- Zucchini (ca. 700-800 g)
-- 1 kleine Zwiebel
-- 150 g Hackfleisch (halb und halb)
-- 125 g (Trockengewicht, entspricht ¼ Packung) Dinkel-Penne
-- 3 Scheiben Käse z.B. Tilsiter (Edamer oder junger Gouda gehen auch)
-- 4 Esslöffel Olivenöl
-- Gewürze: Salz, schwarzer Pfeffer, Rosenpaprika scharf, Fondor
+- Zucchini (ca. 700 g - 800 g) 
+- 1 kleine Zwiebel (ca. 100 - 150 g) 
+- 150 g Hackfleisch (halb und halb) 
+- 125 g (Trockengewicht, entspricht ¼ Packung) Dinkel-Penne 
+- 3 Scheiben Käse ca. 120 g  – z.B. junger Gouda (Edamer oder Tilsiter gehen auch) 
+- 3 Esslöffel Olivenöl 
+- Gewürze: Salz, schwarzer Pfeffer, Rosenpaprika scharf
 
 ---
 
@@ -42,14 +42,16 @@
   </tr>
 </table>
 
-- Die Zucchini waschen und klein würfeln, die Zwiebel schälen und sehr fein würfeln.
-- Die Zucchiniwürfel und die Zwiebelwürfel mit dem Olivenöl in die Pfanne geben. Mit schwarzem Pfeffer und Fondor würzen.
-- Das Hackfleisch nach Geschmack würzen (Salz, Pfeffer, Paprika ..) und in Flocken über dem Gemüse verteilen.
-- Mit Deckel auf mittlerer Flamme ca. 4-5 Minuten schmoren, bis das Hack gar ist.
-- Mit den Nudeln und den Käsescheiben abdecken.
-- Weitere 3-4 Minuten bei mittlerer Hitze mit Deckel garen, bis der Käse beginnt, zu zerlaufen.
-- Die Pfanne vom Feuer nehmen (kann auch auf ganz kleiner Flamme warmgehalten werden) und servieren.
-- Ein Nachwürzen mit Salz ist wahrscheinlich nicht erforderlich.
+- Das Wasser mit dem Brühwürfel aufsetzen und auf kleiner Flamme langsam zum Kochen bringen. 
+- Die Zucchini waschen und klein würfeln, die Zwiebel schälen und sehr fein würfeln. 
+- Die Zucchiniwürfel und die Zwiebelwürfel mit dem Olivenöl in die Pfanne geben. Mit schwarzem Pfeffer würzen.  
+- Das Hackfleisch nach Geschmack würzen (Salz, Pfeffer, Paprika ..) und in Flocken über dem Gemüse verteilen. 
+- Mit Deckel auf mittlerer Flamme ca. 4 - 5 Minuten schmoren. 
+- Mit den Nudeln und den Käsescheiben abdecken. 
+- Weitere 3 - 4 Minuten bei mittlerer Hitze mit Deckel garen, bis der Käse beginnt, zu zerlaufen. 
+- Die Pfanne vom Feuer nehmen. 
+- Eine Portion vom Pfanneninhalt in eine Schüssel füllen und mit gut 100 ml (bei einer Schüsselgröße von ca. 500 ml) siedender Brühe aufgießen. 
+- Servieren.
 
 ![Serviert](assets/24-zucch-nudel-10.jpg)
 
