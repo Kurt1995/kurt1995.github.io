@@ -1,4 +1,4 @@
-# Kurt hat gekocht &nbsp; – &nbsp; Vier-Gemüse-Pfanne mit Reis und Hähnchenbrust
+# Kurt hat gekocht &nbsp; – &nbsp; Vier-Gemüse-Pfanne<br>mit Reis und Hähnchenbrust
 
 ![Zutaten Übersicht](assets/11-gpfannereis1.jpg)
 
