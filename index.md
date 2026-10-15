@@ -57,7 +57,7 @@
     <td style="padding:6px 8px;"><a href="11-papr-zwie-reis-ei.html">Paprika-Zwiebel-Pfanne mit Reis und Ei</a></td>
   </tr>
   <tr>
-    <td style="padding:6px 8px;"><a href="03-bunte-pilzpfanne.html">Bunte Pilzpfanne mit Nudeln und Würstchen</a></td>
+    <td style="padding:6px 8px;"><a href="03-bunte-pilzpfanne.html">Drei-Gemüse-Pfanne mit Nudeln und Würstchen</a></td>
     <td style="padding:6px 8px;"><a href="14-ch-kohl-pasta-bowl.html">Chinakohl-Spaghetti-Bowl mit Brühe</a></td>
   </tr>
   <tr>
