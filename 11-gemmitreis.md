@@ -1,4 +1,4 @@
-# Kurt hat gekocht &nbsp;– &nbsp;Gemüsepfanne mit Reis
+# Kurt hat gekocht &nbsp; – &nbsp; Gemüsepfanne mit Reis und Hähnchenbrust
 
 ![Zutaten Übersicht](assets/11-gpfannereis1.jpg)
 
