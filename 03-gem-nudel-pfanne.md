@@ -1,7 +1,6 @@
 <h1 align="center">Kurt hat gekocht &nbsp; – &nbsp; Drei-Gemüse-Pfanne mit Nudeln und Asia-Note</h1>
 <br>
 
-
 ![Zutatenübersicht](assets/03-gem-nudel-pfanne-1.jpg)
 
 ## Zutaten
