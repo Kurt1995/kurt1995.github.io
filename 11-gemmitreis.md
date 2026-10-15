@@ -1,12 +1,11 @@
-# Kurt hat gekocht &nbsp; – &nbsp; Gemüsepfanne mit Reis und Hähnchenbrust
+# Kurt hat gekocht &nbsp; – &nbsp; Vier-Gemüse-Pfanne mit Reis und Hähnchenbrust
 
 ![Zutaten Übersicht](assets/11-gpfannereis1.jpg)
 
 ### Zutaten für 2 Portionen
 * **Geflügel**: 300-400 g Hähnchenbrustfilet (tiefgefroren)
-* **Gemüse**: 2 rote Paprika, 1 Zucchini, 1 Gemüsezwiebel
-* **200 g Champignons**
-* **3 EL Rapsöl** (Olivenöl geht natürlich auch)
+* **Gemüse**: 2 rote Paprika, 1 Zucchini, 1 Gemüsezwiebel, 200 g Champignons
+* **3 EL Rapsöl** (Olivenöl geht auch)
 * **Sättigungsbeilage**: 60 g Reis (ich nehme gerne Parboiled Langkorn & Wildreis)
 * **Flüssigkeiten**: 300 ml Wasser für den Reis 
 * **Würze:** 1 Brühwürfel, Teriyaki-Sauce, schwarzer Pfeffer
