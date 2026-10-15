@@ -2,13 +2,13 @@
 
 ![Zutaten Übersicht](assets/11-gpfannereis1.jpg)
 
-### Zutaten
+### Zutaten für 2 Portionen
 * **Geflügel**: 300-400 g Hähnchenbrustfilet (tiefgefroren)
 * **Gemüse**: 2 rote Paprika, 1 Zucchini, 1 Gemüsezwiebel
 * **200 g Champignons**
 * **3 EL Rapsöl** (Olivenöl geht natürlich auch)
-* **Sättigungsbeilage**: 50 g Reis (ich nehme gerne Parboiled Langkorn & Wildreis)
-* **Flüssigkeiten**: 250 ml Wasser für den Reis 
+* **Sättigungsbeilage**: 60 g Reis (ich nehme gerne Parboiled Langkorn & Wildreis)
+* **Flüssigkeiten**: 300 ml Wasser für den Reis 
 * **Würze:** 1 Brühwürfel, Teriyaki-Sauce, schwarzer Pfeffer
 
 ---
@@ -26,17 +26,17 @@
 
 ---
 
-#### 2. Der Reis
+#### 2. Der Reis (Quellmethode)
 - Den Reis vorab ca. 1 Stunde wässern und gründlich abspülen.
-- Den Brühwürfel im Wasser auflösen, den Reis hinzugeben und bei kleiner Hitze abgedeckt ca. 30 Minuten köcheln lassen, bis die Flüssigkeit vollständig aufgenommen wurde.
+- Den Brühwürfel und den Reis ins Wasser geben und bei kleiner Hitze abgedeckt ca. 30 Minuten köcheln lassen, bis die Flüssigkeit vollständig aufgenommen wurde.
 #### Details mit Begründung findest du [hier](32-quellmethode-reis.md)
 
 ---
 
 #### 3. Das Gemüse & Finish
 - Die Pilze putzen, würfeln und im Rapsöl in einer Wok-Pfanne kurz anschmoren.
-- Das restliche Gemüse (geputzt und gewürfelt) hinzugeben und für weitere 10 Minuten bei mittlerer Hitze mitgaren. Mit Pfeffer würzen.
-- Zum Schluss die gewürfelten Hähnchenfilets samt Sud sowie den Reis unter das Gemüse heben.
+- Das restliche Gemüse (geputzt und gewürfelt) hinzugeben und für weitere 7 - 8 Minuten bei mittlerer Hitze garen. Mit Pfeffer würzen.
+- Zum Schluss die gewürfelten Hähnchenfilets samt Sud sowie den fertig gekochten Reis unter das Gemüse heben.
 
 > **Hinweis**: Durch die Brühwürfel und die Teriyaki-Sauce ist zusätzliches Salzen nicht erforderlich.  
 
