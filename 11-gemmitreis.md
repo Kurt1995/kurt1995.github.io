@@ -45,7 +45,7 @@
 ### GEMINIS Gesundheits-Check: Warum dieses Gericht punktet
 Dieses Gericht überzeugt durch eine kluge Kombination aus langsamen Kohlenhydraten und einer schonenden Zubereitung:
 
-* **Optimale Nährstoffaufnahme**: Die 5 Esslöffel Rapsöl sind essenziell, um die fettlöslichen Vitamine (wie das Beta-Carotin aus der roten Paprika) für den Körper bioverfügbar zu machen.
+* **Optimale Nährstoffaufnahme**: Die 3 Esslöffel Rapsöl sind essenziell, um die fettlöslichen Vitamine (wie das Beta-Carotin aus der roten Paprika) für den Körper bioverfügbar zu machen.
 * **Aminosäuren-Profil**: Das magere Hähnchenbrustfilet liefert hochwertige, essenzielle Aminosäuren.
 * **B-Vitamine & Folsäure**: Die Champignons steuern wichtige B-Vitamine (insbesondere B2 und B3) bei, während die rote Paprika als Vitamin-C-Bombe das Immunsystem unterstützt.
 * **Vorteil der Reis-Wässerung**: Das einstündige Wässern dient der Reinigung und schwemmt überschüssige Stärke sowie mögliche Rückstände (wie anorganisches Arsen) aus. Zudem verbessert es die Textur.
