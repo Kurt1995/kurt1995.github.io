@@ -1,4 +1,6 @@
-# Kurt hat gekocht  &nbsp; – &nbsp; Bunte Pilzpfanne
+<h1 align="center">Kurt hat gekocht &nbsp; – &nbsp; Drei-Gemüse-Pfanne<br>mit Nudeln und Würstchen</h1>
+<br>
+
 
 Dieses Gericht besticht durch seine effiziente Vorratsküche und die kurze Zubereitungszeit am Verzehrtag. Es ist eine gehaltvolle Mahlzeit, die besonders durch den Mix aus tierischem Eiweiß und pflanzlichen Proteinen punktet.
 
