@@ -54,15 +54,114 @@ Dieses Gericht überzeugt durch eine kluge Kombination aus langsamen Kohlenhydra
 
 ---
 
-### Energiewert dieser Mahlzeit
-Basierend auf den Zutaten ergibt sich für die Gesamtzubereitung folgende Bilanz:
+### Nährwerte für eine Portion ( = Hälfte der Zutatenmengen)
+#### Makronährstoffe
 
-| Nährwert | Schätzung (Gesamt) |
-| :--- | :--- |
-| Brennwert | ca. 800 kcal |
-| Eiweiß | ca. 75-100 g (je nach Hähnchengewicht)|
-| Kohlenhydrate | ca. 65-75 g |
-| Fett | ca. 20 g |
+<table style="width: 800px; border-collapse: collapse; font-family: sans-serif;">
+  <thead>
+    <tr style="border-bottom: 2px solid #000;">
+      <th style="width: 170px; text-align: left; padding: 8px; border: 1px solid #000; font-weight: bold;">Nährstoff</th>
+      <th style="width: 170px; text-align: center; padding: 8px; border: 1px solid #000; font-weight: bold;">Menge</th>
+      <th style="text-align: left; padding: 8px; border: 1px solid #000; font-weight: bold;">Anmerkung</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #000;">Kalorien</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 540 - 580 kcal</td>
+      <td style="padding: 8px; border: 1px solid #000;">Hauptenergie aus Hähnchen, Rapsöl und Reis</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #000;">Eiweiß</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 44 - 48 g</td>
+      <td style="padding: 8px; border: 1px solid #000;">Hauptsächlich aus dem Hähnchenbrustfilet, etwas aus Reis und Champignons</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #000;">Kohlenhydrate</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 38 - 42 g</td>
+      <td style="padding: 8px; border: 1px solid #000;">Aus Reis, Paprika, Zwiebel und Teriyaki-Sauce</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #000;">davon Zucker</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 12 - 15 g</td>
+      <td style="padding: 8px; border: 1px solid #000;">Natürlicher Fruchtzucker aus roter Paprika, Zwiebel und Zucchini</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #000;">Fett (gesamt)</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 16 - 18 g</td>
+      <td style="padding: 8px; border: 1px solid #000;">Aus dem Rapsöl und Rest aus Hähnchen</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #000;">Gesättigte Fettsäuren</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 1,8 - 2,5 g</td>
+      <td style="padding: 8px; border: 1px solid #000;">Sehr gering, da Rapsöl hauptsächlich ungesättigt ist</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #000;">Ballaststoffe</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 5 - 6 g</td>
+      <td style="padding: 8px; border: 1px solid #000;">Aus Paprika, Zucchini, Champignons und Wildreis-Anteil</td>
+    </tr>
+  </tbody>
+</table>
+
+#### Mikronährstoffe
+
+<table style="width: 800px; border-collapse: collapse; font-family: sans-serif;">
+  <thead>
+    <tr style="border-bottom: 2px solid #000;">
+      <th style="width: 170px; text-align: left; padding: 8px; border: 1px solid #000; font-weight: bold;">Nährstoff</th>
+      <th style="width: 170px; text-align: center; padding: 8px; border: 1px solid #000; font-weight: bold;">Menge</th>
+      <th style="text-align: left; padding: 8px; border: 1px solid #000; font-weight: bold;">Deckungsbeitrag pro Tag</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #000;">Vitamin C</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 190 - 220 mg</td>
+      <td style="padding: 8px; border: 1px solid #000;">Ca. 200 - 240 % (Hervorragender Spitzenwert aus der roten Paprika und Zucchini)</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #000;">Vitamin A (als Beta-Carotin)</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 500 - 650 µg</td>
+      <td style="padding: 8px; border: 1px solid #000;">Ca. 60 - 80 % (Hauptsächlich aus Beta-Carotin der roten Paprika)</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #000;">Vitamin B12</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 0,4 - 0,6 µg</td>
+      <td style="padding: 8px; border: 1px solid #000;">Ca. 15 - 25 % (Exklusiv aus dem Hähnchenfleisch)</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #000;">B-Vitamine (B2 / B3 / B6)</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">Gut abgedeckt</td>
+      <td style="padding: 8px; border: 1px solid #000;">Aus Hähnchen, Champignons, Paprika und Reis</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #000;">Vitamin D</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 0,2 - 0,5 µg</td>
+      <td style="padding: 8px; border: 1px solid #000;">Ca. 0 - 5 % (Nur Spuren aus Hähnchen, kein Vitamin D wenn Champignons nicht UV-bestrahlt wurden)</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #000;">Kalium</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 1400 - 1600 mg</td>
+      <td style="padding: 8px; border: 1px solid #000;">Ca. 35 - 40 % (Sehr gut für Herz und Blutdruck; aus Paprika, Zucchini, Champignons und Hähnchen)</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #000;">Eisen</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 2,5 - 3,2 mg</td>
+      <td style="padding: 8px; border: 1px solid #000;">Ca. 18 - 25 % (Gut verfügbar aus Hähnchen, unterstützt durch das Vitamin C)</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #000;">Zink</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 2,2 - 2,8 mg</td>
+      <td style="padding: 8px; border: 1px solid #000;">Ca. 20 - 28 %</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #000;">Salz (Kochsalz)</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 2,2 - 2,8 g</td>
+      <td style="padding: 8px; border: 1px solid #000;">Ca. 45 - 55 % der empfohlenen Tageshöchstmenge (aus Brühwürfel und Teriyaki-Sauce)</td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
