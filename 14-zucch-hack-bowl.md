@@ -7,7 +7,7 @@
 ### Zutaten für 2 Portionen
 
 - Zucchini (ca. 700 g - 800 g) 
-- 1 kleine Zwiebel (ca. 100 - 150 g) 
+- 1 mittelgroße Zwiebel (ca. 100 - 150 g) 
 - 150 g Hackfleisch (halb und halb) 
 - 125 g (Trockengewicht, entspricht ¼ Packung) Dinkel-Penne 
 - 3 Scheiben Käse ca. 120 g  – z.B. junger Gouda (Edamer oder Tilsiter gehen auch) 
