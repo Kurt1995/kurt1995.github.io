@@ -1,4 +1,4 @@
-# Kurt hat gekocht &nbsp; – &nbsp; Gemüsepfanne mit Nudeln
+# Kurt hat gekocht &nbsp; – &nbsp; Gemüsepfanne mit Nudeln und Hack
 Ein Gericht mit der handwerklichen Umsetzung einer „Trocken-Suppe“
 
 ![1 - Zutaten](assets/13-zw-pfanne1.jpg)
@@ -62,11 +62,11 @@ Die Gemüsezwiebel fungiert hier nicht nur als Geschmacksträger, sondern als Li
 Das Fehlen von harten Texturen und Säurespitzen entlastet die sensorische Verarbeitung. Ein funktionales „Wohlfühl-Gericht“, das durch die Abwesenheit von Reizstoffen eine hohe Bioverfügbarkeit und minimale metabolische Belastung garantiert.
 
 ### Energiewert der Mahlzeit
-Basierend auf den Mengen (ca. 130g Hackfleisch, 120g Nudeln, 200g Zwiebeln, 200g Pilze und Fette) ergibt sich folgende energetische Bilanz:
-* Brennwert gesamt: ca. 780-820 kcal
-* Kohlenhydrate: ca. 85g (primär durch die Spiralnudeln)
-* Proteine: ca. 35g (durch Hackfleisch und Nudeln)
-* Fette: ca. 38g (Hackfleisch-Anteil, Rapsöl und Margarine-Finish)
+Basierend auf den Mengen (ca. 150 g Hackfleisch, 120 g Nudeln, 200 g Zwiebeln, 200 g Pilze und Fette) ergibt sich folgende energetische Bilanz:
+* Brennwert gesamt: ca. 850 kcal
+* Kohlenhydrate: ca. 85 g (primär durch die Spiralnudeln)
+* Proteine: ca. 35-40 g (durch Hackfleisch und Nudeln)
+* Fette: ca. 45 g (Hackfleisch-Anteil, Rapsöl und Margarine-Finish)
 
 ---
 
