@@ -61,7 +61,7 @@
     <td style="padding:6px 8px;"><a href="14-ch-kohl-pasta-bowl.html">Chinakohl-Spaghetti-Bowl mit Brühe</a></td>
   </tr>
   <tr>
-    <td style="padding:6px 8px;"><a href="03-gem-nudel-pfanne.html">Gemüse-Nudel-Pfanne mit Asia-Note</a></td>
+    <td style="padding:6px 8px;"><a href="03-gem-nudel-pfanne.html">Drei-Gemüse-Pfanne mit Nudeln und Asia-Note</a></td>
     <td style="padding:6px 8px;"><a href="14-maegensuppe.html">Suppe mit Hähnchenmägen</a></td>
   </tr>
   <tr>
