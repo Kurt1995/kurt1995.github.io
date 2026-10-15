@@ -62,7 +62,7 @@
         <li>das Gemüse hat noch guten Biss</li>
         <li>das Hackfleisch ist gar und saftig</li>
         <li>der Käse ist schön verlaufen </li>
-        <li>die Nudeln sind erwärmt, nicht weiter gegart</li>
+        <li>die Nudeln sind erwärmt, aber nicht weiter gegart</li>
         <li>die siedende Brühe wartet darauf, aus einem Pfannengericht eine Bowl zu machen</li>
       </ol>
     </td>
