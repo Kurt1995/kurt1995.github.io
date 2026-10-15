@@ -11,7 +11,8 @@
 - 150 g Hackfleisch (halb und halb) 
 - 125 g (Trockengewicht, entspricht ¼ Packung) Dinkel-Penne 
 - 3 Scheiben Käse ca. 120 g  – z.B. junger Gouda (Edamer oder Tilsiter gehen auch) 
-- 3 Esslöffel Olivenöl 
+- 3 Esslöffel Olivenöl
+- 500 ml Wasser + 1 Brühwürfel
 - Gewürze: Salz, schwarzer Pfeffer, Rosenpaprika scharf
 
 ---
