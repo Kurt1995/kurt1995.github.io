@@ -1,5 +1,6 @@
-# Kurt hat gekocht &nbsp; – &nbsp; Gemüsepfanne mit Nudeln und Hack
-Ein Gericht mit der handwerklichen Umsetzung einer „Trocken-Suppe“
+<h1 align="center">Kurt hat gekocht &nbsp; – &nbsp; Drei-Gemüse-Pfanne<br>mit Nudeln und Hack</h1>
+
+<br>
 
 ![1 - Zutaten](assets/13-zw-pfanne1.jpg)
 
