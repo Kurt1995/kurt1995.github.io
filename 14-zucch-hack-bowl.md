@@ -75,8 +75,8 @@
 
 ## META’s Gesundheits-Check: Warum dieses Gericht punktet 
 **Gemüse im Mittelpunkt:** Der hohe Zucchini-Anteil sorgt für Volumen und eine saftige Konsistenz bei leichter Bekömmlichkeit.  
-**Schonende Zubereitung – Schicht-Pfannen-Prinzip:**  Schmoren mit Deckel bei mittlerer Hitze statt scharfem Anbraten. Gemüse und Hack garen im eigenen Saft und mit Dampf, bleiben weich und mild im Geschmack. Keine Röstaromen, wenig Reizstoffe, wenig Aufwand in der Pfanne.  
-**Salzarmes Konzept:** Würzen der Pfanne nur mit Pfeffer und Paprika. Salz nur  für Hackfleisch und Nudelwasser, sonst erst am Tisch.  
+**Schonende Zubereitung – Schicht-Pfannen-Prinzip:** Schmoren mit Deckel bei mittlerer Hitze statt scharfem Anbraten. Gemüse und Hack garen im eigenen Saft und mit Dampf, bleiben mild im Geschmack. Keine Röstaromen, wenig Reizstoffe, wenig Aufwand in der Pfanne.  
+**Salzarmes Konzept:** Würzen der Pfanne nur mit Pfeffer und Paprika. Salz nur für Hackfleisch und Nudelwasser.  
 **Ausgewogene Kombination:** Gemüse, Dinkel-Penne, wenig Hackfleisch und Käse liefern zusammen Kohlenhydrate, Eiweiß und Fett in moderaten Mengen. Olivenöl und frische Brühe geben Geschmack ohne schwere Soße. 
 
 ---
