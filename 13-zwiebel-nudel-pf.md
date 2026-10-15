@@ -5,7 +5,7 @@
 
 ## Zutaten
 * Gemüsezwiebel ca. 200 g
-* 200 g frische Champignons
+* 200 g Champignons
 * 1 rote Paprika
 * Hackfleisch halb und halb ca. 150 g (1/3 einer 500 g Packung)
 * 120 g Spiralnudeln (1/5 von einer 600 g Tüte)
