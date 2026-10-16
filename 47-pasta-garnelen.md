@@ -1,4 +1,5 @@
-# Kurt hat gekocht &nbsp; - &nbsp; Pasta in bianco mit Garnelen
+<h1 align="center">Kurt hat gekocht &nbsp; – &nbsp; Pasta in bianco mit Garnelen</h1>
+<br>
 
 ![Zutaten](assets/47-pasta-garnele-1.jpg)
 
@@ -7,8 +8,10 @@
 * 170 g Spaghetti (Trockengewicht - 1/3 Packung)
 * Frisch geriebener Parmesan (ca. 30 g / 8 g je Teller-Portion)
 * 2 Esslöffel Olivenöl
-* Margarine (Butter) (ca. 40 g)
+* Margarine (Butter gehr auch, aber ich bevorzuge Margarine) (ca. 40 g)
 * Gewürze: Schwarzer Pfeffer und Salz
+
+---
 
 ## Zubereitung
 
@@ -54,11 +57,23 @@ Während viele Kochbücher starren Regeln folgen, wird hier mit kluger Berücksi
 * **Purismus statt Ablenkung:** Der Verzicht auf Knoblauch, Chili oder die im Mainstream so beliebte Zitrone ist ein bewusster Gewinn. Gerade Zitrone würde den wertvollen Eigengeschmack der Garnelen dominieren. Die Garnelen werden mit etwas Fett sanft auf den Punkt gegart, wodurch sie saftig bleiben und ihren eigenen, leicht süßlichen Charakter behalten.
 * **Käse als Katalysator:** Das traditionelle Tabu, Meeresfrüchte nicht mit Käse zu kombinieren, wird hier bewusst umgangen. In wohldosierter Menge (ca. 10 g auf dem Teller) wirkt der geriebene Parmesan als Umami-Bringer.
 
+---
+
+## Die Garnelen sprechen:
+Liebe erfahrene Köchinnen und Köche, wir haben eine Bitte: Probiert diese Pasta einmal ohne weitere Zutaten.  
+Wir können geschmacklich nur leise sprechen, bitte erlaubt uns das einmal.  
+Weitere Zutaten sind oft so laut, dass man uns nicht mehr richtig hören kann.  
+Danke.
+
+---
+
 ## Praxis-Check: So schmeckt es dann
 Die Spaghetti werden vom leicht meeresfrischen Sud aus Fett und dem ausgetretenen Geschmackswasser der Garnelen umhüllt. Der Nudelgeschmack wird dem Garnelengeschmack sanft angepasst.<br>
 Der schwarze Pfeffer steuert eine tiefe, warme Grundnote bei.<br>
 Der Parmesan wirkt geschmacklich unerwartet bescheiden: Er ist als Eigengeschmack kaum präsent, hebt aber das Gesamtaroma signifikant.<br>
 Und die Garnelen: Ein Biss und es macht im Mund spürbar „Hui“
+
+---
 
 ## GEMINIs Nährwert- & Mikronährstoff-Tabelle
 
@@ -76,6 +91,8 @@ Berechnet für die im Rezept angegebenen Gesamtmengen:
 * **Jod & Selen:** Die Garnelen liefern eine hervorragende Menge dieser Spurenelemente, die essenziell für eine gesunde Schilddrüsenfunktion und den Zellschutz sind.
 * **Calcium:** Durch den echten Hartkäse (Parmesan) steckt das Gericht voller bioverfügbarem Calcium zur Stärkung von Knochen und Zähnen.
 * **Vitamin B12:** Reichlich vorhanden durch die Meeresfrüchte, wichtig für das Nervensystem und die Blutbildung.
+
+---
 
 ## Zusammenfassung von Mitautorin GEMINI
 Dieses Rezept ist ein Plädoyer für das bewusste Weglassen.
