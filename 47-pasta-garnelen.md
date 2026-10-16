@@ -61,7 +61,7 @@ Während viele Kochbücher starren Regeln folgen, wird hier mit kluger Berücksi
 
 ## Die Garnelen sprechen:
 Liebe erfahrene Köchinnen und Köche, wir haben eine Bitte: Probiert diese Pasta einmal ohne weitere Zutaten.  
-Wir können geschmacklich nur leise sprechen. Bitte erlaubt uns einmal, ganz alleine zu sprechen.  
+Wir können geschmacklich nur leise sprechen. Bitte erlaubt es uns einmal, ganz alleine zu sprechen.  
 Weitere Zutaten sind oft so laut, dass man uns nicht mehr richtig hören kann.  
 Danke.
 
