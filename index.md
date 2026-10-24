@@ -99,7 +99,7 @@
 | [Muscheln auf Vollkornbrot](23-musch-vollkb.md) | &nbsp; |
 | __Und ab und zu ein__ | __Protein Boost__ |
 | [Pasta in bianco mit Garnelen](47-pasta-garnelen.md) | [Dicke Rippe](12-dickerippe.md) |
-| [Strammer Max - Plus](19-st-max-plus.md) | [Tomatenrunde mit Steak](22-tomate-steak.md) |
+| [Strammer Max Plus](19-st-max-plus.md) | [Tomatenrunde mit Steak](22-tomate-steak.md) |
 | [Hähnchen Bollen](43-h-bollen.md)  |  |
 |  |  |
 | __Snacks__ | __Partyhäppchen__ |
