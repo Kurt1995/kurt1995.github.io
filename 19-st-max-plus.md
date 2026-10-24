@@ -1,10 +1,10 @@
-# Kurt hat gekocht &nbsp; – &nbsp; Strammer Max – Plus
+# Kurt hat gekocht &nbsp; – &nbsp; Strammer Max Plus
 
 ![Zutaten](assets/19-st-max-plus01.jpg)
 
 ### Zutaten
 - 3 Scheiben Vollkornbrot  
-- ca. 130 g Gehacktes (halb und halb)  
+- ca. 150 g Gehacktes (halb und halb)  
 - 3 Eier  
 - Margarine  
 - Gewürze: Salz und schwarzer Pfeffer  
