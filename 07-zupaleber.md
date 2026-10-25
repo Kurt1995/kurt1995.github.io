@@ -37,9 +37,16 @@
 7. Die Vollkornpenne und die gegarte Leber in die Creme geben.
 8. Alles vermengen, vom Feuer nehmen und servieren.
 
-| Leber und Penne sind eingerührt | Guten Appetit |
-| :---: | :---: |
-| ![07zupaleber4.jpg](assets/07zupaleber4.jpg) | ![07zupaleber5.jpg](assets/07zupaleber5.jpg) |
+<table>
+  <tr>
+    <td><img src="assets/07zupaleber4.jpg" alt="Servieren" width="712"></td>
+    <td align="center"> <i>und so soll es aussehen<br><br>die Creme ist noch leicht sämig<br><br>die Gewürze sind gleichmäßig vermischt<br><br>Leber und Vollkornpennte sind untergehoben</i></td>
+  </tr>
+</table>
+
+| Guten Appetit |
+| :---: |
+| ![07zupaleber5.jpg](assets/07zupaleber5.jpg) |
 
 ### Perplexity's Gesundheits-Check: Warum dieses Gericht punktet
 Dieses Rezept kombiniert Gemüse, Leber und Vollkorn für eine nährstoffreiche Mahlzeit, die den Körper optimal versorgt.
