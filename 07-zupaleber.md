@@ -47,7 +47,7 @@
 | Guten Appetit |
 | :---: |
 | ![07zupaleber5.jpg](assets/07zupaleber5.jpg) |
-| *Am Tisch kann mit ein wenig Salz nachgewürzt werden* |
+| *am Tisch kann mit ein wenig Salz nachgewürzt werden* |
 
 ### Perplexity's Gesundheits-Check: Warum dieses Gericht punktet
 Dieses Rezept kombiniert Gemüse, Leber und Vollkorn für eine nährstoffreiche Mahlzeit, die den Körper optimal versorgt.
