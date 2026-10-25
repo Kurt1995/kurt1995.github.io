@@ -9,7 +9,7 @@
 * 125 g Vollkornpenne (1/4 Packung)
 * 0,5 l Wasser
 * 1 Brühwürfel (für 500 ml)
-* Schwarzer Pfeffer
+* Schwarzer Pfeffer, Salz
 * ca. 30 g Margarine (1 Esslöffel leicht gehäuft)
 
 ---
@@ -47,6 +47,7 @@
 | Guten Appetit |
 | :---: |
 | ![07zupaleber5.jpg](assets/07zupaleber5.jpg) |
+| *Am Tisch kann mit ein wenig Salz nachgewürzt werden* |
 
 ### Perplexity's Gesundheits-Check: Warum dieses Gericht punktet
 Dieses Rezept kombiniert Gemüse, Leber und Vollkorn für eine nährstoffreiche Mahlzeit, die den Körper optimal versorgt.
@@ -68,7 +69,7 @@ Dieses Rezept kombiniert Gemüse, Leber und Vollkorn für eine nährstoffreiche 
   <thead>
     <tr style="background-color: #e6e6e6;">
       <th style="width: 170px; text-align: left; padding: 8px; border: 1px solid #000; font-weight: bold;">Nährstoff</th>
-      <th style="width: 170px; text-align: left; padding: 8px; border: 1px solid #000; font-weight: bold;">Menge gesamt (2 Port.)</th>
+      <th style="width: 170px; text-align: left; padding: 8px; border: 1px solid #000; font-weight: bold;">Menge gesamt</th>
       <th style="text-align: left; padding: 8px; border: 1px solid #000; font-weight: bold;">Anmerkung</th>
     </tr>
   </thead>
@@ -189,7 +190,9 @@ Dieses Rezept kombiniert Gemüse, Leber und Vollkorn für eine nährstoffreiche 
 ---
 
 ### Zusammenfassung von Mitautorin Perplexity:
-Mit 850-950 kcal ist das Gericht eine proteinstarke Hauptmahlzeit (55-65 g Eiweiß aus Leber und Penne). Die Gemüse-Leber-Kombo maximiert Mikronährstoffe bei bester Bioverfügbarkeit.
+*Ich teile die Gesamtmenge in 2 Portionen*  
+Mit 650-700 kcal ist das Gericht eine proteinstarke Hauptmahlzeit (mit 50 g Eiweiß aus Leber und Penne).  
+Dabei maximiert diese Gemüse-Leber-Kombo Mikronährstoffe bei bester Bioverfügbarkeit.
 
 > **Tipp für Leberskeptiker:**
 > Durch das Garen bei kleiner Flamme bleibt die Geflügelleber in ihrem Aroma zurückhaltend. <br> Während die Zucchini-Paprika-Creme den ersten Moment am Gaumen bestimmt, tritt die sanfte, braun‑raue Lebernote erst beim Kauen hervor. Ein besonderes Geschmackserlebnis - perfekt für alle, die sich behutsam an Innereien herantasten möchten.
