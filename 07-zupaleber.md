@@ -40,7 +40,7 @@
 <table>
   <tr>
     <td><img src="assets/07zupaleber4.jpg" alt="Servieren" width="712"></td>
-    <td align="center"> <i>und so soll es aussehen<br><br>die Creme ist noch leicht sämig<br><br>die Gewürze sind gleichmäßig vermischt<br><br>Leber und Vollkornpennte sind untergehoben</i></td>
+    <td align="center"> <i>und so soll es aussehen<br><br>die Creme ist leicht sämig<br><br>die Gewürze sind gleichmäßig vermischt<br><br>Leber und Vollkornpennte sind untergehoben</i></td>
   </tr>
 </table>
 
