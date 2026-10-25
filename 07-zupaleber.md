@@ -60,6 +60,16 @@ Dieses Rezept kombiniert Gemüse, Leber und Vollkorn für eine nährstoffreiche 
 
 ---
 
+### Kurt’s Praxis Check: So schmeckt es dann
+
+Cremig, sämig und ein wenig süß. Im Hintergrund eine kräftige Umami Tiefe.  
+Und dann kommt die Leber.  
+Mit jedem Kauen tritt sie stärker hervor und entfaltet ihren typischen Geschmack.  
+Die Vollkornnudeln geben Volumen und eine kleine Getreidenote dazu.  
+Und mit dem nächsten Löffel wiederholt sich das Spiel – das mag ich.
+
+---
+
 <h2 style="font-family: sans-serif; font-size: 18px; font-weight: bold; margin-bottom: 5px;">Nährwerte für die gesamte Zutatenmenge</h2>
 <hr style="border: none; border-top: 2px solid #000; margin-bottom: 20px;" />
 
