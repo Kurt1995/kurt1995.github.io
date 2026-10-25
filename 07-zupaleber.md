@@ -22,7 +22,7 @@
 
 #### Zubereitung am Verzehrtag
 
-| gerade auf dem Herd | die Leber ist jetzt gar |
+| gerade auf dem Herd | das Gemüse ist püriert und die Leber ist jetzt gar |
 | :---: | :---: |
 | ![07zupaleber2.jpg](assets/07zupaleber2.jpg) | ![07zupaleber3.jpg](assets/07zupaleber3.jpg) |
 
