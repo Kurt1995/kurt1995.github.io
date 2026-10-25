@@ -6,19 +6,21 @@
 * Zucchini ca. 400 g
 * Rote Paprika ca. 300 g
 * Geflügelleber 500 g
-* 1/4 Packung Vollkornpenne (vorgekocht)
+* 125 g Vollkornpenne (1/4 Packung)
 * 0,5 l Wasser
 * 1 Brühwürfel (für 500 ml)
 * Schwarzer Pfeffer
-* Margarine
+* ca. 30 g Margarine (1 Esslöffel leicht gehäuft)
 
 ---
 
 ### Zubereitung
 
 #### Langfristvorbereitung
-1. Die Vollkornpenne vorkochen, portionieren und einfrieren.
+1. Die Vollkornpenne vorkochen, in 4 Portionen aufteilen und einfrieren.
 2. Am Abend vor dem Verzehr Penne und Leber schonend im Kühlschrank auftauen.  
+
+*Hinweis: Das Gericht schmeckt natürlich auch mit frisch zubereiteten Nudeln.*
 
 #### Zubereitung am Verzehrtag
 
