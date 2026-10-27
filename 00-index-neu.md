@@ -47,27 +47,27 @@
     <td style="padding:8px; font-weight:bold;"><h3 align="center">Bowls, Suppen und Salate</td>
   </tr>
   <tr>
-    <td style="padding:6px 8px;"><a href="02-zucchini-pasta.html">Zucchini mit Pasta</a></td>
+    <td style="padding:6px 8px;"><a href="04-brokkolipfanne.html">Leichte Brokkoli Pfanne</a></td>
     <td style="padding:6px 8px;"><a href="02-zwiebel-pasta.html">Zwiebel mit Pasta</a></td>
   </tr>
   <tr>
-    <td style="padding:6px 8px;"><a href="14-zucch-hack-bowl.html">Zucchini-Hack-Bowl mit Brühe</a></td>
+    <td style="padding:6px 8px;"><a href="44-deftig-b-pfanne.html">Deftige Brokkoli-Pfanne</a></td>
     <td style="padding:6px 8px;"><a href="11-papr-pilz-reis-ei.html">Paprika-Pilz-Pfanne mit Reis und Ei</a></td>
   </tr>
   <tr>
-    <td style="padding:6px 8px;"><a href="13-zwiebel-nudel-pf.html">Drei-Gemüse-Pfanne mit Nudeln und Hack</a></td>
+    <td style="padding:6px 8px;"><a href="09-bkohlpf.html">Blumenkohl Pfanne und Hack</a></td>
     <td style="padding:6px 8px;"><a href="11-papr-zwie-reis-ei.html">Paprika-Zwiebel-Pfanne mit Reis und Ei</a></td>
   </tr>
   <tr>
-    <td style="padding:6px 8px;"><a href="03-bunte-pilzpfanne.html">Drei-Gemüse-Pfanne mit Nudeln und Würstchen</a></td>
+    <td style="padding:6px 8px;"><a href="46-spaghetti-f-bolo.html">Spaghetti mit fruchtiger Wildkräuter Bolo</a></td>
     <td style="padding:6px 8px;"><a href="14-ch-kohl-pasta-bowl.html">Chinakohl-Spaghetti-Bowl mit Brühe</a></td>
   </tr>
   <tr>
-    <td style="padding:6px 8px;"><a href="03-gem-nudel-pfanne.html">Drei-Gemüse-Pfanne mit Nudeln und Asia-Note</a></td>
+    <td style="padding:6px 8px;"><a href="25-spargel-aldente.html">Spargel al dente</a></td>
     <td style="padding:6px 8px;"><a href="14-maegensuppe.html">Suppe mit Hähnchenmägen</a></td>
   </tr>
   <tr>
-    <td style="padding:6px 8px;"><a href="11-gemmitreis.html">Vier-Gemüse-Pfanne mit Reis und Hähnchenbrust</a></td>
+    <td style="padding:6px 8px;">&nbsp;</td>
     <td style="padding:6px 8px;"><a href="05-deftige-ksuppe.html">Deftige Kartoffelsuppe</a></td>
   </tr>
   <tr>
