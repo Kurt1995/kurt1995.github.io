@@ -55,7 +55,7 @@
     <td style="padding:6px 8px;"><a href="11-papr-pilz-reis-ei.html">Paprika-Pilz-Pfanne mit Reis und Ei</a></td>
   </tr>
   <tr>
-    <td style="padding:6px 8px;"><a href="09-bkohlpf.html">Blumenkohl Pfanne und Hack</a></td>
+    <td style="padding:6px 8px;"><a href="09-bkohlpf.html">Blumenkohl Pfanne</a></td>
     <td style="padding:6px 8px;"><a href="11-papr-zwie-reis-ei.html">Paprika-Zwiebel-Pfanne mit Reis und Ei</a></td>
   </tr>
   <tr>
