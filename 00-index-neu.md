@@ -43,8 +43,8 @@
   </tr>
   
   <tr>
-    <td style="padding:8px; font-weight:bold;"><h3 align="center">Gemüse der Saison<br>Topf und Pfanne</td>
-    <td style="padding:8px; font-weight:bold;"><h3 align="center">Bowls, Suppen<br>und Salate</td>
+    <td style="padding:8px; font-weight:bold;"><h3 align="center">Gemüse der Saison<br>aus Topf und Pfanne</td>
+    <td style="padding:8px; font-weight:bold;"><h3 align="center">Bowls, Suppen und Salate</td>
   </tr>
   <tr>
     <td style="padding:6px 8px;"><a href="02-zucchini-pasta.html">Zucchini mit Pasta</a></td>
