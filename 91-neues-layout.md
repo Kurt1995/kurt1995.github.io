@@ -1,122 +1,112 @@
 ---
 layout: page
 title: "Kurt kocht – Ideen für den Alltag"
-subtitle: "einfache Zutaten, schnelle Zubereitung, entspanntes Essen in einer gemüsefreundlichen Küche"
 ---
 
-> **Tipp 1:** Handy quer, dann passen die Seiten besser.  
-> **Tipp 2:** [Kleine Übersicht über Zutaten und Küchenhelfer, die ich verwende.](#zutaten)
+<style>
+.kurt-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0;
+  border: 1px solid #333;
+  margin: 20px 0;
+  font-size: 0.9em;
+}
+.kurt-grid .head {
+  background: #1a1a1a;
+  color: #fff;
+  font-weight: bold;
+  padding: 10px;
+  border-bottom: 1px solid #333;
+}
+.kurt-grid .cell {
+  padding: 10px;
+  border-bottom: 1px solid #333;
+  border-right: 1px solid #333;
+}
+.kurt-grid .cell:nth-child(even) { border-right: none; }
+.kurt-grid a { color: #58a6ff; text-decoration: none; }
+.kurt-grid a:hover { text-decoration: underline; }
 
-# Kompromiss-Vorschlag: Nach Gerichtstyp + Saison
+@media (max-width: 600px) {
+  .kurt-grid { grid-template-columns: 1fr; }
+  .kurt-grid .head:nth-child(2) { display: none; } /* nur einmal Header auf Handy */
+  .kurt-grid .cell { border-right: none; }
+}
 
-Diese Struktur verbindet deine bisherige Einteilung (nach Zutat/Jahreszeit) mit der alternativen Idee (nach Zubereitungsart). Hauptnavigation nach Gerichtstyp, Saison als Filter-Tag.
+.sub { color: #8b949e; font-size: 0.85em; }
+.tag { background: #21262d; border: 1px solid #30363d; border-radius: 10px; padding: 1px 6px; font-size: 0.75em; }
+</style>
 
----
+*einfache Zutaten, schnelle Zubereitung, entspanntes Essen in einer gemüsefreundlichen Küche*
 
-### 1. Tomaten-Schicht-Pfannen
-*Dein Signature-Gericht – bleibt eigenständig* `SOMMER • Klassiker`
+> Tipp 1: Handy quer, dann passen die Seiten besser.  
+> Tipp 2: Hier gibt es eine kleine Übersicht über [Zutaten und Küchenhelfer, die ich verwende.](#zutaten)
 
-- Tomaten-Schicht-Pfanne "Rustikale Art" – *Pfanne, Topf & Schüssel*
-- Tomaten-Schicht-Pfanne "Funghi Note"
-- Tomaten-Schicht-Pfanne "Bayrische Art"
-- Tomaten-Schicht-Pfanne "Provenzalische Art"
-- Tomaten-Schicht-Pfanne "Lasagne Art"
-- Tomaten-Schicht-Pfanne "Asia Note"
+<div class="kurt-grid">
+  <div class="head">GERICHTSTYP <span class="sub">– wonach ist dir?</span></div>
+  <div class="head">Pfanne, Topf & Schüssel <span class="sub">– was brauchst du?</span></div>
 
-> **Dazu passt:** Spaghetti mit fruchtiger Wildkräuter-Bolo / Spargel al dente / Opa Salat
+  <div class="cell"><strong>1. Tomaten-Schicht-Pfannen</strong> <span class="tag">SOMMER</span><br>
+  <a href="#">Rustikale Art</a><br>
+  <a href="#">Funghi Note</a><br>
+  <a href="#">Bayrische Art</a><br>
+  <a href="#">Provenzalische Art</a><br>
+  <a href="#">Lasagne Art</a><br>
+  <a href="#">Asia Note</a>
+  </div>
+  <div class="cell">
+  Spaghetti mit fruchtiger Wildkräuter-Bolo<br>
+  Gemüse-Creme "Frühlingserwachen"<br>
+  Zucchini-Paprika-Creme mit Leber<br>
+  Tomaten-Topf mit Huhn<br>
+  Spargel al dente<br>
+  Opa Salat
+  </div>
 
-### 2. Pfannen mit Nudeln
-*Alles was mit Pasta & Nudeln in die Pfanne kommt* `GANZJÄHRIG`
+  <div class="cell"><strong>2. Pfannen mit Nudeln</strong> <span class="tag">GANZJÄHRIG</span><br>
+  Zucchini mit Pasta<br>
+  Drei-Gemüse mit Nudeln + Hack<br>
+  Drei-Gemüse mit Nudeln + Würstchen<br>
+  Drei-Gemüse mit Nudeln + Asia Note<br>
+  <span class="sub">+ Nudeln in Winter-Tomate</span>
+  </div>
+  <div class="cell"><strong>Pfanne & Topf</strong><br>
+  Zwiebel mit Pasta<br>
+  Paprika-Pilz mit Reis und Ei<br>
+  Paprika-Zwiebel mit Reis und Ei<br>
+  Chinakohl-Bowl mit Brühe<br>
+  Suppe mit Hähnchenmägen
+  </div>
 
-- Zucchini mit Pasta – *Pfanne & Topf: Zwiebel mit Pasta*
-- Drei-Gemüse-Pfanne mit Nudeln und Hack
-- Drei-Gemüse-Pfanne mit Nudeln und Würstchen
-- Drei-Gemüse-Pfanne mit Nudeln und Asia Note
-- Nudeln in Winter-Tomate – *Winter*
-- Spaghetti mit fruchtiger Wildkräuter-Bolo
+  <div class="cell"><strong>3. Pfannen mit Reis & Bowls</strong> <span class="tag">BOWL</span><br>
+  Vier-Gemüse mit Reis + Hähnchenbrust<br>
+  Zucchini-Hack-Bowl mit Brühe<br>
+  Chinakohl-Spaghetti-Bowl
+  </div>
+  <div class="cell"><strong>4. Topf, Cremes & Suppen</strong> <span class="tag">WINTER</span><br>
+  Deftige Kartoffelsuppe<br>
+  Senioren Special-Suppe<br>
+  Verlorenes Ei in Winter-Tomate
+  </div>
 
-### 3. Pfannen mit Reis & Bowls
-*Reis als Sättigung – schnell & sättigend* `GANZJÄHRIG • BOWL`
+  <div class="cell"><strong>5. Kohl & Wintergemüse</strong> <span class="tag">SAISON</span><br>
+  Leichte Brokkoli-Pfanne<br>
+  Deftige Brokkoli-Pfanne<br>
+  Blumenkohl Pfanne
+  </div>
+  <div class="cell"><strong>6. Für den Abend / Snacks</strong><br>
+  Dorschleber / Muscheln auf Vollkornbrot<br>
+  Blitz-Pasta mit Tomate<br>
+  Pasta in bianco mit Garnelen<br>
+  Strammer Max Plus / Hähnchen Bollen<br>
+  <span class="sub">Snacks: Paprika mit Frischkäse, Salami + Möhre</span>
+  </div>
+</div>
 
-- Vier-Gemüse-Pfanne mit Reis und Hähnchenbrust
-- Paprika-Pilz-Pfanne mit Reis und Ei
-- Paprika-Zwiebel-Pfanne mit Reis und Ei
-- Zucchini-Hack-Bowl mit Brühe
-- Chinakohl-Spaghetti-Bowl mit Brühe
-
-### 4. Topf, Cremes & Suppen
-*Aus Topf und Pfanne – cremig & wärmend* `HERBST / WINTER`
-
-- Gemüse-Creme "Frühlingserwachen" – *Pfanne, Topf & Schüssel*
-- Zucchini-Paprika-Creme mit Leber
-- Tomaten-Tofu mit Huhn
-- Suppe mit Hähnchenmägen
-- Deftige Kartoffelsuppe
-- Senioren Special-Suppe
-
-### 5. Kohl & Wintergemüse
-*Saisonaler Fokus – leicht & deftig* `WINTER • SAISON`
-
-- Leichte Brokkoli-Pfanne
-- Deftige Brokkoli-Pfanne
-- Blumenkohl Pfanne
-- Verlorenes Ei in Winter-Tomate – *Pfanne & Topf*
-- Nudeln in Winter-Tomate
-
-### 6. Für den Abend, Grill & Snacks
-*Klein, schnell, besonders* `ABEND • SNACK`
-
-**Für den:**
-- Dorschleber auf Vollkornbrot
-- Muscheln auf Vollkornbrot
-
-**Abend:**
-- Blitz-Pasta mit Tomate
-
-**Und ab und zu ein:**
-- Pasta in bianco mit Garnelen
-- Strammer Max Plus
-- Hähnchen Bollen
-
-**Protein Boost:**
-- Dicke Rippe
-- Tomatenrunde mit Steak
-
-**Snacks & Partyhäppchen:**
-- Paprika mit Frischkäse
-- Surimi mit Frischkäse
-- Salami und Möhre
-- Ziegen-Weichkäse mit Tomatenmark
-- Blauschimmelkäse mit Ketchup auf Vollkornbrot
-
----
-
-## Besondere Vorbereitungen
-
-- Brokkoli blanchieren
-- Blumenkohl blanchieren
+### Besondere Vorbereitungen
+- Brokkoli blanchieren / Blumenkohl blanchieren
 - Nudeln vorkochen, geht das? Ja, sage ich.
 
-## Zutaten {#zutaten}
-
-> Hier kommt deine kleine Übersicht über Zutaten und Küchenhelfer, die du verwendest.
-
----
-
-### Navigation für `_data/navigation.yml` (wenn du Jekyll nutzt)
-
-```yaml
-- title: Tomaten-Schicht-Pfannen
-  url: /#tomaten-schicht-pfannen
-- title: Mit Nudeln
-  url: /#pfannen-mit-nudeln
-- title: Mit Reis & Bowls
-  url: /#pfannen-mit-reis-bowls
-- title: Topf & Suppen
-  url: /#topf-cremes-suppen
-- title: Wintergemüse
-  url: /#kohl-wintergemüse
-- title: Abend & Snacks
-  url: /#für-den-abend
-```
-
+### Zutaten {#zutaten}
+Hier kommt deine Übersicht über Zutaten und Küchenhelfer.
