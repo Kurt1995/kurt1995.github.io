@@ -19,7 +19,7 @@
   </tr>
   <tr>
     <td style="padding:6px 8px;"><a href="18-nudel-funghi.html">Tomaten-Schicht-Pfanne "Funghi Note"</a></td>
-    <td style="padding:6px 8px;">Dinkelpenne in Tomate</a></td>
+    <td style="padding:6px 8px;">Dinkelpenne in Tomate></td>
   </tr>
   <tr>
     <td style="padding:6px 8px;"><a href="18-nudel-bayer.html">Tomaten-Schicht-Pfanne "Bayrische Art"</a></td>
