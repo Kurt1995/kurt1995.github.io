@@ -94,23 +94,7 @@
 </tbody>
 </table>
 
-| Für den | Abend |
-| :--- | :--- |
-| [Dorschleber auf Vollkornbrot](23-dleber-vollkorn.md) | [Blitz-Pasta mit Tomate](23-blitz-pasta-tomate.md) |
-| [Muscheln auf Vollkornbrot](23-musch-vollkb.md) | &nbsp; |
-| __Und ab und zu ein__ | __Protein Boost__ |
-| [Pasta in bianco mit Garnelen](47-pasta-garnelen.md) | [Dicke Rippe](12-dickerippe.md) |
-| [Strammer Max Plus](19-st-max-plus.md) | [Tomatenrunde mit Steak](22-tomate-steak.md) |
-| [Hähnchen Bollen](43-h-bollen.md)  |  |
-|  |  |
-| __Snacks__ | __Partyhäppchen__ |
-| [Paprika mit Frischkäse](20-paprika-snack.md) | [Ziegen-Weichkäse mit Tomatenmark](20-zie-kaese-snack.md) |
-| [Surimi mit Frischkäse](21-surimi-snack.md) | [Blauschimmelkäse mit Ketchup auf Vollkornbrot](20-blau-kaese-snack.md) |
-| Salami mit Möhre |  |
-| __Besondere Vorbereitungen__ | &nbsp; |
-| [Brokkoli blanchieren](30-brokk-blanch.md) |  [Blumenkohl blanchieren](31-blum-blanch.md) |
-| [Nudeln vorkochen, geht das?](32-nudeln-vorkochen.md) Ja, sage ich. |  |
-|  |  |
+
 
 ---
 
