@@ -42,10 +42,9 @@
     <td style="padding:6px 8px;"><a href="08-nudelinwt.html">Nudeln in Winter-Tomate</a></td>
   </tr>
   
-  <!-- ZUCCHINI ... -->
   <tr>
-    <td style="padding:8px; font-weight:bold;">ZUCCHINI, PAPRIKA, PILZE, & ZWIEBEL</td>
-    <td style="padding:8px; font-weight:bold;">Pfanne & Topf</td>
+    <td style="padding:8px; font-weight:bold;"><h3 align="center">Gemüse der Saison<br>Topf und Pfanne</td>
+    <td style="padding:8px; font-weight:bold;"><h3 align="center">Bowls, Suppen<br>und Salate</td>
   </tr>
   <tr>
     <td style="padding:6px 8px;"><a href="02-zucchini-pasta.html">Zucchini mit Pasta</a></td>
