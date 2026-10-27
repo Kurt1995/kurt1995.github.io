@@ -15,11 +15,11 @@
   </tr>
   <tr>
     <td style="padding:6px 8px;"><a href="18-nudel-rusti.html">Tomaten-Schicht-Pfanne "Rustikale Art"</a></td>
-    <td style="padding:6px 8px;"><a href="46-spaghetti-f-bolo.html">Spaghetti mit fruchtiger Wildkräuter-Bolo</a></td>
+    <td style="padding:6px 8px;"><a href="08-gemuse-fsommer.html">Gemüse-Creme "Frühsommer“</a></td>
   </tr>
   <tr>
     <td style="padding:6px 8px;"><a href="18-nudel-funghi.html">Tomaten-Schicht-Pfanne "Funghi Note"</a></td>
-    <td style="padding:6px 8px;"><a href="08-gemuse-fsommer.html">Gemüse-Creme „Frühsommer“</a></td>
+    <td style="padding:6px 8px;">Dinkelpenne in Tomate</a></td>
   </tr>
   <tr>
     <td style="padding:6px 8px;"><a href="18-nudel-bayer.html">Tomaten-Schicht-Pfanne "Bayrische Art"</a></td>
@@ -31,11 +31,11 @@
   </tr>
   <tr>
     <td style="padding:6px 8px;"><a href="18-nudel-lasag.html">Tomaten-Schicht-Pfanne "Lasagne Art"</a></td>
-    <td style="padding:6px 8px;"><a href="25-spargel-aldente.html">Spargel al dente</a></td>
+    <td style="padding:6px 8px;">Gehaltvolle Zucchini-Paprika Creme</td>
   </tr>
   <tr>
     <td style="padding:6px 8px;"><a href="18-nudel-asia.html">Tomaten-Schicht-Pfanne "Asia Note"</a></td>
-    <td style="padding:6px 8px;"><a href="06-opa-salat.html">Opa Salat</a></td>
+    <td style="padding:6px 8px;"><a href="15-ei-in-wtomate.html">Verlorenes Ei in Winter-Tomate</a></td>
   </tr>
   
   <!-- ZUCCHINI ... -->
