@@ -75,10 +75,9 @@
     <td style="padding:6px 8px;"><a href="06-opa-salat.html">Opa Salat</a></td>
   </tr>
  
-  <!-- KOHL & WINTERGEMÜSE -->
   <tr>
-    <td style="padding:8px; font-weight:bold;">KOHL & WINTERGEMÜSE</td>
-    <td style="padding:8px; font-weight:bold;">Pfanne & Topf</td>
+    <td style="padding:8px; font-weight:bold;"><h3 align="center">Gemüse-Nudel-Pfannen</td>
+    <td style="padding:8px; font-weight:bold;"><h3 align="center">Gemüse-Reis-Pfannen</td>
   </tr>
   <tr>
     <td style="padding:6px 8px;"><a href="04-brokkolipfanne.html">Leichte Brokkoli-Pfanne</a></td>
