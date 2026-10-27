@@ -37,6 +37,10 @@
     <td style="padding:6px 8px;"><a href="18-nudel-asia.html">Tomaten-Schicht-Pfanne "Asia Note"</a></td>
     <td style="padding:6px 8px;"><a href="15-ei-in-wtomate.html">Verlorenes Ei in Winter-Tomate</a></td>
   </tr>
+  <tr>
+    <td style="padding:6px 8px;">&nbsp;</td>
+    <td style="padding:6px 8px;"><a href="08-nudelinwt.html">Nudeln in Winter-Tomate</a></td>
+  </tr>
   
   <!-- ZUCCHINI ... -->
   <tr>
