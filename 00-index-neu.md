@@ -81,19 +81,19 @@
   </tr>
   <tr>
     <td style="padding:6px 8px;"><a href="02-zucchini-pasta.html">Zucchini mit Pasta</a></td>
-    <td style="padding:6px 8px;"><a href="15-ei-in-wtomate.html">Verlorenes Ei in Winter-Tomate</a></td>
+    <td style="padding:6px 8px;"><a href="11-gemmitreis.html">Vier-Gemüse-Pfanne mit Reis und Hähnchenbrust</a></td>
   </tr>
   <tr>
     <td style="padding:6px 8px;"><a href="02-zwiebel-pasta.html">Zwiebel Pilze und Pasta</a></td>
-    <td style="padding:6px 8px;"><a href="08-nudelinwt.html">Nudeln in Winter-Tomate</a></td>
+    <td style="padding:6px 8px;"><a href="11-papr-pilz-reis-ei.html">Paprika-Pilz-Pfanne mit Reis und Ei</a></td>
   </tr>
   <tr>
     <td style="padding:6px 8px;"><a href="03-gem-nudel-pfanne.html">Drei-Gemüse-Pfanne mit Asia-Note</a></td>
-    <td style="padding:6px 8px;">&nbsp;</td>
+    <td style="padding:6px 8px;">Paprika-Pilz-Pfanne mit Reis und Hack</td>
   </tr>
   <tr>
     <td style="padding:6px 8px;"><a href="13-zwiebel-nudel-pf.html">Drei-Gemüse-Pfanne mit Nudeln und Hack</a></td>
-    <td style="padding:6px 8px;">&nbsp;</td>
+    <td style="padding:6px 8px;"><a href="11-papr-zwie-reis-ei.htm>Paprika-Zwiebel-Pfanne mit Reis und Ei</td>
   </tr>
   <tr>
     <td style="padding:6px 8px;">Zucchini-Nudel Pfanne mit Hack und Käse</td>
