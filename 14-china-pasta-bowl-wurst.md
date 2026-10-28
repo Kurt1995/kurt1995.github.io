@@ -137,7 +137,7 @@ Erst am Tisch probieren und nur bei Bedarf nachwürzen.*
     <tr>
       <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">Fett (gesamt)</td>
       <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 55 g</td>
-      <td style="padding: 8px; border: 1px solid #000;">bei 2 EL Öl, bei 3 EL ca. 63 g</td>
+      <td style="padding: 8px; border: 1px solid #000;">aus Bratwurst und Öl</td>
     </tr>
     <tr>
       <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">Gesättigte Fettsäuren</td>
