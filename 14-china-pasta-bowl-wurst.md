@@ -233,6 +233,8 @@ Erst am Tisch probieren und nur bei Bedarf nachwürzen.*
   </tbody>
 </table>
 
+---
+
 ## Kurt's Praxis Check: So schmeckt es dann
 
 Ich lausche dem Gespräch in meinem Mund:  
