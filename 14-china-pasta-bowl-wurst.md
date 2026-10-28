@@ -82,7 +82,7 @@
 ---
 
 ![Nudelpfanne Asia](assets/14-china-pasta-bowl-wurst-11.jpg)
-*Guten Appetit*
+<p align="center"><em>Guten Appetit</em></p>
 
 ---
 
