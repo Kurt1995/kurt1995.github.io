@@ -60,10 +60,9 @@ Während viele Kochbücher starren Regeln folgen, wird hier mit kluger Berücksi
 ---
 
 ## Die Garnelen sprechen:
-Liebe erfahrene Köchinnen und Köche, wir haben eine Bitte: Probiert diese Pasta einmal ohne weitere Zutaten.  
-Wir können nur leise sprechen.   
-Weitere Zutaten sind oft so laut, dass man uns nicht mehr richtig hören kann.  
-Bitte erlaubt es uns einmal, ganz alleine zu sprechen.  
+Liebe erfahrene Köchinnen und Köche!  
+Ihr seid die Regie.  
+Wie ihr wisst, können wir nur leise sprechen. Deshalb haben wir einen Wunsch: Gebt diese Bühne heute einmal nur uns, so dass wir keine Angst haben müssen, von weiteren Mitspielern übertönt zu werden.  
 Danke.
 
 ---
