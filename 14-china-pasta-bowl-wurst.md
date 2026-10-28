@@ -1,7 +1,5 @@
 <h1 align="center">Kurt hat gekocht<br>Chinakohl-Spaghetti-Bowl mit Wurst und Brühe</h1>
 
-<br>
-
 ![Zutaten](assets/14-china-pasta-bowl-wurst-01.jpg)
 
 ## Zutaten
