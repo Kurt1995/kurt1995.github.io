@@ -58,11 +58,11 @@
   </tr>
   <tr>
     <td style="padding:6px 8px;"><a href="03-bunte-pilzpfanne.html">Drei-Gemüse-Pfanne mit Nudeln und Würstchen</a></td>
-    <td style="padding:6px 8px;"><a href="14-ch-kohl-pasta-bowl.html">Chinakohl-Spaghetti-Bowl mit Brühe</a></td>
+    <td style="padding:6px 8px;"><a href="14-ch-kohl-pasta-bowl.html">Chinakohl-Spaghetti-Bowl mit Brühe (vegetarisch)</a></td>
   </tr>
   <tr>
     <td style="padding:6px 8px;"><a href="03-gem-nudel-pfanne.html">Drei-Gemüse-Pfanne mit Nudeln und Asia-Note</a></td>
-    <td style="padding:6px 8px;"><a href="14-maegensuppe.html">Suppe mit Hähnchenmägen</a></td>
+    <td style="padding:6px 8px;"><a href="14-china-pasta-bowl-wurst.html">Chinakohl-Spaghetti-Bowl mit Wurst und Brühe</a></td>
   </tr>
   <tr>
     <td style="padding:6px 8px;"><a href="11-gemmitreis.html">Vier-Gemüse-Pfanne mit Reis und Hähnchenbrust</a></td>
@@ -88,7 +88,7 @@
   </tr>
   <tr>
     <td style="padding:6px 8px;"><a href="09-bkohlpf.html">Blumenkohl Pfanne</a></td>
-    <td style="padding:6px 8px;">&nbsp;</td>
+    <td style="padding:6px 8px;"><a href="14-maegensuppe.html">Suppe mit Hähnchenmägen</a></td>
   </tr>
 </tbody>
 </table>
