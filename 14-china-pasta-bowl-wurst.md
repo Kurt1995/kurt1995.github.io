@@ -13,6 +13,8 @@
 - 2 Esslöffel Olivenöl 
 - Gewürze: schwarzer Pfeffer, Sojasauce, evtl. etwas Salz 
 
+---
+
 ## Zubereitung
 
 ### Meal-Prep (Langfristvorbereitung)
