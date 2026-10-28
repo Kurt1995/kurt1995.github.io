@@ -1,4 +1,4 @@
-<h1 align="center">Kurt hat gekocht &nbsp; – &nbsp; Chinakohl-Spaghetti-Bowl<br>mit Wurst und Brühe</h1>
+<h1 align="center">Kurt hat gekocht<br>Chinakohl-Spaghetti-Bowl mit Wurst und Brühe</h1>
 
 <br>
 
