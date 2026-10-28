@@ -50,7 +50,6 @@
 - Die gewürfelten weißen Blattrippen und die Champignons hineingeben, großzügig mit schwarzem Pfeffer würzen. 
 - Bei mittlerer Hitze ca. 5 Min. brutzeln / schmoren, dabei öfter wenden.<br>
 *Wenn die Pfanne zu trocken wird, etwas Wasser hinzugeben.*
-<br>
 
 **3. Wurst und Nudeln dazu** 
 - Die klein gewürfelten Bratwurststückchen untermischen. 
