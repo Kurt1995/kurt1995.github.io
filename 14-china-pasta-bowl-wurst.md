@@ -75,7 +75,7 @@
 <table>
   <tr>
     <td><img src="assets/14-china-pasta-bowl-wurst-10.jpg" alt="Servieren" width="712"></td>
-    <td align="center"><h4>Am Tisch vorsichtig durchmengen</h4><br><br><i>Ein Nachwürzen mit Salz sollte nicht nötig sein,<br>da der Brühwürfel und die Sojasauce genügend Aroma einbringen.</i></td>
+    <td align="center"><i>Ein Nachwürzen mit Salz sollte nicht nötig sein,<br>da der Brühwürfel und die Sojasauce genügend Aroma einbringen.<br><br><h4>Am Tisch vorsichtig durchmengen</h4></i></td>
   </tr>
 </table>
 
