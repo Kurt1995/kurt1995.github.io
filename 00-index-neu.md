@@ -88,7 +88,7 @@
     <td style="padding:6px 8px;"><a href="11-papr-pilz-reis-ei.html">Paprika-Pilz-Pfanne mit Reis und Ei</a></td>
   </tr>
   <tr>
-    <td style="padding:6px 8px;"><a href="03-gem-nudel-pfanne.html">Drei-Gemüse-Pfanne mit Asia-Note</a></td>
+    <td style="padding:6px 8px;"><a href="03-gem-nudel-pfanne.html">Gemüse-Nudel-Pfanne mit Asia-Note</a></td>
     <td style="padding:6px 8px;">Paprika-Pilz-Pfanne mit Reis und Hack</td>
   </tr>
   <tr>
