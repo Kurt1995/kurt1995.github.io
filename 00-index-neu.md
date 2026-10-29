@@ -103,11 +103,7 @@
     <td style="padding:6px 8px;">Zwiebel-Paprika Pfanne mit Hack</td>
     <td style="padding:6px 8px;">&nbsp;</td>
   </tr>
-  <tr>
-    <td style="padding:6px 8px;">&nbsp;</td>
-    <td style="padding:6px 8px;">&nbsp;</td>
-  </tr>
-</tbody>
+ </tbody>
 </table>
 
 
