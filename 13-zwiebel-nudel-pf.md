@@ -1,4 +1,4 @@
-<h1 align="center">Kurt hat gekocht &nbsp; – &nbsp; Drei-Gemüse-Pfanne<br>mit Nudeln und Hack</h1>
+<h1 align="center">Kurt hat gekocht &nbsp; – &nbsp; Gemüse-Nudel-Pfanne mit Hack</h1>
 
 ![1 - Zutaten](assets/13-zw-pfanne1.jpg)
 
