@@ -1,4 +1,4 @@
-# Kurt hat gekocht&nbsp; –&nbsp; Verlorenes Ei in Winter-Tomate
+<h1 align="center">Kurt hat gekocht<br>Verlorenes Ei in Winter-Tomate</h1>
 
 ![Zutaten für Verlorenes Ei in Winter-Tomate](assets/15verlei-intomate1.jpg)
 
