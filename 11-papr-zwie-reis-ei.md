@@ -1,5 +1,4 @@
-# Kurt hat gekocht  &nbsp; – &nbsp; Paprika-Zwiebel-Pfanne mit Reis und Ei
-
+<h1 align="center">Kurt hat gekocht<br>Paprika-Zwiebel-Pfanne mit Reis und Ei</h1>
 <br>
 
 ![Zutaten für Paprika Pfanne](assets/11-paprika-zw-reis-ei-00.jpg)
