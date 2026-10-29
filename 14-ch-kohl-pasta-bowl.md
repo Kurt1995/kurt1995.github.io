@@ -1,4 +1,4 @@
-# Kurt hat gekocht &nbsp;– &nbsp;Chinakohl-Spaghetti-Bowl mit Brühe
+<h1 align="center">Kurt hat gekocht<br>Chinakohl-Spaghetti-Bowl mit Brühe</h1>
 
 ![Zutatenübersicht](assets/14-china-pasta-bowl-01.jpg)
 
