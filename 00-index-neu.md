@@ -47,12 +47,14 @@
     <td style="padding:8px; font-weight:bold;"><h3 align="center">Suppen, Bowls und Salate</h3></td>
   </tr>
   <tr>
+ <tr>
   <td align="center" style="padding:8px;">
-    <div align="center"><b>Gemüse der Saison<br>aus Topf und Pfanne</b></div>
+    <div align="center"><h3 align="center">Gemüse der Saison<br>aus Topf und Pfanne</h3></div>
   </td>
   <td align="center" style="padding:8px;">
-    <div align="center"><b>Suppen, Bowls und Salate</b></div>
+    <div align="center"><h3 align="center">Suppen, Bowls und Salate</h3></div>
   </td>
+</tr>
 </tr>
   <tr>
    <td style="padding:6px 8px;"><a href="04-brokkolipfanne.html">Leichte Brokkoli Pfanne</a></td>
