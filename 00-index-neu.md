@@ -105,7 +105,7 @@
   </tr>
 
   <tr>
-   <td style="padding:8px; font-weight:bold;"><h3 align="center">Verschiedenes aus Topf und Pfanne</h3></td>
+   <td style="padding:8px; font-weight:bold;"><h3 align="center">Verschiedenes<br>aus Topf und Pfanne</h3></td>
    <td style="padding:8px; font-weight:bold;"><h3 align="center">Für den Abend<br>und den Grill</h3></td>
   </tr>
  </tbody>
