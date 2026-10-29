@@ -47,6 +47,14 @@
     <td style="padding:8px; font-weight:bold;"><h3 align="center">Suppen, Bowls und Salate</h3></td>
   </tr>
   <tr>
+    <td style="padding:8px; font-weight:bold; text-align:center;"><h3 style="text-align:center;">Gemüse der Saison<br>aus Topf und Pfanne</h3></td>
+    <td style="padding:8px; font-weight:bold; text-align:center;"><h3 style="text-align:center;">Suppen, Bowls und Salate</h3></td>
+  </tr>
+  <tr>
+   <td align="center" style="padding:8px; font-weight:bold;"><h3 align="center">Gemüse der Saison<br>aus Topf und Pfanne</h3></td>
+   <td align="center" style="padding:8px; font-weight:bold;"><h3 align="center">Suppen, Bowls und Salate</h3></td>
+  </tr>
+  <tr>
     <td style="padding:6px 8px;"><a href="04-brokkolipfanne.html">Leichte Brokkoli Pfanne</a></td>
     <td style="padding:6px 8px;"><a href="05-deftige-ksuppe.html">Deftige Kartoffelsuppe</a></td>
   </tr>
