@@ -96,7 +96,7 @@
     <td style="padding:6px 8px;"><a href="11-papr-zwie-reis-ei.htm>Paprika-Zwiebel-Pfanne mit Reis und Ei</td>
   </tr>
   <tr>
-    <td style="padding:6px 8px;">Zucchini-Nudel Pfanne mit Hack und Käse</td>
+    <td style="padding:6px 8px;"><a href="03-bunte-pilzpfanne.html">Gemüse-Nudel-Pfanne mit Wurst</a></td>
     <td style="padding:6px 8px;">&nbsp;</td>
   </tr>
   <tr>
