@@ -64,7 +64,7 @@
   </tr>
   <tr>
     <td style="padding:6px 8px;"><a href="25-spargel-aldente.html">Spargel al dente</a></td>
-    <td style="padding:6px 8px;">Chinakohl-Spaghetti-Bowl mit Wurst und Brühe</td>
+    <td style="padding:6px 8px;"><a href="14-china-pasta-bowl-wurst.html">Chinakohl-Spaghetti-Bowl mit Wurst und Brühe</a></td>
   </tr>
   <tr>
     <td style="padding:6px 8px;">&nbsp;</td>
