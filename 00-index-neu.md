@@ -48,11 +48,11 @@
   </tr>
   <tr>
  <tr>
-  <td align="center" style="padding:8px;">
-    <div align="center"><h3 align="center">Gemüse der Saison<br>aus Topf und Pfanne</h3></div>
+  <td align="center">
+    <center><h3>Gemüse der Saison<br>aus Topf und Pfanne</h3></center>
   </td>
-  <td align="center" style="padding:8px;">
-    <div align="center"><h3 align="center">Suppen, Bowls und Salate</h3></div>
+  <td align="center">
+    <center><h3>Suppen, Bowls und Salate</h3></center>
   </td>
 </tr>
 </tr>
