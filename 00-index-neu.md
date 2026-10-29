@@ -47,8 +47,8 @@
     <td style="padding:8px; font-weight:bold;"><h3 align="center">Suppen, Bowls und Salate</h3></td>
   </tr>
   <tr>
-    <td style="padding:8px; font-weight:bold; text-align:center;"><h3 style="text-align:center;">Gemüse der Saison<br>aus Topf und Pfanne</h3></td>
-    <td style="padding:8px; font-weight:bold; text-align:center;"><h3 style="text-align:center;">Suppen, Bowls und Salate</h3></td>
+    <td style="padding:8px; font-weight:bold;"><h3 align="center">Tomatenschichtpfannen<br>die Sommerhits</h3></td>
+    <td style="padding:8px; font-weight:bold;"><h3 align="center">Cremes und Suppen<br>der Saison</h3></td>
   </tr>
   <tr>
    <td align="center" style="padding:8px; font-weight:bold;"><h3 align="center">Gemüse der Saison<br>aus Topf und Pfanne</h3></td>
