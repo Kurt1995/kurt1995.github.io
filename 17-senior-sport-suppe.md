@@ -1,5 +1,5 @@
 <h1 align="center">Kurt hat gekocht<br>Senioren Sport-Suppe</h1>
-<p align="center">nach einen Sportmorgen mit 1,5 Stunden Ausdauersport</p>
+<p align="center">nach einem Sportmorgen mit 1,5 Stunden Ausdauersport</p>
 
 ![Zutaten](assets/17-sport-suppe-1.jpg)
 
