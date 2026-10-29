@@ -43,8 +43,8 @@
   </tr>
   
   <tr>
-    <td style="padding:8px; font-weight:bold;"><h3 align="center">Gemüse der Saison<br>aus Topf und Pfanne</td>
-    <td style="padding:8px; font-weight:bold;"><h3 align="center">Suppen, Bowls und Salate</td>
+    <td style="padding:8px; font-weight:bold;"><h3 align="center">Gemüse der Saison<br>aus Topf und Pfanne</h3></td>
+    <td style="padding:8px; font-weight:bold;"><h3 align="center">Suppen, Bowls und Salate</h3></td>
   </tr>
   <tr>
     <td style="padding:6px 8px;"><a href="04-brokkolipfanne.html">Leichte Brokkoli Pfanne</a></td>
@@ -76,8 +76,8 @@
   </tr>
  
   <tr>
-    <td style="padding:8px; font-weight:bold;"><h3 align="center">Gemüse-Nudel Pfannen</td>
-    <td style="padding:8px; font-weight:bold;"><h3 align="center">Gemüse-Reis Pfannen</td>
+    <td style="padding:8px; font-weight:bold;"><h3 align="center">Gemüse-Nudel Pfannen</h3></td>
+    <td style="padding:8px; font-weight:bold;"><h3 align="center">Gemüse-Reis Pfannen</h3></td>
   </tr>
   <tr>
     <td style="padding:6px 8px;"><a href="02-zucchini-pasta.html">Zucchini mit Pasta</a></td>
