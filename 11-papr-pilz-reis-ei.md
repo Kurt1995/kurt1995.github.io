@@ -1,4 +1,4 @@
-# Kurt hat gekocht  &nbsp; – &nbsp; Paprika-Pilz-Pfanne mit Reis und Ei
+<h1 align="center">Kurt hat gekocht<br>Paprika-Pilz-Pfanne mit Reis und Ei</h1>
 
 <br>
 
