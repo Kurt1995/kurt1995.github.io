@@ -82,7 +82,7 @@
     <td style="padding:6px 8px;"><a href="11-gemmitreis.html">Vier-Gemüse-Pfanne mit Reis und Hähnchenbrust</a></td>
   </tr>
   <tr>
-    <td style="padding:6px 8px;"><a href="02-zwiebel-pasta.html">Zwiebel, Pilze und Pasta</a></td>
+    <td style="padding:6px 8px;"><a href="02-zwiebel-pasta.html">Zwiebel-Pilz Pasta</a></td>
     <td style="padding:6px 8px;"><a href="11-papr-pilz-reis-ei.html">Paprika-Pilz-Pfanne mit Reis und Ei</a></td>
   </tr>
   <tr>
@@ -98,7 +98,7 @@
     <td style="padding:6px 8px;">&nbsp;</td>
   </tr>
   <tr>
-    <td style="padding:6px 8px;">Zwiebel-Paprika Pfanne mit Hack</td>
+    <td style="padding:6px 8px;">Zwiebel-Paprika-Pfanne mit Hack</td>
     <td style="padding:6px 8px;">&nbsp;</td>
   </tr>
 
@@ -107,15 +107,15 @@
     <td align="center"><font size="4"><b>Abendbrot & Gegrilltes</b></font></td>
   </tr>
   <tr>
-    <td style="padding:6px 8px;"><a href="47-pasta-garnelen.html">Pasta in bianco mit Garnelen</a></td>
+    <td style="padding:6px 8px;"><a href="47-pasta-garnelen.html">Pasta in Bianco mit Garnelen</a></td>
     <td style="padding:6px 8px;"><a href="23-dleber-vollkorn.html">Dorschleber auf Vollkornbrot</a></td>
   </tr>
   <tr>
-    <td style="padding:6px 8px;">Winter Pasta mit Garnelen</td>
+    <td style="padding:6px 8px;">Winter-Pasta mit Garnelen</td>
     <td style="padding:6px 8px;"><a href="23-musch-vollkb.html">Muscheln auf Vollkornbrot</a></td>
   </tr>
   <tr>
-    <td style="padding:6px 8px;"><a href="22-tomate-steak.html">Tomaten Runde mit Steak</a></td>
+    <td style="padding:6px 8px;"><a href="22-tomate-steak.html">Tomaten-Runde mit Steak</a></td>
     <td style="padding:6px 8px;"><a href="20-blau-kaese-snack.html">Blauschimmelkäse mit Dip auf Vollkornbrot</a></td>
   </tr>
   <tr>
@@ -123,7 +123,7 @@
     <td style="padding:6px 8px;">&nbsp;</td>
   </tr>
   <tr>
-    <td style="padding:6px 8px;"><a href="43-h-bollen.html">Hähnchenbollen mit Rückenstück</a></td>
+    <td style="padding:6px 8px;"><a href="43-h-bollen.html">Hähnchen-Schenkel mit Rückenstück</a></td>
     <td style="padding:6px 8px;"><a href="12-dickerippe.html">Dicke Rippe „Grill-Filets”</a></td>
   </tr>
   <tr>
