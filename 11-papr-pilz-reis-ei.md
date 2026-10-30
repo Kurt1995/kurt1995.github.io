@@ -231,7 +231,7 @@ Dieses Rezept vereint eine Fülle an wertvollen Nährstoffen mit einer leichten,
 
 Herzhaft und leicht cremig. Die Paprika- und Pilzstückchen haben einen guten Biss behalten. Geschmacklich harmonieren sie, bleiben aber klar erkennbar.  
 Der Reis bringt mit seinen aufgenommenen Aromen Fülle und Umami, das durch den kleinen Spritzer Apfelessig angenehm aufgehellt wird.    
-Das Ei esse ich gerne getrennt als Beilage.  
+Das Ei esse ich gerne mit den letzten Bissen.  
 Es schiebt den Grundgeschmack in den Hintergrund und besonders das flüssig-cremige Eigelb kann sein kräftiges Aroma entfalten. 
 
 ---
