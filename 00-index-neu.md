@@ -9,6 +9,10 @@
 
 <table style="width:100%; border-collapse: collapse;">
 <tbody>
+  <tr>
+    <td align="center"><font size="4"><b>Tomatenschichtpfannen<br>die Sommerhits</b></font></td>
+    <td align="center"><font size="4"><b>Cremes und Suppen<br>der Saison/b></font></td>
+   </tr>
    <tr>
     <td style="padding:8px; font-weight:bold;"><h3 align="center">Tomatenschichtpfannen<br>die Sommerhits</h3></td>
     <td style="padding:8px; font-weight:bold;"><h3 align="center">Cremes und Suppen<br>der Saison</h3></td>
