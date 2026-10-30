@@ -80,10 +80,6 @@
     <td align="center"><font size="4"><b>Gemüse mit Reis<br>aus der Pfanne</b></font></td>
   </tr>
   <tr>
-    <td style="padding:8px; font-weight:bold;"><h3 align="center">Gemüse-Nudel Pfannen</h3></td>
-    <td style="padding:8px; font-weight:bold;"><h3 align="center">Gemüse-Reis Pfannen</h3></td>
-  </tr>
-  <tr>
     <td style="padding:6px 8px;"><a href="02-zucchini-pasta.html">Zucchini mit Pasta</a></td>
     <td style="padding:6px 8px;"><a href="11-gemmitreis.html">Vier-Gemüse-Pfanne mit Reis und Hähnchenbrust</a></td>
   </tr>
@@ -109,9 +105,10 @@
   </tr>
 
   <tr>
-   <td style="padding:8px; font-weight:bold;"><h3 align="center">Verschiedenes<br>aus Topf und Pfanne</h3></td>
-   <td style="padding:8px; font-weight:bold;"><h3 align="center">Für den Abend<br>und den Grill</h3></td>
+    <td align="center"><font size="4"><b>Verschiedenes<br>aus Topf und Pfanne</b></font></td>
+    <td align="center"><font size="4"><b>Für den Abend<br>und den Grill</b></font></td>
   </tr>
+  
  </tbody>
 </table>
 
