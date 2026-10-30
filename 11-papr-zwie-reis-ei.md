@@ -65,13 +65,13 @@
 </tr>
 </table>
 
--	Die Öle in der  Pfanne verteilen. 
+-	Die Öle in der Pfanne verteilen. 
 - Die Paprika putzen, würfeln und hinzugeben.
 - Die Zwiebel schälen, klein würfeln und untermischen. 
-- Großzügig mit schwarzem Pfeffer und dem Rosenpaprikapulver würzen. 
+- Großzügig mit schwarzem Pfeffer und mit ein wenig Rosenpaprikapulver würzen. 
 - Das Tomatenmark und den Apfelessig dazugeben.
 - 2 EL Wasser hinzugeben und alles gut durchmischen.
-- 8 – 9 Minuten bei mittlerer bis großer Hitze mit Deckel schmoren. Öfter umrühren. 
+- Ca. 8 Minuten bei mittlerer Hitze mit Deckel schmoren. Öfter umrühren. 
 
 ### Die Eier
 
@@ -244,9 +244,11 @@ Dieses Rezept für die Paprika-Zwiebel-Pfanne mit Reis und Ei ist aus ernährung
 
 ## Kurt‘s Praxis Check: So schmeckt es dann
 
-Herzhaft und leicht cremig mit einem dezent säuerlich-scharfen Grundton. Die Paprikastückchen haben einen guten Biss behalten. Sie sorgen mit ihrer Süße für einen erfrischenden Kontrast.  
-Die Zwiebel bleibt im Hintergrund. Zusammen mit dem Apfelessig hellt sie das starke Reis-Umami angenehm auf.  
-Das Ei esse ich gerne zum Schluss. Es erfüllt die Vorfreude. Der Grundgeschmack wird in den Hintergrund geschoben und besonders das flüssig-cremige Eigelb darf sein kräftiges Aroma entfalten. 
+Herzhaft und leicht cremig mit einem dezent säuerlich-scharfen Grundton.  
+Die Paprikastückchen haben einen guten Biss behalten. Sie sorgen mit ihrer Süße für einen erfrischenden Kontrast.  
+Die Zwiebel bleibt im Hintergrund. Zusammen mit dem Apfelessig hellt sie das starke Reis-Umami auf.  
+Das Ei esse ich gerne zum Schluss.  
+Es erfüllt die Vorfreude. Der Grundgeschmack wird in den Hintergrund geschoben und besonders das flüssig-cremige Eigelb darf sein kräftiges Aroma entfalten. 
 
 ---
 
