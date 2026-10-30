@@ -65,7 +65,7 @@
 - Die Paprika putzen, würfeln und hinzugeben. 
 -	Die Pilze grob würfeln und mit den Paprikastücken vermischen.
 - Großzügig mit schwarzem Pfeffer und dem Rosenpaprikapulver würzen.
--	Ca. 8 Minuten bei mittlerer bis großer Hitze mit Deckel schmoren. Öfter umrühren.
+-	Ca. 8 Minuten bei mittlerer Hitze mit Deckel schmoren. Öfter umrühren.
 -	Zwischendurch den Apfelessig hinzugeben.
 - Wenn die Pfanne zu trocken wird, etwas Wasser hinzugeben.
 
