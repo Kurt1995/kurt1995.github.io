@@ -82,7 +82,7 @@
     <td style="padding:6px 8px;"><a href="11-gemmitreis.html">Vier-Gemüse-Pfanne mit Reis und Hähnchenbrust</a></td>
   </tr>
   <tr>
-    <td style="padding:6px 8px;"><a href="02-zwiebel-pasta.html">Zwiebel Pilze und Pasta</a></td>
+    <td style="padding:6px 8px;"><a href="02-zwiebel-pasta.html">Zwiebel, Pilze und Pasta</a></td>
     <td style="padding:6px 8px;"><a href="11-papr-pilz-reis-ei.html">Paprika-Pilz-Pfanne mit Reis und Ei</a></td>
   </tr>
   <tr>
@@ -123,7 +123,7 @@
     <td style="padding:6px 8px;">&nbsp;</td>
   </tr>
   <tr>
-    <td style="padding:6px 8px;"><a href="43-h-bollen.html">Hähnchen Bollen mit Rückenstück</a></td>
+    <td style="padding:6px 8px;"><a href="43-h-bollen.html">Hähnchenbollen mit Rückenstück</a></td>
     <td style="padding:6px 8px;"><a href="12-dickerippe.html">Dicke Rippe „Grill-Filets”</a></td>
   </tr>
   <tr>
