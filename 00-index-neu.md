@@ -114,7 +114,7 @@
   </tr>
   <tr>
     <td style="padding:6px 8px;">Winter Pasta mit Garnelen</td>
-    <td style="padding:6px 8px;"><a href="23-musch-vollkb.html">Muscheln auf Vollkornbrot</td>
+    <td style="padding:6px 8px;"><a href="23-musch-vollkb.html">Muscheln auf Vollkornbrot</a></td>
   </tr>
   <tr>
     <td style="padding:6px 8px;"><a href="22-tomate-steak.html">Tomaten Runde mit Steak</a></td>
