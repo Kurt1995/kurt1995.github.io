@@ -47,7 +47,7 @@
     <td style="padding:8px; font-weight:bold;"><h3 align="center">Suppen, Bowls und Salate</h3></td>
   </tr>
   <tr>
-    <td align="center"><font size="5"><b>Gemüse der Saison<br>aus Topf und Pfanne<b></font></td>
+    <td align="center"><font size="4"><b>Gemüse der Saison<br>aus Topf und Pfanne</b>b></font></td>
     <td style="padding:8px; font-weight:bold;"><h3 align="center">Suppen, Bowls und Salate</h3></td>
   </tr>
   <tr>
