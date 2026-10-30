@@ -157,10 +157,7 @@
     <td style="padding:6px 8px;">Geflügelbratwurst mit Frischkäse</td>
     <td style="padding:6px 8px;"><a href="32-nudeln-vorkochen.html">Kurt bereitet vor - Nudeln vorkochen</a></td>
   </tr>
-  <tr>
-    <td style="padding:6px 8px;"><a href="19-st-max-plus.html">Strammer Max Plus</a></td>
-    <td style="padding:6px 8px;">&nbsp;</td>
-  </tr>
+ 
   
  </tbody>
 </table>
