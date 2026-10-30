@@ -110,27 +110,27 @@
   </tr>
   <tr>
     <td style="padding:6px 8px;"><a href="47-pasta-garnelen.html">Pasta in bianco mit Garnelen</a></td>
-    <td style="padding:6px 8px;"><a href="08-gemuse-fsommer.html">Gemüse-Creme "Frühsommer</a></td>
+    <td style="padding:6px 8px;"><a href="23-dleber-vollkorn.html">Dorschleber auf Vollkornbrot</a></td>
   </tr>
   <tr>
     <td style="padding:6px 8px;">Winter Pasta mit Garnelen</td>
-    <td style="padding:6px 8px;">Dinkelpenne in Tomate</td>
+    <td style="padding:6px 8px;"><a href="23-musch-vollkb.html">Muscheln auf Vollkornbrot</td>
   </tr>
   <tr>
     <td style="padding:6px 8px;"><a href="22-tomate-steak.html">Tomaten Runde mit Steak</a></td>
-    <td style="padding:6px 8px;"><a href="07-zupaleber.html">Zucchini-Paprika-Creme mit Leber</a></td>
+    <td style="padding:6px 8px;">Blauschimmelkäse mit Dip auf Vollkornbrot</td>
   </tr>
   <tr>
     <td style="padding:6px 8px;"><a href="23-blitz-pasta-tomate.html">Blitz-Pasta mit Tomate</a></td>
-    <td style="padding:6px 8px;"><a href="45-tomate-huhn.html">Tomaten-Topf mit Huhn</a></td>
+    <td style="padding:6px 8px;">&nbsp;</td>
   </tr>
   <tr>
     <td style="padding:6px 8px;"><a href="43-h-bollen.html">Hähnchen Bollen mit Rückenstück</a></td>
-    <td style="padding:6px 8px;">Gehaltvolle Zucchini-Paprika Creme</td>
+    <td style="padding:6px 8px;"><a href="12-dickerippe.html">Dicke Rippe „Grill-Filets”</a></td>
   </tr>
   <tr>
     <td style="padding:6px 8px;"><a href="19-st-max-plus.html">Strammer Max Plus</a></td>
-    <td style="padding:6px 8px;">Gehaltvolle Zucchini-Paprika Creme</td>
+    <td style="padding:6px 8px;">&nbsp;</td>
   </tr>
  </td> 
  
