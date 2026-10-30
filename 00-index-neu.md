@@ -48,7 +48,7 @@
   </tr>
   <tr>
     <td align="center"><font size="4"><b>Gemüse der Saison<br>aus Topf und Pfanne</b></font></td>
-    <td align="center"><font size="5"><b>Suppen, Bowls und Salate</b></font></td>
+    <td align="center"><font size="4"><b>Suppen, Bowls und Salate</b></font></td>
   </tr>
   <tr>
    <td style="padding:6px 8px;"><a href="04-brokkolipfanne.html">Leichte Brokkoli Pfanne</a></td>
