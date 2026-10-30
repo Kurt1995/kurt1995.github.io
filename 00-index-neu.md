@@ -106,7 +106,7 @@
 
   <tr>
     <td align="center"><font size="4"><b>Verschiedenes<br>aus Topf und Pfanne</b></font></td>
-    <td align="center"><font size="4"><b>Für den Abend<br>Brot oder Grill</b></font></td>
+    <td align="center"><font size="4"><b>Und für den Abend<br>Brot oder Grill</b></font></td>
   </tr>
   <tr>
     <td style="padding:6px 8px;"><a href="47-pasta-garnelen.html">Pasta in bianco mit Garnelen</a></td>
