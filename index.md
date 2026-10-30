@@ -158,7 +158,7 @@
  </tbody>
 </table>
 
-&nbsp;&nbsp;&nbsp;&nbsp;*Nicht verlinkte Rezepte sind noch in Arbeit*
+&nbsp;&nbsp;&nbsp;&nbsp;*Hinweis: Nicht verlinkte Rezepte sind noch in Arbeit*
 
 ---
 
