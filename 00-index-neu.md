@@ -132,6 +132,35 @@
     <td style="padding:6px 8px;"><a href="19-st-max-plus.html">Strammer Max Plus</a></td>
     <td style="padding:6px 8px;">&nbsp;</td>
   </tr>
+
+  <tr>
+    <td align="center"><font size="4"><b>Kleine Snacks</b></font></td>
+    <td align="center"><font size="4"><b>Vorbereitungen</b></font></td>
+  </tr>
+  <tr>
+    <td style="padding:6px 8px;"><a href="20-paprika-snack.html">Paprika mit Frischkäse</a></td>
+    <td style="padding:6px 8px;"><a href="30-brokk-blanch.html">Kurt bereitet vor - Brokkoli</a></td>
+  </tr>
+  <tr>
+    <td style="padding:6px 8px;">Salami mit Möhre</td>
+    <td style="padding:6px 8px;"><a href="31-blum-blanch.html">Kurt bereitet vor - Blumenkohl</a></td>
+  </tr>
+  <tr>
+    <td style="padding:6px 8px;"><a href="21-surimi-snack.html">Surimi mit Kräuter-Frischkäse</a></td>
+    <td style="padding:6px 8px;">&nbsp;</td>
+  </tr>
+  <tr>
+    <td style="padding:6px 8px;"><a href="20-zie-kaese-snack.html">Ziegen-Weichkäse mit Tomatenmark</a></td>
+    <td style="padding:6px 8px;">&nbsp;</td>
+  </tr>
+  <tr>
+    <td style="padding:6px 8px;">Geflügelbratwurst mit Frischkäse</td>
+    <td style="padding:6px 8px;"><a href="32-nudeln-vorkochen.html">Kurt bereitet vor - Nudeln vorkochen</a></td>
+  </tr>
+  <tr>
+    <td style="padding:6px 8px;"><a href="19-st-max-plus.html">Strammer Max Plus</a></td>
+    <td style="padding:6px 8px;">&nbsp;</td>
+  </tr>
   
  </tbody>
 </table>
