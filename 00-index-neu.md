@@ -47,10 +47,6 @@
     <td align="center"><font size="4"><b>Suppen, Bowls und Salate</b></font></td>
   </tr>
   <tr>
-   <td style="padding:6px 8px;"><a href="04-brokkolipfanne.html">Leichte Brokkoli Pfanne</a></td>
-   <td style="padding:6px 8px;"><a href="05-deftige-ksuppe.html">Deftige Kartoffelsuppe</a></td>
-  </tr>
-   </tr>
     <td style="padding:6px 8px;"><a href="04-brokkolipfanne.html">Leichte Brokkoli Pfanne</a></td>
     <td style="padding:6px 8px;"><a href="05-deftige-ksuppe.html">Deftige Kartoffelsuppe</a></td>
   </tr>
