@@ -157,9 +157,7 @@
     <td style="padding:6px 8px;">Geflügelbratwurst mit Frischkäse</td>
     <td style="padding:6px 8px;"><a href="32-quellmethode-reis.html">Die Quellmethode für den Reis</a></td>
   </tr>
-
- 
-  </tbody>
+ </tbody>
 </table>
 
 ---
