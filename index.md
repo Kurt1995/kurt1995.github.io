@@ -82,7 +82,7 @@
     <td style="padding:6px 8px;"><a href="11-gemmitreis.html">Vier-Gemüse-Pfanne mit Reis und Hähnchenbrust</a></td>
   </tr>
   <tr>
-    <td style="padding:6px 8px;"><a href="02-zwiebel-pasta.html">Zwiebel-Pilz Pasta</a></td>
+    <td style="padding:6px 8px;"><a href="02-zwiebel-pasta.html">Zwiebel-Pilz-Pfanne mit Pasta</a></td>
     <td style="padding:6px 8px;"><a href="11-papr-pilz-reis-ei.html">Paprika-Pilz-Pfanne mit Reis und Ei</a></td>
   </tr>
   <tr>
