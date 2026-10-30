@@ -118,7 +118,7 @@
   </tr>
   <tr>
     <td style="padding:6px 8px;"><a href="22-tomate-steak.html">Tomaten Runde mit Steak</a></td>
-    <td style="padding:6px 8px;"><a href="20-blau-kaese-snack.html">Blauschimmelkäse mit Dip auf Vollkornbrot</td>
+    <td style="padding:6px 8px;"><a href="20-blau-kaese-snack.html">Blauschimmelkäse mit Dip auf Vollkornbrot</a></td>
   </tr>
   <tr>
     <td style="padding:6px 8px;"><a href="23-blitz-pasta-tomate.html">Blitz-Pasta mit Tomate</a></td>
