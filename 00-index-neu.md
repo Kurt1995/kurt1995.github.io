@@ -76,8 +76,8 @@
   </tr>
 
  <tr>
-    <td align="center"><font size="4"><b>Gemüse mit Nudeln<br>Pfannen</b></font></td>
-    <td align="center"><font size="4"><b>Suppen, Bowls und Salate</b></font></td>
+    <td align="center"><font size="4"><b>Gemüse mit Nudeln<br>aus der Pfanne</b></font></td>
+    <td align="center"><font size="4"><b>Gemüse mit Reis<br>aus der Pfanne</b></font></td>
   </tr>
   <tr>
     <td style="padding:8px; font-weight:bold;"><h3 align="center">Gemüse-Nudel Pfannen</h3></td>
