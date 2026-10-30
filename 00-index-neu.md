@@ -74,7 +74,11 @@
     <td style="padding:6px 8px;">&nbsp;</td>
     <td style="padding:6px 8px;"><a href="06-opa-salat.html">Opa Salat</a></td>
   </tr>
- 
+
+ <tr>
+    <td align="center"><font size="4"><b>Gemüse mit Nudeln<br>Pfannen</b></font></td>
+    <td align="center"><font size="4"><b>Suppen, Bowls und Salate</b></font></td>
+  </tr>
   <tr>
     <td style="padding:8px; font-weight:bold;"><h3 align="center">Gemüse-Nudel Pfannen</h3></td>
     <td style="padding:8px; font-weight:bold;"><h3 align="center">Gemüse-Reis Pfannen</h3></td>
