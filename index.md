@@ -123,7 +123,7 @@
     <td style="padding:6px 8px;">&nbsp;</td>
   </tr>
   <tr>
-    <td style="padding:6px 8px;"><a href="43-h-bollen.html">Hähnchen-Schenkel mit Rückenstück</a></td>
+    <td style="padding:6px 8px;"><a href="43-h-bollen.html">Hähnchenschenkel mit Rückenstück</a></td>
     <td style="padding:6px 8px;"><a href="12-dickerippe.html">Dicke Rippe „Grill-Filets”</a></td>
   </tr>
   <tr>
