@@ -158,6 +158,8 @@
  </tbody>
 </table>
 
+*Nicht verlinkte Rezepte sind in Arbeit*
+
 ---
 
 **Kontakt & Rückmeldungen:** [Kurt1995@mail.de](mailto:Kurt1995@mail.de)
