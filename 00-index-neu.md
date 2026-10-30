@@ -135,7 +135,7 @@
 
   <tr>
     <td align="center"><font size="4"><b>Kleine Snacks</b></font></td>
-    <td align="center"><font size="4"><b>Vorbereitungen</b></font></td>
+    <td align="center"><font size="4"><b>Vorbereitungen und<br>ungewöhnliche Zubereitungen</b></font></td>
   </tr>
   <tr>
     <td style="padding:6px 8px;"><a href="20-paprika-snack.html">Paprika mit Frischkäse</a></td>
@@ -147,7 +147,7 @@
   </tr>
   <tr>
     <td style="padding:6px 8px;"><a href="21-surimi-snack.html">Surimi mit Kräuter-Frischkäse</a></td>
-    <td style="padding:6px 8px;">&nbsp;</td>
+    <td style="padding:6px 8px;"><a href="32-nudeln-vorkochen.html">Kurt bereitet vor - Nudeln vorkochen</a></td>
   </tr>
   <tr>
     <td style="padding:6px 8px;"><a href="20-zie-kaese-snack.html">Ziegen-Weichkäse mit Tomatenmark</a></td>
@@ -155,7 +155,7 @@
   </tr>
   <tr>
     <td style="padding:6px 8px;">Geflügelbratwurst mit Frischkäse</td>
-    <td style="padding:6px 8px;"><a href="32-nudeln-vorkochen.html">Kurt bereitet vor - Nudeln vorkochen</a></td>
+    <td style="padding:6px 8px;"><a href="32-quellmethode-reis.html">Die Quellmethode für den Reis</a></td>
   </tr>
  
   
