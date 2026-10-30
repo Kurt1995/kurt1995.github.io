@@ -162,7 +162,34 @@
  </tbody>
 </table>
 
+---
 
+**Kontakt & Rückmeldungen:** [Kurt1995@mail.de](mailto:Kurt1995@mail.de)
 
 ---
 
+# Impressum
+
+### Inhaltliche Mitwirkung
+Dieses Kochbuch ist ein Gemeinschaftsprojekt. Die Rezepte und Inhalte wurden erstellt von:
+
+* **[Kurt]**: Konzeption, Zubereitung und Fotografie
+* **KI-Modell META**: Mitautorin für Gesundheits-Checks, Nährwertanalysen und fachliche Einordnung
+* **KI-Modell GEMINI**: Mitautorin für Strukturierung, wissenschaftliche Aufarbeitung und Gesundheits-Checks
+* **KI-Modell PERPLEXITY**: Mitautorin für Gesundheits-Checks und Nährwertanalysen
+* **KI‑Modell COPILOT (Microsoft)**: Mitautorin für Gesundheits‑Checks, Nährwertanalysen, Textgestaltung und fachliche Präzisierung
+* **KI-Modell QWEN (Alibaba Cloud)**: Mitautorin für kulturelle Einordnungen (ostasiatische Küche), Rezept-Checks und Markdown-Formatierung
+* **KI-Modell KIMI (Moonshot AI)**: Mitautorin für konzeptionelle Analysen, Erfindungshöhe-Checks mit ironisch-präziser Einordnung
+
+Die genannten KI‑Modelle wirken ausschließlich inhaltlich‑textlich mit. Es besteht keine persönliche oder rechtliche Autorenschaft der Modelle.
+
+### Haftungsausschluss (Disclaimer)
+Die auf dieser Webseite bereitgestellten Informationen, insbesondere die durch die Mitautorinnen PERPLEXITY, GEMINI, META und COPILOT erstellten Gesundheits‑Checks und Nährwertangaben, dienen der allgemeinen Information.
+
+Die berechneten Werte (Kalorien, Eiweiß, Kohlenhydrate, Fett) sind Schätzwerte und können je nach verwendeten Produkten und genauer Zubereitung variieren.
+Die medizinischen und ernährungsphysiologischen Hinweise ersetzen keine fachliche Beratung.
+Die Umsetzung der Rezepte erfolgt auf eigene Verantwortung.
+
+
+---
+[← Zurück zum Anfang](index.md)
