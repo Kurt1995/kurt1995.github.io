@@ -43,10 +43,6 @@
   </tr>
   
   <tr>
-    <td style="padding:8px; font-weight:bold;"><h3 align="center">Gemüse der Saison<br>&nbsp;&nbsp; &nbsp;aus Topf und Pfanne</h3></td>
-    <td style="padding:8px; font-weight:bold;"><h3 align="center">Suppen, Bowls und Salate</h3></td>
-  </tr>
-  <tr>
     <td align="center"><font size="4"><b>Gemüse der Saison<br>aus Topf und Pfanne</b></font></td>
     <td align="center"><font size="4"><b>Suppen, Bowls und Salate</b></font></td>
   </tr>
