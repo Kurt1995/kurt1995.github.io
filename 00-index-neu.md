@@ -93,7 +93,7 @@
   </tr>
   <tr>
     <td style="padding:6px 8px;"><a href="13-zwiebel-nudel-pf.html">Gemüse-Nudel-Pfanne mit Hack</a></td>
-    <td style="padding:6px 8px;"><a href="11-papr-zwie-reis-ei.html">Paprika-Zwiebel-Pfanne mit Reis und Ei</td>
+    <td style="padding:6px 8px;"><a href="11-papr-zwie-reis-ei.html">Paprika-Zwiebel-Pfanne mit Reis und Ei</a></td>
   </tr>
   <tr>
     <td style="padding:6px 8px;"><a href="03-bunte-pilzpfanne.html">Gemüse-Nudel-Pfanne mit Wurst</a></td>
