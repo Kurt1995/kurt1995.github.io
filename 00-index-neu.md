@@ -132,8 +132,7 @@
     <td style="padding:6px 8px;"><a href="19-st-max-plus.html">Strammer Max Plus</a></td>
     <td style="padding:6px 8px;">&nbsp;</td>
   </tr>
- </td> 
- 
+  
  </tbody>
 </table>
 
