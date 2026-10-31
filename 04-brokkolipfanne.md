@@ -55,7 +55,7 @@ Reste 30 Min. ohne Deckel abdampfen lassen, dann abgedeckt in den Kühlschrank (
 * **Slow Eating:** Das Warmhalten durch ein Stövchen unterstützt ein langsames, gesundes Essen.
 
 ### Energiewert dieser Mahlzeit
-* **Brennwert:** ca. 800 kcal (3.340 kJ)
+* **Brennwert:** ca. 650 kcal (3.340 kJ)
 * **Eiweiß:** ca. 32 g
 * **Kohlenhydrate:** ca. 80 g
 * **Fett:** ca. 20 g (primär durch die 2 EL hochwertiges Olivenöl)
