@@ -3,7 +3,7 @@
 ![Zutaten Übersicht](assets/04brokkolipfanne1.jpg)
 
 ## Zutaten
-* **500 g Brokkoli**
+* **500 g Brokkoli** (aufgetaut)
 * **125 g Vollkornpenne** (Trockenmenge)
 * **ca. 20 g Parmesan** (gerieben)
 * **2 EL Olivenöl**
@@ -25,7 +25,7 @@
 2. **Würzen:** Mit einigen Spritzern Teriyaki-Sauce, schwarzem Pfeffer und Fondor würzen.
 3. **Garen:** Auf mittlerer Flamme für 7–10 Minuten schmoren und garen. Dabei mehrmals umrühren.<br>
    *Tipp: Beim Rühren kann man die Festigkeit des Brokkoli erfühlen und den Garprozess passend beenden.*
-4. **Vollkornpenne:** Zwischendurch (aber nicht zu früh, sonst wird sie zäh) die Penne dazugeben.
+4. **Vollkornpenne:** Zwischendurch (*aber nicht zu früh, sonst wird sie zäh*) die Penne dazugeben.
 5. **Abschluss:** Sobald der Brokkoli die gewünschte Weichheit erreicht hat, die Flamme herunterregeln.
 6. **Servieren:** Auf einem vorgewärmten Teller anrichten und mit dem geriebenen Parmesan bestreuen.
 7. **Das Stövchen-Prinzip:** Den feuerfesten Teller auf ein Stövchen stellen. Dies ermöglicht ein langsames, entspanntes Essen, ohne dass Textur und Geschmack durch Abkühlen leiden.
