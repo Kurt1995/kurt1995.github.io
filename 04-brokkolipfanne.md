@@ -1,42 +1,38 @@
-# Kurt hat gekocht &nbsp; – &nbsp; Leichte Brokkoli Pfanne
-
-Dieses Rezept ist ein Beispiel für „Volume Eating“ – eine große Portion bei moderater Kaloriendichte, die den Körper maximal mit Mikronährstoffen versorgt.
+<h1 align="center">Kurt hat gekocht<br>Schnelle Brokkoli Pfanne</h1>
 
 ![Zutaten Übersicht](assets/04brokkolipfanne1.jpg)
 
 ## Zutaten
 * **500 g Brokkoli**
 * **125 g Vollkornpenne** (Trockenmenge)
-* **ca. 30 g Parmesan** (gerieben)
-* **Olivenöl**
+* **ca. 20 g Parmesan** (gerieben)
+* **2 EL Olivenöl**
 * **Gewürze:** Schwarzer Pfeffer, Teriyaki-Sauce, Fondor-Gewürzmischung
 
 ---
 
 ## Zubereitung
 
-### 1. Langfristvorbereitung
+### 1. Langfristvorbereitung (Meal Prep)
 * **Brokkoli-Vorbereitung:** Den Brokkoli (500 g pro Portion) putzen und in bissgerechte Stücke schneiden.
 * **Brokkoli-Chips:** Die Stiele schälen und in Scheiben schneiden. (Naschen: Brokkoli-Chips sind auch roh lecker)
 * **Blanchieren & Einfrieren:** Den Brokkoli nur Sekunden in ungesalzenem Wasser blanchieren, mit einem Schaumlöffel entnehmen, in eine Gefrierdose geben und noch handwarm einfrieren. &nbsp; [(das Blanchieren anschauen)](30-brokk-blanch.md)
 * **Pasta-Vorrat:** Das Blanchier-Wasser salzen. Eine Packung Vollkornpenne (500 g) in das Wasser geben, passend gar kochen, abgießen, kalt abschrecken und in 4 Portionen aufgeteilt ebenfalls einfrieren.
 * **Schonendes Auftauen:** Am Abend vor dem Verzehr eine Portion Penne und eine Portion Brokkoli in den Kühlschrank stellen.
 
-*Hinweis: Das Gericht schmeckt natürlich auch mit frisch zubereiteten Nudeln.*
-
 ### 2. Zubereitung am Verzehrtag
-1. **Anbraten:** 4 Esslöffel Olivenöl in einer Wok-Pfanne erhitzen und den aufgetauten Brokkoli hinzugeben.
+1. **Anbraten:** 2 Esslöffel Olivenöl in einer Wok-Pfanne erhitzen und den aufgetauten Brokkoli hinzugeben.
 2. **Würzen:** Mit einigen Spritzern Teriyaki-Sauce, schwarzem Pfeffer und Fondor würzen.
-3. **Garen:** Auf mittlerer Flamme für 7–10 Minuten schmoren und garen. Dabei mehrmals umrühren. Zwischendurch die Vollkornpenne dazugeben.
-4. **Abschluss:** Sobald der Brokkoli die gewünschte Weichheit erreicht hat, die Flamme herunterregeln.
-5. **Servieren:** Auf einem vorgewärmten Teller anrichten und mit dem geriebenen Parmesan bestreuen.
-6. **Das Stövchen-Prinzip:** Den feuerfesten Teller auf ein Stövchen stellen. Dies ermöglicht ein langsames, entspanntes Essen, ohne dass Textur und Geschmack durch Abkühlen leiden.
- 
-| Guten | Appetit |
-| :---: | :---: |
-| ![brokkolipfanne2.jpg](assets/04brokkolipfanne2.jpg) | ![brokkolipfanne3.jpg](assets/04brokkolipfanne3.jpg) |
+3. **Garen:** Auf mittlerer Flamme für 7–10 Minuten schmoren und garen. Dabei mehrmals umrühren.<br>
+   *Tipp: Beim Rühren kann man die Festigkeit erfühlen und den Garprozess passend beenden*
+4. Zwischendurch die Vollkornpenne dazugeben.
+5. **Abschluss:** Sobald der Brokkoli die gewünschte Weichheit erreicht hat, die Flamme herunterregeln.
+6. **Servieren:** Auf einem vorgewärmten Teller anrichten und mit dem geriebenen Parmesan bestreuen.
+7. **Das Stövchen-Prinzip:** Den feuerfesten Teller auf ein Stövchen stellen. Dies ermöglicht ein langsames, entspanntes Essen, ohne dass Textur und Geschmack durch Abkühlen leiden.
 
----
+<br>
+
+![brokkolipfanne3.jpg](assets/04brokkolipfanne3.jpg)
 
 <br>
 
