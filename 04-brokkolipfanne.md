@@ -29,7 +29,6 @@
 5. **Abschluss:** Sobald der Brokkoli die gewünschte Weichheit erreicht hat, die Flamme herunterregeln.
 6. **Servieren:** Auf einem vorgewärmten Teller anrichten und mit dem geriebenen Parmesan bestreuen.
 7. **Das Stövchen-Prinzip:** Den feuerfesten Teller auf ein Stövchen stellen. Dies ermöglicht ein langsames, entspanntes Essen, ohne dass Textur und Geschmack durch Abkühlen leiden.
-
 <br>
 
 ![brokkolipfanne3.jpg](assets/04brokkolipfanne3.jpg)
