@@ -8,7 +8,7 @@
 * **Pasta**: 125 g Dinkel-Penne (ungekocht gewogen)
 * **Flüssigkeit**: 200 ml Wasser und 1 Brühwürfel (Fette Brühe)
 * **Fett**: 20-30 g Margarine (2 leicht gehäufte Esslöffel)
-* **Kräuter & Gewürze**: Schnittlauch, Petersilie, Paprika (rosenscharf) und schwarzer Pfeffer
+* **Kräuter & Gewürze**: Schnittlauch, Petersilie, Salz, Paprika (rosenscharf) und schwarzer Pfeffer
 
 ## Zubereitung
 
