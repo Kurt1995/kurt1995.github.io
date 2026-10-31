@@ -38,10 +38,10 @@ Das Gericht nutzt im Winter Dosentomaten für besonders verfügbares Lycopin und
 * **Resistente Stärke**: Durch das Vorkochen und Abkühlen der Pasta wandelt sich ein Teil der Stärke um, was den Blutzuckeranstieg abmildert.
 * **Proteinquelle**: Das Gehackte liefert gut verfügbares Eiweiß, Eisen und B-Vitamine.
 * **Sättigende Pasta-Basis**: Die Dinkel-Penne liefern komplexe Kohlenhydrate für langanhaltende Sättigung und eine stabile Energiebereitstellung im Alltag.
-* **Vitamin-Helfer**: Die Margarine unterstützt die Aufnahme fettlöslicher Vitamine aus den Tomaten und Pilzen.
+* **Vitamin-Helfer**: Die Margarine unterstützt die Aufnahme fettlöslicher Vitamine aus den Tomaten.
 * **Salzbewusst**: Durch die Würze von Paprika, Pfeffer und dem Brühwürfel ist meist keine zusätzliche Salzzugabe nötig.
 
-| Nährwert | Geschätzte Werte pro Portion |
+| Nährwert | Geschätzte Werte |
 | :--- | :--- |
 | **Brennwert** | ca. 750–900 kcal |
 | **Eiweiß** | ca. 35–45 g |
@@ -49,8 +49,12 @@ Das Gericht nutzt im Winter Dosentomaten für besonders verfügbares Lycopin und
 | **Fett** | ca. 30–40 g |
 
 ---
+
 ## Zusammenfassung von Mitautorin Perplexity 
-Dieses Gericht ist eine wärmende, tomatenbetonte Hauptmahlzeit mit solider Proteinbasis, sättigenden Kohlenhydraten und Bonus durch resistente Stärke für Blutzucker und Darm. Dosentomaten bieten hier besonders verfügbares Lycopin und stabile Vitamine – ein kluger Wintergriff. Durch Wahl der Pasta (Dinkel vs. Vollkorn) und die Menge an Margarine lässt es sich flexibel an Energiebedarf und Gesundheitsziele anpassen – viel Geschmack bei minimalem Aufwand in der Küche. 
+Dieses Gericht ist eine wärmende, tomatenbetonte Hauptmahlzeit mit solider Proteinbasis, sättigenden Kohlenhydraten und Bonus durch resistente Stärke für Blutzucker und Darm.  
+Dosentomaten bieten besonders gut verfügbares Lycopin und stabile Vitamine – ein kluger Wintergriff.  
+Durch Wahl der Pasta (Dinkel vs. Vollkorn) und die Menge an Margarine lässt es sich flexibel an Energiebedarf und Gesundheitsziele anpassen.  
+Viel Geschmack bei minimalem Aufwand in der Küche. 
 
 ---
 [← Zurück zur Übersicht](index.md)
