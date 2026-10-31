@@ -38,7 +38,7 @@
   <tr>
     <td><img src="assets/15verlei-intomate2a.jpg" alt="Pochieren 1" height="280"></td>
     <td><img src="assets/15verlei-intomate2b.jpg" alt="Pochieren 2" height="280"></td>
-    <td height="280"><h3>Die Eier pochieren</td>
+    <td><h3>Die Eier pochieren</td>
  </tr>
 </table>
 
@@ -48,7 +48,7 @@
 <table>
   <tr>
     <td><img src="assets/15verlei-intomate2.jpg" alt="Tomatensauce" height="280"></td>
-    <td height="280"><h3>Die Tomatensauce ansetzen</td>
+    <td><h3>Die Tomatensauce ansetzen</td>
  </tr>
 </table>
       
