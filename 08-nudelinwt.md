@@ -1,19 +1,14 @@
-# Kurt hat gekocht – Nudeln in Winter-Tomate
-
-Diese wärmende, tomatenbetonte Hauptmahlzeit bietet eine solide Proteinbasis und sättigende Kohlenhydrate.
+<h1 align="center">Kurt hat gekocht<br>Nudeln in Winter-Tomate</h1>
 
 ![Zutaten Übersicht](assets/08nudelinwt1.jpg)
 
 ## Zutaten
 * **Tomaten**: 1 Dose (400 g) und 1/4 Tube Tomatenmark
-* **Pilze**: 1 Dose geschnittene Champignons
 * **Fleisch**: 125 g Gehacktes (gemischt, halb und halb)
 * **Pasta**: 125 g Dinkel-Penne (ungekocht gewogen)
 * **Flüssigkeit**: 200 ml Wasser und 1 Brühwürfel (Fette Brühe)
-* **Fett**: 30–40 g Margarine
+* **Fett**: 20-30 g Margarine (2 leicht gehäufte Esslöffel)
 * **Kräuter & Gewürze**: Schnittlauch, Petersilie, Paprika (rosenscharf) und schwarzer Pfeffer
-
-![Zutaten Übersicht](assets/08nudelinwt2.jpg)
 
 ## Zubereitung
 
@@ -25,11 +20,14 @@ Diese wärmende, tomatenbetonte Hauptmahlzeit bietet eine solide Proteinbasis un
 
 ### Zubereitung am Verzehrtag
 1. Dosentomaten, Tomatenmark und Wasser in einen Topf geben, erhitzen und vermengen.
-2. Pilze, Kräuter und Gewürze hinzufügen.
-3. Das Gehackte nach Geschmack würzen (z. B. Salz, Pfeffer) und in kleinen Flocken in die Sauce geben.
-4. Alles für 2–3 Minuten aufkochen, bis das Fleisch gar ist.
-5. Den Brühwürfel und die Margarine einrühren.
-6. Die Penne untermischen, kurz darin erwärmen, vom Feuer nehmen und servieren.
+2. Kräuter und Gewürze hinzufügen.
+3. Das Gehackte nach Geschmack würzen (z. B. Salz, Pfeffer, Paprikapulver) und in kleinen Flocken in die Sauce geben.
+4. Alles für ca. 3 Minuten köcheln, bis das Fleisch gar ist.
+5. Den Brühwürfel zerdrücken und mit der Margarine einrühren.
+6. Die Penne untermischen, kurz erwärmen, vom Feuer nehmen und servieren.
+<br>
+
+![Serviert](assets/08nudelinwt2.jpg)
 
 ---
 
