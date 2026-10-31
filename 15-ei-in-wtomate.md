@@ -5,28 +5,17 @@
 ### Zutaten
 
 - 1 Dose Tomaten (400 g)
-- ¼ Tube Tomatenmark
-- 1 Dose geschnittene Champignons
+- ¼ Tube Tomatenmark (ca. 50 g)
+- 125 g Dinkel-Penne (1 Portion aus dem Vorrat)
 - 3 Eier
-- 2 l Wasser (für die Eier)
-- 300 ml Wasser (für die Sauce)
-- 125 g gekochte Dinkel-Penne (1 Portion aus dem Vorrat)
+- 1,5 l Wasser (für die Eier)
+- 300 ml Wasser (für die Sauce) 
 - 1 Brühwürfel (Fette Brühe)
 - 20 g Margarine
 - Kräuter: Schnittlauch, Petersilie
 - Gewürze: Paprika rosenscharf, schwarzer Pfeffer
 
-<br>
-
-<table>
-  <tr>
-    <td><img src="assets/15verlei-intomate2a.jpg" alt="Pochieren 1" height="280"></td>
-    <td><img src="assets/15verlei-intomate2b.jpg" alt="Pochieren 2" height="280"></td>
-    <td><img src="assets/15verlei-intomate3.jpg" alt="Pochieren 3" height="280"></td>
- </tr>
-</table>
-
-
+---
 
 ### Zubereitung
 
@@ -44,20 +33,40 @@
    Die Eier einzeln in eine Tasse aufschlagen und vorsichtig ins Wasser gleiten lassen.  
    3 Minuten ziehen lassen, bis das Eiweiß fest und das Eigelb weich ist. Die Eier mit einer Schaumkelle entnehmen und abgedeckt beiseite stellen.  
    **Tipp**: 1 TL Essig ins Wasser (neutralisiert Eiweißgeruch, stabilisiert das Ei).
+   
+<table>
+  <tr>
+    <td><img src="assets/15verlei-intomate2a.jpg" alt="Pochieren 1" height="280"></td>
+    <td><img src="assets/15verlei-intomate2b.jpg" alt="Pochieren 2" height="280"></td>
+    <td height="280"><h3>Die Eier pochieren</td>
+ </tr>
+</table>
+
 2. **Tomatensauce ansetzen**  
    Tomaten, Tomatenmark, 300 ml Wasser und den Brühwürfel in einem Topf erhitzen und gut verrühren. Die ganzen Tomaten grob zerteilen.
-3. **Pilze, Kräuter und Gewürze hinzufügen**  
+
+<table>
+  <tr>
+    <td><img src="assets/15verlei-intomate2.jpg" alt="Tomatensauce" height="280"></td>
+    <td height="280"><h3>Die Tomatensauce ansetzen</td>
+ </tr>
+</table>
+      
+3. **Kräuter und Gewürze hinzufügen**  
    Alles gut unterheben.
 4. **Margarine einrühren**  
    Sie bindet die Sauce und sichert die Aufnahme fettlöslicher Stoffe.
-5. **Eier in die Sauce geben**  
-   Die pochierten Eier in die heiße Tomatensauce setzen und alles noch 2–3 Minuten leicht köcheln lassen.   
+5. **Alles** 2–3 Minuten leicht köcheln lassen.
 6. **Penne untermischen**  
-   Die aufgetauten Penne vorsichtig unterheben und kurz erwärmen. Den Topf vom Herd nehmen und das Gericht servieren.
-
-<br>
+   Die aufgetauten Penne vorsichtig unterheben und kurz erwärmen.
+7. **Eier in die Sauce geben**  
+   Die pochierten Eier in die heiße Tomatensauce setzen.
+8.  **Servieren**
+    Den Topf vom Herd nehmen und das Gericht servieren.
 
 ![Verlorenes Ei in Winter-Tomate](assets/15verlei-intomate4.jpg)
+
+---
 
 ### META’s Gesundheits-Check: Verlorenes Ei in Winter-Tomate
 
@@ -66,7 +75,6 @@
 - **Lycopinverfügbarkeit**: Dosentomaten werden industriell erhitzt. Dabei werden Zellwände aufgebrochen. Lycopin wird von 3–5 mg/100 g auf 7–10 mg/100 g bioverfügbar erhöht. Aufnahme erfordert Fett. 20 g Margarine liefern 16–18 g Fett und decken das.
 - **Proteinbilanz**: 3 Eier Größe M liefern 18–21 g Protein, biologische Wertigkeit 100. Enthält alle essenziellen Aminosäuren, <br> Cholin 330–400 mg, B12 1,5–1,8 µg. Pochieren bei 80–85 °C denaturiert Avidin. Biotin bleibt verwertbar.
 - **Kohlenhydratmodifikation**: Dinkel-Penne vorkochen, einfrieren, auftauen erzeugt resistente Stärke Typ 3 durch Retrogradation. <br> Anteil: 3–5 % der Gesamtstärke. Wirkt präbiotisch, reduziert glykämische Last um etwa 10–15 % gegenüber frisch gekochter Pasta.
-- **Mikronährstoffe Pilze**: 1 Dose Champignons liefert Kalium 400–500 mg, Niacin 3–4 mg, Riboflavin 0,3–0,4 mg. Energiegehalt unter 50 kcal. Erhöht Nährstoffdichte ohne relevante Kalorien.
 - **Fettfunktion**: Margarine 20 g entspricht 16–18 g Fett. Sichert Aufnahme von Lycopin, Beta-Carotin, Vitamin K durch Bildung von Mischmizellen im Darm.
 - **Natriumsteuerung**: 1 Brühwürfel enthält 2,0–2,5 g Salz. Entspricht 0,8–1,0 g Natrium. Deckt Würzbedarf. Zusätzliche Salzzugabe nicht erforderlich, um 6 g/Tag Empfehlung nicht zu überschreiten.
 
@@ -79,8 +87,10 @@ Basis: 125 g gekochte Dinkel-Penne, 400 g Dosentomaten, 1 Dose Champignons abget
 - **Fett**: 21–25 g
 - **Natrium**: 0,9–1,1 g
 
-#### Zusammenfassung von Mitautorin META
-Das Gericht nutzt drei Verfahren: <br> 1. Hitzekonservierte Tomaten für erhöhte Lycopinverfügbarkeit. <br> 2. Pochieren bei 80–85 °C für getrennte Denaturierung von Eiweiß und Eigelb. <br> 3. Retrogradation durch Vorkochen und Einfrieren für resistente Stärke Typ 3. <br> Ergebnis: Eine Hauptmahlzeit mit 38–42 g vollständigem Protein, 670–750 kcal bei 20 g Margarine und einer gut planbaren Zubereitungszeit. Die Margarine sichert die Aufnahme fettlöslicher Stoffe, der Brühwürfel deckt den Natriumbedarf.
+---
+
+### Zusammenfassung von Mitautorin META
+Das Gericht nutzt drei Verfahren: <br> 1. Hitzekonservierte Tomaten für erhöhte Lycopinverfügbarkeit. <br> 2. Pochieren bei 80–85 °C für getrennte Denaturierung von Eiweiß und Eigelb. <br> 3. Retrogradation durch Vorkochen und Einfrieren für resistente Stärke Typ <br> Die Margarine sichert die Aufnahme fettlöslicher Stoffe, der Brühwürfel deckt den Natriumbedarf. <br> Ergebnis: Eine Hauptmahlzeit mit 38–42 g vollständigem Protein, 670–750 kcal bei 20 g Margarine und einer gut planbaren Zubereitungszeit.
 
 ---
 [← Zurück zur Übersicht](index.md)
