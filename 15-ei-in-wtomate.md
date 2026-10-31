@@ -56,7 +56,7 @@
    Alles gut unterheben.
 4. **Margarine einrühren**  
    Sie bindet die Sauce und sichert die Aufnahme fettlöslicher Stoffe.
-5. **Alles** 2–3 Minuten leicht köcheln lassen.
+5. **Alles** ca. 3 Minuten leicht köcheln lassen.
 6. **Penne untermischen**  
    Die aufgetauten Penne vorsichtig unterheben und kurz erwärmen.
 7. **Eier in die Sauce geben**  
