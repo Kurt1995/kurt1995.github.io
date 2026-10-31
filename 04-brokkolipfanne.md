@@ -32,7 +32,6 @@
 <br>
 
 ![brokkolipfanne3.jpg](assets/04brokkolipfanne3.jpg)
-
 <br>
 
 | und am Abend | ein Süppchen |
