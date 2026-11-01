@@ -1,4 +1,4 @@
-<h1 align="center">Kurt hat gekocht<br>Zucchini-Pfanne mit Pasta (spaghetti alla Nerano)</h1>
+<h1 align="center">Kurt hat gekocht<br>Zucchini-Pfanne mit Pasta (spaghetti alla nerano)</h1>
 
 ![Zutaten](assets/02zucchinipasta1.jpg)
 
