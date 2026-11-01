@@ -32,7 +32,7 @@
 | ![Zubereitung1.jpg](assets/02zucchinipasta2.jpg) | ![Zubereitung2.jpg](assets/02zucchinipasta3.jpg) |
 
 <ol start="6">
-  <li>Großzügig mit schwarzem Pfeffer würzen und den Pfeffer bei den Nudeln gut untermischen.</li>
+  <li>Die Spaghetti großzügig mit schwarzem Pfeffer würzen und den Pfeffer gut untermischen.</li>
   <li>Auf einem vorgewärmten Teller servieren.</li>
   <li>Nach Geschmack mit Salz nachwürzen und mit Parmesan vollenden.</li>
   <li>Genuss mit Zeit: Den Teller auf ein Stövchen stellen. So bleibt das Gericht bis zum letzten Bissen heiß.</li>
