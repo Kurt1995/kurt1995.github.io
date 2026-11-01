@@ -1,4 +1,6 @@
-<h1 align="center">Kurt hat gekocht<br>Schnelle Brokkoli-Pfanne mit Meal Prep Vorbereitung</h1>
+<h1 align="center">Kurt hat gekocht<br>Schnelle Brokkoli-Pfanne (vegetarisch)</h1>
+
+*dank Meal Prep erfordert die Zubereitung am Verzehrtag nur wenig Zeit*
 
 ![Zutaten Übersicht](assets/04brokkolipfanne1.jpg)
 
