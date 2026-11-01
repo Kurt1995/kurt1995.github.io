@@ -158,8 +158,7 @@ Ein kleiner Hinweis: Soja- und Teriyakisauce bringen viel Umami, aber auch Natri
 
 #### Hinweis zu Vitamin B12:
 Dieses rein pflanzliche Gericht enthält naturgemäß kein Vitamin B12.  
-Da B12 wichtig für Nerven und Blutbildung ist und im Alter oft schlechter aufgenommen wird, sollte es bei überwiegend pflanzlicher Ernährung über andere Quellen (z.B. Fleisch, 
-Fisch, Eier, Milchprodukte) oder nach ärztlicher Rücksprache ergänzt werden.
+Da B12 wichtig für Nerven und Blutbildung ist, sollte es bei überwiegend pflanzlicher Ernährung über andere Quellen (*oder nach ärztlicher Rücksprache*) ergänzt werden.
 
 ---
 
