@@ -1,4 +1,4 @@
-<h1 align="center">Kurt hat gekocht<br>Zwiebel-Pilz-Pfanne mit Pasta</h1>
+<h1 align="center">Kurt hat gekocht<br>Zwiebel-Pilz-Pfanne mit Pasta – ein Experiment</h1>
 
 ![Zutatenübersicht](assets/02-zwiebel-pasta-01.jpg)
 
