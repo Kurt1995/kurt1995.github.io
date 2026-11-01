@@ -78,7 +78,7 @@
     <td align="center"><font size="4"><b>Gemüse mit Reis<br>aus der Pfanne</b></font></td>
   </tr>
   <tr>
-    <td style="padding:6px 8px;"><a href="02-zucchini-pasta.html">Zucchini mit Pasta</a></td>
+    <td style="padding:6px 8px;"><a href="02-zucchini-pasta.html">Zucchini-Pfanne mit Pasta (alla nerano)</a></td>
     <td style="padding:6px 8px;"><a href="11-gemmitreis.html">Vier-Gemüse-Pfanne mit Reis und Hähnchenbrust</a></td>
   </tr>
   <tr>
