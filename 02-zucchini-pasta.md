@@ -24,7 +24,7 @@
 1. 3 Esslöffel Olivenöl in eine Wok-Pfanne geben.
 2. Die Zucchini säubern, in Scheiben schneiden und in der Pfanne bei mittlerer Hitze mit Deckel schmoren/dünsten.
 3. Häufiger wenden.
-4. Die aufgetauten Nudeln in der Mikrowelle vorwärmen (ca. 1,5 Min.).
+4. Die aufgetauten Nudeln in der Mikrowelle vorwärmen (ca. 1 Min.).
 5. Wenn die Zucchini biegsam werden, die Nudeln in die Pfanne geben.
 
 | die Zucchini sind gar, Spaghetti hinzugeben| und großzügig mit schwarzem Pfeffer würzen |
@@ -33,7 +33,7 @@
 
 <ol start="6">
   <li>Die Spaghetti großzügig mit schwarzem Pfeffer würzen und den Pfeffer gut untermischen.</li>
-  <li>Auf einem vorgewärmten Teller servieren.</li>
+  <li>Noch ein wenig durchwärmen (die Nudeln nehmen dabei eventuelles Zucchiniwasser auf) und auf einem vorgewärmten Teller servieren.</li>
   <li>Nach Geschmack mit Salz nachwürzen und mit Parmesan vollenden.</li>
   <li>Genuss mit Zeit: Den Teller auf ein Stövchen stellen. So bleibt das Gericht bis zum letzten Bissen heiß.</li>
 </ol>
