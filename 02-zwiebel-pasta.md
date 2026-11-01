@@ -39,7 +39,7 @@
 - Öfter wenden. Wenn die Pfanne zu trocken wird, ein wenig Wasser zugeben.
 - Die aufgetauten Nudeln in der Mikrowelle vorwärmen (ca. 1 - 1,5 Minuten).
 - Wenn die Zwiebeln anfangen glasig zu werden, die Spaghetti hinzugeben.
-- Großzügig mit schwarzem Pfeffer würzen.
+- Die Spaghetti großzügig mit schwarzem Pfeffer würzen und leicht vermengen.
 - Noch ein wenig durchwärmen lassen und vom Feuer nehmen. (Bei Bedarf auf kleinster Stufe warmhalten.)
 - Auf einem vorgewärmten Teller servieren.
 - Genuss mit Zeit: Den Teller auf ein 2-flammiges Stövchen stellen. So bleibt das Gericht bis zum letzten Bissen heiß.
