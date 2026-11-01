@@ -1,4 +1,4 @@
-<h1 align="center">Kurt hat gekocht<br>Schnelle Brokkoli Pfanne</h1>
+<h1 align="center">Kurt hat gekocht<br>Schnelle Brokkoli-Pfanne mit Meal Prep Vorbereitung</h1>
 
 ![Zutaten Übersicht](assets/04brokkolipfanne1.jpg)
 
