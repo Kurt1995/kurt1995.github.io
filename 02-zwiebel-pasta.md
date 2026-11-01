@@ -165,7 +165,7 @@ Fisch, Eier, Milchprodukte) oder nach ärztlicher Rücksprache ergänzt werden.
 
 ## Kurt's Praxis-Check: So schmeckt es dann
 Ungewohnt, sehr ungewohnt – bei jedem Gabelwickel (Zwiebel zuerst, Nudeln davor) erreichen die Spaghetti zuerst Zunge und Gaumen.  
-Aber dann übernehmen die Zwiebeln mit aller Macht. Sie sind noch bissfest und breiten einen stark gemüse-süßen Geschmack aus.  
+Aber dann übernehmen die Zwiebeln mit aller Macht. Sie haben noch Biss und breiten einen stark gemüse-süßen Geschmack aus.  
 Später dann, wenn nur noch ein paar Pilzstücke auf dem Teller übrig sind und solo auf den Löffel wandern, wird erkennbar, dass sie die ganze Zeit mitgespielt haben.  
 Soja und Teriyaki geben eine tiefes Umami.  
 Die drei Tropfen Essig je Teller machen diesen Grundgeschmack heller und helfen den Nudeln und den Pilzen gegen die übermächtigen Zwiebeln.  
