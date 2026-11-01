@@ -1,5 +1,4 @@
-# Kurt hat gekocht &nbsp; – &nbsp; Zucchini mit Pasta
-
+<h1 align="center">Kurt hat gekocht<br>Zucchini-Pfanne mit Pasta (Spaghetti alla Nerano)</h1>
 
 ![Zutaten](assets/02zucchinipasta1.jpg)
 
