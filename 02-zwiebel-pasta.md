@@ -6,7 +6,7 @@
 - 2 Gemüsezwiebeln (ca. 600 - 700 g)
 - 250 g Champignons (weiß oder braun)
 - 170 g Spaghetti (Trockenmenge = 1/3 Packung)
-- 3 Esslöffel Olivenöl 
+- 2 - 3 Esslöffel Olivenöl 
 - Gewürze: schwarzer Pfeffer,
 - Später am Tisch: Salz, Sojasauce, Teriyaki Sauce
 
@@ -37,10 +37,10 @@
 - Die Champignons putzen, in kleine Würfel schneiden, dazugeben.
 - 7 bis 8 Minuten bei mittlerer Hitze mit Deckel schmoren / garen. Die Zwiebeln werden weich geschmort, die Pilze garen mit.
 - Öfter wenden. Wenn die Pfanne zu trocken wird, ein wenig Wasser zugeben.
-- Die aufgetauten Nudeln in der Mikrowelle vorwärmen (ca. 1 - 1,5 Minuten).
+- Die aufgetauten Nudeln in der Mikrowelle vorwärmen (ca. 1 Minute).
 - Wenn die Zwiebeln anfangen glasig zu werden, die Spaghetti hinzugeben.
 - Die Spaghetti großzügig mit schwarzem Pfeffer würzen und leicht vermengen.
-- Noch ein wenig durchwärmen lassen und vom Feuer nehmen. (Bei Bedarf auf kleinster Stufe warmhalten.)
+- Alles noch ein wenig durchwärmen lassen und vom Feuer nehmen. (Bei Bedarf auf kleinster Stufe warmhalten.)
 - Auf einem vorgewärmten Teller servieren.
 - Genuss mit Zeit: Den Teller auf ein 2-flammiges Stövchen stellen. So bleibt das Gericht bis zum letzten Bissen heiß.
 - Am Tisch nach Geschmack mit Salz nachwürzen. Ich ergänze ein wenig Soja- und Teriyaki Sauce, von beiden ca. 30 Tropfen = 1,5 ml je Teller.
