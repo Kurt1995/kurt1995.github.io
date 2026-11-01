@@ -37,11 +37,10 @@
   <li>Nach Geschmack mit Salz nachwürzen und mit Parmesan vollenden.</li>
   <li>Genuss mit Zeit: Den Teller auf ein Stövchen stellen. So bleibt das Gericht bis zum letzten Bissen heiß.</li>
 </ol>
-<br>
 
 ![Auf dem Teller.jpg](assets/02zucchinipasta5.jpg)
 
-<br>
+---
 
 ## GEMINIS Gesundheits-Check - Warum dieses Gericht punktet
 * **Resistente Stärke:** Durch das Kochen und anschließende Einfrieren der Pasta entsteht resistente Stärke. Diese wirkt wie ein Ballaststoff, sättigt länger und lässt den Blutzuckerspiegel weniger stark ansteigen.
