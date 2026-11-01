@@ -166,8 +166,7 @@ Da B12 wichtig für Nerven und Blutbildung ist, sollte es bei überwiegend pflan
 Ungewohnt, sehr ungewohnt – bei jedem Gabelwickel (Zwiebel zuerst, Nudeln davor) erreichen die Spaghetti zuerst Zunge und Gaumen.  
 Aber dann übernehmen die Zwiebeln mit aller Macht. Sie haben noch Biss und breiten einen stark gemüse-süßen Geschmack aus.  
 Später dann, wenn nur noch ein paar Pilzstücke auf dem Teller übrig sind und solo auf den Löffel wandern, wird erkennbar, dass sie die ganze Zeit mitgespielt haben.  
-Soja und Teriyaki geben eine tiefes Umami.  
-Die drei Tropfen Essig je Teller machen diesen Grundgeschmack heller und helfen den Nudeln und den Pilzen gegen die übermächtigen Zwiebeln.  
+Die wenigen Tropfen Essig je Teller hellen den Grundgeschmack auf und helfen den Nudeln und den Pilzen gegen die übermächtigen Zwiebeln.  
 *Praxistipp: Wer die Zwiebeln weniger dominant mag, reduziert ihre Menge auf 300 - 400 g und lässt sie noch ein wenig länger schmoren.*
 
 ---
