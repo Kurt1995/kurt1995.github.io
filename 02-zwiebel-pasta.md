@@ -1,4 +1,4 @@
-# Kurt hat gekocht &nbsp;– &nbsp;Zwiebel Pilze und Pasta
+<h1 align="center">Kurt hat gekocht &nbsp; – &nbsp; Zwiebel-Pilz-Pfanne mit Pasta</h1>
 
 ![Zutatenübersicht](assets/02-zwiebel-pasta-01.jpg)
 
