@@ -73,7 +73,7 @@
 <table>
   <tr>
     <td><img src="assets/18-nudel-bayer-10.jpg" alt="Servieren" width="712"></td>
-    <td align="center"> <i>und so soll es aussehen<br>die Tomaten sind weich aber nicht matschig<br>die Pilze sind leicht geschrumpft<br>der Leberkäse und die Nudeln sind durchgewärmt<br>die Eier sind gar, die Eigelb sind cremig bis fest<br>am Pfannenboden haben sich<br>Tomaten- und Pilzsaft<br>zu einem leckeren Sud gesammelt</i></td>
+    <td align="center"> <i>und so soll es aussehen<br>die Tomaten sind weich aber nicht matschig<br>die Pilze sind leicht geschrumpft<br>der Leberkäse und die Nudeln sind durchgewärmt<br>die Eier sind gar, die Eigelb sind weich bis cremig<br>am Pfannenboden haben sich<br>Tomaten- und Pilzsaft<br>zu einem leckeren Sud gesammelt</i></td>
   </tr>
 </table>
 
