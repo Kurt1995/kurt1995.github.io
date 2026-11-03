@@ -1,5 +1,4 @@
-# Kurt hat gekocht  &nbsp; – &nbsp; Tomaten-Schicht-Pfanne mit "Asia Note"
-
+<h1 align="center">Kurt hat gekocht<br>Tomaten-Schicht-Pfanne mit "Asia Note"</h1>
 <br>
 
 ![Zutaten für Fruchtige Nudelpfanne Asia-Note](assets/18-nudel-asia-01.jpg)
@@ -10,7 +9,7 @@
 - Champignons (250 – 300 g) 
 - 150 g Hackfleisch, gemischt (halb und halb) 
 - 120 g Spiralnudeln (Trockenmenge) 
-- 2 Esslöffel Olivenöl + 1 Esslöffel Rapsöl 
+- 1 Esslöffel Olivenöl + 1 Esslöffel Rapsöl 
 - Gewürze: Salz, schwarzer Pfeffer, Paprikapulver rosenscharf, Sojasauce
 
 ### Zubereitung
@@ -88,7 +87,7 @@ Besondere Stärken:
 - Lycopin-Power: Durch das Erhitzen der Tomaten wird das sekundäre Pflanzenstoff Lycopin besonders gut für den Körper verfügbar – ein starker Antioxidans für Zellschutz und Herzgesundheit. 
 - Kalium-Reichtum: Die Kombination aus Tomaten und Champignons liefert außergewöhnlich viel Kalium, das zur Regulierung des Blutdrucks beiträgt.
 - Komplette B-Vitamine:  Das Hackfleisch deckt den Tagesbedarf an B12, Pilze und Nudeln liefern B6 und Folat.
-- Volumen ohne Reue:  800 g Gemüse pro Pfanne = enorme Sättigung bei moderater Kaloriendichte. 
+- Volumen ohne Reue: 800 g Gemüse pro Pfanne = enorme Sättigung bei moderater Kaloriendichte. 
 - Resistente Stärke: Die vorgekochten, tiefgefrorenen und wieder aufgetauten Nudeln enthalten resistente Stärke, gut für die Darmgesundheit. 
 
 ---
@@ -107,7 +106,7 @@ Besondere Stärken:
   <tbody>
     <tr>
       <td style="padding: 8px; border: 1px solid #000;"><strong>Kalorien</strong></td>
-      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 1250 kcal</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 1100 kcal</td>
       <td style="padding: 8px; border: 1px solid #000;">Vor allem durch Nudeln, Hack und Öl</td>
     </tr>
     <tr>
@@ -127,8 +126,8 @@ Besondere Stärken:
     </tr>
     <tr>
       <td style="padding: 8px; border: 1px solid #000;"><strong>Fett (gesamt)</strong></td>
-      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 65 g</td>
-      <td style="padding: 8px; border: 1px solid #000;">3 EL Öl + Hackfleisch</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 55 g</td>
+      <td style="padding: 8px; border: 1px solid #000;">2 EL Öl + Hackfleisch</td>
     </tr>
     <tr>
       <td style="padding: 8px; border: 1px solid #000;"><strong>Gesättigte Fettsäuren</strong></td>
