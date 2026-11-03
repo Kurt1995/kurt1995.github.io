@@ -12,7 +12,7 @@
     <td align="center"><font size="4"><b>Cremes und Suppen<br>der Saison</b></font></td>
    </tr>
    <tr>
-    <td style="padding:6px 8px;"><a href="18-nudel-rusti.html">Tomaten-Schicht-Pfanne "Rustikale Art"</a></td>
+    <td style="padding:6px 8px;"><a href="18-nudel-rusti.html">Tomaten-Schicht-Pfanne "Vier Gemüse"</a></td>
     <td style="padding:6px 8px;"><a href="08-gemuse-fsommer.html">Gemüse-Creme "Frühsommer“</a></td>
   </tr>
   <tr>
