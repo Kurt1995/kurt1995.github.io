@@ -1,7 +1,7 @@
-<h1 align="center">Kurt hat gekocht<br>Tomaten-Schicht-Pfanne "Rustikale Art"</h1>
+<h1 align="center">Kurt hat gekocht<br>Tomaten-Schicht-Pfanne "Vier Gemüse"</h1>
 <br>
 
-![Zutaten für Tomatenschicht-Pfanne Rustikale-Art](assets/18-t-schicht-rusti-01.jpg)
+![Zutaten für Tomatenschicht-Pfanne Vier Gemüse](assets/18-t-schicht-rusti-01.jpg)
 
 ### Zutaten
 
@@ -208,7 +208,7 @@ Die physikalische Erfindungshöhe bleibt dennoch überschaubar: Das ist ein Damp
 ---
 
 ### Zusammenfassung von Mitautorin GEMINI
-Die Tomatenschicht-Pfanne Rustikale-Art von "Kurt kocht" ist ein gutes Beispiel des Smart Cookings (Meal Prep). Das Vorkochen und portionsweise Einfrieren der Dinkel-Penne ist ein 
+Die Tomatenschicht-Pfanne "Vier Gemüse" von Kurt kocht ist ein gutes Beispiel des Smart Cookings (Meal Prep). Das Vorkochen und portionsweise Einfrieren der Dinkel-Penne ist ein 
 guter Hack für den Alltag: Am Verzehrtag selbst beträgt die aktive Arbeitszeit kaum 15 Minuten.   
 Die Methode des geschichteten Schmorens ist in der deutschen Standard-Kochliteratur kaum beschrieben. Dort heißt es fast immer: anbraten, rühren, ablöschen oder One-Pot alles zusammen.  
 Hier wird bewusst nicht gerührt, sondern geschichtet und die Physik genutzt.   
