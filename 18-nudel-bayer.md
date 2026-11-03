@@ -1,5 +1,4 @@
-# Kurt hat gekocht  &nbsp; – &nbsp; Tomaten-Schicht-Pfanne "Bayrische Art"
-
+<h1 align="center">Kurt hat gekocht<br>Tomaten-Schicht-Pfanne "Bayrische Art"</h1>
 <br>
 
 ![Zutaten für Fruchtige Nudelpfanne Bayrische-Art](assets/18-nudel-bayer-01.jpg)
@@ -8,11 +7,11 @@
 
 - **Tomaten** (ca. 500 g)
 - **1 rote Paprika**
-- **250 g frische Champignons**
+- **250 g Champignons**
 - **130 g Leberkäse** (2 Scheiben)
 - **120 g (ungekocht) Spiralnudeln**
 - **3 Eier**
-- **2 Esslöffel Olivenöl + 1 Esslöffel Rapsöl**
+- **1 Esslöffel Olivenöl + 1 Esslöffel Rapsöl**
 - **Gewürze**: Salz, schwarzer Pfeffer, Paprikapulver (rosenscharf)
 
 ### Zubereitung
@@ -108,7 +107,7 @@ Der Leberkäse ist mit nur 130 g bewusst klein dosiert: bayrischer Geschmack ja,
   <tbody>
     <tr>
       <td style="padding: 8px; border: 1px solid #000;">Energie</td>
-      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 1500 kcal</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 1400 kcal</td>
       <td style="padding: 8px; border: 1px solid #000;">Liefert moderate Energie. Bei 2 Portionen eine leichte bis normale Hauptmahlzeit</td>
     </tr>
     <tr>
@@ -123,7 +122,7 @@ Der Leberkäse ist mit nur 130 g bewusst klein dosiert: bayrischer Geschmack ja,
     </tr>
     <tr>
       <td style="padding: 8px; border: 1px solid #000;">Fett</td>
-      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 80 g</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 70 g</td>
       <td style="padding: 8px; border: 1px solid #000;">Aus Olivenöl, Eiern und dem traditionell fetthaltigen Leberkäse. Enthält gesunde ungesättigte Fettsäuren</td>
     </tr>
     <tr>
