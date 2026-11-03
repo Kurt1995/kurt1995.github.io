@@ -1,5 +1,4 @@
-# Kurt hat gekocht &nbsp; – &nbsp; Tomaten-Schicht-Pfanne "Lasagne Art"
-
+<h1 align="center">Kurt hat gekocht<br>Tomaten-Schicht-Pfanne "Lasagne Art"</h1>
 <br>
 
 ![Zutaten](assets/18-nudel-lasag-1.jpg)
@@ -13,7 +12,7 @@
 - 150 g Gehacktes, gemischt (halb und halb)
 - 125 g (ungekocht ¼ Packung) Dinkel-Penne
 - 3 Scheiben Käse (Tilsiter, Edamer oder junger Gouda)
-- 1–2 Esslöffel Olivenöl
+- 2 Esslöffel Olivenöl
 - Gewürze: Salz und schwarzer Pfeffer
 
 ---
@@ -42,9 +41,9 @@
 3. Die Paprika sehr klein würfeln und über den Tomaten verteilen.  
 4. Das Gehackte nach Geschmack würzen (Salz, Pfeffer, …) und in Flocken hinzugeben.  
 5. Mit den Nudeln abdecken.  
-6. 3-4 Minuten bei mittlerer Hitze mit Deckel schmoren.
+6. Ca. 5 Minuten bei mittlerer Hitze mit Deckel schmoren.
 7. Die Pfanne mit dem Käse belegen.
-8. Mit Deckel weitere 3–4 Minuten garen, bis der Käse beginnt zu zerlaufen.  
+8. Mit Deckel weitere 3 Minuten garen, bis der Käse beginnt zu zerlaufen.  
 9. Die Pfanne vom Feuer nehmen (kann auch auf ganz kleiner Flamme warm gehalten werden) und servieren.
 
 ---
