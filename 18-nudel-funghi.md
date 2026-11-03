@@ -45,7 +45,7 @@
 -	Das Hackfleisch nach Geschmack mit Salz, Pfeffer, Paprikapulver würzen und in Flocken über das Gemüse legen.
 -	Mit den Nudeln bedecken.
 -	Mit einem Löffel 4 kleine Mulden bilden und die Eier vorsichtig einbringen.
--	Ca. 8 Minuten bei mittlerer Hitze mit Deckel schmoren, bis das Eiweiß der vier Eier gestockt ist.
+-	Ca. 8 Minuten bei mittlerer Hitze mit Deckel schmoren, bis das Eiweiß der Eier gestockt ist.
 -	Am Tisch kann nach Geschmack mit einer Prise Salz nachgewürzt werden.
 
 ---
