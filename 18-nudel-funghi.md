@@ -1,18 +1,16 @@
-
-# Kurt hat gekocht  &nbsp; – &nbsp; Tomaten-Schicht-Pfanne "Funghi Note"
-
+<h1 align="center">Kurt hat gekocht<br>Tomaten-Schicht-Pfanne "Funghi Note"</h1>
 <br>
 
 ![Zutaten für Fruchtige Nudelpfanne Funghi-Note](assets/18-nudel-funghi-01.jpg)
 
-### Zutaten für 2 Portionen (vier Teller)
+### Zutaten für 2 Portionen
 
-- **Frische Tomaten** (ca. 700 g)
+- **Frische Tomaten** (ca. 600 - 700 g)
 - **400 g Champignons**
 - **150 g Hackfleisch, gemischt (halb und halb)**
 - **125 g Dinkel Penne (Trockenmenge)**
 - **4 Eier**
-- **2 Esslöffel Olivenöl + 1 Esslöffel Rapsöl**
+- **1 Esslöffel Olivenöl + 1 Esslöffel Rapsöl**
 - **Gewürze**: Salz, schwarzer Pfeffer, Paprikapulver (rosenscharf)
 
 ### Zubereitung
@@ -47,7 +45,7 @@
 -	Das Hackfleisch nach Geschmack mit Salz, Pfeffer, Paprikapulver würzen und in Flocken über das Gemüse legen.
 -	Mit den Nudeln bedecken.
 -	Mit einem Löffel 4 kleine Mulden bilden und die Eier vorsichtig einbringen.
--	8 – 9 Minuten bei mittlerer Hitze mit Deckel schmoren, bis das Eiweiß der vier Eier gestockt ist.
+-	Ca. 8 Minuten bei mittlerer Hitze mit Deckel schmoren, bis das Eiweiß der vier Eier gestockt ist.
 -	Am Tisch kann nach Geschmack mit einer Prise Salz nachgewürzt werden.
 
 ---
@@ -76,16 +74,16 @@ Dazu der clevere Öl-Mix - Olivenöl für Geschmack, Rapsöl für die guten Omeg
 
 ---
 
-## Nährwerte für eine Portion (2 Teller)
+## Nährwerte für eine Portion (die halbe Zutatenmenge)
 ### Makronährstoffe
 
 | Nährstoff | Menge | Anmerkung |
 | :--- | :--- | :--- |
-| Kalorien | ca. 770 kcal | Hauptenergie aus Dinkel Penne, Öl und Eiern |
+| Kalorien | ca. 700 kcal | Hauptenergie aus Dinkel Penne, Öl und Eiern |
 | Eiweiß | ca. 45 g | Aus Eiern, Hackfleisch und Champignons |
 | Kohlenhydrate | ca. 65 g | Fast komplett aus den Penne |
 | davon Zucker | ca. 11 g | Natürlicher Fruchtzucker der Tomaten |
-| Fett (gesamt) | ca. 40 g | Aus Öl, Hackfleisch und Eigelb |
+| Fett (gesamt) | ca. 30 g | Aus Öl, Hackfleisch und Eigelb |
 | Gesättigte Fettsäuren | ca. 11 g | Aus Hackfleisch und Eigelb |
 | Ballaststoffe | ca. 11 g | Aus Tomaten, Champignons und den Penne |
 
