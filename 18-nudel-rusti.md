@@ -1,5 +1,4 @@
-# Kurt hat gekocht &nbsp; – &nbsp; Tomaten-Schicht-Pfanne "Rustikale Art"
-
+<h1 align="center">Kurt hat gekocht<br>Tomaten-Schicht-Pfanne "Rustikale Art"</h1>
 <br>
 
 ![Zutaten für Tomatenschicht-Pfanne Rustikale-Art](assets/18-t-schicht-rusti-01.jpg)
@@ -12,8 +11,8 @@
 - **150 g Hackfleisch**, gemischt (halb und halb)
 - **125 g Dinkel-Penne** (Trockenmenge)
 - **200 g Champignons**
-- **3 Esslöffel Olivenöl**
-- **Gewürze**: Salz, schwarzer Pfeffer
+- **2 Esslöffel Olivenöl**
+- **Gewürze**: Salz, schwarzer Pfeffer, Rosenpaprika
 
 ### Zubereitung
 
@@ -35,7 +34,7 @@
 3.  Die Zwiebel putzen, in dünne Scheiben schneiden und die Tomaten belegen.
 4.  Die Paprika in ganz kleine Würfel schneiden, dazugeben.
 5.  Die Pilze würfeln und in der Pfanne verteilen.
-6.  Das Hackfleisch nach Geschmack mit Salz, Pfeffer würzen und in Flocken hinzugeben.
+6.  Das Hackfleisch nach Geschmack mit Salz, Pfeffer, Rosenpaprika würzen und in Flocken hinzugeben.
 7.  Mit den Nudeln bedecken.
 8.  Ca. 8 Minuten bei mittlerer bis großer Hitze mit Deckel schmoren/garen.
 
@@ -96,7 +95,7 @@ Basiert auf den Zutaten: 600g Tomaten, 100g rote Paprika, 80g Zwiebel, 150g Hack
   <tbody>
     <tr>
       <td>Kalorien</td>
-      <td>ca. 1.280 kcal</td>
+      <td>ca. 1.100 kcal</td>
       <td>Hauptenergie aus Dinkel-Penne, Hackfleisch und Olivenöl</td>
     </tr>
     <tr>
@@ -116,7 +115,7 @@ Basiert auf den Zutaten: 600g Tomaten, 100g rote Paprika, 80g Zwiebel, 150g Hack
     </tr>
     <tr>
       <td>Fett (gesamt)</td>
-      <td>ca. 60 g</td>
+      <td>ca. 50 g</td>
       <td>Aus Olivenöl und Hackfleisch</td>
     </tr>
     <tr>
