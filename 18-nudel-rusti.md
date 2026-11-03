@@ -51,7 +51,7 @@ Servieren und nach Geschmack das Umami mit ein wenig Salz verstärken.
 *Vorsicht! Die Tomatenstücke bleiben unerwartet lange heiß!*
 
 *Hinweis zu den letzten beiden Bildern: 
-Heute ohne Paprika - und mit braunen statt weißen Champignons, die ich etwas gröber gewürfelt habe. Dadurch sind sie später in der Schüssel sowohl vom Biss als auch geschmacklich besser erkennbar.*
+Heute ohne Paprika - und mit braunen statt weißen Champignons, die ich etwas gröber gewürfelt habe. Dadurch sind sie später sowohl vom Biss als auch geschmacklich besser erkennbar.*
 
 ---
 
