@@ -1,18 +1,17 @@
-# Kurt hat gekocht &nbsp; – &nbsp; Tomaten-Schicht-Pfanne "Provenzalische Art"
-
+<h1 align="center">Kurt hat gekocht<br>Tomaten-Schicht-Pfanne "Provenzalische Art"</h1>
 <br>
 
 ![Zutaten für Tomatenschicht-Pfanne Provenzal-Art](assets/18-t-schicht-provenzal-01.jpg)
 
 ### Zutaten
 
-- **Frische Tomaten** (ca. 500-600 g)
+- **Tomaten** (ca. 500-600 g)
 - **1 rote Paprika**
 - **150 g Gehacktes**, gemischt (halb und halb)
 - **125 g Dinkel-Penne** (Trockenmenge)
-- **80-100 g Kräuterfrischkäse**
+- **100 g Kräuterfrischkäse**
 - **2 Esslöffel Olivenöl**
-- **Gewürze**: Salz, schwarzer Pfeffer
+- **Gewürze**: Salz, schwarzer Pfeffer, Paprikapulver rosenscharf
 
 ### Zubereitung
 
@@ -35,7 +34,7 @@
 4.  Den Frischkäse darüber verteilen und alles kräftig mit schwarzem Pfeffer würzen.
 5.  Das Gehackte nach Geschmack würzen (Salz, Pfeffer, ..) und in Flocken hinzugeben.
 6.  Alles mit den Nudeln bedecken.
-7.  Ca. 7 Minuten bei mittlerer Hitze mit Deckel schmoren.
+7.  Ca. 8 Minuten bei mittlerer Hitze mit Deckel schmoren.
 8.  Die Pfanne vom Feuer nehmen (kann auch auf ganz kleiner Flamme warm gehalten werden) und servieren.
 9.  Am Tisch nach Geschmack mit etwas Salz nachwürzen.
 
