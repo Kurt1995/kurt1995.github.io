@@ -1,5 +1,4 @@
 <h1 align="center">Kurt hat gekocht<br>Gemüse-Creme „Frühsommer“</h1>
-<br>
 
 ![Gemüse-Creme Frühsommer – Bild 1](assets/08-gemuse-fsommer-1.jpg)
 
