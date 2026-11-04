@@ -9,9 +9,9 @@
 - 125 g Dinkel-Penne (1 Portion aus dem Vorrat)
 - 3 Eier
 - 1,5 l Wasser (für die Eier)
-- 300 ml Wasser (für die Sauce) 
+- 300 ml Wasser (für die Creme) 
 - 1 Brühwürfel (Fette Brühe)
-- 20 g Margarine
+- 20 - 30 g Margarine (2 Esslöffel, leicht gehäuft)
 - Kräuter: Schnittlauch, Petersilie
 - Gewürze: Paprika rosenscharf, schwarzer Pfeffer
 
@@ -60,7 +60,7 @@
 6. **Penne untermischen**  
    Die aufgetauten Penne vorsichtig unterheben und kurz erwärmen.
 7. **Eier in die Sauce geben**  
-   Die pochierten Eier in die heiße Tomatensauce setzen.
+   Die pochierten Eier in die heiße Tomatencremee setzen.
 8.  **Servieren**
     Den Topf vom Herd nehmen und das Gericht servieren.
 
