@@ -18,8 +18,8 @@
 ### Zubereitung
 
 #### Langfristvorbereitung
-1. Die Vollkornpenne vorkochen, in 4 Portionen aufteilen und einfrieren.
-2. Am Abend vor dem Verzehr Penne und Leber schonend im Kühlschrank auftauen.  
+1. Eine Packung Vollkornpenne (500 g) vorkochen, in 4 Portionen aufteilen und einfrieren.
+2. Am Abend vor dem Verzehr 1 Portion Penne und eine Packung Leber schonend im Kühlschrank auftauen.  
 
 *Hinweis: Das Gericht schmeckt natürlich auch mit frisch zubereiteten Nudeln.*
 
@@ -31,12 +31,12 @@
 
 1. Leber sehr gründlich mit Wasser spülen.
 2. Zucchini und Paprika waschen, grob würfeln und mit dem Wasser erhitzen.
-3. Die Leber in einer Pfanne mit Deckel auf kleiner Flamme ca. 10 min durchgaren. Öfter wenden.
+3. Die Leber in einer Pfanne auf kleiner bis mittlerer Flamme ca. 10 min durchgaren. Öfter wenden.
 4. Das Gemüse kurz aufkochen, vom Herd nehmen und pürieren.
-5. Die Creme auf kleiner Flamme köcheln. Mehrmals rühren.
-6. Pfeffer und Brühwürfel einrühren und einen guten Stich Margarine zugeben.
-7. Die Vollkornpenne und die gegarte Leber in die Creme geben.
-8. Alles vermengen, vom Feuer nehmen und servieren.
+5. Die Creme dann auf kleiner Flamme köcheln. Mehrmals rühren.
+6. Pfeffer, den zerdrückten Brühwürfel und die Margarine einrühren.
+7. Die Vollkornpenne und die gegarte Leber unterheben.
+8. Vom Feuer nehmen und servieren.
 
 <table>
   <tr>
