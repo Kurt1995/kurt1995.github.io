@@ -1,4 +1,5 @@
-# Kurt hat gekocht &nbsp;– &nbsp;Zucchini-Paprika-Creme mit Leber
+<h1 align="center">Kurt hat gekocht<br>Zucchini-Paprika-Creme mit Leber</h1>
+<br>
 
 ![07zupaleber1.jpg](assets/07zupaleber1.jpg)
 
@@ -10,7 +11,7 @@
 * 0,5 l Wasser
 * 1 Brühwürfel (für 500 ml)
 * Schwarzer Pfeffer, Salz
-* ca. 30 g Margarine (1 Esslöffel leicht gehäuft)
+* ca. 30 g Margarine (2 Esslöffel leicht gehäuft)
 
 ---
 
@@ -28,11 +29,11 @@
 | :---: | :---: |
 | ![07zupaleber2.jpg](assets/07zupaleber2.jpg) | ![07zupaleber3.jpg](assets/07zupaleber3.jpg) |
 
-1. Leber sehr gründlich mit Wasser spülen, beiseite stellen.
+1. Leber sehr gründlich mit Wasser spülen.
 2. Zucchini und Paprika waschen, grob würfeln und mit dem Wasser erhitzen.
-3. Kurz aufkochen, vom Herd nehmen und pürieren.
-4. Die Leber in einer Pfanne mit Deckel auf kleiner Flamme ca. 10 min durchgaren. Öfter wenden.
-5. Währenddessen die Creme auf kleiner Flamme köcheln. Mehrmals rühren.
+3. Die Leber in einer Pfanne mit Deckel auf kleiner Flamme ca. 10 min durchgaren. Öfter wenden.
+4. Das Gemüse kurz aufkochen, vom Herd nehmen und pürieren.
+5. Die Creme auf kleiner Flamme köcheln. Mehrmals rühren.
 6. Pfeffer und Brühwürfel einrühren und einen guten Stich Margarine zugeben.
 7. Die Vollkornpenne und die gegarte Leber in die Creme geben.
 8. Alles vermengen, vom Feuer nehmen und servieren.
