@@ -15,7 +15,7 @@ Zutaten (für 2 Personen)
 - 300-400 ml Wasser (für die Creme)  
 - 125 g Dinkel-Penne (1 Portion aus dem Vorrat)  
 - 1 Brühwürfel (Fette Brühe)  
-- Ein guter  Stich Margarine (ca. 30 g)  
+- Ein guter Stich Margarine (ca. 30 g = 2 leicht gehäufte Esslöffel)  
 - Gewürze: Paprika rosenscharf, schwarzer Pfeffer, Salz  
 
 ---
@@ -25,8 +25,7 @@ Zutaten (für 2 Personen)
 ### Langfristvorbereitung
 
 - Pasta-Vorrat anlegen:  
-  500 g Dinkel-Penne in Salzwasser kochen, abgießen, kalt abschrecken und in  
-  4 Portionen einfrieren.  
+  500 g Dinkel-Penne in Salzwasser kochen, abgießen, kalt abschrecken und in 4 Portionen einfrieren.  
 - Schonendes Auftauen:  
   Eine Portion Penne am Vorabend in den Kühlschrank legen.  
 
