@@ -1,9 +1,8 @@
 <h1 align="center">Kurt hat gekocht<br>Zucchini-Paprika-Creme mit Leber</h1>
-<br>
 
 ![07zupaleber1.jpg](assets/07zupaleber1.jpg)
 
-### Zutaten
+### Zutaten für 2 Portionen
 * Zucchini ca. 400 g
 * Rote Paprika ca. 300 g
 * Geflügelleber 500 g
