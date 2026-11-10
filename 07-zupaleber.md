@@ -50,13 +50,19 @@
 | *am Tisch kann mit ein wenig Salz nachgewürzt werden* |
 
 ### Perplexity's Gesundheits-Check: Warum dieses Gericht punktet
-Dieses Rezept kombiniert Gemüse, Leber und Vollkorn für eine nährstoffreiche Mahlzeit, die den Körper optimal versorgt.
-* **Vitamin A, Eisen, B12 durch Leber:** Geflügelleber liefert sehr viel Vitamin A (Retinol), Eisen und B12. Wegen des hohen Vitamin A Gehaltes gilt für Schwangere: Leber nur selten und in kleinen Mengen, ärztlich abklären. Für alle anderen als gelegentliche Hauptmahlzeit, nicht täglich.
-* **Zucchini und Paprika liefern Beta-Carotin und Vitamin C:** Beta-Carotin kann im Körper zu Vitamin A umgewandelt werden, Vitamin C bleibt durch kurzes Aufkochen weitgehend erhalten.
-* **Schonendes Garen ohne Röstaromen:** Gemüse wird nur kurz aufgekocht und püriert, Leber bei kleiner Flamme mit Deckel gegart. Keine Röstaromen, bewusst zart.
-* **Eisen und Zink aus Leber:** Hochbioverfügbares Eisen und Zink.
-* **Fettlösliche Vitamine:** Ein Stich Margarine hilft, fettlösliche Vitamine (A, E, K) aufzunehmen.
-* **Vollkorn-Sättigung:** Penne bringen Ballaststoffe und komplexe Kohlenhydrate.  
+Dieses Rezept kombiniert Gemüse, Leber und Vollkorn zu einer sehr nährstoffdichten und sättigenden Mahlzeit.
+- **Sehr viel Vitamin A:** Die Leber liefert viel vorgebildetes Vitamin A, Gemüse ergänzt Beta Carotin.  
+- **Eisen, B12 und Folat:** Die Leber liefert gut verfügbares Eisen, Vitamin B12 und Folat. Vitamin C aus Paprika unterstützt die Eisenaufnahme.
+- **Schonend gegart:** Das Gemüse wird nur kurz aufgekocht und püriert. Das ist besser als langes Kochen, ein Teil des Vitamin C geht trotzdem verloren.
+- **Zink und Eiweiß:** Leber, Vollkorn und Gemüse liefern Zink und viel Eiweiß für Sättigung und Erhalt der Muskulatur.
+- **Fett für die Aufnahme:** Etwas Fett hilft, das fettlösliche Vitamin A besser aufzunehmen.
+- **Vollkorn für Energie:** Die Penne bringen Ballaststoffe und komplexe Kohlenhydrate für langanhaltende Sättigung.
+
+Fazit: nährstoffreich und sättigend, aber wegen der großen Portion Leber kein leichtes Alltagsgericht.
+
+### Hinweis: 
+Für Schwangere ist das Gericht wegen der hohen Vitamin A Menge aus Leber nicht geeignet.  
+Für alle anderen gilt: höchstens einmal in 10 Tagen, und an den anderen Tagen keine weitere Leber, Leberwurst oder Vitamin A Präparate. 
 
 ---
 
