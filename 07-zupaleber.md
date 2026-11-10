@@ -10,7 +10,7 @@
 * 0,5 l Wasser
 * 1 Brühwürfel (für 500 ml)
 * Schwarzer Pfeffer, Salz
-* ca. 30 g Margarine (2 Esslöffel leicht gehäuft)
+* ca. 40 g Margarine (2 Esslöffel leicht gehäuft)
 
 ---
 
