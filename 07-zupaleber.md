@@ -74,7 +74,6 @@ Und mit dem nächsten Löffel wiederholt sich das – das mag ich.
 <hr style="border: none; border-top: 2px solid #000; margin-bottom: 20px;" />
 
 <h3 style="font-family: sans-serif; font-size: 16px; font-weight: bold; margin-bottom: 10px;">1. Makronährstoffe</h3>
-
 <table style="width: 800px; border-collapse: collapse; font-family: sans-serif; margin-bottom: 30px;">
   <thead>
     <tr style="background-color: #e6e6e6;">
@@ -86,38 +85,38 @@ Und mit dem nächsten Löffel wiederholt sich das – das mag ich.
   <tbody>
     <tr>
       <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">Kalorien</td>
-      <td style="padding: 8px; border: 1px solid #000;">ca. 1.250 kcal</td>
-      <td style="padding: 8px; border: 1px solid #000;">ca. 595 kcal Leber + 435 kcal Penne (125g trocken) + 146 kcal Gemüse/Margarine/Brühe</td>
+      <td style="padding: 8px; border: 1px solid #000;">ca. 1.470 bis 1.500 kcal</td>
+      <td style="padding: 8px; border: 1px solid #000;">ca. 595 kcal Leber + ca. 440 kcal Penne (125 g trocken) + ca. 161 kcal Zucchini und Paprika + ca. 287 kcal Margarine (40 g) + ca. 10 kcal Brühe</td>
     </tr>
     <tr>
       <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">Eiweiß</td>
-      <td style="padding: 8px; border: 1px solid #000;">ca. 102 - 105 g</td>
-      <td style="padding: 8px; border: 1px solid #000;">Hauptsächlich Hähnchenleber (ca. 85g) + Vollkornpenne + wenig Gemüse</td>
+      <td style="padding: 8px; border: 1px solid #000;">ca. 108 bis 112 g</td>
+      <td style="padding: 8px; border: 1px solid #000;">Hauptsächlich Hähnchenleber (ca. 85 g) + Vollkornpenne (ca. 17 g) + wenig Gemüse (ca. 8 g)</td>
     </tr>
     <tr>
       <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">Kohlenhydrate</td>
-      <td style="padding: 8px; border: 1px solid #000;">ca. 100 - 105 g</td>
-      <td style="padding: 8px; border: 1px solid #000;">Fast nur aus 125g Vollkornpenne (ca. 72g) + Paprika + Zucchini</td>
+      <td style="padding: 8px; border: 1px solid #000;">ca. 124 bis 129 g</td>
+      <td style="padding: 8px; border: 1px solid #000;">125 g Vollkornpenne (ca. 92 g) + Paprika (ca. 18 g) + Zucchini (ca. 12 g) + Leber und Brühe (ca. 5 g)</td>
     </tr>
     <tr>
       <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">davon Zucker</td>
-      <td style="padding: 8px; border: 1px solid #000;">ca. 16 - 19 g</td>
-      <td style="padding: 8px; border: 1px solid #000;">Natürlich aus Paprika und Zucchini</td>
+      <td style="padding: 8px; border: 1px solid #000;">ca. 22 bis 26 g</td>
+      <td style="padding: 8px; border: 1px solid #000;">Natürlich aus Paprika (ca. 13 g) + Zucchini (ca. 10 g) + kleiner Rest aus Penne</td>
     </tr>
     <tr>
       <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">Fett (gesamt)</td>
-      <td style="padding: 8px; border: 1px solid #000;">ca. 34 - 38 g</td>
-      <td style="padding: 8px; border: 1px solid #000;">ca. 24g aus Leber + ca. 8g aus Margarine + Rest aus Penne</td>
+      <td style="padding: 8px; border: 1px solid #000;">ca. 60 bis 64 g</td>
+      <td style="padding: 8px; border: 1px solid #000;">ca. 32 g aus Margarine (40 g) + ca. 24 g aus Leber + ca. 4 g aus Penne + ca. 2 g aus Gemüse</td>
     </tr>
     <tr>
       <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">Gesättigte Fettsäuren</td>
-      <td style="padding: 8px; border: 1px solid #000;">ca. 10 - 12 g</td>
-      <td style="padding: 8px; border: 1px solid #000;">Überwiegend aus Leber und Margarine</td>
+      <td style="padding: 8px; border: 1px solid #000;">ca. 15 bis 18 g</td>
+      <td style="padding: 8px; border: 1px solid #000;">Überwiegend aus Leber (ca. 8 g) und Margarine (ca. 6 bis 8 g, je nach Sorte)</td>
     </tr>
     <tr>
       <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">Ballaststoffe</td>
-      <td style="padding: 8px; border: 1px solid #000;">ca. 14 - 16 g</td>
-      <td style="padding: 8px; border: 1px solid #000;">Vollkornpenne + Zucchini + Paprika</td>
+      <td style="padding: 8px; border: 1px solid #000;">ca. 20 bis 23 g</td>
+      <td style="padding: 8px; border: 1px solid #000;">Vollkornpenne (ca. 12 g) + Paprika (ca. 6 g) + Zucchini (ca. 4 g)</td>
     </tr>
   </tbody>
 </table>
@@ -136,62 +135,62 @@ Und mit dem nächsten Löffel wiederholt sich das – das mag ich.
   <tbody>
     <tr>
       <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">Vitamin A (Retinol)</td>
-      <td style="padding: 8px; border: 1px solid #000;">ca. 45.000 - 60.000 µg RE</td>
-      <td style="padding: 8px; border: 1px solid #000;">ca. 5.600 - 7.500 %</td>
-      <td style="padding: 8px; border: 1px solid #000;">Aus 500g Hähnchenleber, extrem hoch - Hinweis Schwangerschaft</td>
+      <td style="padding: 8px; border: 1px solid #000;">ca. 16.000 bis 17.500 µg RE</td>
+      <td style="padding: 8px; border: 1px solid #000;">ca. 1.650 bis 2.100 %</td>
+      <td style="padding: 8px; border: 1px solid #000;">Aus 500 g Hähnchenleber, extrem hoch, Hinweis Schwangerschaft</td>
     </tr>
     <tr>
       <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">Vitamin B12</td>
-      <td style="padding: 8px; border: 1px solid #000;">ca. 85 - 130 µg</td>
-      <td style="padding: 8px; border: 1px solid #000;">ca. 2.100 - 3.250 %</td>
+      <td style="padding: 8px; border: 1px solid #000;">ca. 80 bis 100 µg</td>
+      <td style="padding: 8px; border: 1px solid #000;">ca. 2.000 bis 2.500 %</td>
       <td style="padding: 8px; border: 1px solid #000;">Nur aus Hähnchenleber</td>
     </tr>
     <tr>
       <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">Eisen</td>
-      <td style="padding: 8px; border: 1px solid #000;">ca. 50 - 58 mg</td>
-      <td style="padding: 8px; border: 1px solid #000;">ca. 350 - 415 % (Mann) / 330% (Frau)</td>
+      <td style="padding: 8px; border: 1px solid #000;">ca. 45 bis 52 mg</td>
+      <td style="padding: 8px; border: 1px solid #000;">ca. 450 bis 520 % (Mann) / 300 bis 350 % (Frau)</td>
       <td style="padding: 8px; border: 1px solid #000;">Hochbioverfügbar aus Hähnchenleber, Vitamin C aus Paprika fördert Aufnahme</td>
     </tr>
     <tr>
       <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">Zink</td>
-      <td style="padding: 8px; border: 1px solid #000;">ca. 18 - 22 mg</td>
-      <td style="padding: 8px; border: 1px solid #000;">ca. 180 - 220 %</td>
-      <td style="padding: 8px; border: 1px solid #000;">Hauptsächlich Leber</td>
+      <td style="padding: 8px; border: 1px solid #000;">ca. 25 bis 29 mg</td>
+      <td style="padding: 8px; border: 1px solid #000;">ca. 250 bis 290 %</td>
+      <td style="padding: 8px; border: 1px solid #000;">Hauptsächlich Leber, plus Vollkornpenne und Gemüse</td>
     </tr>
     <tr>
       <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">Folat (B9)</td>
-      <td style="padding: 8px; border: 1px solid #000;">ca. 1.800 - 2.200 µg</td>
-      <td style="padding: 8px; border: 1px solid #000;">ca. 600 - 730 %</td>
-      <td style="padding: 8px; border: 1px solid #000;">Überwiegend Leber, Rest Paprika/Zucchini/Penne</td>
+      <td style="padding: 8px; border: 1px solid #000;">ca. 3.000 bis 3.300 µg</td>
+      <td style="padding: 8px; border: 1px solid #000;">ca. 1.000 bis 1.100 %</td>
+      <td style="padding: 8px; border: 1px solid #000;">Überwiegend Leber, Rest Paprika / Zucchini / Penne</td>
     </tr>
     <tr>
       <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">Vitamin C</td>
-      <td style="padding: 8px; border: 1px solid #000;">ca. 240 - 300 mg</td>
-      <td style="padding: 8px; border: 1px solid #000;">ca. 220 - 270 %</td>
-      <td style="padding: 8px; border: 1px solid #000;">Fast roh püriert, aus 300g roter Paprika + Zucchini</td>
+      <td style="padding: 8px; border: 1px solid #000;">ca. 420 bis 520 mg</td>
+      <td style="padding: 8px; border: 1px solid #000;">ca. 420 bis 520 %</td>
+      <td style="padding: 8px; border: 1px solid #000;">Nach kurzem Aufkochen und Pürieren, aus 300 g roter Paprika + Zucchini + Leber</td>
     </tr>
     <tr>
       <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">Vitamin B6</td>
-      <td style="padding: 8px; border: 1px solid #000;">ca. 3,0 - 3,8 mg</td>
-      <td style="padding: 8px; border: 1px solid #000;">ca. 190 - 240 %</td>
-      <td style="padding: 8px; border: 1px solid #000;">Leber + Paprika + Vollkornpenne</td>
+      <td style="padding: 8px; border: 1px solid #000;">ca. 5,0 bis 6,0 mg</td>
+      <td style="padding: 8px; border: 1px solid #000;">ca. 310 bis 430 %</td>
+      <td style="padding: 8px; border: 1px solid #000;">Leber + Paprika + Zucchini + Vollkornpenne</td>
     </tr>
     <tr>
       <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">Kalium</td>
-      <td style="padding: 8px; border: 1px solid #000;">ca. 2.200 - 2.500 mg</td>
-      <td style="padding: 8px; border: 1px solid #000;">ca. 55 - 63 %</td>
-      <td style="padding: 8px; border: 1px solid #000;">Zucchini + Paprika + Leber + Brühe</td>
+      <td style="padding: 8px; border: 1px solid #000;">ca. 3.200 bis 3.600 mg</td>
+      <td style="padding: 8px; border: 1px solid #000;">ca. 80 bis 90 %</td>
+      <td style="padding: 8px; border: 1px solid #000;">Zucchini + Paprika + Leber + Penne + Brühe</td>
     </tr>
     <tr>
       <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">Magnesium</td>
-      <td style="padding: 8px; border: 1px solid #000;">ca. 180 - 210 mg</td>
-      <td style="padding: 8px; border: 1px solid #000;">ca. 50 - 60 %</td>
+      <td style="padding: 8px; border: 1px solid #000;">ca. 250 bis 290 mg</td>
+      <td style="padding: 8px; border: 1px solid #000;">ca. 70 bis 95 %</td>
       <td style="padding: 8px; border: 1px solid #000;">Vollkornpenne + Leber + Gemüse</td>
     </tr>
     <tr>
       <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">Beta-Carotin</td>
-      <td style="padding: 8px; border: 1px solid #000;">ca. 2.500 - 3.000 µg</td>
-      <td style="padding: 8px; border: 1px solid #000;">ca. 50 % als Vorstufe für Vitamin A</td>
+      <td style="padding: 8px; border: 1px solid #000;">ca. 4.800 bis 5.600 µg</td>
+      <td style="padding: 8px; border: 1px solid #000;">ca. 45 bis 60 % als Vorstufe für Vitamin A</td>
       <td style="padding: 8px; border: 1px solid #000;">Aus Paprika und Zucchini</td>
     </tr>
   </tbody>
@@ -201,7 +200,7 @@ Und mit dem nächsten Löffel wiederholt sich das – das mag ich.
 
 ### Zusammenfassung von Mitautorin Perplexity:
 *Ich teile die Gesamtmenge in 2 Portionen*  
-Mit 650-700 kcal ist das Gericht eine proteinstarke Hauptmahlzeit (mit 50 g Eiweiß aus Leber und Penne).  
+Mit 700-750 kcal ist das Gericht eine proteinstarke Hauptmahlzeit (mit 55 g Eiweiß aus Leber und Penne).  
 Dabei maximiert diese Gemüse-Leber-Kombo Mikronährstoffe bei bester Bioverfügbarkeit.
 
 > **Tipp für Leberskeptiker:**
