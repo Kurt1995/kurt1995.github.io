@@ -64,9 +64,9 @@ Dieses Rezept kombiniert Gemüse, Leber und Vollkorn für eine nährstoffreiche 
 
 Cremig, sämig und ein wenig süß. Im Hintergrund eine kräftige Umami Tiefe.  
 Und dann kommt die Leber.  
-Mit jedem Kauen tritt sie stärker hervor und entfaltet ihren typischen Geschmack.  
+Mit jedem Kauen tritt sie stärker hervor und entfaltet ihren typischen Geschmack. Ein überraschendes Erlebnis.  
 Die Vollkornnudeln geben Volumen und eine kleine Getreidenote dazu.  
-Und mit dem nächsten Löffel wiederholt sich das Spiel – das mag ich.
+Und mit dem nächsten Löffel wiederholt sich das – das mag ich.
 
 ---
 
