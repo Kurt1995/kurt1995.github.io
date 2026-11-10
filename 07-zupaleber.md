@@ -28,14 +28,14 @@
 | :---: | :---: |
 | ![07zupaleber2.jpg](assets/07zupaleber2.jpg) | ![07zupaleber3.jpg](assets/07zupaleber3.jpg) |
 
-1. Leber sehr gründlich mit Wasser spülen.
+1. Die Leber sehr gründlich mit Wasser spülen und beiseite stellen.
 2. Zucchini und Paprika waschen, grob würfeln und mit dem Wasser erhitzen.
-3. Die Leber in einer Pfanne auf kleiner bis mittlerer Flamme ca. 10 min durchgaren. Öfter wenden.
-4. Das Gemüse kurz aufkochen, vom Herd nehmen und pürieren.
-5. Die Creme dann auf kleiner Flamme köcheln. Mehrmals rühren.
-6. Pfeffer, den zerdrückten Brühwürfel und die Margarine einrühren.
+3. Kurz aufkochen, vom Herd nehmen und pürieren.
+4. Die Leber in einer Pfanne auf mittlerer bis großer Flamme ca. 8 - 10 min durchgaren. Dabei häufig wenden.
+5. Währenddessen die Creme auf kleiner Flamme köcheln. Mehrmals rühren.
+6. Ein wenig Pfeffer, den zerdrückten Brühwürfel und die Margarine einrühren.
 7. Die Vollkornpenne und die gegarte Leber unterheben.
-8. Vom Feuer nehmen und servieren.
+8. Alles kurz durchwärmen lassen, vom Feuer nehmen und servieren.
 
 <table>
   <tr>
