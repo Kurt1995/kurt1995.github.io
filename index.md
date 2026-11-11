@@ -25,7 +25,7 @@
   </tr>
   <tr>
     <td style="padding:6px 8px;"><a href="18-nudel-provenz.html">Tomaten-Schicht-Pfanne "Provenzalische Art"</a></td>
-    <td style="padding:6px 8px;"><a href="45-tomate-huhn.html">Tomaten-Topf mit Huhn</a></td>
+    <td style="padding:6px 8px;"><a href="07-hokkaido-plus.html">Hokkaido-Creme Plus</a></td>
   </tr>
   <tr>
     <td style="padding:6px 8px;"><a href="18-nudel-lasag.html">Tomaten-Schicht-Pfanne "Lasagne Art"</a></td>
