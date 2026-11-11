@@ -1,4 +1,4 @@
-<h1 align="center">Kurt hat gekocht – Hokkaido-Creme Plus</h1>
+<h1 align="center">Kurt hat gekocht &nbsp;– &nbsp;Hokkaido-Creme Plus</h1>
 
 ![Zutaten](assets/07-hokkaido-plus-01.jpg)
 
