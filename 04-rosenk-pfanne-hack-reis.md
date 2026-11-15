@@ -2,7 +2,7 @@
 
 <br>
 
-![Zutaten für Rosenkohl Pfanne](assets/11-paprika-pilz-reis-ei-01.jpg)
+![Zutaten für Rosenkohl Pfanne](assets/04-rosen-hack-reis-01.jpg)
 
 ## Zutaten für 2 Portionen
 
