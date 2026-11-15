@@ -44,7 +44,7 @@
 - Bei kleiner Hitze abgedeckt ca. 40 - 45 Minuten mit Deckel köcheln lassen, bis die Flüssigkeit vollständig aufgenommen wurde. Nicht rühren.
 - Das Ergebnis: Die gesamte Brühe ist aufgenommen, der Naturreis ist locker und körnig – genau wie im letzten Bild dokumentiert.
 
-#### Die Begründung findest du [hier](32-quellmethode-reis.md)
+#### Eine Begründung für diese Methode findest du [hier](32-quellmethode-reis.md)
 
 ---
 
