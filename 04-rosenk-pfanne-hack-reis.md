@@ -1,5 +1,4 @@
 <h1 align="center">Kurt hat gekocht<br>Rosenkohl-Pfanne mit Hack und Reis</h1>
-
 <br>
 
 ![Zutaten für Rosenkohl Pfanne](assets/04-rosen-hack-reis-01.jpg)
