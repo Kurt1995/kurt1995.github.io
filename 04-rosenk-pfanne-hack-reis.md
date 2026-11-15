@@ -66,22 +66,23 @@
   </tr>
 </table>
 
--	Die Öle in der Pfanne verteilen. 
-- Die Paprika putzen, würfeln und hinzugeben. 
--	Die Pilze grob würfeln und mit den Paprikastücken vermischen.
-- Großzügig mit schwarzem Pfeffer und dem Rosenpaprikapulver würzen.
--	Ca. 8 Minuten bei mittlerer Hitze mit Deckel schmoren. Öfter umrühren.
--	Zwischendurch den Apfelessig hinzugeben.
-- Wenn die Pfanne zu trocken wird, etwas Wasser hinzugeben.
-
-### Die Eier
+### Das Pfannenfinish 
+ 
+- Das Öl in der Pfanne erhitzen. 
+- Die Rosenkohl-Röschen halbieren und in die Pfanne geben. Mit Pfeffer würzen. 
+- Das Hackfleisch würzen (Salz, Pfeffer, Paprikapulver, ..) und in Flocken darüber verteilen. 
+- Bei großer Hitze kurz anbraten. Alles vermengen und bei mittlerer Hitze ca. 5 min (dann ist der Rosenkohl noch bissfest und das Hack ist gar). Öfter wenden.
+- Nicht viel länger schmoren, sonst wird das Hackfleisch trocken.
+- Ein Deckel beschleunigt den Garprozess, verhindert jedoch Röstaromen. 
+- Die Tomate klein würfeln. 
+- Kurz vor Ende der Pfannenzeit die Tomatenstückchen unterheben und kurz mitgaren lassen. 
+- Sollte die Pfanne zwischendurch zu trocken werden, etwas Wasser zugeben. 
 
 <table>
   <tr>
-    <td><img src="assets/11-paprika-reis-ei-21.jpg" alt="Schritt 1"></td>
-    <td><img src="assets/11-paprika-reis-ei-22.jpg" alt="Schritt 2"></td>
-    <td><img src="assets/11-paprika-reis-ei-23.jpg" alt="Schritt 3"></td>
-    <td><img src="assets/11-paprika-reis-ei-24.jpg" alt="Schritt 4"></td>
+    <td><img src="assets/04-rosen-hack-reis-05.jpg" alt="Schritt 1"></td>
+    <td><img src="assets/04-rosen-hack-reis-06.jpg" alt="Schritt 2"></td>
+    <td><img src="assets/04-rosen-hack-reis-09.jpg" alt="Schritt 3"></td>
   </tr>
 </table>
 
