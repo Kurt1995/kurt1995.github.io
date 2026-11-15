@@ -155,12 +155,12 @@ Bissen für Bissen – lecker geht es weiter.
     <tr>
       <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">Fett (gesamt)</td>
       <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 26 g</td>
-      <td style="padding: 8px; border: 1px solid #000;">Hack mit 18 g Fett pro 100 g, plus Olivenöl und Parmesan</td>
+      <td style="padding: 8px; border: 1px solid #000;">Aus dem Hack (bei 18 g Fett pro 100 g), plus Olivenöl und Parmesan</td>
     </tr>
     <tr>
       <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">Gesättigte Fettsäuren</td>
       <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 9 g</td>
-      <td style="padding: 8px; border: 1px solid #000;">Hauptsächlich aus Hackfleisch und Parmesan, Hack mit 7,4 g pro 100 g</td>
+      <td style="padding: 8px; border: 1px solid #000;">Hauptsächlich aus Hackfleisch und Parmesan</td>
     </tr>
     <tr>
       <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">Ballaststoffe</td>
@@ -170,7 +170,7 @@ Bissen für Bissen – lecker geht es weiter.
     <tr>
       <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">Salz</td>
       <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 3 g</td>
-      <td style="padding: 8px; border: 1px solid #000;">Aus der Würzung des Hack, aus Brühwürfel und Parmesan</td>
+      <td style="padding: 8px; border: 1px solid #000;">Aus dem Brühwürfel, der Würzung des Hack und dem Parmesan</td>
     </tr>
   </tbody>
 </table>
