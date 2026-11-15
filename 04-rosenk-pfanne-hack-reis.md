@@ -100,13 +100,25 @@
 
 ---
 
-## Gemini‘s Gesundheits-Check: Warum dieses Gericht punktet 
-Dieses Rezept vereint eine Fülle an wertvollen Nährstoffen mit einer leichten, gut bekömmlichen Zusammensetzung: 
-- **Vitamin-C-Bombe Paprika:** Rote Paprika zählt zu den besten natürlichen Vitamin-C-Lieferanten. Das schützt das Immunsystem und fördert die Zellgesundheit. 
-- **Mineralstoff-Plus aus braunen Champignons:** 200 g Champignons bringen Selen für die Schilddrüse, Kupfer für das Immunsystem, Phosphor für Knochen sowie Beta-Glucane und Ergothionein als antioxidative Schutzstoffe. Gleichzeitig sind sie sehr kalorienarm. 
-- **Hochwertiges Eiweiß:** Die Eier liefern essenzielle Aminosäuren mit hoher biologischer Wertigkeit, die den Muskelerhalt unterstützen und für eine langanhaltende Sättigung sorgen. 
-- **Gesunde Fettsäurekombination:** Die Nutzung von kaltgepresstem Oliven- und Rapsöl sichert ein optimales Verhältnis von einfach und mehrfach ungesättigten Fettsäuren (darunter Omega-3), was Herz und Gefäßen zugutekommt. 
-- **Leicht & ausgewogen + kleiner Säure-Kick:** Durch den moderaten Reisanteil bleibt das Gericht kohlenhydratbewusst. Der ½ TL Apfelessig hellt nicht nur geschmacklich auf, sondern kann die Mineralstoffaufnahme unterstützen und belastet den Blutzuckerspiegel kaum.  
+## META‘s Gesundheits-Check: Warum dieses Gericht punktet 
+**Dieses Gericht punktet durch seine Zusammensetzung**  
+**Rosenkohl** als Hauptzutat liefert Ballaststoffe, sekundäre Pflanzenstoffe und Vitamine und sorgt für ein hohes Gemüsevolumen bei überschaubarer Energiedichte.   
+**Die kleine Portion Reis** in Brühe ergänzt das Gericht als Sättigungsbeilage und hält die Kohlenhydratmenge bewusst niedrig.   
+**Hackfleisch** in kleiner Menge steuert Eiweiß und Eisen bei und unterstützt die Sättigung, ohne das Gemüse zu verdrängen.   
+**Olivenöl** liefert vorwiegend einfach ungesättigte Fettsäuren und hilft dem Körper, fettlösliche Vitamine aus dem Gemüse aufzunehmen.   
+**Tomate und Parmesan** kommen in kleiner Menge dazu und ergänzen Vitamine, Mineralstoffe und Eiweiß.   
+**Das Servieren** auf dem Stövchen hält das Gericht warm und unterstützt ein langsames, entspanntes Essen.   
+Eine ausgewogene Mahlzeit mit viel Gemüse, moderater Beilage und kleiner Eiweißportion. 
+
+---
+
+## Kurt's Praxis Check: So schmeckt es dann 
+Das Auge isst mit.  
+Ich starte mit einem dieser lecker grünen Röschen. Viel Biss (vielleicht beim nächsten Mal etwas länger blanchieren), gar nicht bitter, sondern angenehm kohlig/gemüsig.   
+Ich nehme ein weiteres Röschen und etwas Reis dazu.  
+Hui, das zündet. Der Kohl wird vom starken Umami im Reis wie auf einer Welle getragen.   
+Eine Fleischflocke dazu, gut gewürzt, die behauptet sich.   
+Bissen für Bissen – lecker geht es weiter. 
 
 ---
 
