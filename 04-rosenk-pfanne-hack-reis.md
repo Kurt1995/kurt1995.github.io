@@ -86,17 +86,10 @@
   </tr>
 </table>
 
-- Die Eier in eine separate, mit der Margarine eingefettete Pfanne geben. 
-- Zuerst offen, dann mit Deckel garen bis das Eiweiß gestockt ist.
-- Das Eigelb sollte weich oder cremig bleiben.
-
-### Das Finish 
-
 <table>
   <tr>
-    <td><img src="assets/11-paprika-pilz-reis-ei-13.jpg" alt="Reis dazu" width="350"></td>
-    <td><img src="assets/11-paprika-pilz-reis-ei-25.jpg" alt="Mischen" width="350"></td>
-    <td>Den fertig gekochten Reis in die Gemüsepfanne mischen.<br><br>Mit den Spiegeleiern abdecken</td>
+    <td><img src="assets/04-rosen-hack-reis-10.jpg" alt="so soll es aussehen" width="450"></td>
+    <td>und so sollte es aussehen<br><br>das Gemüse hat noch einen guten Biss<br><br>der Reis ist nicht verklebt<br><br>die Fleischstücke sind saftig<br><br>am Boden hat sich ein wenig Sauce<br>aus Gemüsesaft und dem Fleischsud gesammelt</td>
   </tr>
 </table>
 
