@@ -6,15 +6,15 @@
 
 ## Zutaten für 2 Portionen
 
-- 3 oder 4 rote Paprika (ca. 600 g)
-- 200 g Champignons (braun oder weiß)
-- 4 Eier
-- 60 g Reis (z.B. Parboiled Langkorn & Wildreis)
-- 300 ml Wasser, 1 Brühwürfel (für den Reis)
-- 2 Esslöffel Olivenöl + 1 Esslöffel Rapsöl
-- 1 Stich Margarine für die Eierpfanne
-- Gewürze: Salz, schwarzer Pfeffer, Paprikapulver rosenscharf
-- ½ Teelöffel Apfelessig oder Balsamico Essig
+- Rosenkohl (ca. 800 g) 
+- 1 mittelgroße Tomate 
+- Ca. 170 g Hackfleisch (halb und halb) 
+- 60 g Naturreis (anderer Reis geht auch) als Sättigungs- und Geschmackbeilage 
+- 300 ml Wasser und ein Brühwürfel (für den Reis) 
+- 2 Esslöffel Zucker (für das Blanchier Wasser) 
+- 2 Esslöffel Olivenöl  
+- Gewürze: Schwarzer Pfeffer, Paprika rosenscharf, Salz  
+- Ca. 20 g Parmesan  
 
 ## Zubereitung
 
@@ -22,12 +22,11 @@
 
 <table>
   <tr>
-    <td><img src="assets/11-paprika-reis-ei-02.jpg" alt="Schritt 1" width="140"></td>
-    <td><img src="assets/11-paprika-reis-ei-03.jpg" alt="Schritt 2" width="140"></td>
-    <td><img src="assets/11-paprika-reis-ei-04.jpg" alt="Schritt 3" width="140"></td>
-    <td><img src="assets/11-paprika-reis-ei-05.jpg" alt="Schritt 4" width="140"></td>
-    <td><img src="assets/11-paprika-reis-ei-06.jpg" alt="Schritt 5" width="140"></td>
-    <td><img src="assets/11-paprika-reis-ei-07.jpg" alt="Schritt 6" width="140"></td>
+    <td><img src="assets/88-vorber-reis-natur-01.jpg" alt="Schritt 1" width="140"></td>
+    <td><img src="assets/88-vorber-reis-natur-02.jpg" alt="Schritt 2" width="140"></td>
+    <td><img src="assets/88-vorber-reis-natur-03.jpg" alt="Schritt 3" width="140"></td>
+    <td><img src="assets/88-vorber-reis-natur-04.jpg" alt="Schritt 4" width="140"></td>
+    <td><img src="assets/88-vorber-reis-natur-05.jpg" alt="Schritt 5" width="140"></td>
   </tr>
   <tr>
     <td align="center"><span style="font-size: 0.8em;">Wässern</span></td>
