@@ -122,137 +122,140 @@ Bissen für Bissen – lecker geht es weiter.
 
 ---
 
-## Makronährstoffe für 1 Portion (halbe Zutatenmenge)
+<h3 style="font-family: sans-serif; font-size: 18px; font-weight: bold; margin-bottom: 15px;">Makronährstoffe (für eine Portion):</h3>
 
 <table style="width: 800px; border-collapse: collapse; font-family: sans-serif;">
   <thead>
     <tr style="border-bottom: 2px solid #000;">
-      <th style="width: 170px; text-align: left; padding: 8px; border: 1px solid #000;">Nährstoff</th>
-      <th style="width: 170px; text-align: center; padding: 8px; border: 1px solid #000;">Menge</th>
-      <th style="text-align: left; padding: 8px; border: 1px solid #000;">Anmerkung</th>
+      <th style="width: 170px; text-align: left; padding: 8px; border: 1px solid #000; font-weight: bold;">Nährstoff</th>
+      <th style="width: 170px; text-align: center; padding: 8px; border: 1px solid #000; font-weight: bold;">Menge (1 Portion)</th>
+      <th style="text-align: left; padding: 8px; border: 1px solid #000; font-weight: bold;">Anmerkung</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">Kalorien</td>
-      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 540 kcal</td>
-      <td style="padding: 8px; border: 1px solid #000;">Eier ca. 168, Öle/Margarine ca. 173, Reis ca. 105, Paprika ca. 78, Champignons ca. 22</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 580 kcal</td>
+      <td style="padding: 8px; border: 1px solid #000;">Mit ca. 167 g Hack gemischt für 2 Portionen</td>
     </tr>
     <tr>
       <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">Eiweiß</td>
-      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 23 g</td>
-      <td style="padding: 8px; border: 1px solid #000;">Eier ca. 15 g + Champignons ca. 3 g + Reis ca. 2,1 g + Paprika ca. 3 g</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 35 g</td>
+      <td style="padding: 8px; border: 1px solid #000;">Hauptsächlich aus Hackfleisch und Parmesan</td>
     </tr>
     <tr>
       <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">Kohlenhydrate</td>
-      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 42 g</td>
-      <td style="padding: 8px; border: 1px solid #000;">Reis ca. 22,5 g + Paprika ca. 18 g</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 60 g</td>
+      <td style="padding: 8px; border: 1px solid #000;">Hauptsächlich aus Reis, kleiner Teil aus Rosenkohl und Tomate</td>
     </tr>
     <tr>
       <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">davon Zucker</td>
-      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 13 g</td>
-      <td style="padding: 8px; border: 1px solid #000;">Natürlicher Fruchtzucker aus Paprika.</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 10 g</td>
+      <td style="padding: 8px; border: 1px solid #000;">Nur der im Gericht verbleibende Anteil. Zucker aus dem Blanchierwasser wird größtenteils abgegossen</td>
     </tr>
     <tr>
-      <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">Fett gesamt</td>
-      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 28-30 g</td>
-      <td style="padding: 8px; border: 1px solid #000;">2 EL Olivenöl, 1 EL Rapsöl, Eigelb, Margarine</td>
+      <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">Fett (gesamt)</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 26 g</td>
+      <td style="padding: 8px; border: 1px solid #000;">Hack mit 18 g Fett pro 100 g, plus Olivenöl und Parmesan</td>
     </tr>
     <tr>
-      <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">Gesättigte FS</td>
-      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 6 g</td>
-      <td style="padding: 8px; border: 1px solid #000;">Eigelb + Margarine + Olivenöl</td>
+      <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">Gesättigte Fettsäuren</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 9 g</td>
+      <td style="padding: 8px; border: 1px solid #000;">Hauptsächlich aus Hackfleisch und Parmesan, Hack mit 7,4 g pro 100 g</td>
     </tr>
     <tr>
       <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">Ballaststoffe</td>
-      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 8 g</td>
-      <td style="padding: 8px; border: 1px solid #000;">Paprika ca. 6 g + Champignons ca. 1,5 g + Reis ca. 0,6 g</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 16 g</td>
+      <td style="padding: 8px; border: 1px solid #000;">Hauptsächlich aus Rosenkohl und Reis</td>
     </tr>
     <tr>
       <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">Salz</td>
-      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 1,2 g</td>
-      <td style="padding: 8px; border: 1px solid #000;">Fast nur aus Brühwürfel, je nach Würfel stark variabel</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 3 g</td>
+      <td style="padding: 8px; border: 1px solid #000;">Aus der Würzung des Hack, aus Brühwürfel und Parmesan</td>
     </tr>
   </tbody>
 </table>
 
-## Mikronährstoffe - Vitamine & Mineralstoffe für 1 Portion
+<h3 style="font-family: sans-serif; font-size: 18px; font-weight: bold; margin-bottom: 15px;">Mikronährstoffe (Vitamine &amp; Mineralstoffe)</h3>
 
 <table style="width: 800px; border-collapse: collapse; font-family: sans-serif;">
   <thead>
     <tr style="border-bottom: 2px solid #000;">
-      <th style="width: 170px; text-align: left; padding: 8px; border: 1px solid #000;">Nährstoff</th>
-      <th style="width: 170px; text-align: center; padding: 8px; border: 1px solid #000;">Menge</th>
-      <th style="text-align: left; padding: 8px; border: 1px solid #000;">Deckungsbeitrag / Anmerkung</th>
+      <th style="width: 170px; text-align: left; padding: 8px; border: 1px solid #000; font-weight: bold;">Nährstoff</th>
+      <th style="width: 170px; text-align: center; padding: 8px; border: 1px solid #000; font-weight: bold;">Menge (1 Portion)</th>
+      <th style="text-align: left; padding: 8px; border: 1px solid #000; font-weight: bold;">Deckungsbeitrag pro Tag</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">Vitamin C</td>
-      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 240-280 mg</td>
-      <td style="padding: 8px; border: 1px solid #000;">ca. 300-350% - aus 300 g Paprika</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 150 mg</td>
+      <td style="padding: 8px; border: 1px solid #000;">ca. 135 %, sehr hoch durch 400 g Rosenkohl pro Portion, trotz Verlust beim Blanchieren</td>
     </tr>
     <tr>
-      <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">Vitamin A (Beta-Carotin)</td>
-      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 550-650 µg</td>
-      <td style="padding: 8px; border: 1px solid #000;">ca. 70-80% - aus roter Paprika + Retinol Eigelb</td>
+      <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">Vitamin A (als Beta-Carotin)</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 160 µg</td>
+      <td style="padding: 8px; border: 1px solid #000;">ca. 20 %, hauptsächlich aus Rosenkohl und Tomate</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">Vitamin B12</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 1,9 µg</td>
+      <td style="padding: 8px; border: 1px solid #000;">ca. 48 %, hauptsächlich aus Hackfleisch und Parmesan</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">B-Vitamine (B2 &amp; B3 / Niacin)</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">B2 ca. 0,6 mg, Niacin ca. 8 mg</td>
+      <td style="padding: 8px; border: 1px solid #000;">B2 ca. 43 %, Niacin ca. 50 %, aus Hack, Rosenkohl und Reis</td>
     </tr>
     <tr>
       <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">Vitamin D</td>
-      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 2,5-3 µg</td>
-      <td style="padding: 8px; border: 1px solid #000;">ca. 15-20% - aus Eigelb. Champignons nur 0,2-1 µg wenn nicht UV-behandelt</td>
-    </tr>
-    <tr>
-      <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">B2 &amp; B12</td>
-      <td style="text-align: center; padding: 8px; border: 1px solid #000;">Hoch</td>
-      <td style="padding: 8px; border: 1px solid #000;">Sehr gut - B2 durch Pilze (0,4 mg/100 g), B12 nur aus Eiern</td>
-    </tr>
-    <tr>
-      <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">Vitamin K</td>
-      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 35-45 µg</td>
-      <td style="padding: 8px; border: 1px solid #000;">ca. 50-60% - durch Pilze</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 0,5 µg</td>
+      <td style="padding: 8px; border: 1px solid #000;">ca. 3 %, sehr niedrig, in diesem Gericht fast nicht vorhanden</td>
     </tr>
     <tr>
       <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">Kalium</td>
-      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 1000-1250 mg</td>
-      <td style="padding: 8px; border: 1px solid #000;">ca. 30-35% - top für Blutdruck. Paprika ca. 630 mg + Champignons ca. 400 mg</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 2.200 mg</td>
+      <td style="padding: 8px; border: 1px solid #000;">ca. 55 %, hauptsächlich aus Rosenkohl, Reis und Tomate</td>
     </tr>
     <tr>
-      <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">Eisen / Zink / Selen</td>
-      <td style="text-align: center; padding: 8px; border: 1px solid #000;">2,8 mg / 2,2 mg / 20 µg</td>
-      <td style="padding: 8px; border: 1px solid #000;">ca. 20% / 20% / 30% - stark aus Pilzen + Eiern</td>
+      <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">Eisen</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 8 mg</td>
+      <td style="padding: 8px; border: 1px solid #000;">ca. 60 %, aus Rosenkohl und Hackfleisch, pflanzliches Eisen wird mit Vitamin C aus dem Rosenkohl besser aufgenommen</td>
     </tr>
     <tr>
-      <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">Kupfer &amp; Phosphor</td>
-      <td style="text-align: center; padding: 8px; border: 1px solid #000;">0,5 mg / 350 mg</td>
-      <td style="padding: 8px; border: 1px solid #000;">ca. 40% / 50% - Pilze sind top Kupfer-Lieferant</td>
-    </tr>
-    <tr>
-      <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">Lycopin</td>
-      <td style="text-align: center; padding: 8px; border: 1px solid #000;"> - </td>
-      <td style="padding: 8px; border: 1px solid #000;">Aber: Ergothionein + Beta-Glucane aus Champignons als Antioxidantien</td>
+      <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">Zink</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 6 mg</td>
+      <td style="padding: 8px; border: 1px solid #000;">ca. 60 %, hauptsächlich aus Hackfleisch und Rosenkohl</td>
     </tr>
   </tbody>
 </table>
 
 ---
 
-## Kurt‘s Praxis Check: So schmeckt es dann
+<table>
+  <tr>
+    <td align="center"><b>Und am Abend ein Süppchen</b></td>
+    <td align="center">Blitzschnelle Zubereitung</td>
+  </tr>
+  <tr>
+    <td><img src="assets/04-rosen-hack-reis-13.jpg" alt="ein Süppchen" width="450"></td>
+    <td align="center"><i>Sollte von der Rosenkohl-Pfanne<br>etwas übrig bleiben,<br>lässt sich daraus mit minimalem Aufwand<br>eine leichte Abendvariante zaubern.<br><br>Den Rest in eine Suppenschale 
+geben<br>und bedeckt im Kühlschrank aufbewahren.<br><br>Am Abend kurz in der Mikro vorwärmen,<br>mit heißer Brühe aufgießen und genießen.</i></td>
+  </tr>
+</table>
 
-Herzhaft und leicht cremig. Die Paprika- und Pilzstückchen haben einen guten Biss behalten. Geschmacklich harmonieren sie, bleiben aber klar erkennbar.  
-Der Reis bringt mit seinen aufgenommenen Aromen Fülle und Umami, das durch den kleinen Spritzer Apfelessig angenehm aufgehellt wird.    
-Das Ei esse ich gerne mit den letzten Bissen.  
-Es schiebt den Grundgeschmack in den Hintergrund und besonders das flüssig-cremige Eigelb kann sein kräftiges Aroma entfalten. 
-
+**Hinweis zum Aufbewahren:**   
+*Gekochtes zügig abkühlen lassen und innerhalb von zwei Stunden in den Kühlschrank stellen. Im Kühlschrank<br>bleibt die Rosenkohl-Pfanne einen Tag gut.   
+Am Abend nur die Portion aufwärmen, die gegessen wird. Gerichte nicht mehrmals aufwärmen.*
+ 
 ---
 
-## Zusammenfassung von Mitautorin Gemini
+## Zusammenfassung von Mitautorin META
 
-Kurt präsentiert mit dieser Paprika-Pilz-Pfanne ein unkompliziertes, farbenfrohes Gericht, das geschmacklich wie auch nährstoffseitig überzeugt.  
-Besonderes Augenmerk liegt auf der perfekten Garpunkt-Ablieferung: Paprika und braune Champignons behalten ihren Biss und bleiben klar erkennbar, während das flüssig-cremige Eigelb eine samtige Komponente einbringt.  
-Ernährungsphysiologisch punktet die Mahlzeit als wahre Vitamin-C-Bombe mit Selen, Kupfer und Beta-Glucanen aus den Pilzen, hochwertigem Eiweiß und herzgesunden Fetten aus Oliven- und Rapsöl.  
-Ein rundum gelungenes, kohlenhydratbewusstes Alltagsrezept mit persönlicher Note.
-
-
+Dieses Rezept kombiniert viel Gemüse, Reis als Beilage, einer kleinen Portion Hack, einer Tomate und Parmesan.   
+Dabei musste eine Frage beantwortet werden: Salzwasser oder Zuckerwasser. Und die Antwort war nicht entweder oder, sondern beides an der richtigen Stelle.   
+Zuckerwasser für den Rosenkohl, damit er hell und angenehm kohlig bleibt, Salzwasser im übertragenen Sinn für den Reis in Brühe, damit er intensiv und umami wird.   
+Entstanden ist eine ausgewogene Mahlzeit, die sättigt, nach mehr schmeckt, und am Abend als Reste-Süppchen zu Ende gegessen werden kann.  
+ 
 ---
 [← Zurück zur Übersicht](index.md)
