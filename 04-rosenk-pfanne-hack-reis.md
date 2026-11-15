@@ -70,7 +70,7 @@
 - Das Öl in der Pfanne erhitzen. 
 - Die Rosenkohl-Röschen halbieren und in die Pfanne geben. Mit Pfeffer würzen. 
 - Das Hackfleisch würzen (Salz, Pfeffer, Paprikapulver, ..) und in Flocken darüber verteilen. 
-- Bei großer Hitze kurz anbraten. Alles vermengen und bei mittlerer Hitze ca. 5 min (dann ist der Rosenkohl noch bissfest und das Hack ist gar). Öfter wenden.
+- Bei großer Hitze kurz anbraten. Alles vermengen und bei mittlerer Hitze ca. 5 min (dann ist der Rosenkohl noch bissfest und das Hack ist gar) weiter brutzeln. Öfter wenden.
 - Nicht viel länger schmoren, sonst wird das Hackfleisch trocken.
 - Ein Deckel beschleunigt den Garprozess, verhindert jedoch Röstaromen. 
 - Die Tomate klein würfeln. 
