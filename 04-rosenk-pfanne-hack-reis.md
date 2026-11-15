@@ -27,6 +27,7 @@
     <td><img src="assets/88-vorber-reis-natur-03.jpg" alt="Schritt 3" width="140"></td>
     <td><img src="assets/88-vorber-reis-natur-04.jpg" alt="Schritt 4" width="140"></td>
     <td><img src="assets/88-vorber-reis-natur-05.jpg" alt="Schritt 5" width="140"></td>
+    <td><img src="assets/88-vorber-reis-natur-06.jpg" alt="Schritt 6" width="140"></td>
   </tr>
   <tr>
     <td align="center"><span style="font-size: 0.8em;">Wässern</span></td>
@@ -38,25 +39,30 @@
   </tr>
 </table>
 
-- Den Reis vorab ca. 1 Stunde wässern und gründlich abspülen.  
+- Den Reis vorab ca. 1/2 Stunde wässern und gründlich abspülen.  
 - Reis, Brühwürfel und Wasser in einen Topf geben.  
-- Bei kleiner Hitze abgedeckt ca. 30 Minuten köcheln lassen, bis die Flüssigkeit vollständig aufgenommen wurde. 
-- Das Ergebnis: Nach 30 Minuten bei kleiner Hitze mit Deckel ist die gesamte Brühe aufgenommen, der Wildreis ist weich und aromatisch, der Parboiled-Reis locker und körnig – genau wie im letzten Bild dokumentiert.
+- Bei kleiner Hitze abgedeckt ca. 40 - 45 Minuten mit Deckel köcheln lassen, bis die Flüssigkeit vollständig aufgenommen wurde. Nicht rühren.
+- Das Ergebnis: Die gesamte Brühe ist aufgenommen, der Naturreis ist locker und körnig – genau wie im letzten Bild dokumentiert.
 
 #### Die Begründung findest du [hier](32-quellmethode-reis.md)
 
 ---
 
-### Das Gemüse
+### Das Gemüse blanchieren
+
+- Den Rosenkohl putzen, schälen und an der Wurzel kreuzweise einschneiden. 
+- Wasser zum Sieden bringen, den Zucker zugeben und die Röschen hineinschütten. 
+- Ca. 8 Minuten blanchieren / vorgaren. Ab und zu rühren. 
+- Den Rosenkohl in ein Sieb abgießen und mit kaltem Wasser abbrausen, bis er noch etwa handwarm ist. 
 
 <table>
   <tr>
-    <td><img src="assets/11-paprika-pilz-reis-ei-11.jpg" alt="Schritt 1"></td>
-    <td><img src="assets/11-paprika-pilz-reis-ei-12.jpg" alt="Schritt 2"></td>
+    <td><img src="assets/04-rosen-hack-reis-02.jpg" alt="Schritt 1"></td>
+    <td><img src="assets/04-rosen-hack-reis-03.jpg" alt="Schritt 2"></td>
   </tr>
   <tr>
-    <td align="center"><span style="font-size: 0.8em;">Paprika und Pilze in die Pfanne geben</span></td>
-    <td align="center"><span style="font-size: 0.8em;">Mit Deckel schmoren</span></td>
+    <td align="center"><span style="font-size: 0.8em;">Wasser siedet, Zucker dazu</span></td>
+    <td align="center"><span style="font-size: 0.8em;">Rosenkohl dazu</span></td>
   </tr>
 </table>
 
