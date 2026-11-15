@@ -87,8 +87,8 @@
 
 <table>
   <tr>
-    <td><img src="assets/04-rosen-hack-reis-10.jpg" alt="so soll es aussehen" width="450"></td>
-    <td align="center"><i>und so sollte es dann aussehen<br><br>das Gemüse hat noch einen guten Biss<br><br>der Reis ist nicht verklebt<br><br>die Fleischstücke sind saftig<br><br>am Pfannenboden hat sich ein wenig Sauce<br>aus Gemüsesaft und dem Fleischsud gesammelt</i></td>
+    <td><img src="assets/04-rosen-hack-reis-10.jpg" alt="so soll es aussehen" width="550"></td>
+    <td align="center"><i>und so sollte es dann aussehen<br><br>das Gemüse hat noch einen guten Biss<br><br>der Reis ist nicht verklebt<br><br>die Fleischstücke sind saftig<br><br>am Pfannenboden hat sich ein wenig Sauce<br>aus Gemüsesaft und dem Fleischsud<br>gesammelt</i></td>
   </tr>
 </table>
 
