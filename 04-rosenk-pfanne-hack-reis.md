@@ -243,8 +243,9 @@ geben<br>und bedeckt im Kühlschrank aufbewahren.<br><br>Am Abend kurz in der Mi
   </tr>
 </table>
 
-**Hinweis zum Aufbewahren:**   
-*Gekochtes zügig abkühlen lassen und innerhalb von zwei Stunden in den Kühlschrank stellen. Im Kühlschrank<br>bleibt die Rosenkohl-Pfanne einen Tag gut.   
+***Hinweis zum Aufbewahren:***   
+*Gekochtes zügig abkühlen lassen und innerhalb von zwei Stunden in den Kühlschrank stellen.  
+Dort bleibt die Rosenkohl-Pfanne einen lang Tag gut.   
 Am Abend nur die Portion aufwärmen, die gegessen wird. Gerichte nicht mehrmals aufwärmen.*
  
 ---
