@@ -61,7 +61,7 @@
     <td><img src="assets/04-rosen-hack-reis-03.jpg" alt="Schritt 2"></td>
   </tr>
   <tr>
-    <td align="center"><span style="font-size: 0.8em;">Wasser siedet, Zucker dazu</span></td>
+    <td align="center"><span style="font-size: 0.8em;">Das Wasser siedet, Zucker dazu</span></td>
     <td align="center"><span style="font-size: 0.8em;">Rosenkohl dazu</span></td>
   </tr>
 </table>
