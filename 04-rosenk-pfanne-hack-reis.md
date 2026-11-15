@@ -135,7 +135,7 @@ Bissen für Bissen – lecker geht es weiter.
     <tr>
       <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">Kalorien</td>
       <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 580 kcal</td>
-      <td style="padding: 8px; border: 1px solid #000;">Mit ca. 170 g Hack gemischt für 2 Portionen</td>
+      <td style="padding: 8px; border: 1px solid #000;">Besonders aus Hack und Reis, dazu Rosenkohl und Olivenöl</td>
     </tr>
     <tr>
       <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">Eiweiß</td>
