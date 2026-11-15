@@ -89,15 +89,14 @@
 <table>
   <tr>
     <td><img src="assets/04-rosen-hack-reis-10.jpg" alt="so soll es aussehen" width="450"></td>
-    <td>und so sollte es aussehen<br><br>das Gemüse hat noch einen guten Biss<br><br>der Reis ist nicht verklebt<br><br>die Fleischstücke sind saftig<br><br>am Boden hat sich ein wenig Sauce<br>aus Gemüsesaft und dem Fleischsud gesammelt</td>
+    <td align="center"><i>und so sollte es aussehen<br><br>das Gemüse hat noch einen guten Biss<br><br>der Reis ist nicht verklebt<br><br>die Fleischstücke sind saftig<br><br>am Boden hat sich ein wenig Sauce<br>aus Gemüsesaft und dem Fleischsud gesammelt</i></td>
   </tr>
 </table>
 
-#### Servieren und am Tisch nach Geschmack mit ein wenig Salz nachwürzen.
+#### Servieren und mit ein wenig Parmesan bestreuen. 
+*Ein zusätzliches Nachwürzen mit Salz sollte nicht erforderlich sein.*
 
----
-
-![Paprika Pfanne](assets/11-paprika-pilz-reis-ei-20.jpg)
+![Rosenkohl Pfanne](assets/04-rosen-hack-reis-12.jpg)
 
 ---
 
