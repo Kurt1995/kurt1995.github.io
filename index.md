@@ -53,19 +53,19 @@
     <td style="padding:6px 8px;">Suppe mit Geflügel-Mägen</td>
   </tr>
   <tr>
-    <td style="padding:6px 8px;"><a href="09-bkohlpf.html">Blumenkohl Pfanne</a></td>
+    <td style="padding:6px 8px;"><a href="09-bkohlpf.html">Blumenkohl-Pfanne</a></td>
     <td style="padding:6px 8px;"><a href="17-senior-sport-suppe.html">Senioren Sport-Suppe</a></td>
   </tr>
   <tr>
-    <td style="padding:6px 8px;"><a href="46-spaghetti-f-bolo.html">Spaghetti mit fruchtiger Wildkräuter Bolo</a></td>
+    <td style="padding:6px 8px;"><a href="04-rosenk-pfanne-hack-reis.html">Rosenkohl-Pfanne mit Hack und Reis</a></td>
     <td style="padding:6px 8px;"><a href="14-ch-kohl-pasta-bowl.html">Chinakohl-Spaghetti-Bowl mit Brühe (vegetarisch)</a></td>
   </tr>
   <tr>
-    <td style="padding:6px 8px;"><a href="25-spargel-aldente.html">Spargel al dente</a></td>
+    <td style="padding:6px 8px;"><a href="46-spaghetti-f-bolo.html">Spaghetti mit fruchtiger Wildkräuter Bolo</a></td>
     <td style="padding:6px 8px;"><a href="14-china-pasta-bowl-wurst.html">Chinakohl-Spaghetti-Bowl mit Wurst und Brühe</a></td>
   </tr>
   <tr>
-    <td style="padding:6px 8px;">&nbsp;</td>
+    <td style="padding:6px 8px;"><a href="25-spargel-aldente.html">Spargel al dente</a></td>
     <td style="padding:6px 8px;"><a href="14-zucch-hack-bowl.html">Zucchini-Hack-Bowl mit Brühe</a></td>
   </tr>
   <tr>
