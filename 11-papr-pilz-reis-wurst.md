@@ -108,108 +108,115 @@ Jeder Löffel ruft nach Mehr!
 
 <h3 style="font-family: sans-serif; font-size: 18px; font-weight: bold; margin-bottom: 15px;">Makronährstoffe (für eine Portion):</h3>
 
+*Basis: Rezept für 2 Portionen – 2 gelbe Paprika ca. 300 g, 300 g Champignons, 400 g Geflügelgrillwürstchen (Etikett: pro 100 g 232 kcal, Fett 
+19 g, gesättigt 6,3 g, Kohlenhydrate 0,3 g, Zucker 0,3 g, Eiweiß 15 g, Salz 2,0 g), 60 g Naturreis, 300 ml Wasser + 1 Brühwürfel, 1 EL Olivenöl, 
+1 EL Tomatenmark, Pfeffer / Rosenpaprika / 1 TL Essig. Alle Werte sind gerundete Schätzwerte aus Etikett + Nährwerttabellen, keine 
+Laboranalyse.*
+
 <table style="width: 800px; border-collapse: collapse; font-family: sans-serif;">
   <thead>
     <tr style="border-bottom: 2px solid #000;">
       <th style="width: 170px; text-align: left; padding: 8px; border: 1px solid #000; font-weight: bold;">Nährstoff</th>
-      <th style="width: 170px; text-align: center; padding: 8px; border: 1px solid #000; font-weight: bold;">Menge (1 Portion)</th>
+      <th style="width: 170px; text-align: center; padding: 8px; border: 1px solid #000; font-weight: bold;">Menge für 1 Portion</th>
       <th style="text-align: left; padding: 8px; border: 1px solid #000; font-weight: bold;">Anmerkung</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">Kalorien</td>
-      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 580 kcal</td>
-      <td style="padding: 8px; border: 1px solid #000;">Besonders aus Hack und Reis, dazu aus Rosenkohl und Olivenöl</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 700</td>
+      <td style="padding: 8px; border: 1px solid #000;">Vor allem durch die 400 g Wurst</td>
     </tr>
     <tr>
       <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">Eiweiß</td>
-      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 35 g</td>
-      <td style="padding: 8px; border: 1px solid #000;">Hauptsächlich aus Hackfleisch und Parmesan</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 38 g</td>
+      <td style="padding: 8px; border: 1px solid #000;">Vor allem aus der Grillwurst (30 g pro Portion allein aus Wurst)</td>
     </tr>
     <tr>
       <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">Kohlenhydrate</td>
-      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 60 g</td>
-      <td style="padding: 8px; border: 1px solid #000;">Hauptsächlich aus Reis, kleiner Teil aus Rosenkohl und Tomate</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 38 g</td>
+      <td style="padding: 8px; border: 1px solid #000;">Vor allem aus Reis (nur 30 g Reis pro Portion), Rest aus Paprika / Pilzen</td>
     </tr>
     <tr>
-      <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">davon Zucker</td>
-      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 10 g</td>
-      <td style="padding: 8px; border: 1px solid #000;">Nur der im Gericht verbleibende Anteil. Zucker aus dem Blanchierwasser wird größtenteils abgegossen</td>
+      <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">Davon Zucker</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 11 g</td>
+      <td style="padding: 8px; border: 1px solid #000;">Natürlich aus Paprika, kein zugesetzter Zucker</td>
     </tr>
     <tr>
-      <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">Fett (gesamt)</td>
-      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 26 g</td>
-      <td style="padding: 8px; border: 1px solid #000;">Aus dem Hack (bei 18 g Fett pro 100 g), plus Olivenöl und Parmesan</td>
+      <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">Fett gesamt</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 45 g</td>
+      <td style="padding: 8px; border: 1px solid #000;">Vor allem aus der Grillwurst (38 g) + Olivenöl</td>
     </tr>
     <tr>
-      <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">Gesättigte Fettsäuren</td>
-      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 9 g</td>
-      <td style="padding: 8px; border: 1px solid #000;">Hauptsächlich aus Hackfleisch und Parmesan</td>
+      <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">Davon gesättigte Fettsäuren</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 13,5 g</td>
+      <td style="padding: 8px; border: 1px solid #000;">Vor allem aus der Grillwurst</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">Davon ungesättigte Fettsäuren</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 31,5 g</td>
+      <td style="padding: 8px; border: 1px solid #000;">Vor allem aus Olivenöl + Anteil aus Wurst</td>
     </tr>
     <tr>
       <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">Ballaststoffe</td>
-      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 16 g</td>
-      <td style="padding: 8px; border: 1px solid #000;">Hauptsächlich aus Rosenkohl und Reis</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 6 g</td>
+      <td style="padding: 8px; border: 1px solid #000;">Aus Paprika, Pilzen und Naturreis</td>
     </tr>
     <tr>
       <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">Salz</td>
-      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 3 g</td>
-      <td style="padding: 8px; border: 1px solid #000;">Aus dem Brühwürfel, der Würzung des Hack und dem Parmesan</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 4,9 g</td>
+      <td style="padding: 8px; border: 1px solid #000;">Hoch: Wurst (4,0 g pro Portion) + Brühwürfel daher unbedingt kein zusätzliches Salz</td>
     </tr>
   </tbody>
 </table>
 
 <h3 style="font-family: sans-serif; font-size: 18px; font-weight: bold; margin-bottom: 15px;">Mikronährstoffe (Vitamine &amp; Mineralstoffe)</h3>
 
+*Deckungsbeitrag bezogen auf gängige Tagesempfehlungen für Erwachsene (D-A-CH). Vitamin C mit ca. 30 % Kochverlust gerechnet.*
+
 <table style="width: 800px; border-collapse: collapse; font-family: sans-serif;">
   <thead>
     <tr style="border-bottom: 2px solid #000;">
       <th style="width: 170px; text-align: left; padding: 8px; border: 1px solid #000; font-weight: bold;">Nährstoff</th>
-      <th style="width: 170px; text-align: center; padding: 8px; border: 1px solid #000; font-weight: bold;">Menge (1 Portion)</th>
-      <th style="text-align: left; padding: 8px; border: 1px solid #000; font-weight: bold;">Deckungsbeitrag pro Tag</th>
+      <th style="width: 170px; text-align: center; padding: 8px; border: 1px solid #000; font-weight: bold;">Menge für 1 Portion</th>
+      <th style="text-align: left; padding: 8px; border: 1px solid #000; font-weight: bold;">Deckungsbeitrag Anmerkung</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">Vitamin C</td>
-      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 150 mg</td>
-      <td style="padding: 8px; border: 1px solid #000;">ca. 135 %, sehr hoch durch 400 g Rosenkohl pro Portion, trotz Verlust beim Blanchieren</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 160 mg</td>
+      <td style="padding: 8px; border: 1px solid #000;">ca. 150 % des Tagesbedarfs – sehr hoch dank 150 g gelber Paprika pro Portion, trotz Schmoren</td>
     </tr>
     <tr>
-      <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">Vitamin A (als Beta-Carotin)</td>
-      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 160 µg</td>
-      <td style="padding: 8px; border: 1px solid #000;">ca. 20 %, hauptsächlich aus Rosenkohl und Tomate</td>
+      <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">Vitamin A als Beta-Carotin</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 240 µg</td>
+      <td style="padding: 8px; border: 1px solid #000;">ca. 30 % – aus Paprika und Tomatenmark, mit Öl besser aufgenommen</td>
     </tr>
     <tr>
-      <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">Vitamin B12</td>
-      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 1,9 µg</td>
-      <td style="padding: 8px; border: 1px solid #000;">ca. 48 %, hauptsächlich aus Hackfleisch und Parmesan</td>
+      <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">B2 und B12</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">B2 ca. 0,75 mg<br>B12 ca. 1,0 µg</td>
+      <td style="padding: 8px; border: 1px solid #000;">B2 ca. 55 %, B12 ca. 25 % – B2 vor allem aus Pilzen, B12 aus Wurst</td>
     </tr>
     <tr>
-      <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">B-Vitamine (B2 &amp; B3 / Niacin)</td>
-      <td style="text-align: center; padding: 8px; border: 1px solid #000;">B2 ca. 0,6 mg, Niacin ca. 8 mg</td>
-      <td style="padding: 8px; border: 1px solid #000;">B2 ca. 43 %, Niacin ca. 50 %, aus Hack, Rosenkohl und Reis</td>
-    </tr>
-    <tr>
-      <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">Vitamin D</td>
-      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 0,5 µg</td>
-      <td style="padding: 8px; border: 1px solid #000;">ca. 3 %, sehr niedrig, in diesem Gericht fast nicht vorhanden</td>
+      <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">B6 und Folsäure</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">B6 ca. 0,65 mg<br>Folsäure ca. 70 µg</td>
+      <td style="padding: 8px; border: 1px solid #000;">B6 ca. 40 %, Folsäure ca. 23 % – aus Paprika, Pilzen und Reis</td>
     </tr>
     <tr>
       <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">Kalium</td>
-      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 2.200 mg</td>
-      <td style="padding: 8px; border: 1px solid #000;">ca. 55 %, hauptsächlich aus Rosenkohl, Reis und Tomate</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 890 mg</td>
+      <td style="padding: 8px; border: 1px solid #000;">ca. 45 % – aus Paprika, Pilzen, Reis und Tomatenmark</td>
     </tr>
     <tr>
-      <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">Eisen</td>
-      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 8 mg</td>
-      <td style="padding: 8px; border: 1px solid #000;">ca. 60 %, aus Rosenkohl und Hackfleisch, pflanzliches Eisen wird mit Vitamin C aus dem Rosenkohl besser aufgenommen</td>
+      <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">Eisen / Zink / Selen</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">Eisen ca. 2,7 mg<br>Zink ca. 3,6 mg<br>Selen ca. 18 µg</td>
+      <td style="padding: 8px; border: 1px solid #000;">Eisen ca. 19 %, Zink ca. 36 %, Selen ca. 26 % – Eisen pflanzlich, mit Vitamin C besser aufgenommen</td>
     </tr>
     <tr>
-      <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">Zink</td>
-      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 6 mg</td>
-      <td style="padding: 8px; border: 1px solid #000;">ca. 60 %, hauptsächlich aus Hackfleisch und Rosenkohl</td>
+      <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">Lycopin</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 1,5 mg</td>
+      <td style="padding: 8px; border: 1px solid #000;">Kein offizieller Tagesbedarf – aus Tomatenmark, durch Erhitzen mit Öl besser verfügbar</td>
     </tr>
   </tbody>
 </table>
