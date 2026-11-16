@@ -75,15 +75,14 @@
 
 <table>
   <tr>
-    <td><img src="assets/11-pap-pilz-reis-grillw-02.jpg" alt="so soll es aussehen" width="550"></td>
-    <td align="center"><i>und so sollte es dann aussehen<br><br>das Paprikastücke haben noch einen festen Biss<br><br>der Reis ist nicht verklebt<br><br>die Wurststücke sind durchgewärmt<br><br>am Pfannenboden hat sich eine cremige Sauce<br>aus dem Gemüsesaft<br>gesammelt</i></td>
+    <td><img src="assets/11-pap-pilz-reis-grillw-08.jpg" alt="so soll es aussehen" width="550"></td>
+    <td align="center"><i>und so sollte es dann aussehen<br><br>das Paprikastücke haben noch einen festen Biss<br>die Pilze sind ausreichend gegart<br><br>der Reis ist nicht verklebt<br><br>die Wurststücke sind durchgewärmt<br><br>am Pfannenboden hat sich eine cremige Sauce<br>aus dem Gemüsesaft<br>gesammelt</i></td>
   </tr>
 </table>
 
-#### Servieren und mit ein wenig Parmesan bestreuen. 
-*Ein zusätzliches Nachwürzen mit Salz sollte nicht erforderlich sein.*
+---
 
-![Rosenkohl Pfanne](assets/04-rosen-hack-reis-12.jpg)
+![Servieren für PPP_R&W Pfanne](assets/11-pap-pilz-reis-grillw-10.jpg)
 
 ---
 
