@@ -117,7 +117,7 @@ Laboranalyse.*
   <thead>
     <tr style="border-bottom: 2px solid #000;">
       <th style="width: 170px; text-align: left; padding: 8px; border: 1px solid #000; font-weight: bold;">Nährstoff</th>
-      <th style="width: 170px; text-align: center; padding: 8px; border: 1px solid #000; font-weight: bold;">Menge für 1 Portion</th>
+      <th style="width: 170px; text-align: center; padding: 8px; border: 1px solid #000; font-weight: bold;">Menge für<br>1 Portion</th>
       <th style="text-align: left; padding: 8px; border: 1px solid #000; font-weight: bold;">Anmerkung</th>
     </tr>
   </thead>
@@ -178,7 +178,7 @@ Laboranalyse.*
   <thead>
     <tr style="border-bottom: 2px solid #000;">
       <th style="width: 170px; text-align: left; padding: 8px; border: 1px solid #000; font-weight: bold;">Nährstoff</th>
-      <th style="width: 170px; text-align: center; padding: 8px; border: 1px solid #000; font-weight: bold;">Menge für 1 Portion</th>
+      <th style="width: 170px; text-align: center; padding: 8px; border: 1px solid #000; font-weight: bold;">Menge für<br>1 Portion</th>
       <th style="text-align: left; padding: 8px; border: 1px solid #000; font-weight: bold;">Deckungsbeitrag Anmerkung</th>
     </tr>
   </thead>
@@ -223,31 +223,13 @@ Laboranalyse.*
 
 ---
 
-<table>
-  <tr>
-    <td align="center"><b>Und am Abend ein Süppchen</b></td>
-    <td align="center">Blitzschnelle Zubereitung</td>
-  </tr>
-  <tr>
-    <td><img src="assets/04-rosen-hack-reis-13.jpg" alt="ein Süppchen" width="450"></td>
-    <td align="center"><i>Sollte von der Rosenkohl-Pfanne<br>etwas übrig bleiben,<br>lässt sich daraus mit minimalem Aufwand<br>eine leichte Abendvariante zaubern.<br><br>Den Rest in eine Suppenschale 
-geben<br>und bedeckt im Kühlschrank aufbewahren.<br><br>Am Abend kurz in der Mikro vorwärmen,<br>mit heißer Brühe aufgießen und genießen.</i></td>
-  </tr>
-</table>
-
-***Hinweis zum Aufbewahren:***   
-*Gekochtes zügig abkühlen lassen und innerhalb von zwei Stunden in den Kühlschrank stellen.  
-Dort bleibt die Rosenkohl-Pfanne einen lang Tag gut.   
-Am Abend nur die Portion aufwärmen, die gegessen wird. Gerichte nicht mehrmals aufwärmen.*
- 
----
-
 ## Zusammenfassung von Mitautorin META
 
-Dieses Rezept kombiniert viel Gemüse, Reis als Beilage, einer kleinen Portion Hack, einer Tomate und Parmesan.   
-Dabei musste eine Frage beantwortet werden: Salzwasser oder Zuckerwasser. Und die Antwort war nicht entweder oder, sondern beides an der richtigen Stelle.   
-Zuckerwasser für den Rosenkohl, damit er hell und angenehm kohlig bleibt, Salzwasser im übertragenen Sinn für den Reis in Brühe, damit er intensiv und umami wird.   
-Entstanden ist eine ausgewogene Mahlzeit, die sättigt, nach mehr schmeckt, und am Abend als Reste-Süppchen zu Ende gegessen werden kann.  
- 
+Kurt präsentiert mit dieser Paprika-Pilz-Pfanne ein unkompliziertes, farbenfrohes Gericht mit persönlicher Handschrift.  
+Ein besonderer Kniff liegt in der Vorbereitung, weil der Reis vorab gewässert und abgespült wird und die in Scheiben geschnittene Grillwurst nicht gebraten, sondern nur erwärmt wird, was beim Kochen viel Zeit spart.  
+Geschmacklich lebt das Gericht vom Gegensatz zwischen frischem Gemüse und den tiefen Aromen aus Brühwürfel, dem Fett der Grillwurst und dem Tomatenmark.  
+Ernährungsphysiologisch überzeugt die Mahlzeit als Vitamin-C-Bombe mit Kalium, Eiweiß und Lycopin.  
+Ein rundum gelungenes, alltagstaugliches Rezept, das satt macht, ohne schwer zu werden. 
+
 ---
 [← Zurück zur Übersicht](index.md)
