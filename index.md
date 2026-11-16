@@ -87,7 +87,7 @@
   </tr>
   <tr>
     <td style="padding:6px 8px;"><a href="03-gem-nudel-pfanne.html">Gemüse-Nudel-Pfanne mit Asia-Note</a></td>
-    <td style="padding:6px 8px;">Paprika-Pilz-Pfanne mit Reis und Hack</td>
+    <td style="padding:6px 8px;"><a href="11-papr-pilz-reis-wurst.html">Paprika-Pilz-Pfanne mit Reis und Wurst</a></td>
   </tr>
   <tr>
     <td style="padding:6px 8px;"><a href="13-zwiebel-nudel-pf.html">Gemüse-Nudel-Pfanne mit Hack</a></td>
@@ -95,7 +95,7 @@
   </tr>
   <tr>
     <td style="padding:6px 8px;"><a href="03-bunte-pilzpfanne.html">Gemüse-Nudel-Pfanne mit Wurst</a></td>
-    <td style="padding:6px 8px;">&nbsp;</td>
+    <td style="padding:6px 8px;">Paprika-Pilz-Pfanne mit Reis und Hack</td>
   </tr>
   <tr>
     <td style="padding:6px 8px;">Zwiebel-Paprika-Pfanne mit Hack</td>
