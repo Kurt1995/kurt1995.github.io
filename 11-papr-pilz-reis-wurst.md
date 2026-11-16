@@ -1,19 +1,19 @@
 <h1 align="center">Kurt hat gekocht<br>Paprika-Pilz-Pfanne mit Reis und Grillwurst</h1>
 <br>
 
-![Zutaten für PPP_R&W Pfanne](assets/04-rosen-hack-reis-01.jpg)
+![Zutaten für PPP_R&W Pfanne](assets/11-pap-pilz-reis-grillw-01.jpg)
 
 ## Zutaten für 2 Portionen
 
-- Rosenkohl (ca. 800 g) 
-- 1 mittelgroße Tomate 
-- Ca. 170 g Hackfleisch (halb und halb) 
-- 60 g Naturreis (anderer Reis geht auch) als Sättigungs- und Geschmackbeilage 
-- 300 ml Wasser und ein Brühwürfel (für den Reis) 
-- 2 Esslöffel Zucker (für das Blanchier Wasser) 
-- 2 Esslöffel Olivenöl  
-- Gewürze: Schwarzer Pfeffer, Paprika rosenscharf, Salz  
-- Ca. 20 g Parmesan  
+- 2 gelbe Paprika (ca.  300  g) 
+- Champignons (braun oder weiß) 300 g 
+- Geflügelgrillwürstchen (ca. 400 g) 
+- 60 g Naturreis 
+- 300 ml Wasser, 1 Brühwürfel (für den Reis) 
+- 1 Esslöffel Olivenöl  
+- 1 Esslöffel Tomatenmark 
+- Gewürze: Schwarzer Pfeffer, Paprikapulver rosenscharf  
+- 1 Teelöffel Apfelessig oder Balsamico Essig 
 
 ## Zubereitung
 
@@ -47,48 +47,36 @@
 
 ---
 
-### Das Gemüse blanchieren
+### Das Gemüse
 
-- Den Rosenkohl putzen, schälen und an der Wurzel kreuzweise einschneiden. 
-- Wasser zum Sieden bringen, den Zucker zugeben und die Röschen hineinschütten. 
-- Ca. 8 Minuten blanchieren / vorgaren. Ab und zu rühren. 
-- Den Rosenkohl in ein Sieb abgießen und mit kaltem Wasser abbrausen, bis er noch etwa handwarm ist. 
-
-<table>
-  <tr>
-    <td><img src="assets/04-rosen-hack-reis-02.jpg" alt="Schritt 1"></td>
-    <td><img src="assets/04-rosen-hack-reis-03.jpg" alt="Schritt 2"></td>
-  </tr>
-  <tr>
-    <td align="center"><span style="font-size: 0.8em;">Das Wasser siedet, Zucker dazu</span></td>
-    <td align="center"><span style="font-size: 0.8em;">Rosenkohl dazu</span></td>
-  </tr>
-</table>
-
-### Das Pfannenfinish 
- 
-- Das Öl in der Pfanne erhitzen. 
-- Die Rosenkohl-Röschen halbieren und in die Pfanne geben. Mit Pfeffer würzen. 
-- Das Hackfleisch würzen (Salz, Pfeffer, Paprikapulver, ..) und in Flocken darüber verteilen. 
-- Bei großer Hitze kurz anbraten. Alles vermengen und bei mittlerer Hitze ca. 5 min (dann ist der Rosenkohl noch bissfest und das Hack ist gar) weiter brutzeln. Öfter wenden.
-- Nicht viel länger schmoren, sonst wird das Hackfleisch trocken.
-- Ein Deckel beschleunigt den Garprozess, verhindert jedoch Röstaromen. 
-- Die Tomate klein würfeln. 
-- Kurz vor Ende der Pfannenzeit die Tomatenstückchen unterheben und kurz mitgaren lassen. 
-- Sollte die Pfanne zwischendurch zu trocken werden, etwas Wasser zugeben. 
+- Das Öl in die Pfanne geben. 
+- Die Paprika würfeln und in der Pfanne verteilen. 
+- Die Pilze grob würfeln und mit den Paprikastücken vermischen. 
+- Mit schwarzem Pfeffer und dem Rosenpaprikapulver würzen. 
+- Das Tomatenmark hinzugeben und unterrühren. 
+- Ca. 7 Minuten bei mittlerer Hitze mit Deckel schmoren. Öfter rühren. 
+- Kurz vor Ende der Schmorzeit den Apfelessig hinzugeben. 
+- Sollte die Pfanne zu trocken werden, etwas Wasser zugeben. 
+- Die Geflügelwürstchen in Scheiben schneiden. 
+- Den fertig gekochten Reis und die Würstchen in die Gemüsepfanne mischen. (Die Würstchen werden nicht gebraten!) 
+- Untermischen und noch 1 Minute weitergaren. 
+- Servieren. (Ein zusätzliches Nachwürzen mit Salz sollte vermieden werden - s. Nährwerttabellen) 
 
 <table>
   <tr>
-    <td><img src="assets/04-rosen-hack-reis-05.jpg" alt="Schritt 1"></td>
-    <td><img src="assets/04-rosen-hack-reis-06.jpg" alt="Schritt 2"></td>
-    <td><img src="assets/04-rosen-hack-reis-09.jpg" alt="Schritt 3"></td>
+    <td><img src="assets/11-pap-pilz-reis-grillw-02.jpg" alt="Schritt 1"></td>
+    <td><img src="assets/11-pap-pilz-reis-grillw-03.jpg" alt="Schritt 2"></td>
+    <td><img src="assets/11-pap-pilz-reis-grillw-04.jpg" alt="Schritt 3"></td>
+    <td><img src="assets/11-pap-pilz-reis-grillw-07.jpg" alt="Schritt 4"></td>
   </tr>
 </table>
 
+---
+
 <table>
   <tr>
-    <td><img src="assets/04-rosen-hack-reis-10.jpg" alt="so soll es aussehen" width="550"></td>
-    <td align="center"><i>und so sollte es dann aussehen<br><br>das Gemüse hat noch einen guten Biss<br><br>der Reis ist nicht verklebt<br><br>die Fleischstücke sind saftig<br><br>am Pfannenboden hat sich ein wenig Sauce<br>aus Gemüsesaft und dem Fleischsud<br>gesammelt</i></td>
+    <td><img src="assets/11-pap-pilz-reis-grillw-02.jpg" alt="so soll es aussehen" width="550"></td>
+    <td align="center"><i>und so sollte es dann aussehen<br><br>das Paprikastücke haben noch einen festen Biss<br><br>der Reis ist nicht verklebt<br><br>die Wurststücke sind durchgewärmt<br><br>am Pfannenboden hat sich eine cremige Sauce<br>aus dem Gemüsesaft<br>gesammelt</i></td>
   </tr>
 </table>
 
