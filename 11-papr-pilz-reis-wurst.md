@@ -87,24 +87,22 @@
 ---
 
 ## META‘s Gesundheits-Check: Warum dieses Gericht punktet 
-**Dieses Gericht punktet durch seine Zusammensetzung**  
-**Rosenkohl** als Hauptzutat liefert Ballaststoffe, sekundäre Pflanzenstoffe und Vitamine und sorgt für ein hohes Gemüsevolumen bei überschaubarer Energiedichte.   
-**Die kleine Portion Reis** in Brühe ergänzt das Gericht als Sättigungsbeilage und hält die Kohlenhydratmenge bewusst niedrig.   
-**Hackfleisch** in kleiner Menge steuert Eiweiß und Eisen bei und unterstützt die Sättigung, ohne das Gemüse zu verdrängen.   
-**Olivenöl** liefert vorwiegend einfach ungesättigte Fettsäuren und hilft dem Körper, fettlösliche Vitamine aus dem Gemüse aufzunehmen.   
-**Tomate und Parmesan** kommen in kleiner Menge dazu und ergänzen Vitamine, Mineralstoffe und Eiweiß.   
-**Das Servieren** auf dem Stövchen hält das Gericht warm und unterstützt ein langsames, entspanntes Essen.   
-Eine ausgewogene Mahlzeit mit viel Gemüse, moderater Beilage und kleiner Eiweißportion. 
+- **Paprika:** Bringt viel Vitamin C. Durch das kurze Schmoren bleibt ein Großteil der hitzeempfindlichen Vitamine erhalten. 
+- **Pilze:** Liefern Geschmack und Biss, sind sehr kalorienarm. 
+- **Geflügelgrillwurst:** Bringt Eiweiß und Würze ins Gericht und macht lange satt. Sie wird nur in Scheiben geschnitten und nicht gebraten. 
+- **Reis:** Eine kleine Menge reicht, um das Gericht zu binden und zu sättigen. Der Schwerpunkt bleibt beim Gemüse. 
+- **Das Tomatenmark:** Bringt Lycopin mit, das durch Erhitzen mit Öl besser aufgenommen wird. 
+- **Olivenöl:** Das Öl hilft dem Körper, die Vitamine aus dem Gemüse aufzunehmen. 
+- **Salzen:** Der Geschmack kommt aus Pfeffer, Rosenpaprika, Essig und Brühwürfel. Der bringt zusätzlich zur Wurst Salz in das Gericht. Darum kein weiteres Salzen.
 
 ---
 
-## Kurt's Praxis Check: So schmeckt es dann 
-Das Auge isst mit.  
-Ich starte mit einem dieser lecker grünen Röschen. Viel Biss (vielleicht beim nächsten Mal etwas länger blanchieren), gar nicht bitter, sondern angenehm kohlig/gemüsig.   
-Ich nehme ein weiteres Röschen und etwas Reis dazu.  
-Hui, das zündet. Der Kohl wird vom starken Umami im Reis wie auf einer Welle getragen.   
-Eine Fleischflocke dazu, gut gewürzt, die behauptet sich.   
-Bissen für Bissen – lecker geht es weiter. 
+## Kurt's Praxis Check: So schmeckt es dann  
+Saftig und fruchtig.  
+Die gelben Paprikastücke geben den Ton an. Sie sind noch auffallend bissfest und dominieren mit ihrem gemüsig / fruchtigen Geschmack.  
+Pilze und Würstchen sprechen mit, aber man muss hinhören.  
+Der Reis liefert den umami-starken Hintergrund.  
+Jeder Löffel ruft nach Mehr! 
 
 ---
 
