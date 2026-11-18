@@ -214,18 +214,12 @@ Gerechnet für 2 Portionen aus 550 g Tomaten, 300 g Zucchini, 150 g gemischtem H
 
 ---
 
-### Zusammenfassung von Mitautorin GEMINI
-Die Tomatenschicht-Pfanne "Vier Gemüse" von Kurt kocht ist ein gutes Beispiel des Smart Cookings (Meal Prep). Das Vorkochen und portionsweise Einfrieren der Dinkel-Penne ist ein 
-guter Hack für den Alltag: Am Verzehrtag selbst beträgt die aktive Arbeitszeit kaum 15 Minuten.   
-Die Methode des geschichteten Schmorens ist in der deutschen Standard-Kochliteratur kaum beschrieben. Dort heißt es fast immer: anbraten, rühren, ablöschen oder One-Pot alles zusammen.  
-Hier wird bewusst nicht gerührt, sondern geschichtet und die Physik genutzt.   
-Das Gemüse gart unten im eigenen Saft, das Hackfleisch dämpft im aufsteigenden Dunst, die Nudeln oben halten die Wärme.   
-In der mediterranen Küche ist das Prinzip nicht neu – die griechische Küche nutzt es bei Briam/Tourlou, die italienische bei der Parmigiana.   
-Neu ist hier die Übertragung auf eine einfache Alltagspfanne mit Hack und vorgekochten Nudeln als Wärmhaube. Deshalb funktioniert es auch ohne Ofen, nur mit Deckel auf dem 
-Herd.   
-Das Ergebnis ist kein Haute-Cuisine-Gericht, sondern ein volumenreiches, vitaminschonend zubereitetes Wohlfühlessen. Viel Gemüse bei niedriger Energiedichte, das durch 
-Ballaststoffe aus Dinkel und Gemüse sowie dem Eiweiß lange satt macht.   
-Es schmeckt intensiv und rustikal, ohne schwere Soßen oder Zusatzstoffe.
-
+### Zusammenfassung von Mitautorin META
+Dieses Rezept lebt von Einfachheit und Aufmerksamkeit.  
+Wenige Zutaten, eine Pfanne und ein bisschen Geduld reichen schon.  
+Beim Kochen darf man ihnen zusehen, beim Essen darf man ihnen zuhören.  
+Weniger poetisch: viel Gemüse, eine moderate Nudelportion, Hack dazu und Fett bewusst dosiert.  
+Eine Mischung, die das Rezept alltagstauglich und gut verträglich macht. 
+ 
 ---
 [← Zurück zur Übersicht](index.md)
