@@ -71,7 +71,7 @@ Nudeln und Fleisch)<br>in eine Suppenschale geben.<br><br>Aufgießen: Mit heiße
   </tr>
 </table>
 
-*Hinweis bei Resten mit Hack + Pilzen + Nudeln:  
+*Hinweis bei Resten mit Hack + Nudeln:  
 Reste 30 Min. ohne Deckel abdampfen lassen, dann abgedeckt in den Kühlschrank (max. 24h). Abends mit sprudelnd kochender Brühe aufgießen, 2-3 Min. ziehen lassen, gut umrühren - bis es durchgehend dampfend heiß ist (>70°C).  
 **Reste nicht bei Zimmertemperatur aufbewahren!***
 
