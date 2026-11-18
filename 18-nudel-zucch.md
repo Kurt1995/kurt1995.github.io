@@ -83,117 +83,131 @@ Die Nudeln lächeln, sie müssen sich nicht streiten. Sie wissen genau, dass sie
 
 ---
 
-### Hauptnährwerte für das Gesamtgericht
-
-Basiert auf den Zutaten: 600g Tomaten, 100g rote Paprika, 80g Zwiebel, 150g Hackfleisch gemischt, 125g Dinkel-Penne (Trockengewicht), 200g Champignons, 30g Olivenöl (ca. 3 EL).
+### Geschätzte Nährwerte pro Portion   
+Gerechnet für 2 Portionen aus 550 g Tomaten, 300 g Zucchini, 150 g gemischtem Hack, 125 g Dinkel Penne trocken gesamt und 2 Esslöffeln Olivenöl gesamt. Alle Werte sind gerundete Schätzwerte, je nach Produkt und Gar-Grad schwanken sie etwas. 
 
 <h3>Makronährstoffe</h3>
-<table>
+<table style="width: 800px; border-collapse: collapse; font-family: sans-serif;">
   <thead>
-    <tr>
-      <th>Nährstoff</th>
-      <th>Menge</th>
-      <th>Anmerkung</th>
+    <tr style="border-bottom: 2px solid #000;">
+      <th style="width: 170px; text-align: left; padding: 8px; border: 1px solid #000; font-weight: bold;">Nährstoff</th>
+      <th style="width: 170px; text-align: center; padding: 8px; border: 1px solid #000; font-weight: bold;">Menge pro Portion</th>
+      <th style="text-align: left; padding: 8px; border: 1px solid #000; font-weight: bold;">Anmerkung</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>Kalorien</td>
-      <td>ca. 1.100 kcal</td>
-      <td>Hauptenergie aus Dinkel-Penne, Hackfleisch und Olivenöl</td>
+      <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">Kalorien</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 420 kcal</td>
+      <td style="padding: 8px; border: 1px solid #000;">Gemüsebetonte, gut sättigende Portion</td>
     </tr>
     <tr>
-      <td>Eiweiß</td>
-      <td>ca. 60 g</td>
-      <td>Aus Hackfleisch, Dinkel-Penne und Champignons</td>
+      <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">Eiweiß</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 24 g</td>
+      <td style="padding: 8px; border: 1px solid #000;">Aus Hack und Dinkel Penne</td>
     </tr>
     <tr>
-      <td>Kohlenhydrate</td>
-      <td>ca. 130 g</td>
-      <td>Fast komplett aus den Dinkel-Penne und Tomaten</td>
+      <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">Kohlenhydrate</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 50 g</td>
+      <td style="padding: 8px; border: 1px solid #000;">Überwiegend aus den Nudeln</td>
     </tr>
     <tr>
-      <td>davon Zucker</td>
-      <td>ca. 25-30 g</td>
-      <td>Natürlicher Fruchtzucker der Tomaten und Paprika</td>
+      <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">davon Zucker</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 11 g</td>
+      <td style="padding: 8px; border: 1px solid #000;">Fast nur natürlicher Zucker aus Tomate und Zucchini</td>
     </tr>
     <tr>
-      <td>Fett (gesamt)</td>
-      <td>ca. 50 g</td>
-      <td>Aus Olivenöl und Hackfleisch</td>
+      <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">Fett gesamt</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 20 g</td>
+      <td style="padding: 8px; border: 1px solid #000;">Aus Hack und Olivenöl</td>
     </tr>
     <tr>
-      <td>Gesättigte Fettsäuren</td>
-      <td>ca. 15 g</td>
-      <td>Aus Hackfleisch</td>
+      <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">Gesättigte Fettsäuren</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 5 g</td>
+      <td style="padding: 8px; border: 1px solid #000;">Überwiegend aus dem Hack</td>
     </tr>
     <tr>
-      <td>Ballaststoffe</td>
-      <td>ca. 20 g</td>
-      <td>Aus Tomaten, Champignons und den Dinkel-Penne</td>
+      <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">Einfach ungesättigte Fettsäuren</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 8 g</td>
+      <td style="padding: 8px; border: 1px solid #000;">Überwiegend aus dem Olivenöl</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">Ballaststoffe</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 7 g</td>
+      <td style="padding: 8px; border: 1px solid #000;">Aus Gemüse und Dinkel</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">Resistente Stärke</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 2 g</td>
+      <td style="padding: 8px; border: 1px solid #000;">Entsteht durch Abkühlen der vorgekochten Penne</td>
     </tr>
   </tbody>
 </table>
 
 <h3>Mikronährstoffe (Vitamine &amp; Mineralstoffe)</h3>
-<table>
+<table style="width: 800px; border-collapse: collapse; font-family: sans-serif;">
   <thead>
-    <tr>
-      <th>Nährstoff</th>
-      <th>Menge</th>
-      <th>Deckungsbeitrag pro Tag</th>
+    <tr style="border-bottom: 2px solid #000;">
+      <th style="width: 170px; text-align: left; padding: 8px; border: 1px solid #000; font-weight: bold;">Nährstoff</th>
+      <th style="width: 170px; text-align: center; padding: 8px; border: 1px solid #000; font-weight: bold;">Menge pro Portion</th>
+      <th style="text-align: left; padding: 8px; border: 1px solid #000; font-weight: bold;">Anmerkung</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>Vitamin C</td>
-      <td>ca. 150 mg</td>
-      <td>~150–170 % des Tagesbedarfs – vor allem durch Paprika &amp; Tomaten</td>
+      <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">Vitamin C</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 50 mg</td>
+      <td style="padding: 8px; border: 1px solid #000;">Überwiegend aus Tomate und Zucchini, durch kurzes Schmoren gut erhalten</td>
     </tr>
     <tr>
-      <td>Vitamin A (als Beta-Carotin)</td>
-      <td>ca. 500–600 µg</td>
-      <td>~60–75 % des Tagesbedarfs – aus roter Paprika</td>
+      <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">Vitamin A / Beta-Carotin</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 150 µg<br>Retinoläquivalent</td>
+      <td style="padding: 8px; border: 1px solid #000;">Aus Tomate und Zucchini, mit Olivenöl besser verwertbar</td>
     </tr>
     <tr>
-      <td>Vitamin D</td>
-      <td>ca. 1–2 µg</td>
-      <td>~10–20 % – aus Champignons</td>
+      <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">Vitamin D</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 0 µg</td>
+      <td style="padding: 8px; border: 1px solid #000;">In diesem Gericht praktisch nicht enthalten</td>
     </tr>
     <tr>
-      <td>Vitamin B2 + B3</td>
-      <td>8-10mg Niacin (B3)</td>
-      <td>50-65% - hoch aus Champignons und Hackfleisch</td>
+      <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">Vitamin B12</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 1,5 µg</td>
+      <td style="padding: 8px; border: 1px solid #000;">Nur aus dem Hack</td>
     </tr>
     <tr>
-      <td>Vitamin K</td>
-      <td>ca. 20–30 µg</td>
-      <td>~20–30 %</td>
+      <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">Vitamin B6</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 0,9 mg</td>
+      <td style="padding: 8px; border: 1px solid #000;">Aus Gemüse, Hack und Dinkel</td>
     </tr>
     <tr>
-      <td>Kalium</td>
-      <td>ca. 3.000 mg</td>
-      <td>~70-75 % (sehr gut für Blutdruck und Muskeln)</td>
+      <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">Folat (B9)</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 90 µg</td>
+      <td style="padding: 8px; border: 1px solid #000;">Überwiegend aus Tomate, Zucchini und Dinkel</td>
     </tr>
     <tr>
-      <td>Selen</td>
-      <td>ca. 20–30 µg</td>
-      <td>~35–40 % – aus Hack + Pilzen</td>
+      <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">Kalium</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 1.400 mg</td>
+      <td style="padding: 8px; border: 1px solid #000;">Sehr kaliumreich durch Tomate und Zucchini</td>
     </tr>
     <tr>
-      <td>Zink</td>
-      <td>ca. 3–5 mg Zink</td>
-      <td>~30–40 % Zink – aus Hack + Pilzen</td>
+      <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">Eisen</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 4,5 mg</td>
+      <td style="padding: 8px; border: 1px solid #000;">Aus Hack, Dinkel und Gemüse, Vitamin C unterstützt die Aufnahme</td>
     </tr>
     <tr>
-      <td>Lycopin</td>
-      <td>ca. 20 mg</td>
-      <td>Hoch (starkes Antioxidans, entzündungshemmend) – aus Tomaten</td>
+      <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">Zink</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 5 mg</td>
+      <td style="padding: 8px; border: 1px solid #000;">Überwiegend aus dem Hack</td>
     </tr>
     <tr>
-      <td>Folsäure</td>
-      <td>ca. 80–100 µg</td>
-      <td>~25–30 %</td>
+      <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">Calcium</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 80 mg</td>
+      <td style="padding: 8px; border: 1px solid #000;">Eher niedrig, kein calciumreiches Lebensmittel enthalten</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">Salz</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 1,5 g</td>
+      <td style="padding: 8px; border: 1px solid #000;">Geschätzte Menge aus Würzung des Hack und Nachwürzen am Tisch</td>
     </tr>
   </tbody>
 </table>
