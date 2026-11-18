@@ -53,7 +53,9 @@
   </tr>
 </table>
 
-Servieren und nach Geschmack das Umami mit ein wenig Salz verstärken.
+---
+
+Am Tisch kann nach Geschmack mit ein wenig Salz nachgewürzt werden.
 
 ![Angerichtet](assets/18-t-schicht-zucchini-10.jpg)
 *Vorsicht! Die Tomatenstücke bleiben unerwartet lange heiß!*
