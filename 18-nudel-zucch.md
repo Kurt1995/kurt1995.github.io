@@ -17,7 +17,7 @@
 #### Langfristvorbereitung
 
 - **Pasta-Vorrat**: Eine Packung Dinkel-Penne (500 g) in Salzwasser kochen, abgießen, kalt abschrecken und in 4 Portionen aufgeteilt einfrieren.
-- **Schonendes Auftauen**: Am Abend vor dem Verzehr eine Portion Penne in den Kühlschrank stellen.
+- **Schonendes Auftauen**: Am Abend vor dem Verzehr eine Tiefkühl-Portion Penne in den Kühlschrank stellen.
 
 *Hinweis: Das Gericht schmeckt natürlich auch mit frisch zubereiteten Nudeln.*
 
@@ -39,27 +39,24 @@
 
 1.  Das Olivenöl in die Pfanne geben.
 2.  Die Tomaten in dicke Scheiben schneiden und den Pfannenboden auslegen. Mit schwarzem Pfeffer würzen.
-3.  Die Zwiebel putzen, in dünne Scheiben schneiden und die Tomaten belegen.
-4.  Die Paprika in ganz kleine Würfel schneiden, dazugeben.
-5.  Die Pilze würfeln und in der Pfanne verteilen.
-6.  Das Hackfleisch nach Geschmack mit Salz, Pfeffer, Rosenpaprika würzen und in Flocken hinzugeben.
-7.  Mit den Nudeln bedecken.
-8.  Ca. 8 Minuten bei mittlerer bis großer Hitze mit Deckel schmoren/garen.
+3.  Die Zucchini in Scheiben (ca. 3 mm) schneiden und über den Tomaten verteilen. 
+4.  Alles kräftig mit schwarzem Pfeffer würzen. 
+5.  Das Gehackte nach Geschmack würzen (Salz, Pfeffer, Paprikapulver, ..) und in Flocken hinzugeben. 
+6.  Mit den Nudeln abdecken. 
+7.  Ca. 8 Minuten bei mittlerer Hitze mit Deckel schmoren. 
+8.  Die Pfanne vom Feuer nehmen (kann auch auf ganz kleiner Flamme warm gehalten werden) und servieren. 
 
 <table>
   <tr>
-    <td><img src="assets/18-t-schicht-rusti-09.jpg" alt="Servieren" width="712"></td>
-    <td align="center"> <i>und so soll es dann aussehen<br><br>die Tomaten sind nicht zu weich geschmort<br><br>das Hack, die Zwiebeln und die Pilze wurden im Dampf gegart<br><br>die Nudeln sind durchgewärmt<br><br>und<br>am Pfannenboden haben sich<br>Tomaten- und Pilzsaft<br>zu einem leckeren Sud gesammelt</i></td>
+    <td><img src="assets/18-t-schicht-zucchini-09.jpg" alt="Servieren" width="712"></td>
+    <td align="center"> <i>und so soll es dann aussehen<br><br>die Tomaten sind nicht zu weich geschmort<br><br>die Zucchini und das Hack wurden ebenfalls geschmort/gegart<br><br>die Nudeln sind durchgewärmt<br><br>und<br>am Pfannenboden haben sich<br>Tomaten- und Zucchinisaft<br>zu einem leckeren Sud gesammelt</i></td>
   </tr>
 </table>
 
 Servieren und nach Geschmack das Umami mit ein wenig Salz verstärken.
 
-![Angerichtet](assets/18-t-schicht-rusti-10.jpg)
+![Angerichtet](assets/18-t-schicht-zucchini-10.jpg)
 *Vorsicht! Die Tomatenstücke bleiben unerwartet lange heiß!*
-
-*Hinweis zu den letzten beiden Bildern: 
-Heute ohne Paprika - und mit braunen statt weißen Champignons, die ich etwas gröber gewürfelt habe. Dadurch sind sie später sowohl vom Biss als auch geschmacklich besser erkennbar.*
 
 ---
 
