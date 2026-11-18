@@ -62,27 +62,24 @@ Am Tisch kann nach Geschmack mit ein wenig Salz nachgewürzt werden.
 
 ---
 
-### GEMINI's Gesundheitscheck: Warum dieses Gericht punktet
+### META's Gesundheitscheck: Warum dieses Gericht punktet
 
-1. Komplexe Kohlenhydrate & Sättigung (Dinkel-Penne): Dinkel-Penne liefert im Vergleich zu klassischen Hartweizennudeln mehr Ballaststoffe, hochwertiges Eiweiß und wichtige 
-Mineralstoffe (wie Magnesium und Eisen).
-2. Resistente Stärke: Durch das Abkühlen und erneute Erwärmen der Dinkel‑Penne entsteht ein kleiner Anteil resistenter Stärke (ca. 1,5–2 g).<br>
-Sie wirkt präbiotisch und kann den Blutzuckeranstieg minimal abmildern.
-3. Lycopin durch geschmorte Tomaten: Tomaten sind reich an Lycopin (einem starken Antioxidans). Dieses Lycopin wird durch das Erhitzen und die Zugabe von Fett 
-(Olivenöl) für den menschlichen Körper gut bioverfügbar. 
-4. Das Zwiebel-Geheimnis: Durch das Schneiden in dünne Scheiben garen die Zwiebeln in der kurzen Zeit passend weich.<br>
-Da sie auf den Tomaten liegend im heißen Wasserdampf gedämpft statt scharf angebraten werden, verbrennen sie nicht und behalten ihre ätherischen Öle. 
-5. Schonendes Garen im eigenen Saft (Dampf-Effekt): Dadurch, dass die Zutaten geschichtet und bei geschlossenem Deckel gegart werden, dämpfen das Hackfleisch und 
-die Pilze im aufsteigenden Saft der Tomaten und Zwiebeln.<br>
-Vitamine und Mineralstoffe bleiben in der Pfanne gefangen und gehen nicht verloren.
-6. Gute Fettqualität: Natives Olivenöl Extra liefert reichlich einfach ungesättigte Fettsäuren (Ölsäure), die entzündungshemmend wirken und das Herz-Kreislauf-System schützen.
+Das Gericht punktet, weil es Gemüse in den Mittelpunkt stellt und trotzdem richtig satt macht.  
+**Tomaten und Zucchini** bringen Wasser, Ballaststoffe, Kalium und Vitamin C, bei gleichzeitig geringer Energiedichte.  
+**Das Hackfleisch** liefert Eiweiß und Eisen und macht aus der Pfanne eine vollwertige Mahlzeit.  
+**Die Dinkel Penne** halten durch ihre Ballaststoffe länger satt als helle Weizennudeln, und weil sie schon vorgekocht sind, muss alles nur kurz schmoren. So bleibt das Gemüse bissfest und aromatisch.  
+Dazu kommen **zwei Esslöffel Olivenöl** für zwei Portionen. Das reicht, um Geschmack zu tragen und fettlösliche Stoffe aus Tomate und Paprika besser aufzunehmen, ohne die Pfanne schwer zu machen.  
+**Pfeffer und scharfes Rosenpaprika** geben Tiefe, sodass weniger Salz nötig ist. 
 
 ---
 
 ### Kurt's Praxis Check: So schmeckt es dann
-Saftig mit deutlich erkennbaren Spielern: Die Tomaten, fruchtig säuerlich, sind bei jedem Löffel, auf dem sie landen, ein Hoppla-Ja.  
-Die anderen teilen sich das Spielfeld. Je nachdem, wie der Löffel / die Gabel beladen ist, verschieben sich die Biss- und Geschmacksnuancen.  
-Das Ergebnis ist ein abwechslungsreiches Mundgefühl, bei dem man mit jedem Kauen ein anderes Gaumenerlebnis bekommt.
+Horch! Da streiten doch zwei?  
+„Wir sind viel mehr!“ sagen die Tomaten.  
+„Wir sind stärker!“ rufen die Zucchini.  
+Ein Kompromiss: beide behalten ihren typischen Eigengeschmack, aber die Tomate muss ihre Säurespitzen abgeben.  
+Das Hackfleisch hält sich im Hintergrund, aber wenn es hervortritt, sorgt es mit einem “Jetzt spreche ich!“ energisch für Ruhe.  
+Die Nudeln lächeln, sie müssen sich nicht streiten. Sie wissen genau, dass sie dazugehören, und wie wertvoll sie sind. 
 
 ---
 
