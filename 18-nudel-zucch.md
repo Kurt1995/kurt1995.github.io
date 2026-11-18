@@ -62,6 +62,21 @@ Am Tisch kann nach Geschmack mit ein wenig Salz nachgewürzt werden.
 
 ---
 
+### Am Abend schmeckt ein Rest als Süppchen:
+<table>
+  <tr>
+    <td><img src="assets/18-t-schicht-zucchini-11.jpg" alt="Servieren" width="712"></td>
+    <td align="center"> <i>Sollte von der Pfanne am Mittag etwas übrig bleiben,<br>lässt sich daraus mit minimalem Aufwand eine leichte Abendvariante zaubern.<br><br>Schnelle Zubereitung:<br><br>Basis: Die verbliebenen Reste (Gemüse, 
+Nudeln und Fleisch)<br>in eine Suppenschale geben.<br><br>Aufgießen: Mit heißer Brühe aufgießen und servieren. </i></td>
+  </tr>
+</table>
+
+*Hinweis bei Resten mit Hack + Pilzen + Nudeln:  
+Reste 30 Min. ohne Deckel abdampfen lassen, dann abgedeckt in den Kühlschrank (max. 24h). Abends mit sprudelnd kochender Brühe aufgießen, 2-3 Min. ziehen lassen, gut umrühren - bis es durchgehend dampfend heiß ist (>70°C).  
+**Reste nicht bei Zimmertemperatur aufbewahren!***
+
+---
+
 ### META's Gesundheitscheck: Warum dieses Gericht punktet
 
 Das Gericht punktet, weil es Gemüse in den Mittelpunkt stellt und trotzdem richtig satt macht.  
