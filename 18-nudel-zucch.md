@@ -49,7 +49,7 @@
 <table>
   <tr>
     <td><img src="assets/18-t-schicht-zucchini-09.jpg" alt="Servieren" width="712"></td>
-    <td align="center"> <i>und so soll es dann aussehen<br><br>die Tomaten sind nicht zu weich geschmort<br><br>die Zucchini und das Hack wurden ebenfalls geschmort/gegart<br><br>die Nudeln sind durchgewärmt<br><br>und<br>am Pfannenboden haben sich<br>Tomaten- und Zucchinisaft<br>zu einem leckeren Sud gesammelt</i></td>
+    <td align="center"> <i>und so soll es dann aussehen<br><br>die Tomaten sind nicht zu weich geworden<br><br>die Zucchini und das Hack wurden geschmort<br><br>die Nudeln sind durchgewärmt<br><br>und<br>am Pfannenboden haben sich<br>Tomaten- und Zucchinisaft<br>zu einem leckeren Sud gesammelt</i></td>
   </tr>
 </table>
 
