@@ -76,26 +76,37 @@ Gesamtwirkung: Ein Gericht mit guter Sättigung, kontrollierter Fettmenge, moder
 
 
 ## Energiewerte – Makro / Mikro dieser Mahlzeit 
-(Schätzung für die gesamten, im Rezept eingesetzten Mengen) 
+(Schätzung für eine Portion - die Hälfte der gesamten, im Rezept eingesetzten Mengen) 
 
 ### Makro
 
-| Energiewerte | geschätzt |
-|---------|--------|
-| Kalorien | ca. 820 kcal |
-| Eiweiß | ca. 23 g |
-| Kohlenhydrate | ca. 100 g |
-| Davon Ballaststoffe | ca. 12 g |
-| Fett | ca. 50 g |
-| Davon ungesättigt | ca. 18 g |
+| Kategorie | Geschätzter Wert | Bemerkung |
+| --- | --- | --- |
+| Energie | ca. 830 bis 860 kcal | ausgewogen für eine Hauptmahlzeit |
+| Eiweiß | ca. 42 g | aus Hackfleisch, Käse und Penne |
+| Fett | ca. 46 bis 50 g | überwiegend aus Hackfleisch, Käse und Olivenöl |
+| Kohlenhydrate | ca. 58 g | aus Dinkel Penne und Gemüse |
+| Ballaststoffe | ca. 6 bis 7 g | durch Zucchini und Penne |
+| Calcium | ca. 450 bis 550 mg | ca. 50 Prozent des Tagesbedarfs, vor allem durch Käse |
+| Eisen | ca. 2,5 bis 3 mg | durch Fleisch, Penne und Gemüse |
+| Natrium | ca. 900 bis 1.200 mg | durch Fondor und Käse |
+| Vitamin C | ca. 50 bis 60 mg | durch Zucchini |
 
-### Mikro / Was steckt drin 
-* **Vitamin C:** sehr hoch durch Paprika (ca. 120 mg, > 100% Tagesbedarf) 
-* **B-Vitamine + Kalium:** aus Champignons und Dinkel 
-* **Eisen + Magnesium:** aus Dinkel-Penne 
-* **Natrium:** moderat durch Sojasauce + Salz – ca. 800-1000 mg, deshalb extra Salz sparsam 
-* **Essig:** 2 Tropfen = 0 kcal, 0 Einfluss – nur Geschmack 
+### Mikro
 
+| Vitamin | Geschätzter Wert | Prozent des Tagesbedarfs | Hauptquelle |
+| --- | --- | --- | --- |
+| Vitamin A (Retinoläquivalente) | ca. 200 µg | ca. 25 Prozent | Tilsiter, Zucchini |
+| Vitamin C | ca. 40 mg | ca. 40 Prozent | Zucchini, nach dem Garen |
+| Vitamin D | ca. 0,5 µg | ca. 3 Prozent | Tilsiter, Hackfleisch |
+| Vitamin E | ca. 3 bis 4 mg | ca. 25 Prozent | Olivenöl |
+| Vitamin K | ca. 25 bis 30 µg | ca. 40 Prozent | Zucchini, Olivenöl |
+| Vitamin B1 (Thiamin) | ca. 0,4 mg | ca. 35 Prozent | Hackfleisch, Dinkel Penne, Zucchini |
+| Vitamin B2 (Riboflavin) | ca. 0,5 mg | ca. 40 Prozent | Tilsiter, Hackfleisch |
+| Vitamin B6 | ca. 0,6 mg | ca. 38 Prozent | Zucchini, Hackfleisch |
+| Vitamin B12 | ca. 2,8 µg | ca. 70 Prozent | Hackfleisch, Tilsiter |
+| Niacin (B3) | ca. 7 mg | ca. 44 Prozent | Hackfleisch, Penne, Zucchini |
+| Folsäure (B9) | ca. 120 µg | ca. 40 Prozent | Zucchini, Dinkel Penne |
 ---
 
 ## Praxis-Check: So schmeckt es dann
