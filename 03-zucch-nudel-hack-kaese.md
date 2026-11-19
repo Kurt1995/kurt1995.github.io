@@ -77,7 +77,7 @@ In Summe: ein Gericht mit guter Balance aus Gemüse, Eiweiß und Getreide – s�
 ---
 
 ## Kurt's Praxis-Check: So schmeckt es dann
-Das Gericht hat eine fruchtig saftige Grundnote, die durch die Zucchini und die Zwiebel überraschend süß wird. 
+Das Gericht hat eine fruchtig saftige Grundnote, die durch die Zucchini und die Zwiebel überraschend süß wird.  
 Zucchini, Zwiebel, Fleisch und Penne verbinden sich zu einem runden Gesamtgeschmack ohne dominante Einzelnoten. 
 Die Textur bleibt angenehm lebendig: leichter Biss, Zucchini und Fleischflocken mit spürbarer Festigkeit.  
 Nichts zerkocht, nichts breiig. 
