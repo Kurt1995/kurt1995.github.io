@@ -40,17 +40,22 @@ Vorsicht: Die Kochzeit für die Dinkel-Penne ist kürzer als bei Hartweizennudel
   </tr>
 </table>
 
-* Olivenöl und Rapsöl in die Pfanne geben.
-* Die Zwiebeln und die Paprika würfeln, in die Pfanne geben.
-* Die Pilze putzen und eher grob würfeln. Mit Zwiebeln und Paprika vermischen.
-* Mutig mit schwarzem Pfeffer würzen.
-* Kurz anbraten, dabei öfter wenden und abgedeckt ca. 7 – 8 Minuten schmoren. Kontrolle zwischendurch: Wenn die Pfanne zu trocken wird, einen Schuss Wasser hinzugeben.
-* Die Penne unterheben und bei stetigem Wenden ca. 2 Minuten erwärmen.
-* Die Pfanne vom Herd nehmen. Bei Bedarf auf kleinster Flamme warmhalten und servieren. 
+- Die Zucchini waschen und klein würfeln, die Zwiebel schälen und sehr fein würfeln. 
+- Die Zucchiniwürfel und die Zwiebelwürfel mit dem Olivenöl in die Pfanne geben. Mit schwarzem Pfeffer und Fondor würzen.  
+- Das Hackfleisch nach Geschmack würzen (Salz, Pfeffer, Paprika ..) und in Flocken über dem Gemüse verteilen. 
+- Mit Deckel auf mittlerer Flamme ca. 4-5 Minuten schmoren. Einige Male wenden. 
+- Mit den Nudeln und den Käsescheiben abdecken. 
+- Weitere 3-4 Minuten bei mittlerer Hitze mit Deckel garen, bis der Käse beginnt, zu zerlaufen. Dann ist auch das Hackfleisch durchgegart. 
+- Die Pfanne vom Feuer nehmen (kann auch auf ganz kleiner Flamme warmgehalten werden) und servieren. 
+- Am Tisch kann nach Geschmack mit ein wenig Salz nachgewürzt werden. 
+
+---
+
+![Fertiges Gericht](assets/03-zucch-nudel-10.jpg)
 
 <table>
   <tr>
-    <td><img src="assets/03-gem-nudel-pfanne-7.jpg" alt="Schritt 1" width="712"></td>
+    <td><img src="assets/03-zucch-nudel-11.jpg" alt="Abend" width="512"></td>
     <td align="center"><i>so soll es aussehen<br><br>die Paprika mit weichem Biss<br><br>die Zwiebel glasig<br><br>die Pilze ein wenig geschrumpft<br><br>die Nudeln wie frisch gekocht</i></td>
   </tr>
 </table>
@@ -58,7 +63,7 @@ Vorsicht: Die Kochzeit für die Dinkel-Penne ist kürzer als bei Hartweizennudel
 * Am Tisch mit einer Messerspitze Sambal Oelek, ein paar Körnern Salz und etwas Sojasauce würzen.
 * Zwei oder drei Tropfen Apfelessig (Reisessig / heller Balsamico) ergänzen. 
 
-![Fertiges Gericht](assets/03-gem-nudel-pfanne-8.jpg)
+
 
 ---
 
