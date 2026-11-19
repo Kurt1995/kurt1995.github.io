@@ -57,7 +57,7 @@ Vorsicht: Die Kochzeit für die Dinkel-Penne ist kürzer als bei Hartweizennudel
 
 | und am Abend | ein Süppchen |
 | :---: | :--- |
-| ![brokkolipfanne4.jpg](assets/03-zucch-nudel-11.jpg) | **Am Abend schmeckt ein Rest als Süppchen.** <br><br> Sollte von der Zucchini-Pfanne etwas übrig bleiben, lässt sich daraus mit minimalem Aufwand eine leichte Abendvariante zaubern. <br><br> **Schnelle Zubereitung:** <br> • **Basis**: Die verbliebenen Reste in eine Suppenschale geben. <br> • **Vorwärmen**: In der Mikro 1 min vorwärmen. <br> • **Aufgießen**: Mit heißer Brühe aufgießen und servieren. |
+| ![Abendsüppchen](assets/03-zucch-nudel-11.jpg) | **Am Abend schmeckt ein Rest als Süppchen.** <br><br> Sollte von der Zucchini-Pfanne etwas übrig bleiben, lässt sich daraus mit minimalem Aufwand eine leichte Abendvariante zaubern. <br><br> **Schnelle Zubereitung:** <br> • **Basis**: Die verbliebenen Reste in eine Suppenschale geben. <br> • **Vorwärmen**: In der Mikro 1 min vorwärmen. <br> • **Aufgießen**: Mit heißer Brühe aufgießen und servieren. |
 
 *Hinweis bei Resten mit Gemüse + Nudeln:  
 Reste 30 Min. ohne Deckel abdampfen lassen, dann abgedeckt in den Kühlschrank (max. 24h). Abends mit sprudelnd kochender Brühe aufgießen, 2-3 Min. ziehen lassen, gut umrühren - bis es durchgehend dampfend heiß ist (>70°C).  
