@@ -98,6 +98,10 @@
     <td style="padding:6px 8px;">Paprika-Pilz-Pfanne mit Reis und Hack</td>
   </tr>
   <tr>
+    <td style="padding:6px 8px;"><a href="03-zucch-nudel-hack-kaese.html">Zucchini-Nudel-Pfanne mit Hack und Käse </a></td>
+    <td style="padding:6px 8px;">&nbsp;</td>
+  </tr>
+  <tr>
     <td style="padding:6px 8px;">Zwiebel-Paprika-Pfanne mit Hack</td>
     <td style="padding:6px 8px;">&nbsp;</td>
   </tr>
