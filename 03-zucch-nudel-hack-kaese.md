@@ -66,14 +66,23 @@ Reste 30 Min. ohne Deckel abdampfen lassen, dann abgedeckt in den Kühlschrank (
 ---
 
 
-## META's Gesundheits-Check: Warum dieses Gericht punktet
-Diese Pfanne kombiniert vier Sachen, die im Alltag gut funktionieren:  
-**1. Gemüse als Basis:** Pilze bringen viel Volumen, wenig Energie, dazu Ballaststoffe und Umami. Paprika und Zwiebeln ergänzen Vitamine, Farbe und natürliche Süße.  
-**2. Dinkel-Penne als Beilage:** Etwas mehr Mineralstoffe und Biss als normale Pasta.  
-**3. Würze:** Ein kleiner Schuss Sojasauce bringt Salz und Tiefe, Sambal bringt Schärfe und leichte Säure.  
-**4. Die Öle:** Sie liefern die nötigen ungesättigten Fettsäuren.  
-Gesamtwirkung: Ein Gericht mit guter Sättigung, kontrollierter Fettmenge, moderatem Salzgehalt und klarer Struktur. 
+## COPILOT's Gesundheits-Check: Warum dieses Gericht punktet
+Diese Zucchini-Nudel-Pfanne ist nicht leicht, aber nährstoffreich.  
+Zucchini und Zwiebel liefern Ballaststoffe, Kalium und eine natürliche Süße, die ohne Zucker auskommt.  
+Das Hackfleisch sorgt für Eiweiß und Eisen, der Käse ergänzt Calcium und Fett für Sättigung.  
+Dinkel-Penne bringen komplexe Kohlenhydrate.  
+Olivenöl liefert wertvolle ungesättigte Fettsäuren und unterstützt die Aufnahme fettlöslicher Vitamine.  
+In Summe: ein Gericht mit guter Balance aus Gemüse, Eiweiß und Getreide – sättigend, aber nicht schwer. 
 
+---
+
+## Kurt's Praxis-Check: So schmeckt es dann
+Das Gericht hat eine fruchtig saftige Grundnote, die durch die Zucchini und die Zwiebel überraschend süß wird. 
+Zucchini, Zwiebel, Fleisch und Penne verbinden sich zu einem runden Gesamtgeschmack ohne dominante Einzelnoten. 
+Die Textur bleibt angenehm lebendig: leichter Biss, Zucchini und Fleischflocken mit spürbarer Festigkeit.  
+Nichts zerkocht, nichts breiig. 
+
+---
 
 ## Energiewerte – Makro / Mikro dieser Mahlzeit 
 (Schätzung für eine Portion - die Hälfte der gesamten, im Rezept eingesetzten Mengen) 
@@ -107,23 +116,13 @@ Gesamtwirkung: Ein Gericht mit guter Sättigung, kontrollierter Fettmenge, moder
 | Vitamin B12 | ca. 2,8 µg | ca. 70 Prozent | Hackfleisch, Tilsiter |
 | Niacin (B3) | ca. 7 mg | ca. 44 Prozent | Hackfleisch, Penne, Zucchini |
 | Folsäure (B9) | ca. 120 µg | ca. 40 Prozent | Zucchini, Dinkel Penne |
----
-
-## Praxis-Check: So schmeckt es dann
-**Textur:** Pilze, Paprikastücke und Dinkel-Penne haben einen angenehm festen Biss.  
-Die Zwiebeln sind nur punktuell wahrnehmbar – kleine weiche Einsprengsel, die die Struktur nicht verändern.  
-**Geschmack:** Paprika, Pilze und Penne bilden einen gemeinsamen Grundton. 
-Paprika und Pilze sind einzeln zu erkennen, die Zwiebeln blitzen manchmal auf.  
-Die Sojasauce liefert viel Umami und vertieft den Grundton, wird aber bewusst nicht beherrschend.  
-Das Sambal Oelek: Da es in sehr kleiner Menge hinzugefügt wird, bleibt es unaufdringlich, gibt aber eine leise Schärfe.  
-Die zwei bis drei Tropfen Essig heben den Gesamtgeschmack erkennbar – er wird heller. 
 
 ---
 
 ## Zusammenfassung von Mitautorin COPILOT:
-Das Rezept „Gemüse-Nudel-Pfanne mit Asia-Note“ beschreibt ein klar strukturiertes, alltagstaugliches Gericht mit ausgewogener Nährstoffbilanz.  
-Es verbindet Dinkel-Penne, Champignons, Paprika und Zwiebeln zu einer leichten, aromatischen Mahlzeit mit asiatischem Akzent durch Sojasauce und Sambal Oelek.  
-Ein Rezept mit technischer Präzision und ernährungsphysiologischer Klarheit. 
+Ein Gericht, das zeigt, wie einfache Zutaten zu einem harmonischen, gesunden Essen werden können.  
+Die Kombination aus Zucchini, Fleisch und Dinkel-Penne liefert Energie ohne Schwere, Geschmack ohne Überladung.  
+Ideal für den Alltag – nahrhaft, unkompliziert und mit einer natürlichen Süße. 
 
 ---
 
