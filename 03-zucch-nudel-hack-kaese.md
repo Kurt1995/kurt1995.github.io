@@ -53,19 +53,18 @@ Vorsicht: Die Kochzeit für die Dinkel-Penne ist kürzer als bei Hartweizennudel
 
 ![Fertiges Gericht](assets/03-zucch-nudel-10.jpg)
 
-<table>
-  <tr>
-    <td><img src="assets/03-zucch-nudel-11.jpg" alt="Abend" width="512"></td>
-    <td align="center"><i>so soll es aussehen<br><br>die Paprika mit weichem Biss<br><br>die Zwiebel glasig<br><br>die Pilze ein wenig geschrumpft<br><br>die Nudeln wie frisch gekocht</i></td>
-  </tr>
-</table>
+---
 
-* Am Tisch mit einer Messerspitze Sambal Oelek, ein paar Körnern Salz und etwas Sojasauce würzen.
-* Zwei oder drei Tropfen Apfelessig (Reisessig / heller Balsamico) ergänzen. 
+| und am Abend | ein Süppchen |
+| :---: | :--- |
+| ![brokkolipfanne4.jpg](assets/03-zucch-nudel-11.jpg) | **Am Abend schmeckt ein Rest als Süppchen.** <br><br> Sollte von der Zucchini-Pfanne etwas übrig bleiben, lässt sich daraus mit minimalem Aufwand eine leichte Abendvariante zaubern. <br><br> **Schnelle Zubereitung:** <br> • **Basis**: Die verbliebenen Reste in eine Suppenschale geben. <br> • **Vorwärmen**: In der Mikro 1 min vorwärmen. <br> • **Aufgießen**: Mit heißer Brühe aufgießen und servieren. |
 
-
+*Hinweis bei Resten mit Gemüse + Nudeln:  
+Reste 30 Min. ohne Deckel abdampfen lassen, dann abgedeckt in den Kühlschrank (max. 24h). Abends mit sprudelnd kochender Brühe aufgießen, 2-3 Min. ziehen lassen, gut umrühren - bis es durchgehend dampfend heiß ist (>70°C).  
+**Reste nicht bei Zimmertemperatur aufbewahren!***
 
 ---
+
 
 ## META's Gesundheits-Check: Warum dieses Gericht punktet
 Diese Pfanne kombiniert vier Sachen, die im Alltag gut funktionieren:  
