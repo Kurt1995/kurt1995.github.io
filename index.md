@@ -36,7 +36,7 @@
     <td style="padding:6px 8px;"><a href="15-ei-in-wtomate.html">Verlorenes Ei in Winter-Tomate</a></td>
   </tr>
   <tr>
-    <td style="padding:6px 8px;"><a href="18-nudel-zucch.html">Tomaten-Schicht-Pfanne mit Zucchini und Hack</a></td>
+    <td style="padding:6px 8px;"><a href="18-nudel-zucch.html">Tomaten-Schicht-Pfanne "Zucchini"</a></td>
     <td style="padding:6px 8px;"><a href="08-nudelinwt.html">Nudeln in Winter-Tomate</a></td>
   </tr>
   
