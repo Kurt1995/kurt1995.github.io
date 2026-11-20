@@ -1,4 +1,4 @@
-<h1 align="center">Kurt hat gekocht<br>Tomaten-Zucchini-Schicht-Pfanne</h1>
+<h1 align="center">Kurt hat gekocht<br>Tomaten-Schicht-Pfanne mit Zucchini und Hack</h1>
 
 
 ![Zutaten für Tomatenschicht-Pfanne Zucchini](assets/18-t-schicht-zucchini-01.jpg)
