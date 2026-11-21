@@ -69,7 +69,7 @@
   <tr>
     <td><img src="assets/18-nudel-ziege-10.jpg" alt="Suppe" width="712"></td>
     <td align="center"><i>Sollte von der Pfanne am Mittag etwas übrig bleiben,<br>lässt sich daraus mit minimalem Aufwand eine leichte Abendvariante zaubern.<br><br>Schnelle Zubereitung:<br><br>
-      Basis: Die verbliebenen Reste<br>in eine Suppenschale geben.<br><br>Vorwärmen: Ca. 1 Minute in der Mikro vorwärmen.<br><br>Aufgießen: Mit heißer Brühe aufgießen und servieren.</i></td>
+      Basis: Die verbliebenen Reste in eine Suppenschale geben.<br><br>Vorwärmen: Ca. 1 Minute in der Mikro vorwärmen.<br><br>Aufgießen: Mit heißer Brühe aufgießen und servieren.</i></td>
   </tr>
 </table>
 
