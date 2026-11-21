@@ -1,7 +1,7 @@
 <h1 align="center">Kurt hat gekocht<br>Tomaten-Schicht-Pfanne mit Ziegenkäse</h1>
 <br>
 
-![Zutaten für Fruchtige Nudelpfanne Asia-Note](assets/18-nudel-asia-01.jpg)
+![Zutaten](assets/18-nudel-ziege-01.jpg)
 
 ### Zutaten (für eine Riesen- oder zwei Normalportionen)
 
@@ -25,14 +25,14 @@
 
 <table>
   <tr>
-    <td><img src="assets/18-nudel-asia-02.jpg" alt="Schritt 1"></td>
-    <td><img src="assets/18-nudel-asia-03.jpg" alt="Schritt 2"></td>
-    <td><img src="assets/18-nudel-asia-04.jpg" alt="Schritt 3"></td>
+    <td><img src="assets/18-nudel-ziege-02.jpg" alt="Schritt 1"></td>
+    <td><img src="assets/18-nudel-ziege-03.jpg" alt="Schritt 2"></td>
+    <td><img src="assets/18-nudel-ziege-04.jpg" alt="Schritt 3"></td>
   </tr>
   <tr>
-    <td><img src="assets/18-nudel-asia-05.jpg" alt="Schritt 4"></td>
-    <td><img src="assets/18-nudel-asia-06.jpg" alt="Schritt 5"></td>
-    <td><img src="assets/18-nudel-asia-07.jpg" alt="Schritt 6" width="1300"></td>
+    <td><img src="assets/18-nudel-ziege-05.jpg" alt="Schritt 4"></td>
+    <td><img src="assets/18-nudel-ziege-06.jpg" alt="Schritt 5"></td>
+    <td><img src="assets/18-nudel-ziege-07.jpg" alt="Schritt 6"></td>
   </tr>
 </table>
 
