@@ -3,7 +3,7 @@
 
 ![Zutaten](assets/18-nudel-ziege-01.jpg)
 
-### Zutaten (für eine Riesen- oder zwei Normalportionen)
+### Zutaten für zwei Portionen
 
 - Tomaten ca. 600 g 
 - Champignons (weiß oder braun) ca. 200 g 
@@ -91,111 +91,136 @@ Mit wenig **Olivenöl**, mittlerer Hitze und Deckel ist die Zubereitung sehr sch
 
 ---
 
-### Nährwerte
-#### 1. Makronährstoffe (bezogen auf die gesamte Zutatenmenge) 
+### Nährwerte für eine Portion
+#### 1. Makronährstoffe (bezogen auf die halbe Zutatenmenge) 
 
 <table style="width: 800px; border-collapse: collapse; font-family: sans-serif;">
   <thead>
     <tr style="border-bottom: 2px solid #000;">
-      <th style="width: 170px; text-align: left; padding: 8px; border: 1px solid #000;">Nährstoff</th>
-      <th style="width: 170px; text-align: center; padding: 8px; border: 1px solid #000;">Menge</th>
-      <th style="text-align: left; padding: 8px; border: 1px solid #000;">Anmerkung</th>
+      <th style="width: 170px; text-align: left; padding: 8px; border: 1px solid #000; font-weight: bold;">Nährstoff</th>
+      <th style="width: 170px; text-align: center; padding: 8px; border: 1px solid #000; font-weight: bold;">Menge pro Portion</th>
+      <th style="text-align: left; padding: 8px; border: 1px solid #000; font-weight: bold;">Anmerkung</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="padding: 8px; border: 1px solid #000;"><strong>Kalorien</strong></td>
-      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 1100 kcal</td>
-      <td style="padding: 8px; border: 1px solid #000;">Vor allem durch Nudeln, Hack und Öl</td>
+      <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">Kalorien</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 660 kcal</td>
+      <td style="padding: 8px; border: 1px solid #000;">Schätzwert, inkl. Olivenöl</td>
     </tr>
     <tr>
-      <td style="padding: 8px; border: 1px solid #000;"><strong>Eiweiß</strong></td>
-      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 55 g</td>
-      <td style="padding: 8px; border: 1px solid #000;">Sehr gut! Durch Fleisch, Nudeln und Pilze</td>
+      <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">Eiweiß</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 33 g</td>
+      <td style="padding: 8px; border: 1px solid #000;">Aus Hack, Käse, Nudeln, Pilzen</td>
     </tr>
     <tr>
-      <td style="padding: 8px; border: 1px solid #000;"><strong>Kohlenhydrate</strong></td>
-      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 95 g</td>
-      <td style="padding: 8px; border: 1px solid #000;">Hauptenergiequelle durch Nudeln</td>
+      <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">Kohlenhydrate</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 57 g</td>
+      <td style="padding: 8px; border: 1px solid #000;">Hauptsächlich aus den Nudeln</td>
     </tr>
     <tr>
-      <td style="padding: 8px; border: 1px solid #000;"><strong>davon Zucker</strong></td>
+      <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">davon Zucker</td>
       <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 12 g</td>
-      <td style="padding: 8px; border: 1px solid #000;">Natürlich durch Tomaten</td>
+      <td style="padding: 8px; border: 1px solid #000;">Fast nur natürlicher Zucker aus Tomaten</td>
     </tr>
     <tr>
-      <td style="padding: 8px; border: 1px solid #000;"><strong>Fett (gesamt)</strong></td>
-      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 55 g</td>
-      <td style="padding: 8px; border: 1px solid #000;">2 EL Öl + Hackfleisch</td>
+      <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">Fett gesamt</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 35 g</td>
+      <td style="padding: 8px; border: 1px solid #000;">Aus Öl, Hack und Käse</td>
     </tr>
     <tr>
-      <td style="padding: 8px; border: 1px solid #000;"><strong>Gesättigte Fettsäuren</strong></td>
-      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 15 g</td>
-      <td style="padding: 8px; border: 1px solid #000;">Durch das gemischte Hack</td>
+      <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">Gesättigte Fettsäuren</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 13 g</td>
+      <td style="padding: 8px; border: 1px solid #000;">Hauptsächlich aus Hack und Käse</td>
     </tr>
     <tr>
-      <td style="padding: 8px; border: 1px solid #000;"><strong>Ballaststoffe</strong></td>
-      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 10 g</td>
-      <td style="padding: 8px; border: 1px solid #000;">Sehr gut durch große Gemüsemenge</td>
+      <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">Einfach ungesättigte Fettsäuren</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 16 g</td>
+      <td style="padding: 8px; border: 1px solid #000;">Hauptsächlich aus Olivenöl</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">Ballaststoffe</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 6 g</td>
+      <td style="padding: 8px; border: 1px solid #000;">Aus Tomaten, Pilzen und Nudeln</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">Resistente Stärke</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 3 bis 5 g</td>
+      <td style="padding: 8px; border: 1px solid #000;">Nur Schätzung. Wert hängt stark von Abkühlen, Einfrieren und schonendem Auftauen ab. Nicht laborgeprüft.</td>
     </tr>
   </tbody>
 </table>
 
-#### 2. Mikronährstoffe (bezogen auf die gesamte Zutatenmenge)
+#### 2. Mikronährstoffe (bezogen auf die halbe Zutatenmenge)
 
 <table style="width: 800px; border-collapse: collapse; font-family: sans-serif;">
   <thead>
     <tr style="border-bottom: 2px solid #000;">
-      <th style="width: 170px; text-align: left; padding: 8px; border: 1px solid #000;">Nährstoff</th>
-      <th style="width: 170px; text-align: center; padding: 8px; border: 1px solid #000;">Menge</th>
-      <th style="text-align: left; padding: 8px; border: 1px solid #000;">Deckungsbeitrag (Referenzwert Erwachsene/Tag)</th>
+      <th style="width: 170px; text-align: left; padding: 8px; border: 1px solid #000; font-weight: bold;">Nährstoff</th>
+      <th style="width: 170px; text-align: center; padding: 8px; border: 1px solid #000; font-weight: bold;">Menge pro Portion</th>
+      <th style="text-align: left; padding: 8px; border: 1px solid #000; font-weight: bold;">Anmerkung</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="padding: 8px; border: 1px solid #000;"><strong>Vitamin C</strong></td>
-      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 65 mg</td>
-      <td style="padding: 8px; border: 1px solid #000;">65 % (hoher Gehalt durch Tomaten)</td>
+      <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">Salz</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 0,5 g</td>
+      <td style="padding: 8px; border: 1px solid #000;">Ohne zusätzliches Nachsalzen am Tisch. Sojasauce nicht eingerechnet.</td>
     </tr>
     <tr>
-      <td style="padding: 8px; border: 1px solid #000;"><strong>Vitamin A (Beta-Carotin)</strong></td>
-      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 1,2 mg</td>
-      <td style="padding: 8px; border: 1px solid #000;">150 % (aus Tomaten)</td>
+      <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">Vitamin C</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 41 mg</td>
+      <td style="padding: 8px; border: 1px solid #000;">Hauptsächlich aus Tomaten. Ein Teil geht beim Schmoren verloren.</td>
     </tr>
     <tr>
-      <td style="padding: 8px; border: 1px solid #000;"><strong>Vitamin B12</strong></td>
-      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 2,5 µg</td>
-      <td style="padding: 8px; border: 1px solid #000;">100 % (aus Hackfleisch)</td>
+      <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">Vitamin B1 (Thiamin)</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 0,5 mg</td>
+      <td style="padding: 8px; border: 1px solid #000;">Aus Nudeln, Hack und Pilzen</td>
     </tr>
     <tr>
-      <td style="padding: 8px; border: 1px solid #000;"><strong>Vitamin B6</strong></td>
-      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 1,5 mg</td>
-      <td style="padding: 8px; border: 1px solid #000;">100 % (Hack, Pilze, Nudeln)</td>
+      <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">Vitamin B2 (Riboflavin)</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 0,8 mg</td>
+      <td style="padding: 8px; border: 1px solid #000;">Hauptsächlich aus Champignons und Ziegenkäse</td>
     </tr>
     <tr>
-      <td style="padding: 8px; border: 1px solid #000;"><strong>Folat (B9)</strong></td>
-      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 120 µg</td>
-      <td style="padding: 8px; border: 1px solid #000;">60 % (Pilze, Tomaten, Nudeln)</td>
+      <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">Niacin (Vitamin B3)</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 11 mg</td>
+      <td style="padding: 8px; border: 1px solid #000;">Hauptsächlich aus Champignons und Hack</td>
     </tr>
     <tr>
-      <td style="padding: 8px; border: 1px solid #000;"><strong>Kalium</strong></td>
-      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 1900 mg</td>
-      <td style="padding: 8px; border: 1px solid #000;">90 % (sehr hoch in Tomaten & Pilzen)</td>
+      <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">Vitamin B6</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 0,7 mg</td>
+      <td style="padding: 8px; border: 1px solid #000;">Aus Tomaten und Hack</td>
     </tr>
     <tr>
-      <td style="padding: 8px; border: 1px solid #000;"><strong>Magnesium</strong></td>
-      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 150 mg</td>
-      <td style="padding: 8px; border: 1px solid #000;">40 % (Pilze, Nudeln)</td>
+      <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">Folat (Vitamin B9)</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 83 µg</td>
+      <td style="padding: 8px; border: 1px solid #000;">Hauptsächlich aus Tomaten und Pilzen</td>
     </tr>
     <tr>
-      <td style="padding: 8px; border: 1px solid #000;"><strong>Zink</strong></td>
-      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 5 mg</td>
-      <td style="padding: 8px; border: 1px solid #000;">50 % (aus Hackfleisch)</td>
+      <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">Vitamin B12</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 2,0 µg</td>
+      <td style="padding: 8px; border: 1px solid #000;">Nur aus Hack und Käse, also aus tierischen Zutaten</td>
     </tr>
     <tr>
-      <td style="padding: 8px; border: 1px solid #000;"><strong>Lycopin</strong></td>
-      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 15 mg</td>
-      <td style="padding: 8px; border: 1px solid #000;">sehr hoch (durch gekochte Tomaten optimal verfügbar)</td>
+      <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">Kalium</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 1.390 mg</td>
+      <td style="padding: 8px; border: 1px solid #000;">Aus Tomaten, Pilzen und Hack.</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">Calcium</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 176 mg</td>
+      <td style="padding: 8px; border: 1px solid #000;">Hauptsächlich aus Ziegenkäse.</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">Eisen</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 3,7 mg</td>
+      <td style="padding: 8px; border: 1px solid #000;">Aus Hack, Nudeln und Pilzen. Vitamin C aus Tomaten unterstützt die Aufnahme.</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">Lycopin</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 9 mg</td>
+      <td style="padding: 8px; border: 1px solid #000;">Aus geschmorten Tomaten. Durch Erhitzen besser verfügbar.</td>
     </tr>
   </tbody>
 </table>
