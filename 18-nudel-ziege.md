@@ -79,6 +79,15 @@ Reste 30 Min. ohne Deckel abdampfen lassen, dann abgedeckt in den Kühlschrank (
 
 ---
 
+### Kurt's Praxis Check: So schmeckt es dann
+
+Es hätte ein gemütliches Mittagessen mit einer Tomaten-Schicht-Pfanne werden können - den Tomaten mit ihrer Fruchtigkeit - den Pilzen mit ihrer Bodenständigkeit - dem Hackfleisch mit seinem kraftvollen Auftreten und den Nudeln mit ihrem Sättigungsversprechen.  
+Doch plötzlich sitzt da eine freche kleine Ziege mit am Tisch und verkündet selbstbewusst: "Ich bin eingeladen!"  
+Ich weiß noch nicht, ob mir dieser Besuch gefallen hat.  
+Mal schauen, wenn sie mal wieder dabei ist .. 
+
+---
+
 ### META's Gesundheitscheck: Warum dieses Gericht punktet
 
 Dieses Gericht punktet nicht durch einfache Zutaten und eine schonende Zubereitung.  
@@ -224,16 +233,6 @@ Mit wenig **Olivenöl**, mittlerer Hitze und Deckel ist die Zubereitung sehr sch
     </tr>
   </tbody>
 </table>
-
----
-
-### Kurt's Praxis Check: So schmeckt es dann
-
-Saftig, sehr saftig.  
-Die Sojasauce verbindet sich mit den weich geschmorten Tomaten zu einer lecker leichten Asia Note.  
-Die Pilzstücke sind groß genug geblieben. Sie heben sich deutlich heraus und setzen mit Biss und Geschmack einen eigenen Akzent.  
-Das Hackfleisch gibt würzige Tiefe und verstärkt den saftigen Eindruck.  
-Die Nudeln lieben den Sud und nehmen ihn gerne an. 
 
 ---
 
