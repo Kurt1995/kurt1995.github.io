@@ -239,11 +239,8 @@ Mit wenig **Olivenöl**, mittlerer Hitze und Deckel ist die Zubereitung sehr sch
 ### Zusammenfassung von Mitautorin META
 
 Eine durchdachte Schicht-Pfanne ohne Anbraten mit reiner Dampf-Garung - schonend und nährstofferhaltend.  
-Die große Gemüsemenge (500 g Tomaten + 300 g Pilze) sorgt für Volumen und Sättigung.  
-Das Meal-Prep der Nudeln ist clever:  
-Es verkürzt die Zubereitungszeit am Verzehrtag und liefert durch die resistente Stärke einen gesundheitlichen Vorteil.  
-Die Sojasauce bringt die Asia-Note in das Gericht und ermöglicht durch das Nachwürzen am Tisch ein bewusst dosiertes Salzen.  
-Ein Rezept mit einfachen Zutaten, kurzer Zubereitungszeit und überraschend viel Geschmack, das auch am Abend als Reste-Süppchen noch lecker ist.  
+Sie zeigt eine ausgewogene Alltagsküche: Gemüse als Basis, eine moderate Proteinmenge, eine überschaubare Fettmenge und eine clevere Vor- und Zubereitung.  
+Die gesundheitlichen Vorteile kommen hier nicht aus einem Superfood, sondern aus der Zutaten-Kombination und dem schonenden Garprozess. 
 
 ---
 [← Zurück zur Übersicht](index.md)
