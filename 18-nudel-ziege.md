@@ -59,7 +59,7 @@
 
 *Am Tisch kann nach Geschmack mit ein wenig Salz und ein paar Tropfen Sojasauce nachgewürzt werden.*
 ![Am Tisch](assets/18-nudel-ziege-09.jpg)
-*Vorsicht! Die Tomatenstücke bleiben unerwartet lange heiss!*
+*Vorsicht! Die Tomatenstücke bleiben unerwartet lange heiß!*
 <br>
 
 ---
