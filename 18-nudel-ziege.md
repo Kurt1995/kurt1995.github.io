@@ -5,11 +5,12 @@
 
 ### Zutaten (für eine Riesen- oder zwei Normalportionen)
 
-- Tomaten (ca. 500 g - diese sind aus dem eigenen Garten) 
-- Champignons (250 – 300 g) 
+- Tomaten ca. 600 g 
+- Champignons (weiß oder braun) ca. 200 g 
+- 120 g Spiralnudeln (Trockenmenge, siehe Langfristvorbereitung) 
 - 150 g Hackfleisch, gemischt (halb und halb) 
-- 120 g Spiralnudeln (Trockenmenge) 
-- 1 Esslöffel Olivenöl + 1 Esslöffel Rapsöl 
+- Ca. 80 g Ziegenweichkäserolle 
+- 2 Esslöffel Olivenöl 
 - Gewürze: Salz, schwarzer Pfeffer, Paprikapulver rosenscharf, Sojasauce
 
 ### Zubereitung
@@ -36,29 +37,29 @@
   </tr>
 </table>
 
--	Die Öle in die Pfanne geben.
--	Die Tomaten in dicke Scheiben schneiden und den Pfannenboden auslegen.
--	Die Pilze putzen, in grobe Würfel schneiden und darüber verteilen. Mutig mit schwarzem Pfeffer würzen. 
+- Das Olivenöl in die Pfanne geben. 
+- Die Tomaten in dicke Scheiben schneiden und den Pfannenboden auslegen. Mutig mit schwarzem Pfeffer würzen. 
+- Die Champignons putzen, in ca. 1 cm dicke Scheiben schneiden und die Tomaten bedecken. 
 - Das Hackfleisch nach Geschmack mit Salz, Pfeffer, Paprikapulver  würzen und in Flocken hinzugeben. 
-- Mit den Nudeln bedecken. 
-- Ca. 8 Minuten bei mittlerer Hitze mit Deckel schmoren / garen. 
-- Sobald das Hackfleisch durchgegart ist, die Pfanne vom Herd nehmen.  
-*Bei Bedarf auf kleinster Stufe warmhalten.* 
+- Mit den Spiralnudeln bedecken. 
+- Den Ziegenkäse in dünne Scheiben schneiden und auf den Nudeln verteilen. 
+- Ca. 8 Minuten bei mittlerer Hitze mit Deckel schmoren / garen.    
+- Die Pfanne vom Herd nehmen. Bei Bedarf auf kleinster Stufe warmhalten.
 
 <br>
 
 <table>
   <tr>
-    <td><img src="assets/18-nudel-asia-08.jpg" alt="Servieren" width="712"></td>
-    <td align="center"> <i>und so soll es aussehen<br><br>die Tomaten sind noch nicht zu weich<br><br>das Hack und die Pilze<br>wurden im Dampf gegart<br><br>die Nudeln sind gut durchgewärmt<br><br>und<br><br>am Pfannenboden haben sich<br>Tomaten- und Pilzsaft<br>zu einem leckeren Sud gesammelt</i></td>
+    <td><img src="assets/18-nudel-ziege-08.jpg" alt="Servieren" width="712"></td>
+    <td align="center"> <i>und so soll es aussehen<br><br>die Tomaten sind noch nicht zu weich<br><br>das Hack und die Pilze<br>wurden im Dampf gegart<br><br>die Nudeln sind gut durchgewärmt<br>der Ziegenkäse ist angeschmolzen<br>und<br><br>am Pfannenboden hat sich<br>ein leckerer Sud aus den Gemüsesäften gebildet</i></td>
   </tr>
 </table>
 
 ---
 
-![Nudelpfanne Asia](assets/18-nudel-asia-09.jpg)
-Am Tisch nach Geschmack mit Sojasauce würzen.
-*(Vorsicht! Die Tomatenstücke bleiben unerwartet lange heiss!)*
+*Am Tisch kann nach Geschmack mit ein wenig Salz und ein paar Tropfen Sojasauce nachgewürzt werden.*
+![Am Tisch](assets/18-nudel-ziege-09.jpg)
+*Vorsicht! Die Tomatenstücke bleiben unerwartet lange heiss!*
 <br>
 
 ---
@@ -66,9 +67,9 @@ Am Tisch nach Geschmack mit Sojasauce würzen.
 #### Am Abend schmeckt ein Rest als Süppchen:
 <table>
   <tr>
-    <td><img src="assets/18-nudel-asia-10.jpg" alt="Servieren" width="712"></td>
-    <td align="center"> <i>Sollte von der Pfanne am Mittag etwas übrig bleiben,<br>lässt sich daraus mit minimalem Aufwand eine leichte Abendvariante zaubern.<br><br>Schnelle Zubereitung:<br><br>Basis: Die verbliebenen Reste (Gemüse, 
-Nudeln und Fleisch)<br>in eine Suppenschale geben.<br><br>Aufgießen: Mit heißer Brühe aufgießen und servieren. </i></td>
+    <td><img src="assets/18-nudel-ziege-10.jpg" alt="Suppe" width="712"></td>
+    <td align="center"><i>Sollte von der Pfanne am Mittag etwas übrig bleiben,<br>lässt sich daraus mit minimalem Aufwand eine leichte Abendvariante zaubern.<br><br>Schnelle Zubereitung:<br><br>
+      Basis: Die verbliebenen Reste<br>in eine Suppenschale geben.<br><br>Vorwärmen: Ca. 1 Minute in der Mikro vorwärmen.<br><br>Aufgießen: Mit heißer Brühe aufgießen und servieren.</i></td>
   </tr>
 </table>
 
