@@ -81,15 +81,13 @@ Reste 30 Min. ohne Deckel abdampfen lassen, dann abgedeckt in den Kühlschrank (
 
 ### META's Gesundheitscheck: Warum dieses Gericht punktet
 
-Diese Schicht-Pfanne ist mehr als nur schnell zubereitet – sie ist ein wahres Nährstoffkraftpaket.  
-Die reine Dampf-Garung ohne Anbraten schont nicht nur die Zutaten, sondern verhindert auch die Bildung unerwünschter Röststoffe.  
-Alle Nährstoffe und Aromen bleiben im Gericht erhalten.  
-Besondere Stärken: 
-- Lycopin-Power: Durch das Erhitzen der Tomaten wird das sekundäre Pflanzenstoff Lycopin besonders gut für den Körper verfügbar – ein starker Antioxidans für Zellschutz und Herzgesundheit. 
-- Kalium-Reichtum: Die Kombination aus Tomaten und Champignons liefert außergewöhnlich viel Kalium, das zur Regulierung des Blutdrucks beiträgt.
-- Komplette B-Vitamine:  Das Hackfleisch deckt den Tagesbedarf an B12, Pilze und Nudeln liefern B6 und Folat.
-- Volumen ohne Reue: 800 g Gemüse pro Pfanne = enorme Sättigung bei moderater Kaloriendichte. 
-- Resistente Stärke: Die vorgekochten, tiefgefrorenen und wieder aufgetauten Nudeln enthalten resistente Stärke, gut für die Darmgesundheit. 
+Dieses Gericht punktet nicht durch einfache Zutaten und eine schonende Zubereitung.  
+**Tomaten** liefern viel Wasser, Vitamin C, Kalium und Lycopin. Durch das Erhitzen wird Lycopin besser verfügbar.  
+**Champignons** bringen Ballaststoffe, B-Vitamine und natürlichen Umami-Geschmack.  
+**Hackfleisch** in moderater Menge liefert Protein sowie Eisen, Zink und Vitamin B12.  
+**Ziegenkäse** liefert Calcium und ein sehr intensives Aroma, deshalb reicht eine kleine Menge. Seine kurzkettigen Fettsäuren gelten als vergleichsweise leicht verdaulich.  
+**Vorgekochte Nudeln**, die abgekühlt, eingefroren und schonend im Kühlschrank aufgetaut werden, können einen Teil ihrer Stärke in resistente Stärke Typ 3 umwandeln. Mögliche Folgen sind ein etwas geringerer Blutzuckeranstieg, eine festere Struktur und eine bessere Bekömmlichkeit.  
+Mit wenig **Olivenöl**, mittlerer Hitze und Deckel ist die Zubereitung sehr schonend. Es entstehen kaum Röststoffe, die Vitamine bleiben weitgehend im Saft erhalten. 
 
 ---
 
