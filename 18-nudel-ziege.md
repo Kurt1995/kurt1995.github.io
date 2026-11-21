@@ -90,7 +90,7 @@ Mal schauen, wenn sie mal wieder dabei ist ..
 
 ### META's Gesundheitscheck: Warum dieses Gericht punktet
 
-Dieses Gericht punktet nicht durch einfache Zutaten und eine schonende Zubereitung.  
+Dieses Gericht punktet durch einfache Zutaten und eine schonende Zubereitung.  
 **Tomaten** liefern viel Wasser, Vitamin C, Kalium und Lycopin. Durch das Erhitzen wird Lycopin besser verfügbar.  
 **Champignons** bringen Ballaststoffe, B-Vitamine und natürlichen Umami-Geschmack.  
 **Hackfleisch** in moderater Menge liefert Protein sowie Eisen, Zink und Vitamin B12.  
