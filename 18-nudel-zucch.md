@@ -94,7 +94,7 @@ Doch horch! Da streiten doch zwei?
 „Wir sind stärker!“ rufen die Zucchini und legen - peng - den Tomaten ihre Säurespitze lahm.  
 Das Hackfleisch hält sich im Hintergrund, aber wenn es hervortritt, sorgt es mit einem “Jetzt spreche ich!“ energisch für Ruhe.  
 Die Nudeln lächeln, sie müssen sich nicht streiten. Sie wissen genau, dass sie dazugehören, und wie wertvoll sie sind.  
-Und der Sud? Der umschmeichelt die Nudeln, die das gerne zulassen.
+Und der Sud? Der schmiegt sich an die Nudeln, die das gerne zulassen.
 
 ---
 
