@@ -6,7 +6,7 @@
 ### Zutaten für 2 Portionen
 
 - **Tomaten** (ca. 500 - 600 g) 
-- **1 oder 2 Zucchini** (ca. 250 g) 
+- **1 mittlere oder 2 kleine Zucchini** (ca. 250 g) 
 - **150 g Gehacktes,** gemischt (halb und halb) 
 - **125 g Dinkel-Penne** (Trockenmenge – siehe Langfristvorbereitung) 
 - **2 Esslöffel Olivenöl** 
