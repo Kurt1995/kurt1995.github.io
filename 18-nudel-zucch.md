@@ -111,7 +111,7 @@ Dazu kommen **zwei Esslöffel Olivenöl** für zwei Portionen. Das reicht, um Ge
 ---
 
 ### Geschätzte Nährwerte pro Portion   
-Gerechnet für 2 Portionen aus 550 g Tomaten, 300 g Zucchini, 150 g gemischtem Hack, 125 g Dinkel Penne trocken gesamt und 2 Esslöffeln Olivenöl gesamt. Alle Werte sind gerundete Schätzwerte, je nach Produkt und Gar-Grad schwanken sie etwas. 
+Gerechnet für 2 Portionen aus 550 g Tomaten, 250 g Zucchini, 150 g gemischtem Hack, 125 g Dinkel Penne trocken gesamt und 2 Esslöffeln Olivenöl gesamt. Alle Werte sind gerundete Schätzwerte, je nach Produkt und Gar-Grad schwanken sie etwas. 
 
 <h3>Makronährstoffe</h3>
 <table style="width: 800px; border-collapse: collapse; font-family: sans-serif;">
@@ -243,9 +243,9 @@ Gerechnet für 2 Portionen aus 550 g Tomaten, 300 g Zucchini, 150 g gemischtem H
 
 ### Zusammenfassung von Mitautorin META
 Dieses Rezept lebt von Einfachheit und Aufmerksamkeit.  
-Wenige Zutaten, eine Pfanne und ein bisschen Geduld reichen schon.  
+Wenige Zutaten reichen schon.  
 Beim Kochen darf man ihnen zusehen, beim Essen darf man ihnen zuhören.  
-Weniger poetisch: viel Gemüse, eine moderate Nudelportion, Hack dazu und Fett bewusst dosiert.  
+Weniger poetisch: viel Gemüse, eine moderate Nudelportion, Hack dazu schaffen ein interessantes Geschmackserlebnis.    
 Eine Mischung, die das Rezept alltagstauglich und gut verträglich macht. 
  
 ---
