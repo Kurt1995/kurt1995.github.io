@@ -5,8 +5,8 @@
 
 ### Zutaten für 2 Portionen
 
-- **Frische Tomaten** (ca. 500 - 600 g) 
-- **1 Zucchini** (ca. 300 g) 
+- **Tomaten** (ca. 500 - 600 g) 
+- **1 oder 2 Zucchini** (ca. 250 g) 
 - **150 g Gehacktes,** gemischt (halb und halb) 
 - **125 g Dinkel-Penne** (Trockenmenge – siehe Langfristvorbereitung) 
 - **2 Esslöffel Olivenöl** 
@@ -29,11 +29,21 @@
     <td><img src="assets/18-t-schicht-zucchini-03.jpg" alt="Schritt 2"></td>
     <td><img src="assets/18-t-schicht-zucchini-04.jpg" alt="Schritt 3"></td>
   </tr>
+  <tr align="center">
+    <td>Öl und Tomaten sind in der Pfanne</td>
+    <td>Mit Zucchini bedecken</td>
+    <td>Hackfleisch in Flocken dazu</td>
+  </center></tr>
   <tr>
     <td><img src="assets/18-t-schicht-zucchini-05.jpg" alt="Schritt 4"></td>
     <td><img src="assets/18-t-schicht-zucchini-06.jpg" alt="Schritt 5"></td>
     <td><img src="assets/18-t-schicht-zucchini-07.jpg" alt="Schritt 6"></td>
   </tr>
+  <tr align="center">
+    <td>Die Nudeln verteilen</td>
+    <td>Mit Deckel schmoren</td>
+    <td>Nach 8 Minuten Schmoren</td>
+  </center></tr>
 </table>
 
 
@@ -49,7 +59,7 @@
 <table>
   <tr>
     <td><img src="assets/18-t-schicht-zucchini-09.jpg" alt="Servieren" width="712"></td>
-    <td align="center"> <i>und so soll es dann aussehen<br><br>die Tomaten sind nicht zu weich geworden<br><br>die Zucchini und das Hack wurden geschmort<br><br>die Nudeln sind durchgewärmt<br><br>und<br>am Pfannenboden haben sich<br>Tomaten- und Zucchinisaft<br>zu einem leckeren Sud gesammelt</i></td>
+    <td align="center"> <i>und so soll es dann aussehen<br><br>die Tomaten und die Zucchini sind geschmort<br>und haben noch einen leichten Biss <br><br>das Hackfleisch ist durchgegart und saftig<br><br>die Nudeln sind durchgewärmt<br><br>und<br>am Pfannenboden haben sich<br>Tomaten- und Zucchinisaft<br>zu einem leckeren Sud gesammelt</i></td>
   </tr>
 </table>
 
@@ -77,6 +87,18 @@ Reste 30 Min. ohne Deckel abdampfen lassen, dann abgedeckt in den Kühlschrank (
 
 ---
 
+### Kurt's Praxis Check: So schmeckt es dann
+Saftig, oh ja, sehr saftig!  
+Horch! Da streiten doch zwei?  
+„Wir sind viel mehr!“ sagen die Tomaten.  
+„Wir sind stärker!“ rufen die Zucchini.  
+Ein Kompromiss: beide behalten ihren typischen Eigengeschmack, aber die Tomate muss ihre Säurespitzen abgeben.  
+Das Hackfleisch hält sich im Hintergrund, aber wenn es hervortritt, sorgt es mit einem “Jetzt spreche ich!“ energisch für Ruhe.  
+Die Nudeln lächeln, sie müssen sich nicht streiten. Sie wissen genau, dass sie dazugehören, und wie wertvoll sie sind.  
+Und der Sud? Der umschmeichelt die Nudeln, die das gerne zulassen.
+
+---
+
 ### META's Gesundheitscheck: Warum dieses Gericht punktet
 
 Das Gericht punktet, weil es Gemüse in den Mittelpunkt stellt und trotzdem richtig satt macht.  
@@ -85,16 +107,6 @@ Das Gericht punktet, weil es Gemüse in den Mittelpunkt stellt und trotzdem rich
 **Die Dinkel Penne** halten durch ihre Ballaststoffe länger satt als helle Weizennudeln, und weil sie schon vorgekocht sind, muss alles nur kurz schmoren. So bleibt das Gemüse bissfest und aromatisch.  
 Dazu kommen **zwei Esslöffel Olivenöl** für zwei Portionen. Das reicht, um Geschmack zu tragen und fettlösliche Stoffe aus Tomate und Paprika besser aufzunehmen, ohne die Pfanne schwer zu machen.  
 **Pfeffer und scharfes Rosenpaprika** geben Tiefe, sodass weniger Salz nötig ist. 
-
----
-
-### Kurt's Praxis Check: So schmeckt es dann
-Horch! Da streiten doch zwei?  
-„Wir sind viel mehr!“ sagen die Tomaten.  
-„Wir sind stärker!“ rufen die Zucchini.  
-Ein Kompromiss: beide behalten ihren typischen Eigengeschmack, aber die Tomate muss ihre Säurespitzen abgeben.  
-Das Hackfleisch hält sich im Hintergrund, aber wenn es hervortritt, sorgt es mit einem “Jetzt spreche ich!“ energisch für Ruhe.  
-Die Nudeln lächeln, sie müssen sich nicht streiten. Sie wissen genau, dass sie dazugehören, und wie wertvoll sie sind. 
 
 ---
 
