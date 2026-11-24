@@ -245,7 +245,7 @@ Gerechnet für 2 Portionen aus 550 g Tomaten, 250 g Zucchini, 150 g gemischtem H
 Dieses Rezept lebt von Einfachheit und Aufmerksamkeit.  
 Wenige Zutaten reichen schon.  
 Beim Kochen darf man ihnen zusehen, beim Essen darf man ihnen zuhören.  
-Weniger poetisch: viel Gemüse, eine moderate Nudelportion, Hack dazu schaffen ein interessantes Geschmackserlebnis.    
+Weniger poetisch: viel Gemüse, eine moderate Nudelportion und das Hack schaffen ein interessantes Geschmackserlebnis.    
 Eine Mischung, die das Rezept alltagstauglich und gut verträglich macht. 
  
 ---
