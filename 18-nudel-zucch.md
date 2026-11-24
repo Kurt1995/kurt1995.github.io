@@ -33,7 +33,7 @@
     <td>Öl und Tomaten sind in der Pfanne</td>
     <td>Mit Zucchini bedecken</td>
     <td>Hackfleisch in Flocken dazu</td>
-  </center></tr>
+  </tr>
   <tr>
     <td><img src="assets/18-t-schicht-zucchini-05.jpg" alt="Schritt 4"></td>
     <td><img src="assets/18-t-schicht-zucchini-06.jpg" alt="Schritt 5"></td>
@@ -43,7 +43,7 @@
     <td>Die Nudeln verteilen</td>
     <td>Mit Deckel schmoren</td>
     <td>Nach 8 Minuten Schmoren</td>
-  </center></tr>
+  </tr>
 </table>
 
 
@@ -76,7 +76,7 @@ Am Tisch kann nach Geschmack mit ein wenig Salz nachgewürzt werden.
 <table>
   <tr>
     <td><img src="assets/18-t-schicht-zucchini-11.jpg" alt="Servieren" width="712"></td>
-    <td align="center"> <i>Sollte von der Pfanne am Mittag etwas übrig bleiben,<br>lässt sich daraus mit minimalem Aufwand eine leichte Abendvariante zaubern.<br><br>Schnelle Zubereitung:<br><br>Basis: Die verbliebenen Reste (Gemüse, 
+    <td align="center"> <i>Sollte von der Pfanne am Mittag etwas übrig bleiben,<br>lässt sich daraus mit minimalem Aufwand eine leichte Abendvariante zaubern.<br><br>Basis: Die verbliebenen Reste (Gemüse, 
 Nudeln und Fleisch)<br>in eine Suppenschale geben.<br><br>Aufgießen: Mit heißer Brühe aufgießen und servieren. </i></td>
   </tr>
 </table>
