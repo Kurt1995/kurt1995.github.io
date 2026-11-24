@@ -91,8 +91,7 @@ Reste 30 Min. ohne Deckel abdampfen lassen, dann abgedeckt in den Kühlschrank (
 Saftig, oh ja, sehr saftig!  
 Doch horch! Da streiten doch zwei?  
 „Wir sind viel mehr!“ sagen die Tomaten.  
-„Wir sind stärker!“ rufen die Zucchini.  
-Ein Kompromiss: beide behalten ihren typischen Eigengeschmack, aber die Tomate muss ihre Säurespitzen abgeben.  
+„Wir sind stärker!“ rufen die Zucchini und legen - peng - den Tomaten ihre Säurespitze lahm.  
 Das Hackfleisch hält sich im Hintergrund, aber wenn es hervortritt, sorgt es mit einem “Jetzt spreche ich!“ energisch für Ruhe.  
 Die Nudeln lächeln, sie müssen sich nicht streiten. Sie wissen genau, dass sie dazugehören, und wie wertvoll sie sind.  
 Und der Sud? Der umschmeichelt die Nudeln, die das gerne zulassen.
