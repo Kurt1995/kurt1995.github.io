@@ -89,7 +89,7 @@ Reste 30 Min. ohne Deckel abdampfen lassen, dann abgedeckt in den Kühlschrank (
 
 ### Kurt's Praxis Check: So schmeckt es dann
 Saftig, oh ja, sehr saftig!  
-Horch! Da streiten doch zwei?  
+Doch horch! Da streiten doch zwei?  
 „Wir sind viel mehr!“ sagen die Tomaten.  
 „Wir sind stärker!“ rufen die Zucchini.  
 Ein Kompromiss: beide behalten ihren typischen Eigengeschmack, aber die Tomate muss ihre Säurespitzen abgeben.  
