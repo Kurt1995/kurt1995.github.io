@@ -163,13 +163,13 @@ Diese Kartoffelsuppe steht für viel Geschmack, effizientes Zeitmanagement und n
       <td style="padding: 8px; border: 1px solid #000;">Überwiegend aus pflanzlicher Margarine (ca. 13,5 µg), Kartoffeln (ca. 7 µg) und dem Olivenöl (ca. 3 µg).</td>
     </tr>
     <tr>
-      <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">Vitamin D (ergänzt)</td>
+      <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">Vitamin D</td>
       <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 2,8 µg</td>
       <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 14 %</td>
       <td style="padding: 8px; border: 1px solid #000;">Liefern vor allem frische Champignons (ca. 1,9 µg) sowie angereicherte Margarine und Geflügelwurst.</td>
     </tr>
     <tr>
-      <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">Niacin / Vitamin B3 (ergänzt)</td>
+      <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">Niacin / Vitamin B3</td>
       <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 17,3 mg</td>
       <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 128 %</td>
       <td style="padding: 8px; border: 1px solid #000;">Deckt den gesamten Tagesbedarf; besonders reichlich in Geflügelwurst (ca. 9 mg), Champignons (ca. 4,5 mg) und Kartoffeln.</td>
