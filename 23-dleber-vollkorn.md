@@ -1,7 +1,5 @@
 # Kurt snackt &nbsp; – &nbsp; Dorschleber auf Vollkornbrot - ein Abendessen
 
-<br>
-
 ![Zutaten](assets/23-dleber-vollkorn-4.jpg)
 
 ![Verzehr](assets/23-dleber-vollkorn-5.jpg)
