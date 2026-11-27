@@ -1,5 +1,4 @@
 <h1 align="center">Kurt hat gekocht<br>Tomaten-Schicht-Pfanne "Rustica Art"</h1>
-<br>
 
 ![Zutaten für Tomatenschicht-Pfanne Vier Gemüse](assets/18-t-schicht-rusti-01.jpg)
 
