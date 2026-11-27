@@ -110,7 +110,7 @@ Diese Kartoffelsuppe steht für viel Geschmack, effizientes Zeitmanagement und n
   </tbody>
 </table>
 
-***Berechnungsgrundlage:** (½ Gesamtrezept für 1 Portion): 350 g Kartoffeln (Frischgewicht), 200 g Geflügel-Grillwürstchen (2,5 Stück), 100 g frische Champignons, 400 ml Wasser, 1/2 Brühwürfel (Fette Brühe), 1 EL Margarine 
+***Berechnungsgrundlage:** (½ Gesamtrezept für 1 Portion): 350 g Kartoffeln (Frischgewicht), 200 g Geflügel-Grillwürstchen (2,5 Stück), 100 g frische Champignons, 400 ml Wasser, ½ Brühwürfel (Fette Brühe), 1 EL Margarine 
 (ca. 15 g), ½ EL Olivenöl (ca. 5 g) sowie schwarzer Pfeffer.*  
 *Richtwerte bezogen auf eine durchschnittliche Energiezufuhr von 2.000 kcal/Tag (inkl. DGE-Orientierungswert von max. 6 g Salz/Tag).*
 
@@ -201,7 +201,7 @@ Diese Kartoffelsuppe steht für viel Geschmack, effizientes Zeitmanagement und n
   </tbody>
 </table>
 
-***Hinweise & Berechnungsgrundlage:** Berechnet für 1 Portion (350 g Kartoffeln, 200 g Geflügel-Grillwürstchen, 100 g frische Champignons, 15 g Margarine, 5 g Olivenöl, 1/2 Brühwürfel*  
+***Hinweise & Berechnungsgrundlage:** Berechnet für 1 Portion (350 g Kartoffeln, 200 g Geflügel-Grillwürstchen, 100 g frische Champignons, 15 g Margarine, 5 g Olivenöl, ½ Brühwürfel*  
 *Deckungsbeitrag bezogen auf die durchschnittlichen DGE-Referenzwerte für Erwachsene (Mittelwert Frauen/Männer).* 
 
 ---
