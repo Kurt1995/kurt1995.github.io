@@ -1,5 +1,4 @@
 <h1 align="center">Kurt hat gekocht<br>Tomaten-Schicht-Pfanne mit Ziegenkäse</h1>
-<br>
 
 ![Zutaten](assets/18-nudel-ziege-01.jpg)
 
