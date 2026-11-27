@@ -1,7 +1,5 @@
 # Kurt snackt &nbsp; – &nbsp; Muscheln auf Vollkornbrot - ein Abendessen
 
-<br>
-
 ![Zutaten](assets/23-musch-vollk-01.jpg)
 
 ![Verzehr](assets/23-musch-vollk-02.jpg)
