@@ -1,7 +1,5 @@
 <h1 align="center">Kurt hat gekocht<br>Paprika-Pilz-Pfanne mit Reis und Ei</h1>
 
-<br>
-
 ![Zutaten für Paprika Pfanne](assets/11-paprika-pilz-reis-ei-01.jpg)
 
 ## Zutaten für 2 Portionen
