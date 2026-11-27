@@ -1,5 +1,4 @@
 <h1 align="center">Kurt hat gekocht<br>Tomaten-Schicht-Pfanne mit "Asia Note"</h1>
-<br>
 
 ![Zutaten für Fruchtige Nudelpfanne Asia-Note](assets/18-nudel-asia-01.jpg)
 
