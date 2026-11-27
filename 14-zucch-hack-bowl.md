@@ -1,5 +1,4 @@
 <h1 align="center">Kurt hat gekocht<br>Zucchini-Hack-Bowl mit Brühe</h1>
-<br>
 
 ![Zutaten](assets/14-zucch-hack-bowl-01.jpg)
 
