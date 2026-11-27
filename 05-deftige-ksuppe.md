@@ -1,6 +1,4 @@
-# Kurt hat gekocht  &nbsp; – &nbsp; Deftige Kartoffelsuppe
-
-Diese Kartoffelsuppe steht für viel Geschmack, effizientes Zeitmanagement und nährstoffschonende Zubereitung.
+# Kurt hat gekocht  &nbsp; – &nbsp; Deftige Kartoffelsuppe mit Pilzen und Wurst
 
 ![Zutaten Übersicht](assets/05-deftig-kartoffel-suppe-1.jpg)
 
