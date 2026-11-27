@@ -1,5 +1,4 @@
 <h1 align="center">Kurt hat gekocht &nbsp; – &nbsp; Pasta in bianco mit Garnelen</h1>
-<br>
 
 ![Zutaten](assets/47-pasta-garnele-1.jpg)
 
