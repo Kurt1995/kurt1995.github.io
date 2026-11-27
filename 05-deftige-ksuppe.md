@@ -2,14 +2,14 @@
 
 Diese Kartoffelsuppe steht für viel Geschmack, effizientes Zeitmanagement und nährstoffschonende Zubereitung.
 
-![Zutaten Übersicht](assets/05deftigekartoffelsuppe1a.jpg)
+![Zutaten Übersicht](assets/05-deftig-kartoffel-suppe-1.jpg)
 
 ## Zutaten für 2 Portionen
 * **ca. 700 g Kartoffeln** (Frischgewicht, bereits vorgekocht & aufgetaut)
 * **5 Grillwürste** (400 g Geflügel-Bratwurst) 
 * **200 g frische Champignons**
 * **ca. 700 ml Wasser**
-* **2 Brühwürfel** (Fette Brühe)
+* **1 Brühwürfel** (Fette Brühe)
 * **1 Esslöffel Olivenöl**
 * **2 leicht gehäufte Esslöffel Margarine**
 * **Gewürze:** Schwarzer Pfeffer
@@ -29,22 +29,22 @@ Diese Kartoffelsuppe steht für viel Geschmack, effizientes Zeitmanagement und n
 1. **Pilze:** Die Champignons putzen, würfeln und in einer Pfanne mit dem Olivenöl bei mittlerer Hitze 3 bis 4 Minuten anschmoren.
 2. **Erhitzen:** Die aufgetauten Kartoffeln in das Wasser geben und bis zum Siedepunkt hochheizen. 
 3. **Pürieren:** Den Topf vom Herd nehmen und die Kartoffeln direkt im Wasser pürieren. Für eine rustikale Textur gerne einige Kartoffelstückchen ganz lassen.
-4. **Verfeinern:** Zurück auf den Herd stellen. Bei kleiner bis mittlerer Flamme die Champignons, die Margarine und die Brühwürfel hinzufügen.
+4. **Verfeinern:** Zurück auf den Herd stellen. Bei kleiner bis mittlerer Hitze die Champignons, die Margarine und die Brühwürfel hinzufügen.
 5. **Würzen:** Kräftig mit schwarzem Pfeffer abschmecken und 2-3 Minuten köcheln lassen. Mehrfach umrühren.
 6. **Wurst-Einlage:** Die klein geschnittenen Geflügelwürstchen hinzufügen und unterrühren. Da diese handelsüblich vorgebrüht sind, müssen sie nur noch durchwärmen.
 7. **Servieren:** Die Suppe vom Feuer nehmen und servieren.
 
-![Servierte Kartoffelsuppe](assets/05deftigekartoffelsuppe2.jpg)
+![Servierte Kartoffelsuppe](assets/05-deftig-kartoffel-suppe-2.jpg)
 
 ---
 
 ## GEMINIS Gesundheits-Check: Warum dieses Gericht punktet
 
 * **Resistente Stärke & Darmflora:** Durch das Vorkochen und Abkühlen der Kartoffeln in der Langfristvorbereitung entsteht „resistente Stärke“. Diese wirkt wie ein Ballaststoff, sättigt länger und dient den guten Darmbakterien als Nahrung.
-* **Fettbewusster Genuss:** Die Wahl von Geflügel-Bratwürsten (nur ca. 16 % Fett) reduziert die Kalorienlast deutlich gegenüber klassischen Schweinswürsten, ohne beim Geschmack Abstriche zu machen.
-* **Kalium-Quelle:** Kartoffeln sind hervorragende Kaliumlieferanten (wichtig für Blutdruck und Muskelfunktion). Da im Kochwasser püriert wird, bleiben die gelösten Mineralstoffe vollständig in der Suppe erhalten.
-* **Vitamin-E:** Die Margarine liefert nicht nur Aroma für die Champignons, sondern auch wertvolles Vitamin E.
-* **Eiweiß:** Mit 39 g Eiweiß pro Portion ist diese Suppe eine sehr kräftige und vollwertige Mahlzeit, die in Kombination mit der resistenten Stärke für eine sehr langanhaltende Sättigung sorgt.
+* **Fettbewusster Genuss:** Die Wahl von Geflügel-Bratwürsten (nur ca. 16 % Fett) reduziert die Kalorienlast gegenüber klassischen Schweinswürsten, ohne beim Geschmack Abstriche zu machen.
+* **Kalium-Quelle:** Kartoffeln sind Kaliumlieferanten (wichtig für Blutdruck und Muskelfunktion). Da im Kochwasser püriert wird, bleiben die gelösten Mineralstoffe in der Suppe erhalten.
+* **Vitamin-E:** Die Margarine liefert nicht nur Aroma und Cremigkeit, sondern auch wertvolles Vitamin E.
+* **Eiweiß:** Mit 39 g Eiweiß pro Portion ist diese Suppe eine vollwertige Mahlzeit, die in Kombination mit der resistenten Stärke für eine anhaltende Sättigung sorgt.
 
 ## Energiewerte dieser Mahlzeit für 1 Portion
 ### Makronährwerte
@@ -103,14 +103,14 @@ Diese Kartoffelsuppe steht für viel Geschmack, effizientes Zeitmanagement und n
     </tr>
     <tr>
       <td style="padding: 8px; border: 1px solid #000; font-weight: bold;">Salz</td>
-      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 8,7 g</td>
-      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 145 %</td>
-      <td style="padding: 8px; border: 1px solid #000;">Sehr hoher Salzgehalt durch 2 Brühwürfel (ca. 5,0 g pro Portion) und die vorgewürzten Grillwürstchen (ca. 3,6 g).</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 6,1 g</td>
+      <td style="text-align: center; padding: 8px; border: 1px solid #000;">ca. 100 %</td>
+      <td style="padding: 8px; border: 1px solid #000;">Sehr hoher Salzgehalt durch 1 Brühwürfel (ca. 2,5 g pro Portion) und die vorgewürzten Grillwürstchen (ca. 3,6 g).</td>
     </tr>
   </tbody>
 </table>
 
-***Berechnungsgrundlage:** (½ Gesamtrezept für 1 Portion): 350 g Kartoffeln (Frischgewicht), 200 g Geflügel-Grillwürstchen (2,5 Stück), 100 g frische Champignons, 400 ml Wasser, 1 Brühwürfel (Fette Brühe), 1 EL Margarine 
+***Berechnungsgrundlage:** (½ Gesamtrezept für 1 Portion): 350 g Kartoffeln (Frischgewicht), 200 g Geflügel-Grillwürstchen (2,5 Stück), 100 g frische Champignons, 400 ml Wasser, 1/2 Brühwürfel (Fette Brühe), 1 EL Margarine 
 (ca. 15 g), ½ EL Olivenöl (ca. 5 g) sowie schwarzer Pfeffer.*  
 *Richtwerte bezogen auf eine durchschnittliche Energiezufuhr von 2.000 kcal/Tag (inkl. DGE-Orientierungswert von max. 6 g Salz/Tag).*
 
@@ -201,16 +201,17 @@ Diese Kartoffelsuppe steht für viel Geschmack, effizientes Zeitmanagement und n
   </tbody>
 </table>
 
-***Hinweise & Berechnungsgrundlage:** Berechnet für 1 Portion (350 g Kartoffeln, 200 g Geflügel-Grillwürstchen, 100 g frische Champignons, 15 g Margarine, 5 g Olivenöl, 1 Brühwürfel*  
+***Hinweise & Berechnungsgrundlage:** Berechnet für 1 Portion (350 g Kartoffeln, 200 g Geflügel-Grillwürstchen, 100 g frische Champignons, 15 g Margarine, 5 g Olivenöl, 1/2 Brühwürfel*  
 *Deckungsbeitrag bezogen auf die durchschnittlichen DGE-Referenzwerte für Erwachsene (Mittelwert Frauen/Männer).* 
 
 ---
 
 ### Zusammenfassung von Mitautorin GEMINI
-Diese Kartoffelsuppe ist mit rund 900 kcal pro Portion eine sehr kräftige und vollwertige Mahlzeit.  
-Besonders hervorzuheben ist der hohe Eiweißgehalt von 39 g pro Portion, der durch die Verwendung der gesamten Packung Geflügelwurst entsteht.  
-In Kombination mit der resistenten Stärke der vorproduzierten Kartoffeln sorgt dies für eine extrem langanhaltende Sättigung, ohne den Blutzuckerspiegel unnötig zu belasten.  
-Ein effizientes Gericht, das beweist, dass „schnell“ auch „hochwertig“ sein kann – lediglich den hohen Salzgehalt (ca. 8,7 g durch Brühwürfel und Würstchen) sollte man bei der restlichen Tagesplanung im Blick behalten.
+Diese Kartoffelsuppe ist mit rund 900 kcal pro Portion eine kräftige und vollwertige Mahlzeit.  
+Der hohe Eiweißgehalt und die resistente Stärke der vorgekochten Kartoffeln sorgen für eine langanhaltende Sättigung.   
+Ein effizientes Gericht, das zeigt, dass „schnell“ auch „gelungen“ sein kann.  
+Lediglich den hohen Salzgehalt (ca. 6,1 g durch Brühwürfel und Würstchen) sollte man bei der restlichen Tagesplanung im Blick behalten.
+
 
 ---
 [← Zurück zur Übersicht](index.md)
