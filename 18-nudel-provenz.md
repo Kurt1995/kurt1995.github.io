@@ -1,5 +1,4 @@
 <h1 align="center">Kurt hat gekocht<br>Tomaten-Schicht-Pfanne "Provenzalische Art"</h1>
-<br>
 
 ![Zutaten für Tomatenschicht-Pfanne Provenzal-Art](assets/18-t-schicht-provenzal-01.jpg)
 
