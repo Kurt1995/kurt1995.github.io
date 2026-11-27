@@ -1,5 +1,4 @@
 <h1 align="center">Kurt hat gekocht<br>Deftige Kartoffelsuppe mit Pilzen und Wurst</h1>
-<br>
 
 ![Zutaten Übersicht](assets/05-deftig-kartoffel-suppe-1.jpg)
 
