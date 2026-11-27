@@ -1,5 +1,4 @@
 <h1 align="center">Kurt hat gekocht<br>Tomaten-Schicht-Pfanne "Funghi Note"</h1>
-<br>
 
 ![Zutaten für Fruchtige Nudelpfanne Funghi-Note](assets/18-nudel-funghi-01.jpg)
 
