@@ -1,5 +1,4 @@
 <h1 align="center">Kurt hat gekocht<br>Tomaten-Schicht-Pfanne "Bayrische Art"</h1>
-<br>
 
 ![Zutaten für Fruchtige Nudelpfanne Bayrische-Art](assets/18-nudel-bayer-01.jpg)
 
