@@ -1,5 +1,4 @@
 <h1 align="center">Kurt hat gekocht<br>Tomaten-Schicht-Pfanne "Lasagne Art"</h1>
-<br>
 
 ![Zutaten](assets/18-nudel-lasag-1.jpg)
 
