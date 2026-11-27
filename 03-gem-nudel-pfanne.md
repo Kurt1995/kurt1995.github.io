@@ -1,5 +1,4 @@
 <h1 align="center">Kurt hat gekocht<br>Gemüse-Nudel-Pfanne mit Asia-Note</h1>
-<br>
 
 ![Zutatenübersicht](assets/03-gem-nudel-pfanne-1.jpg)
 
