@@ -1,5 +1,4 @@
 <h1 align="center">Kurt hat gekocht<br>Paprika-Pilz-Pfanne mit Reis und Grillwurst</h1>
-<br>
 
 ![Zutaten für PPP_R&W Pfanne](assets/11-pap-pilz-reis-grillw-01.jpg)
 
